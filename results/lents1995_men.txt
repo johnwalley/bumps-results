@@ -1,0 +1,31 @@
+Set,Lent Bumps
+Short,Lents
+Year,1995
+Gender,Men
+
+Division,D,L,TH,J,Ca,Q,Cr,E,T,Pb,M,SC,F,Cu,Cl,S
+Division,L2,G,J2,R,D2,SS,CC,Ph,Ca2,T2,K,L3,Q2,TH2,M2,Pb2
+Division,Cl2,J3,E2,F2,Ph2,S2,Cu2,Cr2,G2,Cl3,L4,TH3,VS,SC2,Cu3,CT
+Division,CC2,R2,Dw,K2,D3,T3,SS2,M3,W,A,HH,Q3,Pb3,J4,Cr3,Q4
+Division,Ca3,SC3,SS3,G3,D4,SE,R3,CT2,W2,SS4,T4,M4,SC4,S3,Cu4,Cl4,T5,Ph3
+
+Results,# race 1,# division 5, ruuururruo3ut
+Results,# race 1,# division 4, urrurruruuut
+Results,# race 1,# division 3, o5uuurruuut
+Results,# race 1,# division 2, o3uuuruo3uut
+Results,# race 1,# division 1, urrurrrrrurut
+Results,# race 2,# division 5, rruuuruurrrut
+Results,# race 2,# division 4, urruruuo5uut
+Results,# race 2,# division 3, uururruuut
+Results,# race 2,# division 2, rrruuruuuut
+Results,# race 2,# division 1, ruurrrrruut
+Results,# race 3,# division 5, rrruurrruo3ut
+Results,# race 3,# division 4, urururrruut
+Results,# race 3,# division 3, ruruurruuut
+Results,# race 3,# division 2, uurrruurruut
+Results,# race 3,# division 1, uuururruut
+Results,# race 4,# division 5, rruuuruurrut
+Results,# race 4,# division 4, urrruo5uurrut
+Results,# race 4,# division 3, uruururuuut
+Results,# race 4,# division 2, urrrruuuut
+Results,# race 4,# division 1, ruuuruuut

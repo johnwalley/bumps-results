@@ -1,0 +1,13 @@
+Set,Town Bumps
+Short,Town
+Gender,Women
+Year,2009
+
+Division,City 1,99 1,Camb Veterans 1,Rob Roy 1,99 2,Champs 1,Cantabs 1,Rob Roy 2,City 2,99 3,Cantabs 2,X-Press 1,City 3,Champs 2,Champs 3,City 4,Chesterton 1
+Division,Champs 4,City 5,X-Press 2,City 6,Cantabs 3,99 4,Champs 5,Champs 6,St Radegund 1,City 7,Champs 7,City 8,Chesterton 2,Cantabs 4,X-Press 3,Champs 8,Rob Roy 3,Champs 9,Champs 10
+
+Results
+rrruururruuru rruruuuurrrrr
+rruuurrruurrrr rrrruurrurrrrrr
+rrruuuruurrru ruurruuurrrrr
+rruuuruurrurr rruurrurrurrrr

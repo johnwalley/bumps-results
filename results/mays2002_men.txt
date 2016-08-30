@@ -1,0 +1,36 @@
+Set,May Bumps
+Short,Mays
+Year,2002
+Gender,Men
+
+Division,E,D,Ca,J,L,TH,Cr,R,T,Cu,SC,Cl,Pb,S,Q,F,M
+Division,SS,D2,Ph,E2,G,L2,Ca2,J2,T2,Q2,W,K,CT,CC,TH2,SC2,Pb2
+Division,Cr2,Cl2,Cu2,Dw,R2,H,S2,D3,SE,G2,L3,F2,SS2,J3,T3,Ph2,T4
+Division,M2,CC2,Cl3,L4,E3,Pb3,SC3,TH3,G3,Dw2,J4,K2,Q3,CT2,Cr3,Ca3,Cu3
+Division,S3,CC3,L5,W2,D4,HH,Cl4,TH4,T5,F3,R3,Ca4,J5,L6,SS3,T6,E4
+Division,Cu4,J6,SC4,Cr4,Ca5,Cr5,K3,CT3,M3,W3,SC5,G4,T7,T8,SS4,SE2,L7,D5
+
+Results,# race 1,# division 6, rrrururrururut
+Results,# race 1,# division 5, ruuro5uuuut
+Results,# race 1,# division 4, ruuururuuut
+Results,# race 1,# division 3, uruuuruurrut
+Results,# race 1,# division 2, uuruuuurut
+Results,# race 1,# division 1, ruurrurururut
+Results,# race 2,# division 6, o7o5uururuo3ut
+Results,# race 2,# division 5, urruuuruuut
+Results,# race 2,# division 4, rruuurruuuut
+Results,# race 2,# division 3, rururro3ururut
+Results,# race 2,# division 2, rururruuut
+Results,# race 2,# division 1, uuuururrrrut
+Results,# race 3,# division 6, ruurro3uuruut
+Results,# race 3,# division 5, rurruuruuuut
+Results,# race 3,# division 4, ruuuuuuuut
+Results,# race 3,# division 3, uururuurrrut
+Results,# race 3,# division 2, rrurruruuut
+Results,# race 3,# division 1, rrruururrrruut
+Results,# race 4,# division 6, uuuo3uurut
+Results,# race 4,# division 5, rrrruuruuuut
+Results,# race 4,# division 4, uuuuuuuuut
+Results,# race 4,# division 3, ruurrurrurut
+Results,# race 4,# division 2, ruurruruuut
+Results,# race 4,# division 1, rururuurut

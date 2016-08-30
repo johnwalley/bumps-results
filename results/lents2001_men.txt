@@ -1,0 +1,26 @@
+Set,Lent Bumps
+Short,Lents
+Year,2001
+Gender,Men
+
+Division,T,Ca,E,L,Cr,TH,J,D,Cu,R,Cl,S,SC,F,G,M,Ca2
+Division,Pb,Q,Ph,SS,D2,K,L2,Cr2,J2,T2,CC,Cu2,TH2,L3,E2,Pb2,CT
+Division,Q2,W,S2,R2,SC2,Cl2,F2,J3,G2,Dw,Ph2,D3,T3,CC2,SS2,H,K2
+Division,HH,Ca3,Q3,T4,Cr3,L4,TH3,SC3,R3,W2,Cl3,E3,T5,CT2,SE,SS3,Ca4,Pb3
+
+Results,# race 1,# division 4, rruurruurrut
+Results,# race 1,# division 3, urrrruuurruut
+Results,# race 1,# division 2, ruuururrrrut
+Results,# race 1,# division 1, ruuuruurrrut
+Results,# race 2,# division 4, rurruuuurrrut
+Results,# race 2,# division 3, ruuurrurrut
+Results,# race 2,# division 2, uuuruuurrut
+Results,# race 2,# division 1, uuruurrurrrut
+Results,# race 3,# division 4, uurruuuurut
+Results,# race 3,# division 3, rt
+Results,# race 3,# division 2, rt
+Results,# race 3,# division 1, rt
+Results,# race 4,# division 4, rt
+Results,# race 4,# division 3, rt
+Results,# race 4,# division 2, rt
+Results,# race 4,# division 1, rt

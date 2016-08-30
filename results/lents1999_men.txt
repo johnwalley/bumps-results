@@ -1,0 +1,26 @@
+Set,Lent Bumps
+Short,Lents
+Year,1999
+Gender,Men
+
+Division,T,L,D,Ca,Cu,J,TH,Cr,F,Pb,E,M,Q,R,L2,G,Cl
+Division,S,SS,Ph,T2,SC,K,D2,Ca2,CC,Cr2,TH2,Q2,L3,Pb2,Cu2,J2,SC2
+Division,Cl2,F2,CT,Ph2,E2,M2,W,S2,T3,D3,R2,HH,G2,CC2,J3,Dw,H
+Division,CH,SS2,Q3,K2,Cr3,Cl3,L4,TH3,Ca3,Cu3,T4,SE,SC3,CT2,L5,Ca4,R3,J4
+
+Results,# race 1,# division 4, rrrrruuuurrrut
+Results,# race 1,# division 3, rrruuurruuut
+Results,# race 1,# division 2, rrururuuruut
+Results,# race 1,# division 1, o3uururuuut
+Results,# race 2,# division 4, rruuuuuurut
+Results,# race 2,# division 3, rruuuuuuuut
+Results,# race 2,# division 2, ururrurrruuut
+Results,# race 2,# division 1, uurruuruuut
+Results,# race 3,# division 4, rurruuuuruut
+Results,# race 3,# division 3, uruuuuuuut
+Results,# race 3,# division 2, rruurrrrruuut
+Results,# race 3,# division 1, rrruurrururrut
+Results,# race 4,# division 4, ruuruuuruut
+Results,# race 4,# division 3, uuururuuuut
+Results,# race 4,# division 2, ruururrrruuut
+Results,# race 4,# division 1, uuuurrurrrut

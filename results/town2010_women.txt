@@ -1,0 +1,13 @@
+Set,Town Bumps
+Short,Town
+Gender,Women
+Year,2010
+
+Division,City 1,99 1,Camb Veterans 1,Rob Roy 1,City 2,99 2,Cantabs 1,,City 3,Champs 1,Cantabs 2,99 3,City 4,St Neots 1,Champs 2,Chesterton 1,X-Press 1,Max Entropy 1
+Division,Champs 3,Champs 4,City 5,Cantabs 3,X-Press 2,Champs 5,Champs 6,St Radegund 1,City 6,St Radegund 2,Champs 7,99 4,Cantabs 4,Champs 8,Cantabs 5,City 7,City 8,Chesterton 2,Cantabs 6
+
+Results
+ruururruurrru urro3uruurrrrr
+rruururruurrrr rrrurrurururrr
+ruuuruuuuur rruuururrrrrrr
+rruuruuuurrrr ruurrurrrrrrrrr

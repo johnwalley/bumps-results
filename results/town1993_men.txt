@@ -1,0 +1,14 @@
+Set,Town Bumps
+Short,Town
+Gender,Men
+Year,1993
+
+Division,Rob Roy 1,99 1,City 1,99 2,Cantabs 1,Rob Roy 2,City 2,Free Press 1,99 3,Cantabs 2,City 3,Cantabs 3,Rob Roy 3,99 4,Red Lion Toft 1,Free Press 2,Lady Somerset 1
+Division,99 5,Maximum Entropy 1,St Ives 1,Free Press 3,Rob Roy 4,City 4,Cantabs 4,Cavendish Lab 1,Trinity Hall 1,Pineapple Chunks 1,Mott Macdonald 1,Free Press 4,Univ Sports 1,Rob Roy 5,Maximum Entropy 2,99 6,Cantabs 5,Touche Ross 1
+Division,Free Press 5,99 7,Bullard Lab 1,Cam Consultants 1,Free Press 6,Cantabs 6,Cam Cable 1,Free Press 7,Rob Roy 6,99 8,Free Press 8,Cantabs 7,Cantabs 8,99 9,Marshalls 1,Red Lion Toft 2,Free Press 9,Cantabs 9,Cantabs 10,Cantabs 11
+
+Results
+urro3uurrururrr uruuuro3urrur rrurrurrrurrrrr
+ruuruururuurr ruruururrurru ruuurrruurur
+rruuruurruuur rruruuruuuur uuuurrruurrr
+rrruruurrurruu ruurrurrurruu ro3uuuruurrrr

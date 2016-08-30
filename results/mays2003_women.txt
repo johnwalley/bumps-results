@@ -1,0 +1,26 @@
+Set,May Bumps
+Short,Mays
+Year,2003
+Gender,Women
+
+Division,Ca,E,J,N,D,Pb,SC,TH,L,NH,Cr,Cl,Cu,S,Ph,G,CT
+Division,M,Q,T,R,Dw,J2,K,SS,E2,Ca2,H,F,W,L2,TH2,N2,D2
+Division,Pb2,Cl2,L3,CC,G2,NH2,J3,Cu2,Q2,SC2,VS,T2,Dw2,H2,CH,HH,A
+Division,R2,SS2,J4,CT2,Ca3,SE,N3,S2,K2,M2,Cl3,Pb3,Cr2,T3,TH3,CT3,NH3,E3
+
+Results,# race 1,# division 4, ruruuurrrruut
+Results,# race 1,# division 3, ruuurrrurut
+Results,# race 1,# division 2, uurruruuut
+Results,# race 1,# division 1, uurrururuuut
+Results,# race 2,# division 4, rruruuo3uuut
+Results,# race 2,# division 3, rruuururuut
+Results,# race 2,# division 2, rurruururruut
+Results,# race 2,# division 1, rurrurrruruut
+Results,# race 3,# division 4, ruuruurrurrut
+Results,# race 3,# division 3, ururuuruuut
+Results,# race 3,# division 2, uuurrruurrut
+Results,# race 3,# division 1, ururururuuut
+Results,# race 4,# division 4, rruuruuuut
+Results,# race 4,# division 3, rurruuruurrut
+Results,# race 4,# division 2, ururrrurruut
+Results,# race 4,# division 1, rrrruo3urut

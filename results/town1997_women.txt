@@ -1,0 +1,12 @@
+Set,Town Bumps
+Short,Town
+Gender,Women
+Year,1997
+
+Division,City 1,Rob Roy 1,City 2,City 3,99 1,Free Press 1,Rob Roy 2,City 4,Free Press 2,Free Press 3,Cantabs 1,Rob Roy 3,City 5,Cantabs 2,Simoco 1,Free Press 4,Rob Roy 4,Mott MacDonald 1,Cantabs 3,City 6,Cantabs 4,Rob Roy 5,99 2,Ionica 1,Cantabs 5
+
+Results
+o3uuuurruuururur
+uruuurrrrrruuruur
+rrurrrrurrrrurrururr
+ruurrrrurrurrrrurur

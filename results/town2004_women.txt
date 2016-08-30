@@ -1,0 +1,13 @@
+Set,Town Bumps
+Short,Town
+Gender,Women
+Year,2004
+
+Division,Rob Roy 1,City 1,99 1,City 2,Rob Roy 2,X-Press 1,Cantabs 1,Rob Roy 3,City 3,Simoco 1,Champs 1,Cantabs 2,Champs 2,99 2,St Ives 1,Rob Roy 4,X-Press 2
+Division,Champs 3,X-Press 3,St Radegund 1,Cantabs 3,City 4,99 3,Champs 4,99 4,Simoco 2,Champs 5,Cantabs 4,99 5,Champs 6
+
+Results
+ruurrruur rruururruuru
+urruruurr ruuurrrurrrur
+rururruur ruruururrrrru
+rrurrruuu ruuuurrrrrrrrr

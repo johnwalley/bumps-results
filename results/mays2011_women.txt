@@ -1,0 +1,15 @@
+Set,May Bumps
+Short,Mays
+Gender,Women
+Year,2011
+
+Division,Pb,D,Cr,E,L,Ca,N,J,T,Cl,Q,G,SC,TH,M,Cu,K
+Division,Pb2,S,J2,Ph,R,E2,AR,SS,Dw,ME,L2,F,H,N2,Cl2,D2,HH
+Division,CC,M2,Q2,Ca2,TH2,G2,W,Cr2,T2,Pb3,E3,S2,SE,SC2,J3,CH,A
+Division,N3,Dw2,ME2,SS2,Cu2,T3,H2,F2,Cr3,Q3,K2,HH2,Cl3,Ph2,TH3,J4,Pb4,S3
+
+Results
+o3uururrrurut uuuuuruo3ut  ruruuuuuut   rurrurururrrut
+rrrururuuruut ruuuuruurrut rruruuuuurut rurururuut
+uuruuruurut   uuurruruut   rruuuuuurut  uruurruuut
+urruuruuurut  ruruurruuut  rrruuuuuurut rruuuuut

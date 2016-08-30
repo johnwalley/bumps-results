@@ -1,0 +1,13 @@
+Set,Town Bumps
+Short,Town
+Gender,Women
+Year,2007
+
+Division,99 1,99 2,City 1,Rob Roy 1,Camb Veterans 1,Cantabs 1,City 2,Rob Roy 2,Champs 1,City 3,99 3,Cantabs 2,X-Press 1,Champs 2,Max Entropy 1,Simoco 1,Champs 3
+Division,X-Press 2,St Ives/Ely 1,City 4,St Radegund 1,Champs 4,Champs 5,City 5,Simoco 2,Cantabs 3,St Radegund 2,Champs 6,City 6,City 7,X-Press 3,Champs 7,City 8,Champs 8
+
+Results
+rurrruuuuru rurrrurrurrrur
+rruruuuurur urrrurruururr
+rrrruuuuruu urrurrrruruur
+rrruuuuruur ruurrrrurrrrru

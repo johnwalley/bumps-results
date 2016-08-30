@@ -1,0 +1,36 @@
+Set,May Bumps
+Short,Mays
+Year,2000
+Gender,Men
+
+Division,Ca,J,T,L,E,D,Pb,TH,F,Q,Cr,Cu,Ph,M,R,SC,T2
+Division,Cl,D2,SS,S,Ca2,L2,G,K,Q2,E2,J2,Cu2,CC,TH2,W,Pb2,Cr2
+Division,Cl2,T3,CT,SC2,F2,R2,L3,Ph2,S2,Dw,G2,L4,M2,D3,J3,SE,Cl3
+Division,CC2,SS2,T4,Pb3,Cu3,Q3,J4,SC3,TH3,H,K2,E3,L5,G3,D4,CT2,S3
+Division,Cr3,J5,T5,TH4,Cl4,F3,Dw2,Ca3,CH,T6,Cu4,Dw3,W2,CC3,J6,HH,A
+Division,L6,T7,SE2,SC4,G4,T8,R3,Ca4,E4,SS3,Cr4,Ca5,M3,E5,Cr5,R4,Pb4,Cr6
+
+Results,# wednesday,# div 6, ruurrruo3uuut
+Results,# wed,# div 5, rruro3uro3uut
+Results,# wed,# div 4, o3uuuo5uuuut
+Results,# wed,# div 3, urrruro3uurut
+Results,# wed,# div 2, rrrrrururruut
+Results,# wed,# div 1, ururrruurut
+Results,# thu,# men 6, rruurro3uo3uut
+Results,# thu,# men 5, uro3uuuro3ut
+Results,# thu,# men 4, rrruro3uururut
+Results,# thu,# men 3, rurururruruut
+Results,# thu,# men 2, urruruuurrut
+Results,# thu,# men 1, rruururrruut
+Results,# fri,# men 6, rrruro3urrurut
+Results,# fri,# men 5, x15rurrrruuurut
+Results,# fri,# men 4, rruuuruuo3ut
+Results,# fri,# men 3, ro3uuruurut
+Results,# fri,# men 2, ruuurrrururut
+Results,# fri,# men 1, ruuruurrrut
+Results,# sat ,# men 6, rruo3urrruruut
+Results,# sat,# men5, uurruuuruut
+Results,# sat,# men 4, rrrrruruuurut
+Results,# sat,# men 3, urruururuut
+Results,# sat,# men 2, rruuuurrurut
+Results,# sat,# men 1, uuruuut

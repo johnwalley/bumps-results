@@ -1,0 +1,21 @@
+Set,Lent Bumps
+Short,Lents
+Year,1995
+Gender,Women
+
+Division,E,J,N,L,Q,TH,SC,NH,S,Cl,SS,Cu,G,T,Cr,Ca,M
+Division,Pb,D,H,CC,R,L2,F,CT,J2,QM,W,N2,E2,S2,NH2,Cl2,Ph
+Division,SE,SS2,SC2,G2,H2,Q2,A,TH2,Cu2,Pb2,Cr2,Ca2,CT2,D2,T2,G3,R2
+
+Results,# race 1,# division 3, uurrururuut
+Results,# race 1,# division 2, rrrrurruo3uut
+Results,# race 1,# division 1, ururuuuo3ut
+Results,# race 2,# division 3, rrruuuuurrut
+Results,# race 2,# division 2, rururruururut
+Results,# race 2,# division 1, rruururrurrut
+Results,# race 3,# division 3, uuuurruut
+Results,# race 3,# division 2, uruuuuruut
+Results,# race 3,# division 1, rurrruuurrut
+Results,# race 4,# division 3, rrruuururut
+Results,# race 4,# division 2, rruuuuruuut
+Results,# race 4,# division 1, uururrrrrurut

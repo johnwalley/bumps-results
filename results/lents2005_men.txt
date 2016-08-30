@@ -1,0 +1,16 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Men
+Year,2005
+
+Division,Ca,T,D,TH,E,L,J,Cu,SC,R,S,Q,Cr,Cl,Pb,M,Ca2
+Division,F,K,G,Ph,L2,CT,SS,D2,T2,Q2,W,J2,CC,Cu2,E2,Dw,L3
+Division,Cr2,R2,Pb2,TH2,SC2,H,Cl2,S2,J3,D3,T3,Ph2,F2,T4,G2,Ca3,SS2
+Division,Q3,HH,SE,CH,M2,CC2,K2,Cu3,W2,L4,Cr3,Pb3,Dw2,Cl3,R3,M3,E3,S3
+
+Results
+rruuuruuut     uuruuruuo3ut  uuururruruut urrrrrurrrrut
+uruuruurrrut   ruuururuurut  ruurrruurrut rrrruuurrut
+rrurrruurrruut rruo3urruurut uuurruurut   rrrrruurruut
+rurrruurrrrrut rrrurruurrrut ruuuruut     rrrururruut
+

@@ -1,0 +1,12 @@
+Set,Town Bumps
+Short,Town
+Gender,Women
+Year,1990
+
+Division,City 1,99 1,City 2,Cantabs 1,99 2,City 3,99 3,Cantabs 2,99 4,City 4,City 5,Rob Roy 1,Coopers & Lybrand 1,Rob Roy 2,Pye 1,Macdonalds 1,Rob Roy 3,City 6,Pye 2,City 7
+
+Results
+uuruurrurrruu
+e3e4e-2e1e3e1e3e-6re1e2e-9e-1rruur
+rrrrrurrrurrrrrrrr
+rrro3urruurrurrr

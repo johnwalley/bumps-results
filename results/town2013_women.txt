@@ -1,0 +1,14 @@
+Set,Town Bumps
+Short,Town
+Gender,Women
+Year,2013
+
+Division,City 1,99 1,Cantabs 1,City 2,Camb Veterans 1,Rob Roy 1,City 3,St Neots 1,X-Press 1,Champs 1,Cantabs 2,99 2,Champs 2,City 4,Champs 3,Chesterton 1,Cantabs 3
+Division,City 5,Champs 4,St Radegund 1,99 3,Champs 5,City 6,City 7,Champs 6,X-Press 2,Isle of Ely 1,Cantabs 4,City 8,Champs 7,Cantabs 5,St Radegund 2,Chesterton 2,99 4
+Division,Cantabs 6,Champs 8,City 9,99 5,City 10,Cantabs 7,City 11
+
+Results
+rruur rruururuurur rrrrruuurrrrur
+rrruu ruurrruruuru uuuuurrrrrrrr
+rrrrrrr rrurrrrruruurr ruuuurrrrrrrrr
+rrrrrrr rrrrrrrururrurr rruuururrrrrrr

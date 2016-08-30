@@ -1,0 +1,26 @@
+Set,Lent Bumps
+Short,Lents
+Year,2003
+Gender,Men
+
+Division,Ca,L,T,E,Cr,D,J,TH,SC,R,Cu,Cl,S,Ca2,Pb,SS,G
+Division,F,Q,M,D2,L2,T2,Ph,K,J2,Cr2,E2,CT,CC,W,TH2,Q2,Cu2
+Division,SC2,L3,Pb2,R2,Dw,Cl2,G2,S2,T3,J3,D3,F2,H,SS2,CH,CC2,HH
+Division,T4,K2,Ph2,Q3,Ca3,Cr3,SC3,L4,W2,E3,SE,M2,Cu3,Pb3,Cl3,F3,CT2,S3
+
+Results,# race 1,# division 4, ururruurruut
+Results,# race 1,# division 3, ururruurrruut
+Results,# race 1,# division 2, rrurrrurruurut
+Results,# race 1,# division 1, rurruurrrut
+Results,# race 2,# division 4, rrurruuurruut
+Results,# race 2,# division 3, ruurrururuut
+Results,# race 2,# division 2, ruururrrruut
+Results,# race 2,# division 1, ururrruruuut
+Results,# race 3,# division 4, rrruuuuurrut
+Results,# race 3,# division 3, uurrururuuut
+Results,# race 3,# division 2, uuruururrrrut
+Results,# race 3,# division 1, ruurrrrruuut
+Results,# race 4,# division 4, ruruuuurrrrut
+Results,# race 4,# division 3, o3uruurrrruut
+Results,# race 4,# division 2, rruuuururrut
+Results,# race 4,# division 1, uurruruut

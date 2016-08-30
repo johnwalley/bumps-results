@@ -1,0 +1,12 @@
+Set,Town Bumps
+Short,Town
+Gender,Women
+Year,1993
+
+Division,Cantabs 1,99 1,City 1,99 2,City 2,99 3,Leckhampton 1,City 3,Rob Roy 1,City 4,Cantabs 2,Cantabs 3,Mott Macdonald 1,Leckhampton 2,Cantabs 4,Cam Consultants 1,City 5,Lady Somerset 1,City 6,Free Press 1,City 7,Rob Roy 2,Cantabs 5
+
+Results
+o3uo3urrurruuuur
+ruururo3uuuurur
+ruuuuuruuuuur
+ruuruuruurruurr

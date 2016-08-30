@@ -1,0 +1,12 @@
+Set,Town Bumps
+Short,Town
+Gender,Women
+Year,1999
+
+Division,Free Press 1,Rob Roy 1,City 1,City 2,Rob Roy 2,City 3,Free Press 2,City 4,Free Press 3,City 5,99 1,Rob Roy 3,Cantabs 1,Cantabs 2,Free Press 4,Rob Roy 4,99 2,Free Press 5,Simoco 1,Free Press 6,Free Press 7,99 3,Champs 1
+
+Results
+uruurrruuuurrur
+rruuurrruurrrurrr
+ro3uuuruuururrrr
+rururrruuuururrr

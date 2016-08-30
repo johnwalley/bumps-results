@@ -1,0 +1,26 @@
+Set,May Bumps
+Short,Mays
+Year,1993
+Gender,Women
+
+Division,L,J,Cu,Q,E,N,TH,H,VS,Cl,SS,Pb,D,G,S,R
+Division,SC,T,NH,Ca,L2,Cr,QM,J2,M,Ph,CC,N2,H2,F,A,Cl2
+Division,G2,Q2,J3,S2,Pb2,W,SC2,L3,Dw,E2,CT,HH,NH2,Ca2,SS2
+Division,M2,TH2,H3,L4,R2,Cu2,Cr2,Cr3,CC2,T2,H4,Cl3,W2,J4,E3,SC3,L5,J5
+
+Results,# race 1,# division 4, urrruro5uuuut
+Results,# race 1,# division 3, o3urrururrut
+Results,# race 1,# division 2, rrruruurut
+Results,# race 1,# division 1, uuuruurut
+Results,# race 2,# division 4, uuro3uruo5uut
+Results,# race 2,# division 3, uruuuuruut
+Results,# race 2,# division 2, rruruuururut
+Results,# race 2,# division 1, ruruurrruuut
+Results,# race 3,# division 4, rruururruruut
+Results,# race 3,# division 3, rruuuro3uut
+Results,# race 3,# division 2, uo3urrrrrrrrut
+Results,# race 3,# division 1, rrruuuruut
+Results,# race 4,# division 4, ruuuruuuo3ut
+Results,# race 4,# division 3, rurrrrrurruut
+Results,# race 4,# division 2, ruruuurrrut
+Results,# race 4,# division 1, rruuururrut

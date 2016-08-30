@@ -1,0 +1,12 @@
+Set,Town Bumps
+Short,Town
+Gender,Women
+Year,1994
+
+Division,City 1,99 1,Rob Roy 1,City 2,City 3,City 4,City 5,Cam Consultants 1,City 6,Rob Roy 2,Free Press 1,Pye 1,Free Press 2,Cam Consultants 2,Free Press 3,Rob Roy 3,Red Lion Toft 1,Rob Roy 4
+
+Results
+ruuuo3urrrrru
+rruruururrrur
+ruruururrrrru
+uruururrrrrrrr

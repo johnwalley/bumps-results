@@ -1,0 +1,26 @@
+Set,May Bumps
+Short,Mays
+Year,2000
+Gender,Women
+
+Division,E,N,Ca,Pb,L,J,TH,Q,Cl,Cu,D,Cr,S,SC,H,R,M
+Division,NH,T,F,CT,Ph,G,SS,E2,N2,CC,Dw,J2,K,L2,Cl2,Q2,NH2
+Division,Cu2,W,TH2,Ca2,H2,J3,Pb2,T2,L3,SC2,CT2,M2,D2,G2,J4,HH,SE
+Division,Dw2,CH,R2,Ca3,S2,SS2,T3,N3,Cl3,G3,J5,Ca4,K2,D3,W2,Dw3,E3,TH3
+
+Results,# wed,# div 4, ruuruurruut
+Results,# wed,# div 3, uruuuuruuut
+Results,# wed,# div 2, o3urrruuruut
+Results,# wed,# div 1, uuuruururut
+Results,# thu. div 4, rrrrrrruuuurut
+Results,# thu,# div 3, rrrruurruurut
+Results,# thu,# div 2, ururuuururut
+Results,# thu,# div 1, rurrrrrurrrurut
+Results,# fri,# div 4, rrurrurururut
+Results,# fri,# div 3, rrruuurruruut
+Results,# fri,# div 2, urrruurrruut
+Results,# fri,# div 1, ururrurut
+Results,# sat,# div 4, ruuuruurrut
+Results,# sat div 3, rruuuurrurut
+Results,# sat,# div 2, ruruurrruro3ut
+Results,# sat,# div 1, rruuurrrut
