@@ -1,0 +1,17 @@
+Set,Summer Eights
+Short,Eights
+Gender,Women
+Year,2016
+
+Division,Wadham 1,Pembroke 1,Magdalen 1,University 1,St John's 1,Christ Church 1,S.E.H. 1,Keble 1,Balliol 1,Wolfson 1,New College 1,Hertford 1,Somerville 1
+Division,Worcester 1,Oriel 1,Jesus 1,Lincoln 1,Merton 1,Trinity 1,St Anne's 1,St Hugh's 1,Osler House 1,Mansfield 1,St Catherine's 1,Linacre 1,Exeter 1
+Division,Brasenose 1,Corpus Christi 1,Wadham 2,L.M.H. 1,St Hilda's 1,Wolfson 2,St Peter's 1,Queen's 1,Worcester 2,St Antony's 1,Green Templeton 1,St John's 2,University 2
+Division,Linacre 2,Pembroke 2,Magdalen 2,Hertford 2,Trinity 2,Christ Church 2,Oriel 2,Lincoln 2,New College 2,Regent's Park 1,Balliol 2,St Hilda's 2,Lincoln 3
+Division,Green Templeton 2,Jesus 2,L.M.H. 2,Somerville 2,Brasenose 2,St Hugh's 2,St John's 3,Keble 2,Queen's 2,Mansfield 2,Wolfson 3,St Peter's 2,St Hugh's 3
+Division,Pembroke 3,Oriel 3,University3,Linacre 3,Wolfson 4,Exeter 2,Magdalen 3,Christ Church 3,New College 3,St Anne's 2,St Antony's 2,Pembroke 4,Wadham 3,Balliol 3
+
+Results
+ruuuurrur urruururrr ruruuurru rururruuu rrrrurruuu uuuuuurr
+uuurrrruu ruuuruurr urrruuuur uruurruur rrruuurrur ruuuurrrrr
+ruuurruur rruurrrurrr ruruuuuu rruuuuuu uuuuuuu ruruurrrrrr
+rruuuuurr rurro3urrur rruruuurrr rurruuuur ruuuuuur rrruurrrrrrr
