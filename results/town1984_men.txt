@@ -1,0 +1,14 @@
+Set,Town Bumps
+Short,Town
+Gender,Men
+Year,1984
+
+Division,Rob Roy 1,City 1,99 1,99 2,City 2,Univ Sports 1,99 3,Free Press 1,Cantabs 1,City 3,Addenbrooke's 1,Free Press 2,99 4,Lady Somerset 1,City 4,Churchill 1,Rob Roy 2
+Division,Cantabs 2,Darwin 1,Macdonalds 1,City 5,Free Press 3,Leckhampton 1,99 5,Free Press 4,Cantabs 3,Red Lion Toft 1,Metallurgy 1,99 6,Pye 1,Rob Roy 3
+Division,Free Press 5,Cantabs 4,Rob Roy 4,Free Press 6,City 7,Hole in the Wall 1,Barclays Bank 1,Applied Biology 1,Cantabs 5,Free Press 7,99 7,Rob Roy 5,Cantabs 6,Red Lion Toft 2,Pye 2
+
+Results
+rruuuruurr uuo3uurrur rruurrrrruurrr
+ruurrruurrr ruurruurur rurrrrrrrurrrrrr
+uuururrrrrr uuo3uururr uurrururrrurr
+rro5uurrrrru ruuuuruur ruuruuurrurr
