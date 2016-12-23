@@ -1,0 +1,13 @@
+Set,Town Bumps
+Short,Town
+Gender,Men
+Year,1953
+
+Division,City 1,99 1,Rob Roy 1,Scouts 1,City 2,99 2,Rob Roy 2,Beehives 1,New Museums 1,Pye 1,Old YM 1,City 3,Scouts 2,Old Cantabs 1,99 3,New Museums 2,Pye 2
+Division,Rob Roy 3,Old Cantabs 2,Old Cantabs 3,Old YM 2,Beehives 2,Instrument Co 1,Scouts 3,Old Cantabs 4,City 4,Pye 3,Rob Roy 4,Instrument Co 2,City 5
+
+Results
+rurururru o3uurrururrrrr
+rrurruuru uruurrururrrr
+rrrrrurrrur rrurrrrrrurrrrrr
+rruuuruu urrurrrrrurrrrr

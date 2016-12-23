@@ -1,0 +1,13 @@
+Set,Town Bumps
+Short,Town
+Gender,Men
+Year,1968
+
+Division,Rob Roy 1,99 1,Leys Sch 1,Cantabs 1,99 2,Rob Roy 2,Cambs High School 1,Scouts 1,Rob Roy 3,ACUA 1,99 3,Leys Sch 2,Scouts 2,Cantabs 2,99 4
+Division,Cam Grammar Sch 1,Rob Roy 4,Cantabs 3,Cam Grammar Sch 2,Rob Roy 5,Rob Roy 6,ACUA 2,Scouts 3,ACUA 3
+
+Results
+uuurrr rruuuurrrur
+rrrurrrr rrrrruurrrrrrr
+rruurrr rrrruuurrrrrr
+rurrurr rrruuurrrrrrr

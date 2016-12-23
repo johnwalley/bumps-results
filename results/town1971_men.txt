@@ -1,0 +1,13 @@
+Set,Town Bumps
+Short,Town
+Gender,Men
+Year,1971
+
+Division,Rob Roy 1,99 1,Rob Roy/City 1,99 2,Rob Roy/City 2,ACUA 1,Cantabs 1,Scouts 1,Rob Roy/City 3,Rob Roy/City 4,99 3,Cantabs 2,Selwyn 1,Grammar Sch 1,Rob Roy/City 5,ACUA 2
+Division,99 4,Cambs High School 1,Rob Roy/City 6,Churchill 1,Police 1,Rob Roy/City 7,King's 1,Leckhampton 1,Magdalene 1,Darwin 1,Churchill 2,Cantabs 3,Grammar School 2,99 5,Telephones 1,Scouts 2,99 6
+
+Results
+ruururrururr rurururrurrrr
+uuruuuurur uruo3ururrrrr
+ruurrruurrru o3uurrrrrrrrrrr
+rrrurruuurur rrruurrrrrrrrrr

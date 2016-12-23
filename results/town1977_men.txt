@@ -1,0 +1,14 @@
+Set,Town Bumps
+Short,Town
+Gender,Men
+Year,1977
+
+Division,99 1,Rob Roy 1,City 1,99 2,99 3,Rob Roy 2,Scouts 1,City 2,Univ Sports 1,Rob Roy 3,Churchill 1,MacDonalds 1,Telephones 1,City 3,Rob Roy 4
+Division,TTFNTT 1,Leckhampton 1,Cam Veterans 1,99 4,99 5,Leckhampton 2,Billygoats 1,Cantabs Rugby 1,Peterhouse 1,Scouts 2,City 4,Univ Sports 2,99 6,Clare 1
+Division,Downing 1,Wolfson 1,Telephones 2,City 5,99 7,Soham 1,99 8,City 6,Telephones 3,Scouts 3,City 7,99 9
+
+Results
+ruuurrur rruuuurrrrr urrruruurrrr
+urrurrrru ruuuuurru ruruuruurrr
+ruuurrrrr uuuuurrur uruuururrrr
+urrurrrru ruuuurrurr rruuuurrrrrr

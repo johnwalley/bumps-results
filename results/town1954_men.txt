@@ -1,0 +1,13 @@
+Set,Town Bumps
+Short,Town
+Gender,Men
+Year,1954
+
+Division,City 1,99 1,Rob Roy 1,Scouts 1,Rob Roy 2,Pye 1,City 2,99 2,Beehives 1,New Museums 1,Old YM 1,Old Cantabs 1,Old Cantabs 2,City 3,Pye 2,Scouts 2,Old Cantabs 3
+Division,Rob Roy 3,New Museums 2,Instrument Co 1,99 3,Old YM 2,City 4,Scouts 3,Old Cantabs 4,Pye 3,Rob Roy 4,City 5,Central Old Boys 1,99 4,Pye 4
+
+Results
+rrurruuurr rrruro3urrurrrr
+ruuuurrur rrrro3uruuurrr
+rruuurruu urrrrurrurrurr
+rurrurruur rurrrruuurrrrr

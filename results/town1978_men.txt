@@ -1,0 +1,14 @@
+Set,Town Bumps
+Short,Town
+Gender,Men
+Year,1978
+
+Division,99 1,Rob Roy 1,City 1,Rob Roy 2,City 2,99 2,Churchill 1,99 3,MacDonalds 1,Scouts 1,Cantabs 1,Telephones 1,Univ Sports 1,TTFNTT 1,Rob Roy 3
+Division,Leckhampton 1,City 3,Cam Veterans 1,99 4,Rob Roy 4,MacDonalds 2,Lady Somerset 1,City 4,99 5,99 6,Leckhampton 2,Clare 1,Darwin 1,Telephones 2,Scouts 2
+Division,Univ Sports 2,Churchill 2,Clare 2,Kidney Donors 1,Cavendish Lab 1,City 5,99 7,Telephones 3,Univ Sports 3,MacDonalds 3,99 8,Scouts 3,Cambridge Ladies 1
+
+Results
+ruurururr rruuruurrur ro3urruuuru
+rruurrurrr ruururruurr uro3ururrrrrr
+ruuuuurr rruruurro3ur rurrrururrrrr
+rruurruur rrrrurrruuru uruuurrrrrrr

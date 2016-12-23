@@ -1,0 +1,14 @@
+Set,Town Bumps
+Short,Town
+Gender,Men
+Year,1981
+
+Division,City 1,99 1,City 2,99 2,99 3,City 3,St Ives 1,Peterborough 1,Churchill 1,Sidney Sussex 1,Christ's 1,Lady Somerset 1,Addenbrooke's 1,Cantabs 1,Univ Sports 1,99 4,Telephones 1
+Division,MacDonalds 1,Free Press 1,99 5,City 4,99 6,Univ Sports 2,Rob Roy 1,99 7,Darwin 1,Leckhampton 1,99 8,Chemical Lab 1,Univ Sports 3,City 5,Cantabs 2
+Division,Darwin 2,Free Press 2,Police 1,Telephones 3,Univ Sports 4,Red Lion Toft 1,Free Press 3,Rob Roy 2,MacDonalds Ladies 1,City 6,99 9,City 7,99 10,City 8,Rob Roy 3,99 11,Rob Roy Ladies 1
+
+Results
+urruo3uo3urrr uuuuuuuu uruuurrurrrrr
+urruururrrur ruurruurrur rruuurrrrurrrr
+ruuuruururr uuuuurruu rrruuurururrr
+rrrruruururrr ruuuuuuur rrrruuurrrrrrrr

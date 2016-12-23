@@ -1,0 +1,14 @@
+Set,Town Bumps
+Short,Town
+Gender,Men
+Year,1976
+
+Division,City 1,Rob Roy 1,99 1,Scouts 1,Cantabs 1,99 2,99 3,Churchill 1,Rob Roy 2,City 2,Rob Roy 3,ACUA 1,Cantabs 2,Telephones 1,Leckhampton 1,99 4
+Division,Rob Roy 4,Cantabs College 1,City 3,MacDonalds 1,King's 1,Cam Veterans 1,St Cats 1,Leckhampton 2,Scouts 2,99 5,Churchill 2,Cantabs 5,ACUA 2,City 4,Peterhouse 1,Clare 1
+Division,Cantabs 4,Soham Village College 1,Eleans 1,City 5,Darwin 1,Churchill 3,99 6,MacDonalds 2,Telephones 2,99 7,Churchill 4,Rob Roy 5,Cantabs 5,Rob Roy 6,Cantabs 6,99 8,ACUA 3,City 6
+
+Results
+rruuuuuruur rrurrro3uuo3u urrrururruru
+e1e1e4e2e-4e-1e-3uuruuu urururruruu ruurrurrurur
+rrrrrrrruruuur rrurururruur uurrurruuru
+re1e1e1e1e2e0e1e1e2e0e-10uuu rururruruuu ruuurrurrrrrr

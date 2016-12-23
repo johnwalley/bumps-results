@@ -1,0 +1,13 @@
+Set,Town Bumps
+Short,Town
+Gender,Men
+Year,1970
+
+Division,Rob Roy 1,City 1,99 1,ACUA 1,Cantabs 1,Rob Roy 2,City 2,99 2,99 3,Scouts 1,Rob Roy 3,Cam Grammar Sch 1,Cantabs 2,ACUA 2,Cambs High School 1
+Division,City 3,ACUA 3,Police 1,99 4,Selwyn 1,Rob Roy 4,Rob Roy 5,Cam Grammar Sch 2,Churchill 1,King's 1,Cambs High Sch 2,Cantabs 3,City 4,ACUA 4,99 5
+
+Results
+rrurrurro3ur rrrrrruuurur
+rrruuuurru urrrruruurrr
+rruurruuru ruururruurr
+ruurruurur uuruurrurrr

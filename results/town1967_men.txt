@@ -1,0 +1,13 @@
+Set,Town Bumps
+Short,Town
+Gender,Men
+Year,1967
+
+Division,99 1,Rob Roy 1,Leys Sch 1,Cantabs 1,Rob Roy 2,99 2,Scouts 1,ACUA 1,99 3,Cambs High School 1,Leys Sch 2,Cantabs 2,Rob Roy 3,Scouts 2,Leys Sch 3
+Division,Cam Grammar Sch 1,Leys Sch 4,Cambs High Sch 2,Cam Grammar Sch 2,99 4,Cantabs 3,Rob Roy 4,Cambs High Sch 3,99 5,Cantabs 4,Rob Roy 5,99 6,Rob Roy 6
+
+Results
+rrruruuur ruururrrrrru
+urruruurr rruurururrrr
+rrruruuur rrruururrrrrr
+rurruuuu ruruurrrrrrrr

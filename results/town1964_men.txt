@@ -1,0 +1,14 @@
+Set,Town Bumps
+Short,Town
+Gender,Men
+Year,1964
+
+Division,99 1,City 1,City 2,Cantabs 1,Rob Roy 1,Scouts 1,Pye 1,99 2,Rob Roy 2,99 3,ACUA 1,Scouts 2,City 3,Bridge 1
+Division,Cantabs 2,Leys Sch 1,Cambs High School 1,ACUA 2,Rob Roy 3,Scouts 3,Cam Grammar School 1,Beehives 1,Grammar School OB 1,99 4,99 5,Leys Sch 2,City 4,Pye 2
+Division,Scouts 4,Rob Roy 4,Pye 3,Cantabs 3,Leys Sch 3,ACUA 3,City 5,Rob Roy 5
+
+Results
+rruurr ururrururu uuurururu
+rrrrrrrr rruurrrurur ruurrrurrrrr
+ururu ruuurrrrrrrr uuurrrurrrr
+ururrr uuuuurrru ruuurrrrrrrr

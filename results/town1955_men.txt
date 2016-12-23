@@ -1,0 +1,13 @@
+Set,Town Bumps
+Short,Town
+Gender,Men
+Year,1955
+
+Division,City 1,99 1,Pye 1,Rob Roy 1,Scouts 1,Old Cantabs 1,City 2,99 2,Rob Roy 2,Old Cantabs 2,Old YM 1,Pye 2,Beehives 1,New Museums 1,City 3,99 3,Scouts 2
+Division,Old Cantabs 3,Instrument Co 1,Rob Roy 3,New Museums 2,Old Cantabs 4,Pye 3,Central Old Boys 1,99 4,Beehives 2,New Museums 3,Old Cantabs 5
+
+Results
+urrurrrrr uururuuurrrr
+uruuuu rururuuuurrr
+rurrrurrr urururruurrrr
+urrururr rruruuuurrrrr

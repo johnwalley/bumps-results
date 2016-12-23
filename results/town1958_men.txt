@@ -1,0 +1,13 @@
+Set,Town Bumps
+Short,Town
+Gender,Men
+Year,1958
+
+Division,City 1,99 1,Rob Roy 1,Cantabs 1,Pye 1,Cantabs 2,Rob Roy 2,City 2,Scouts 1,99 2,ACUA 1,Central Old Boys 1,Instrument Co 1,City 3,Cantabs 3,Beehives 1,Pye 2
+Division,Scouts 2,Cantabs 4,Rob Roy 3,Central Old Boys 2,ACUA 2,Rob Roy 4,ACUA 3,Pye 3,Scouts 3
+
+Results
+ruruur rrrurrrururrur
+urrruu urrrrrrrrrrrrrrrr
+ruruur rrurrrrrrurrrrrr
+rrruuu rurrrrrrurrrrrrr

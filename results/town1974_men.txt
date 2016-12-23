@@ -1,0 +1,14 @@
+Set,Town Bumps
+Short,Town
+Gender,Men
+Year,1974
+
+Division,Rob Roy 1,Scouts 1,99 1,City 1,Rob Roy 2,Churchill 1,Cantabs 1,99 2,ACUA 1,Rob Roy 3,Cantabs 2,99 3,Selwyn 1,Leckhampton 1,99 4
+Division,Cambs High School 1,City 2,King's 1,Churchill 2,Billygoats 1,Rob Roy 4,Scouts 2,Telephones 1,ACUA 2,Clare 1,Cantabs 3,Consultant Owls 1,CU Medics,City 3,Cantabs 4
+Division,Goldilocks 1,99 5,Scouts 3,Grammarians 1,Telephones 2,Cantabs 5,Nobblets 1,ACUA 3,Goldilocks 2,Cantabs 6
+
+Results
+ruururr uurruururu uuurrrrurur
+rrururu re1e-1uuuruurr ruuurrururr
+rrrurrur rruuururrur uuurrurrrur
+rrrrrurre2 rre-2uuruuuu ururrrrurrrrr
