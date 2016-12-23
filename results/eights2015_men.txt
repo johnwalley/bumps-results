@@ -3,7 +3,7 @@ Short,Eights
 Gender,Men
 Year,2015
 
-Division,Oriel 1,Pembroke 1,Christ Church 1,Magdalen 1,Trunity 1,University 1,Wolfson 1,Balliol 1,St Catherine's 1,Keble 1,Worcester 1,S.E.H. 1,Wadham 1
+Division,Oriel 1,Pembroke 1,Christ Church 1,Magdalen 1,Trinity 1,University 1,Wolfson 1,Balliol 1,St Catherine's 1,Keble 1,Worcester 1,S.E.H. 1,Wadham 1
 Division,Hertford 1,New College 1,Lincoln 1,St John's 1,Brasenose 1,L.M.H. 1,St Anne's 1,Mansfield 1,St Peter's 1,Jesus 1,Oriel 2,Exeter 1,Pembroke 2
 Division,Christ Church 2,Corpus Christi 1,Somerville 1,Queen's 1,St Hugh's 1,Merton 1,New College 2,Magdalen 2,Linacre 1,Wadham 2,S.E.H. 2,University 2,Trinity 2
 Division,Balliol 2,St Antony's 1,Keble 2,Jesus 2,Worcester 2,Brasenose 2,St Catherine's 2,Green Templeton 1,Wolfson 2,Osler House 1,Merton 2,Hertford 2,Exeter 2
