@@ -1,0 +1,16 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Men
+Year,1982
+
+Division,L,TH,Pb,Cl,F,E,D,J,S,T,Cr,M,Ph,SS,Ca,Cu
+Division,CC,Q,L2,E2,J2,SC,Cl2,M2,K,TH2,Ca2,Cu2,Q2,Cr2,L3,D2
+Division,T2,Pb2,SS2,Ph2,Cu3,S2,F2,L4,SC2,TH3,J3,Cl3,Dw,Cr3,R,G
+Division,T3,CC2,SS3,SC3,D3,F3,J4,Q3,M3,S3,T4,A,Ca3,Cu4,K2,L5
+Division,Pb3,CC3,T5,M4,W,Cr4,Cl4,E3,Cu5,Ph3,SE,Cl5,Pb4,TC,L6,E4,R2,G2
+
+Results
+ruuruurururr rrururuurrur rrurrruruurrr urrururuurrr rrurrrururuu
+rruruuruo3urr rururrruuurr rrruruururru ruururrrrruu ruururrrurur
+ruruurururur uururuuuur rrro3uuruurrr rrururuurrur rruurrrruurrr
+ururuururrru ruurruuurru rrurruruuurr rrrrurrruuuu rrruururuurr
