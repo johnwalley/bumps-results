@@ -1,0 +1,13 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Women
+Year,1980
+
+Division,G,NH,Cl,Cu,N,G2,S,TH,H,NH2,Dw,T,SS,Cl2,W,QM
+Division,J,Ca,F,E,Cr,SC,SC2,S2,N2
+
+Results
+rurruu urrruruururr
+uuuru urruurururrr
+rrrurur ruuuururrrrr
+rruruu uurruuurrru
