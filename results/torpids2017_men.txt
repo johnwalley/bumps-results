@@ -11,3 +11,8 @@ Division,University 2,St Hughs 2,Lincoln 2,St Hilda's 1,Wolfson 3,Merton 2,Regen
 Division,Balliol 3,Keble 3,Corpus Christi 2,Jesus 3,St Benet's Hall 1,Keble 4,Jesus 4,Corpus Christi 3,Trinity 4,St Peter's 2,St Hugh's 3,St Hilda's 2,St Antony's 3
 
 Results
+rre1e-1e1e-1e1e1e-2re1e3e-2 rre1e-3e1e-1e2e2e-1e1e1e-5e1 re1e1e-3e1e-1re1e-1e1e-1re2 re2e-1e1e1e1e-6e1e1e-2re1e-1 re1e-1e1e-1re1e-1e2re1e-3r re1e-1rrre1e-1rrrrr
+re1e-1e2re1e-3re1e1e1e3e-4 rre1e-3e1e1e-2re1e-1e1e1e-2 rre1e1e-2e1e1e-2e1e1e-2e2e-1 re-1rrre1e-1re1e1e-2re1 re-1rre1e1e1e1e-4re1e-1r rre2re-2rre1e-1e1e-1rr  
+e1e-1e2re1e1e1e1e-6rrre1 re1e1e1e-4rre1e-1e1e-1e2e-1 re1e-2e1e1e-2e1e-1e2re-2rr rrrre1e-1e1e1e-2re1e-1r re2re1e-3e1e-1re1e-1re3e-1 rre-2rre1e1e1e1e-4rrr
+e1e1e-2rrrre1e-1e1e1e1e-3 rrrre1e-1rrrrrrr re1e2re1e-4rre1e-1e3re-2 re-1rre1e1e-2e1e-1e1e-1e2e-1 re-1rrrre2re-2e1e-1e1e-1 rre1e-1rrrrrrrrr
+ 
