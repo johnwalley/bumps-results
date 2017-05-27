@@ -25,13 +25,16 @@ Here is an example
 
 The first four lines describe the event. Then comes the starting order for each division. Finally we have the results for each day.
 
+Results start with the bottom crew in each division (the sandwich crew for all but the lowest division).
+
 | Entry | Explanation            |
 | ----- | ---------------------- |
 | r     | rowed over             |
 | u     | bumped up one place    |
 | o3    | overbumped up 3 places |
+| e-2   | moved down 2 places    | 
 
-A crew which has been bumped down does not need an entry as it is implied by the entry for the crew which bumped up.
+A crew which has been (over)bumped down does not need an entry as it is implied by the entry for the crew which bumped up.
 
 ## Acknowledgements
 Results based on charts produced by:
