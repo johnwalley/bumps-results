@@ -1,0 +1,16 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,2017
+
+Division,L,Ca,Pb,Cl,J,T,D,Ph,Q,S,E,M,K,Cu,SC,R,G
+Division,Cr,L2,F,HH,TH,W,H,SE,J2,Ca2,CC,Dw,D2,Cl2,T2,Pb2,SS
+Division,Q2,Cr2,Ph2,E2,SC2,TH2,L3,M2,R2,Cu2,F2,S2,Q3,E3,J3,Dw2,CC2
+Division,T3,Cl3,G2,K2,CH,HH2,W2,Ca3,SC3,SS2,SE2,AR,H2,M3,Pb3,Q4,D3
+Division,T4,Cu3,S3,Cr3,J4,Pb4,Ca5,TH3,L4,Cl4,L5,R3,SC4,CC3,Ph3,Cl5,,Pb5,E4
+
+Results
+rruurrurururr urururruurur ruuurruuurrr ruuururrurrrr uurrrurrururr
+rrruruuuo3uu rururuuurrur urruururuurrrruururruuru ruuruuuurur
+rrrrrururo3uur uururuuurru urrrrruurruur ruurrruuuurr uuuruuurrrrr
+uuuuruuruu ururuo3uruur o3urrurrurrurr rruuurrruuru ruuruuurrrrrr
