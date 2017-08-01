@@ -1,0 +1,15 @@
+Set,Torpids
+Short,Torpids
+Gender,Women
+Year,1986
+
+Division,SHu,SC,LM,Osler House 1,SHi,S,U,Wt,B,Wh,SAn,P
+Division,T,J,SHu2,Br,K,Lc,Co,E,Wf,N,H,SHi2
+Division,Q,SE,SHu3,S2,Mg,Ch,SJ,Mt,SP,T2,P2,SJ2
+Division,SE2,Wt2,SHu4,SHu5,U2,SHu6,N2,K2,J2,J3,T3,SC2,H2
+
+Results
+re1e-1e1e2re1e-4e2re1e-3r e1e1e-2re1e-1re1e-1rrrr e1e-1re1e1e-2rrre1e-1e2e-1 re-1re1e-1rre1e-1e1e-1rr
+e2re1e1e-4rre1e1e-2e1e-1r e1e1e1e-3re1e-1re1e1e-2e2e-1 re1e-2re1e1e-2rre1e1e-2r re1e-1re1e-1rre1e-1e1e-1r
+rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr
+e1e-1e1e1e-2rrrre1e1e1e-3 rrre1e1e-2e1e-1re1e1e-2r e1e-1e1e-1re1e1e-2rrre2e-1 re-1rrre1e-1rrrre1e-1

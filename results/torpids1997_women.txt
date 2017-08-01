@@ -1,0 +1,15 @@
+Set,Torpids
+Short,Torpids
+Gender,Women
+Year,1997
+
+Division,OG,SC,N,Wh,S,P,O,SHi,Ch,U,LM,T
+Division,Br,Lc,H,Wt,Wf,Q,Mt,B,SE,J,E,SAn
+Division,K,OG2,SP,L,S2,SHu,Mf,Mg,P2,Mg2,LM2,Wh2
+Division,Co,Wf2,R,SC2,Mt2,SE2,Lc2,H2,Ch2,SAt,Wf3,Br2,SHu2
+
+Results
+rre1e1e-2e1e-1e1e-1rrrr e2e2e-1e1e-4e1e1e-2rrrrr e1e-1rre1e-1e1e-1e1e-1rrr rre1e1e-2e1e1e-2rrrrr
+e1e-1re2e2e-1e1e1e-5e2re3e-3 rre1e1e-4e1e1e1e-3rrrr re1e-1rre1e-1e1e-1e1e-1e1e-1 re1e-1e1e1e-2re1e-1rrrr
+rrre1e-1e1e1e1e1e-4e1e2e-2 re-1e1e1e1e-3re1e-1rrrr rre1e-1rre1e-1e1e-1e1e-1r e1e-1e1e-1e1e2re-3rrrrr
+re1e1e-2e1e-1re2re1e-3e2e-1 re1e-2rre1e-1e1e1e-2rrr rrre1e-1rre1e-1rre1e-1 rrre1e-1e1e-1e1e-1rrrr

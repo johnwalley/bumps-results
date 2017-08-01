@@ -1,0 +1,17 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,2012
+
+Division,Ch,P,Mg,SC,B,SJ,O,Wf,H,Wh,LM,Wt
+Division,E,N,SE,SAn,T,SP,P2,Br,Lc,Q,J,U
+Division,K,SHu,Mt,S,Ch2,Mf,Co,Mg2,E2,Wh2,SAt,T2
+Division,N2,B2,L,H2,J2,Lc2,LM2,SJ2,U2,O2,Wt2,SAn2
+Division,SP2,SC2,Wf2,Wh3,Mt2,SHu2,R,SE2,Wt3,K2,Br2,SB
+Division,P3,Green Templeton 1,Wh4,T3,SHi,Ch3,Q2,SC3,SP3,Br3,N3,S2,J3
+
+Results
+e1e-1e1e2re1e1e1e-6rre2e-1 re-1re1e-1re1e-1e1e-1re3e-1 rre1e1e-4e1e-1e1e1e-2rrr re1e-1rrrrrrrrrr e1e-1rre1e1e1e-3e1e2re1e-4 rre1e-1re1e-1rrrre1e-1
+e1e-1e1e-1re1e1e-2e1e-1re2e-1 re2re-3e1e-1e1e1e-2e1e1e-2r e1e-1e1e1e1e-3e1e-1e1e-1rrr rre2re1e-3rrre1e-1rr e1e-1e1e1e-2e1e1e1e-3e1e-1e2e-1 re-1re1e-1re1e-1e1e-1rrr
+rrre1e1e-2e1e-1re2e4e-1e-3 rre1e1e-4e1e-1e1e1e-2re2e-1 re1e-2e1e1e1e-3e1e-1rrrr e1e1e-2e1e1e-2rre1e-1re2e-1 re1e-2e1e1e-2e1e-1e1e-1e1e-1r re1e-1re1e-1re1e-1rrrr
+rrre1e-1e1e-1e2re-2e1e2e-2 re-1e2re2re1e-5re1e-1rr re1e1e-2re1e1e-2re1e-1e1e-1 re1e1e-2re1e-1e1e1e1e1e-4r re1e1e-2rrre1e-1rre1e-1 re1e-1rrre1e-1rrrrr

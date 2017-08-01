@@ -1,0 +1,14 @@
+Set,Torpids
+Short,Torpids
+Gender,Women
+Year,1984
+
+Division,J,LM,Osler House 1,SC,SHi,S,Wt,SAn,SHu,P,Br,Wh
+Division,E,Wf,U,K,H,B,T,Lc,Co,LM2,SHu2,Mg
+Division,SHi2,N2,Q,Ch,Br2,SHu3,SE,SHu4,Mf,SHi3,SC2,S2,Mt
+
+Results
+rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr
+rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr
+rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr
+rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr

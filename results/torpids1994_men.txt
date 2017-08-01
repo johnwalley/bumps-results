@@ -1,0 +1,18 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1994
+
+Division,O,Br,U,P,Mg,Wt,Ch,N,SE,O2,B,LM
+Division,SC,H,Lc,Wh,Wf,Q,E,SJ,J,K,Ch2,SP
+Division,T,Osler House 1,SHu,U2,Mt,O3,N2,B2,P2,L,Wt2,SAn
+Division,Br2,Mf,SE2,E2,K2,Co,Wf2,Q2,SJ2,SC2,Mg2,LM2
+Division,Lc2,R,Wh2,SP2,O4,J2,H2,SJ3,K3,O5,SB,SAn2
+Division,Wt3,Q3,Ch3,N3,E3,U3,Osler House 2,Mt2,Mg3,SP3,Mg4,Mt3
+Division,SAt,Wh3,Mf2,SAn3,L2,SE3,Templeton 1,Mf3,Mt4,LM3,Manchester 1,Co2,Lc3
+
+Results
+e1e-1re1e1e1e-3rre1e1e-2r e1e1e1e1e1e2re1e1e1e1e-11r e3e1e3e1e2e-4e-6e2re2re-4r re2e2e2e-2e-4re1e-1re1e1e-2 re1e-1e2re1e-3re1e-1rrr re1e-1re1e1e1e-3e1e1e1e-3r e2re1e-3e1e-1rrre1e-1rr
+rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr
+rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr
+rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr

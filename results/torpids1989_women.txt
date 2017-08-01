@@ -1,0 +1,16 @@
+Set,Torpids
+Short,Torpids
+Gender,Women
+Year,1989
+
+Division,Osler House 1,S,LM,SHu,Wh,U,SC,SHu2,N,Br,P,K
+Division,SAn,J,Wt,SHi,Wf,B,Ch,T,Lc,Co,S2,H
+Division,Q,E,SJ,SE,SP,N2,Mg,SHu3,SHi2,O,Osler House 2,H2
+Division,Wh2,L,Mf,T2,S3,Mt,LM2,Wf2,E2,Mg2,Wt2,SAn2
+Division,O2,SAn3,SHi3,SC2,K2,J2,Ch2,LM3,Q2,Wh3,B2,LM4,E3
+
+Results
+re1e1e-2e1e-1e2re-2re1e-1r e2e2e-1e1e-4e1e-1re1e-1rrr e1e1e1e2re1e-6e1e-1re1e-1r re1e1e-2e1e1e2re2re1e-7r e1e1e1e1e1e-5rre1e-1rrr
+e1e1e-2e1e-1re1e-1e1e-1e1e2e-2 re-1e1e-1e1e-1re1e-1e1e-1rr e1e1e1e1e-4e1e-1e1e-1e1e-1e2e-1 re-1e1e1e-2e1e2re1e1e1e1e-7 rre1e-1rrrrre1e-1rr
+re1e1e1e2re-5re1e-1e1e-1r re1e-1rrrrre1e-1rrr re1e1e-2e1e-1re1e1e-2e3re-2 re1e-2e1e1e-2e1e-1rrre3e-1 rre1e-3e1e-1e1e-1rrrrr
+re1e-1rrre1e-1re1e-1e3e-1 rre1e-3rre1e-1e1e1e1e2e-4 re1e1e1e-4e1e1e1e1e2re-6r re1e1e-2e1e1e-2rrrrrr rre1e-1e1e-1re1e-1rrrr

@@ -1,0 +1,18 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1986
+
+Division,O,K,P,O2,Ch,E,Br,Lc,Q,Wt,J,SC
+Division,SE,N,U,Wh,B,Mg,H,SJ,T,Osler House 1,Wf,K2
+Division,SP,E2,Ch2,Wt2,Lc2,O3,Co,LM,Mf,U2,Mt,P2
+Division,SAn,SE2,Br2,SC2,B2,N2,SJ2,Q2,H2,Wh2,Wt3,E3
+Division,SJ3,J2,O4,Wf2,R,J3,K3,O5,LM2,L,Wh3,SB
+Division,Q3,T2,Br3,O6,Ch3,SP2,SC3,Mg2,T3,Mt2,N3,H3
+Division,K4,LM3,H4,Lc3,N4,Wh4,N5,SE3,Mt3,U3,Ch4,R2,Mg3
+
+Results
+e1e1e-2e1e-1e1e1e-2e1e-1re2e-1 re1e1e-3rrre1e1e1e-3e2e-1 re-1re1e-1e1e1e-2e1e1e-2e2e-1 re-1rre1e-1e1e1e-2e1e1e-2r re1e1e1e-3rre1e1e-2e1e-1r re1e1e-2e1e-1e1e-1re1e-1e2e-1 re1e-2e1e-1re1e-1rrrrr
+rrrre1e-1e1e1e-2e1e-1rr re1e1e1e1e1e1e-6e1e-1e1e-1r re1e-1e1e1e-2e1e1e-2re1e1e-2 re1e-1re1e1e-2e1e1e-2e1e2e-2 re-1e1e1e-2re1e-1e1e-1rrr rrrrre1e-1e1e-1rre1e-1 re1e-1re1e-1rre1e-1rrr
+rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr
+e2e2e2e-2e1e1e-6e1e-1re1e-1r e2re1e1e2e2e-6e-2e1e1e-2e1e-1 re1e1e-2e1e1e1e1e-4e1e-1e2e-1 re-1rre1e1e1e-3e1e1e-2e2e-1 re1e-2re1e1e-2e1e-1e1e-1rr e1e1e1e2re1e1e1e2re1e-11r rre1e-1rre1e-1re1e-1rr

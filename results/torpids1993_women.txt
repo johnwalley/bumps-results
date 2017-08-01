@@ -1,0 +1,14 @@
+Set,Torpids
+Short,Torpids
+Gender,Women
+Year,1993
+
+Division,S,N,Wh,Osler House 1,Wf,U,SC,P,SHi,LM,Br,Wt
+Division,SAn,Ch,T,K,O,SJ,H,B,SHu,E,J,S2
+Division,SE,Lc,L,Mt,Q,Mg,SP,N2,O2,Osler House 2,P2,Wh2,Mf
+
+Results
+re1e-1e1e-1rrre1e1e-2e3e-1 rre2re-4rrre1e-1re3e-1 rre-2rre1e1e1e-3e1e-1rr
+rre2re1e-3re1e-1e1e1e3e-3 rre1e-3e1e-1rrre2re-2r rre2re-2rrre1e-1rrr
+re1e1e-2rre1e1e1e-3e1e1e-2 rre1e1e-2e1e-1e1e-1re1e2e-2 re-1e1e-1e1e-1re1e-1rrrr
+rre2re1e1e-4rre1e-1e2e-1 re1e-2re1e-1e1e-1re1e-1e2e-1 re2re1e-4rrre1e-1rrr

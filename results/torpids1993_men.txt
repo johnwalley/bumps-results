@@ -1,0 +1,16 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1993
+
+Division,O,Br,Ch,P,N,U,Mg,O2,B,Wt,LM,H
+Division,SC,SE,K,Lc,Wh,Wf,SJ,SP,Q,E,J,T
+Division,Ch2,U2,Osler House 1,SHu,SAn,Mt,N2,O3,B2,Br2,Co,Wt2
+Division,SC2,Mf,P2,Lc2,SE2,L,SJ2,E2,K2,LM2,Q2,H2
+Division,Wh2,Wt3,Mg2,R,O4,J2,O5,SP2,Q3,SJ3,K3,SAn2,SB
+
+Results
+e1e1e1e1e-4e1e-1rrre1e-1r e1e-1e2re1e1e-4e2re-2e1e2e-2 re1e-2rrrrrrrrrr e1e-1e1e1e1e-3rrre1e-1e2e-1 re-1re1e-1re1e1e-2e1e-1rr
+re1e-1e1e1e-2e2re1e1e-4e2e-1 re-1e1e-1e1e1e1e-3re1e-1e2e-1 re-1e1e-1rrrrrre1e-1r rrrrrrrre1e-1rrr re1e-1re1e-1rre1e-1rrr
+re1e-1re1e1e-2e1e1e-2e1e-1r re1e-1e1e-1re1e1e1e-3e4e-1r re2e-1e1e1e1e1e1e-9e1e-1rr re1e-1re1e1e1e1e-4rrrr rre1e-1re1e-1e1e-1rrrr
+re2re1e-3rre2re1e-3e1e-1 re1e1e-2e1e1e-2e1e1e1e-3e2e-1 re-1e1e1e-2re1e-1rrrrr rrre1e-1e1e1e-2rrre1e-1 rrre1e-1re1e-1re1e-1rr

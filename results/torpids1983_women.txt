@@ -1,0 +1,14 @@
+Set,Torpids
+Short,Torpids
+Gender,Women
+Year,1983
+
+Division,J,S,LM,SC,Wf,SAn,Osler House 1,SHi,Br,H,Wt,E
+Division,SHu,P,Wh,T,K,L,S2,U,Co,LM2,B,SHu2
+Division,Lc,Mg,Lc2,Q,Mf,SJ,Co2,SE,Mt,J2,Ch,SAn2,SHi2
+
+Results
+e1e-1rrre1e-1e1e-1e1e-1rr e1e-1rre1e1e-2re1e1e-2rr e1e-1e1e-1re1e1e1e-3e1e1e-2r
+re1e-1re1e-1re1e-1rrrr re2e2e-1e-3e1e1e-2e2re-2e2e-1 re1e-2e1e1e-2e1e1e-2rrrr
+rrrrrre1e-1rrrrr e1e-1e1e1e1e-3e1e1e-2re1e2e-2 re1e1e-3e1e-1rre1e-1rrr
+re1e1e-2rrre2re-2re2e-1 re1e-2re1e2re-3e2re-2e2e-1 re-1e1e1e-2e1e-1e1e-1e1e-1rr

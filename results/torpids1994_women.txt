@@ -1,0 +1,15 @@
+Set,Torpids
+Short,Torpids
+Gender,Women
+Year,1994
+
+Division,S,N,Osler House 1,SC,U,Wh,P,Ch,SHi,O,LM,T
+Division,Wf,Wt,SAn,Br,SJ,J,K,Lc,H,SE,S2,Q
+Division,B,Mt,Mg,E,L,SP,Osler House 2,Wh2,P2,N2,SHu,O2
+Division,LM2,Ch2,Co,Mf,U2,SJ3,LM3,Osler House 3,J2,Mf2,SHi2,H2,SAn2
+
+Results
+rre1e-1e1e-1e1e1e-2e2re-2r e1e-1e1e1e-2re1e-1e1e-1e1e2e-2 re1e1e1e1e1e-6e1e1e1e1e1e-5 rrre1e-1e1e-1e1e-1re1e-1r
+rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr
+rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr
+rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr

@@ -1,0 +1,14 @@
+Set,Torpids
+Short,Torpids
+Gender,Women
+Year,1982
+
+Division,J,S,LM,SC,H,SHi,SAn,Br,SHu,Wf,Wh,Osler House 1
+Division,Wt,L,LM2,E,K,S2,P,Co,T,SC2,Q,SHu2
+Division,U,SJ,B,SHu3,Mf,SJ2,SHu4,Lc,Ch,SAn2,N,B2,Lc2
+
+Results
+e1e-1e1e-1rrre1e-1re1e-1r e1e-1e1e-1e1e-1e1e-1e1e1e-2rr e1e1e-2re1e-1e1e-1e1e-1rrr
+re1e-1e1e-1rrre1e-1rrr e1e1e-2e1e-1e1e-1e2re-2e1e-1r rre2e2e-1e-3rre1e-1rrr
+e1e-1rrrre1e-1e2re1e1e-4 re1e1e1e-3e1e1e1e-3e2re2e-3 re1e-2re1e2re1e-4rrrr
+e1e-1e1e1e1e1e2e-5e-1re1e-1r e2e-1e-1e2re-2re2re1e-3rr rrre1e-1e1e-1e1e-1rrrr

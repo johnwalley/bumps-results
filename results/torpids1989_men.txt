@@ -1,0 +1,19 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1989
+
+Division,O,Ch,O2,K,N,Br,H,P,SE,SC,B,Mg
+Division,Lc,T,Wf,U,Wt,SJ,Wh,LM,Q,J,Ch2,Mt
+Division,E,SP,O3,U2,K2,SC2,N2,Br2,Lc2,Mf,SAn,Osler House 1
+Division,Wt2,B2,H2,Co,Wt3,P2,Wf2,SE2,E2,L,J2,SJ2
+Division,Q2,LM2,R,Wh2,O4,SJ3,Q3,O5,T2,H3,K3,E3
+Division,J3,N3,Mg2,Wh3,T3,SAn2,Br3,SP2,Ch3,SAn3,O6,Lc3
+Division,E4,Co2,U3,Co3,B3,SP3,H4,Templeton 1,N4,SHu,Mg3,SHu2
+Division,Mg4,SC3,P3,Mg5,U4,SC4,SAn4,P4,Wt4,T4,E5,LM3,B4
+
+Results
+e3rre-3e1e1e1e1e1e-5rrr rrrrrre1e-1rrre2e-1 re1e-2e1e-1e1e-1e1e-1re1e2e-2 re-1e1e1e-2e2re-2re1e-1rr e1e1e-2e1e-1re1e1e-2e1e1e-2r e1e1e2re1e-5e1e1e-2e1e-1e2e-1 re1e-2e1e-1re1e-1re1e-1rr rrrre1e-1rre1e-1rrr
+rrrre1e-1rrrre1e-1r re1e1e1e1e1e-5e1e-1re3e-1e-1 re1e1e-3e1e-1e1e-1e1e-1re2e-1 re2re1e1e-5e1e1e-2re1e-1r e1e1e1e1e-4e1e-1rrrrrr e1e-1e1e-1e1e-1re1e-1re1e1e-2 rre1e-1re1e-1e1e-1re1e1e-2 rre1e1e-2rre1e-1e1e-1rr
+e1e1e-2e1e1e2re-4rrre2e-1 re-1e2re1e1e1e-5re1e1e-2r re1e1e1e-3e2e-1e1e-2e2re-2r re1e-1e2re1e-3e1e1e-2rrr rre1e-1e1e-1re1e-1rre2e-1 re2re2re1e-6e1e1e-2rrr rre1e-1e1e-1rre1e1e-2e3e-1 re2e-2e1e1e-4e1e-1e1e-1rrr
+e1e-1e1e-1re1e1e2re-4re2e-1 re1e-2re1e1e1e1e1e-5e1e-1r e1e-1e1e1e1e-3e1e1e-2rre1e-1 re1e1e-2e1e1e1e-3e1e-1rrr e1e-1re1e-1rrrrre1e2e-2 re2re1e-4e1e1e-2re1e-1rr re1e-1e1e-1rre1e1e1e-3e1e-1 rre1e-1re1e-1e1e-1re1e-1r

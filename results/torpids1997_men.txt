@@ -1,0 +1,18 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1997
+
+Division,O,P,Mg,Ch,Br,N,U,Wt,Lc,SE,Wh,O2
+Division,E,SC,SJ,Q,B,SP,LM,T,J,K,OG,H
+Division,Mt,Wf,L,SHu,B2,SAn,P2,Mf,SE2,O3,Co,N2
+Division,U2,Br2,K2,Mg2,Wt2,E2,SJ2,S,Lc2,LM2,Wh2,SC2
+Division,Q2,SP2,Wf2,O4,SAn2,SB,J2,U3,H2,K3,OG2,R
+Division,Mg3,Mt2,LM3,Wf3,L2,O5,SAt,T2,S2,B3,Lc3,Co2
+Division,U4,P3,Br3,Q3,Wh3,SC3,SHu2,SAn3,Mt3,Mf2,Co3,H3,Mt4
+
+Results
+e1e-1rre1e1e1e1e1e1e-6rr re3re2e-1e-4e1e-1e1e1e-2rr e1e1e1e-3e1e-1e2re2re3re-6 re-1e1e1e1e1e-4e1e-1e1e1e-2r e1e2re1e-4e2re1e-3rrrr e1e-1rre1e1e-2rre1e-1rr e1e1e-2re1e-1e1e1e1e-3rrr
+e1e1e-2e1e-1e1e1e2re1e1e-6r re3rre1e1e-5e1e-1re1e2e-2 re-1re1e-1e1e-1e1e1e-2e1e-1r re1e1e-2e2e2e-1e-3e2re1e1e-4 rre2re1e-3e1e1e1e-3rrr re1e1e-2re1e1e-2rre1e-1r rre1e-1re1e-1rrrrrr
+rrrre1e-1rrrre1e2e-2 re-1re2re1e1e-4re1e-1e2e-1 re2re1e-4re1e-1e1e1e-2e1e-1 re1e2re-3e1e-1e1e-1rrrr e1e2re-3e1e1e-2rre1e-1rr e1e-1e1e1e-2re1e1e-2rre1e-1 re1e-1rrrrrrrrrr
+re1e-1e1e-1rrrre1e1e2e-3 re1e1e-3re2re-2e1e1e1e1e-4 re1e-1e2re1e1e-4re1e1e-2r e1e-1rrre1e1e-2e1e-1rrr e2e2e2e-2e-4e1e-1rrre1e-1r re1e-1e1e-1rre1e1e-2rrr e1e-1e1e1e-2rrrrrrrr
