@@ -1,0 +1,14 @@
+Set,Town Bumps
+Short,Town Bumps
+Gender,Women
+Year,2017
+
+Division,City 1,Cantabs 1,X-Press 1,99 1,Cantabs 2,City 2,St Neots 1,Rob Roy 1,Camb Veterans 1,Chesterton 1,Cantabs 3,City 3,99 2,Champs 1,99 3,City 4,St Radegund 1
+Division,City 5,Champs 2,Rob Roy 2,Cantabs 4,Champs 3,City 6,City 7,Rob Roy 3,Isle of Ely 1,Champs 4,X-Press 2,Champs 5,St Neots 2,99 4,Cantabs 5,Cantabs 6,Chesterton 2
+Division,Champs 6,Chesterton 3,City 8,Cantabs 7,99 5,X-Press 3,Cantabs 8,Cantabs 9,Cantabs 10,99 6,Cantabs 11,99 7,Cantabs 12,Isle of Ely 2
+
+Results
+rrrurruuur rrruurruuro3u urrruurrrruru
+rruuurruu uuurrrrurrrru o3uurrurrrrurr
+rurrurruur uruurruurrur rrruurruurrrrr
+ruuruuuu ruruuuuurru rruurururrrrrr
