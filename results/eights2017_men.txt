@@ -1,0 +1,17 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,2017
+
+Division,Oriel 1,Christ Church 1,Pembroke 1,Magdalen 1,Wolfson 1,Keble 1,Trinity 1,University 1,S.E.H 1,Balliol 1,Wadham 1,New College 1,Hertford 1
+Division,St Catherine's 1,L.M.H. 1,Mansfield 1,Lincoln 1,Worcester 1,Jesus 1,Brasenose 1,Pembroke 2,Queen's 1,St Hugh's 1,St John's 1,Oriel 2,St Anne's 1
+Division,Exeter 1,Merton 1,St Peter's 1,Corpus Christi 1,Christ Church 2,New College 2,St Antony's 1,Somerville 1,University 2,Wadham 2,Keble 2,Linacre 1,Balliol 2
+Division,Trinity 2,S.EH. 2,Magdalen 2,Jesus 2,Wolfson 2,Hertford 2,St Catherine's 2,Osler House 1,Green Templeton 1,Brasenose 2,Merton 2,Worcester 2,St Hilda's 2
+Division,Lincoln 2,St John's 2,Exeter 2,Regent's Park 1,Wolfson 3,St Peter's 2,Pembroke 3,St benet's Hall 1,University 3,Queen's 2,L.M.H. 2,Jesus 3,Mansfield 2
+Division,Christ Church 3,St Anne's 2,Somerville 2,Wadham 3,Kebele 3,Oriel 3,St Hugh's 2,New College 3,Balliol 3,Pembork 4,Linacre 2,St Antony's 2,Jesus 4
+Division,Merton 3,St Hilda's 2,St Catherine's 3,Balliol 4,Corpus Christi 2,Keble 4,Lincoln 3,Corpus Christi 3,St Antony's 3,Magdalen 3,St Hilda's 3,Oriel 4,Somerville 3,Queen's 3
+
+Results
+ruururruu ro5uurruur rrrruuuurr rurruuruu rrrurrururr ruuururrrr uurrurrrru
+rururrrrrur urururrurr rrruuuuur uuuuurur rrrruururu urruururrr ruurrurrur
+rrruuruuu uururruur rruuuuuu ruuuuuru urrrururru ruuuuruu rruurrrrrrrr
