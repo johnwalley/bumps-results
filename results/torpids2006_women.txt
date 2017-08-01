@@ -1,0 +1,16 @@
+Set,Torpids
+Short,Torpids
+Gender,Women
+Year,2006
+
+Division,N,O,Ch,Q,Mt,OG,S,SC,Mg,SHi,P,SE
+Division,Wf,Wt,LM,H,Wh,K,SJ,E,SHu,Br,Lc,B
+Division,L,T,Mf,U,J,SAn,Co,Lc2,Wf2,SP,SAt,SHi2
+Division,Mt2,Wh2,K2,N2,H2,Wt2,Q2,SJ2,SE2,P2,O2,L2
+Division,Wt3,J2,Mf2,SAn2,P3,Q3,R,B2,E2,SHu2,OG2,E3,B3
+
+Results
+re1e2re2re-5e1e-1e1e-1rr e1e1e-2e1e1e-2rre1e1e-2e2e-1 re1e1e2re-5re1e-1e1e-1rr e1e1e-2re1e1e-2re1e1e-2e2e-1 re1e-2e2re1e-3e1e-1e1e-1e1e-1
+rre2re1e1e-4re1e-1e1e2e-2 re-1rre1e-1e1e-1e1e1e1e1e-4 rre1e1e-2e1e-1re1e-1e4re-2 rre1e-3re1e1e-2re1e1e-2r e1e2e2e-1e1e1e2re1e1e1e-11r
+rre1e-1re1e1e-2rrrrr re1e-1re1e1e1e1e-4re1e2e-2 re1e-2e1e1e-2rre1e1e-2e1e-1 rre1e2re1e1e1e-6rre2e-1 re1e-2re1e-1e1e-1e2re-2rr
+rrrre1e-1e1e1e-2e1e-1rr e2re1e1e-4rre2re1e-3e2e-1 re1e-2rre1e1e1e-3e1e1e-2r re1e-1e1e-1e1e-1e1e1e-2e1e1e-2 re1e-1e1e-1e1e-1e1e-1rrrr
