@@ -1,0 +1,14 @@
+Set,Summer Eights
+Short,Eights
+Gender,Women
+Year,1980
+
+Division,SHu,S,Wh,LM,J,SC,Wf,H,SHi,L,Br,Wh2
+Division,SAn,SC2,LM2,SC3,Osler House 1,SHu2,S2,L2,Wt,P,K,J2
+Division,Wf2,SHi2,U,E,H2,E2,SHi3,SP,SAn2,LM3,E3,S3,B
+
+Results
+ruuururrr rururruur urruuuru
+uuurrrurr rrruuuuu ruuuurrrr
+rrrrrururrr rrurrurrur ruruuuur
+rrurrurrur ruo3uuuu uuruuurr

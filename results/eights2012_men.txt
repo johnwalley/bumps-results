@@ -1,0 +1,18 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,2012
+
+Division,O,P,Ch,Wf,U,H,B,SC,SJ,Mg,SE,K,Wt
+Division,N,Wh,Lc,T,E,SAn,J,LM,SP,Q,Ch2,Br,Mf
+Division,P2,Mt,S,L,N2,O2,SE2,Co,SHu,Mg2,SAt,E2,U2
+Division,SC2,Wh2,B2,Wt2,T2,K2,Lc2,Mt2,Wf2,SJ2,SP2,H2,Br2
+Division,J2,Q2,Ch3,SAn2,Osler House 1,Wh3,Green Templeton 1,R,SHi,P3,J3,LM2,Wh4
+Division,B3,SJ3,J4,Lc3,Wf3,SHu2,Green Templeton 2,S2,U3,T3,SC3,N3,SHi2
+Division,SAt2,Q3,SHi3,SP3,SHu3,Ch4,U4,L2,Br3,Mg3,K3,O3,S3,LM3
+
+Results
+rruruurrur uurrrururr ururruuue7 o7uuue1e1e-2ru ruuurruur rrruruuuu urrururrrrr
+ruuruuuu urruururrr rurrruuurr rrrrrruruur ururuurrrr rruururrur ruuurrrrrrr
+rrrruruuur rrrrruruurr rruruuurrr uurrururu ruuuuurrr ruuuruuu uurrurrrrrr
+rrruruuuu rururuurrr rrrruuuuu ruururo3ur uurruue2e-1e-1r rrrrrrrrrrrrrr rurrrrrrrrrrr

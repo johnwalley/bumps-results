@@ -1,0 +1,20 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1990
+
+Division,O,N,U,Ch,SE,SJ,Wt,P,K,B,H,Wh
+Division,Br,Mg,SC,J,Lc,O2,T,N2,Wf,Q,SP,U2
+Division,E,Co,Osler House 1,LM,Ch2,Mt,H2,Wt2,SE2,B2,O3,SAn
+Division,Mf,SJ2,Br2,K2,Lc2,L,SC2,P2,Wh2,E2,Q2,Osler House 2
+Division,J2,Mg2,N3,T2,U3,Wt3,Wf2,K3,B3,Ch3,SP2,Mt2
+Division,SE3,E3,U4,SC3,LM2,H3,Lc3,P3,O4,O5,K4,N4
+Division,Co2,Ch4,SAn2,SJ3,Br3,Q3,H4,Wh3,Templeton 1,SC4,Wt4,SE4
+Division,Mg3,J3,SHu,Mg4,O6,Ch5,SHu2,SP3,Mg5,Lc4,P4,O7
+Division,SHu3,O8,B4,Osler House 3,Wf3,SAt,SJ4,N5,Ch6,O9,P5,H5,Co3
+
+Results
+rrururrurr rre3e1e-2e-2uuur uuruuurr rruuuo3ur rrrruurrrrr ruuuurur rururuurr rruurrrurr ruuurrrur
+rururrrrur uururruu o5uuuurrr ruuuruur rrruuurrrr uurrrurrrr rrruuruur rrruurrrur urrurrruu
+uruurruu ruruurrur rruruuurr rruuuuru uuuuuru rurrrrurrrr rruuurrru urrururru urrruurur
+rrururuur uuruuuu urruuuur ruuuurur ruuurrurr ue1e2e-2e-1rrurrr ruurrrrrrrr rurrurrrrrr rurrrrrurrr

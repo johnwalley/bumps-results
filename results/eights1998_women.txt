@@ -1,0 +1,16 @@
+Set,Summer Eights
+Short,Eights
+Gender,Women
+Year,1998
+
+Division,OG,N,SC,Wh,P,SE,SHi,LM,S,Wf,Br,U
+Division,SAn,J,Mt,O,Lc,H,Mg,Ch,Wt,SJ,OG2,K
+Division,L,Q,E,T,B,SP,SHu,Mf,Co,LM2,S2,SC2
+Division,N2,SE2,SJ2,R,Wf2,Ch2,Mt2,K2,L2,Wh2,SAt,Mg2
+Division,SHu2,J2,Wf3,P2,H2,SAn2,Lc2,Mf2,SP2,Wh3,P3,Wt2,Mg3
+
+Results
+ruuurrrur ururrrurrr rruuurrur ururuurrr rruururrrr
+urruruurr rruuruurr rurrurrurr rruruurur ruuururrr
+rrrrrrrruur ruuuruur uurrrruur rururrrurr rruururrrr
+rrrrururru urruuruu ruurruurr ururuuur rrrururrrrr

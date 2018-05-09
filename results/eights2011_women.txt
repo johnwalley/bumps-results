@@ -1,0 +1,17 @@
+Set,Summer Eights
+Short,Eights
+Gender,Women
+Year,2011
+
+Division,B,SE,Wh,P,Osler House 1,Ch,Mg,SJ,H,U,O,N
+Division,S,Mt,K,SC,L,Wf,Wt,SHi,SAn,E,SHu,Q
+Division,Mf,T,Br,J,Lc,SP,Co,Ch2,LM,Wf2,SAt,SJ2
+Division,Wh2,L2,Mg2,H2,SHi2,P2,SE2,Mt2,SC2,Wt2,LM2,B2
+Division,R,U2,O2,E2,T2,SAn2,Q2,Lc2,Ch3,Lc3,Wh3,Green Templeton 1
+Division,N2,Wt3,LM3,Br2,Green Templeton 2,Wh4,Br3,Lc4,H3,J2,SJ3,J3,Green Templeton 3
+
+Results
+ruure1e3ue-4rr ruuururu rrruurrurr urruururr rurrrrrrrru uruurrrur
+uro3uuurr uuuururr uuuuuur rurruruur urrururur rrrruururr
+rrrrrrurrrrr ruuuurur ruuuurru uurruruu ruuruurrr rrruuurur
+ro3uuruur uuuuo3ur uurruuur rrrrrrrrrrur uuuruurr rruuuurrr

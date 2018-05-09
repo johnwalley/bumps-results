@@ -1,0 +1,13 @@
+Set,Summer Eights
+Short,Eights
+Gender,Women
+Year,1978
+
+Division,LM,Wh,SC,SHu,Wf,S,SHi,H,J,SAn,L,Br
+Division,Wh2,Co,LM2,S2,SC2,SHi2,SAn2,LM3,Wh3,SHu2,L2,LM4,S3
+
+Results
+ururuuru urrrurrurr
+rruuurrrrr rurururru
+ruruurrru rrurrurrur
+rrruururrr ruuuurrrr

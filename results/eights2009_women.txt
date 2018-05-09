@@ -1,0 +1,17 @@
+Set,Summer Eights
+Short,Eights
+Gender,Women
+Year,2009
+
+Division,SE,Ch,Osler House 1,Wh,B,P,H,S,N,Mg,Mt,O
+Division,SJ,SHi,SC,U,K,E,Wf,Q,SAn,Br,Wt,L
+Division,SHu,Mf,Lc,Co,T,SAt,J,SP,LM,Ch2,P2,H2
+Division,Wh2,Wf2,SE2,L2,SHi2,Mt2,SJ2,Mg2,R,SC2,O2,LM2
+Division,Wt2,B2,K2,U2,Q2,SAn2,Osler House 2,SHu2,Wh3,E2,Ch3,Br2
+Division,P3,T2,Wf3,B3,Ch4,E3,Green Templeton 1,Osler House 3,U3,Mf2,Lc2,U4,SP2
+
+Results
+rrururruu ururrurru ururururr rurrururu ruururrur rrrrurrrrrrr
+ruuruurrr ruruuuur rurruurru ururuurrr uuruurrrr ruuruuur
+rrrrruurur rrururrrru uuururru rurrurruu ruurruurr uuurrrurr
+rro3urrrurr rurrruuur ruurrurur uurrrrurrr rrurururu ruuurrrur

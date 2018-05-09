@@ -1,0 +1,16 @@
+Set,Summer Eights
+Short,Eights
+Gender,Women
+Year,1995
+
+Division,Osler House 1,N,P,S,SHi,Br,U,SC,J,Wh,SAn,O
+Division,Ch,Wf,K,SE,LM,Mg,H,SHu,Wt,SJ,S2,L
+Division,Lc,Mt,B,T,N2,E,Q,Co,P2,SP,Osler House 2,SHu2
+Division,Mf,SHi2,LM2,Ch2,U2,Wh2,K2,R,SJ2,Osler House 3,Wt2,SE2
+Division,SC2,L2,N3,Mt2,E2,Br2,SP2,SJ3,Wf2,Westminster 1,SHi3,SJ4,Wh3
+
+Results
+rrue3re-2e-1rrur urruuurrr uo3ururru ruruururr rrruururrr
+rrrurrrruu rurrururu rurrururrr uruuruur rrrrurrrurr
+rrrurrrurrr uuuuuur uurruruu rruururru urururrrrr
+rrurrruurr ruurruurr ruurrurur rurruruur rururrrrrrr

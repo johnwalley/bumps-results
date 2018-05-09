@@ -1,0 +1,16 @@
+Set,Summer Eights
+Short,Eights
+Gender,Women
+Year,1996
+
+Division,OG,N,SHi,P,S,SC,Br,J,Wh,U,SE,SAn
+Division,O,Wf,Ch,H,LM,K,SJ,Wt,Mg,L,Mt,SHu
+Division,Lc,E,S2,B,OG2,T,N2,Q,Mf,SP,SHi2,P2
+Division,Co,LM2,U2,SJ2,Ch2,K2,R,SC2,Wh2,N3,OG3,SE2
+Division,E2,Mt2,Wf2,L2,Westminster 1,Lc2,SAt,SC3,O2,H2,SC4,Lc3,Mg2
+
+Results
+uuuurrru rrruuuuu urrrurrurr uurruuru uurrrurrrr
+ruurrurur ro3urrurru rururruru ruurrrrurr rururrurrr
+uurruruu rure2e-1e1e-2urrr urure1e1e-2rur rruurrrrur rrrurrrrurr
+urrurruur urrrrrurrrr rruruuurr rrruururu uurrrrrrur

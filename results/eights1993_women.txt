@@ -1,0 +1,16 @@
+Set,Summer Eights
+Short,Eights
+Gender,Women
+Year,1993
+
+Division,S,Br,U,P,Osler House 1,N,Wf,Wh,Ch,SHi,LM,O
+Division,SAn,SC,K,J,SHu,SJ,H,Mg,S2,Wt,SE,Lc
+Division,Mt,T,B,Co,E,SHu2,L,SP,Q,N2,Br2,P2
+Division,SHi2,LM2,Osler House 2,S3,O2,Mf,U2,Ch2,J2,Wh2,Osler House 3,E2
+Division,O3,SJ2,SHi3,Q2,Mg2,K2,SE2,T2,Lc2,Manchester 1,SAt,Wt2,Ch3
+
+Results
+urre2e-1e-1ruru ururrruur ruururuu rrururruu ruuurrurr
+rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rururrrrur uuurruur
+rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr urururrru ruurrrrurr
+rrurruruu rurruurru urrrururrr rruurrrrrrr uuurrrrur

@@ -1,0 +1,13 @@
+Set,Summer Eights
+Short,Eights
+Gender,Women
+Year,1979
+
+Division,Wh,SHu,LM,SC,H,S,J,Wf,Co,SHi,L,SAn
+Division,Wh2,Br,LM2,S2,SC2,L2,SC3,Osler House 1,SHu2,LM3,H2,SHi2,S3
+
+Results
+rrrrrruurrr rrrrururru
+rurruuurr rrrrrruurrr
+rrrruuruu urrruuurr
+rrrrrurruu rrrruurrrrr

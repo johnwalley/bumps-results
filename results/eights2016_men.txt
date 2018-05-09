@@ -3,16 +3,16 @@ Short,Eights
 Gender,Men
 Year,2016
 
-Division,Oriel 1,Christ Church 1,Pembroke 1,Magdalen 1,Wolfson 1,Keble 1,Trinity 1,University 1,S.E.H 1,Balliol 1,Wadham 1,New College 1,Hertford 1
-Division,Worcester 1,St Catherine's 1,Brasenose 1,L.M.H. 1,Mansfield 1,Lincoln 1,Jesus 1,St John's 1,Oriel 2,Pembroke 2,St Anne's 1,Queen's 1,St Peter's 1
-Division,Exeter 1,St Hugh's 1,Christ Church 2,Corpus Christi 1,New College 2,Merton 1,Sommerville 1,St Antony's 1,Linacre 1,University 2,Wadham 2,Magdalen 2,Balliol 2
-Division,Trinity 2,S.E.H. 2,Keble 2,Jesus 2,Osler House 1,Brasenose 2,Wolfson 2,Worcester 2,Hertford 2,St Catherine's 2,St John's 2,Green Templeton 1,St Hilda's 1
-Division,Merton 2,Lincoln 2,Exeter 2,St Peter's 2,Wolfson 3,Regent's Park 1,Pembroke 3,Jesus 3,Queen's 2,St Benet's Hall 1,St Anne's 2,University 3,Wadham 3
-Division,Somerville 2,Oriel 3,L.M.H. 2,S.E.H. 3,Mansfield 2,Keble 3,Pembroke 4,New College 3,Linacre 2,St John's 3,St Hugh's 2,Hertford 3,Merton 3
-Division,Balliol 3,Keble 4,Jesus 4,Mansfield 3,St Antony's 2,University 4,Corpus Christi 2,L.M.H. 3,Lincoln 3,St Hilda's 2,St Catherine's 3,St Antony's 3,Balliol 4,Corpus Christi 3
+Division,O,Ch,P,Mg,Wf,K,T,U,SE,B,Wh,N,H
+Division,Wt,SC,Br,LM,Mf,Lc,J,SJ,O2,P2,SAn,Q,SP
+Division,E,SHu,Ch2,Co,N2,Mt,S,SAt,L,U2,Wh2,Mg2,B2
+Division,T2,SE2,K2,J2,Osler House 1,Br2,Wf2,Wt2,H2,SC2,SJ2,Green Templeton 1,SHi
+Division,Mt2,Lc2,E2,SP2,Wf3,R,P3,J3,Q2,SB,SAn2,U3,Wh3
+Division,S2,O3,LM2,SE3,Mf2,K3,P4,N3,L2,SJ3,SHu2,H3,Mt3
+Division,B3,K4,J4,Mf3,SAt2,U4,Co2,LM3,Lc3,SHi2,SC3,SAt3,B4,Co3
 
 Results
 ruo3urruur urruuruur uue2e-1e-1rurrrr uuruurrur rururruuu uuurrrruu rrrurururrr
 uurruuuu ruuuruuu urruruurrr ruruuuuu urrrrrrrurrr ruuurruur rrurururrrr
-rrre2e-1e-1rrruur rruuuruur ruurrurrrr ruruuuruu ruurrruuu rruurruurr rrrruruurrr
+rrre2e-1e-1rrruur rruuuruur ruurrurrrrr uruuuruu ruurrruuu rruurruurr rrrruruurrr
 ruro5uuuu uruurrrrru uuurrurru rruuurrrur rrurruurur rrrurruurrr rrruurrrurr

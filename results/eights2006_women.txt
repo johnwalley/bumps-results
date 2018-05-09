@@ -1,0 +1,17 @@
+Set,Summer Eights
+Short,Eights
+Gender,Women
+Year,2006
+
+Division,N,SE,P,Ch,Wh,S,OG,Q,SHi,Mt,H,Mg
+Division,K,O,SC,Wt,U,B,Br,L,SJ,Lc,E,LM
+Division,Wf,T,SAn,SHu,J,SP,Co,Mf,Wh2,SAt,L2,Ch2
+Division,Mt2,P2,LM2,SJ2,Lc2,Wt2,SE2,K2,O2,SC2,Mg2,SHi2
+Division,R,Wf2,OG2,Q2,H2,N2,Wt3,B2,Co2,E2,SJ3,U2
+Division,P3,SAn2,SE3,P4,J2,P5,J3,Wh3,SAt2,SHu2,Q3,Lc3,H3
+
+Results
+ruuururu rrurrrruru uo3uuruu rrrurururr rruruurur rruuurrru
+uuuururr uro3uuurr ruurruurr rrrrururur urrurrrurr ruururrur
+ruuuurur ruurrruur rrurruurrr rrruururu uruururrr uuurrrurr
+rruuuuru uuurrruu urrruuurr urruururr rruurrrurr ruuuruur

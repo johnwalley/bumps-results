@@ -1,0 +1,16 @@
+Set,Summer Eights
+Short,Eights
+Gender,Women
+Year,1999
+
+Division,OG,N,SC,SE,P,S,Wh,Br,U,SHi,LM,Wf
+Division,SAn,Lc,Mt,Mg,J,Ch,O,SJ,OG2,H,L,K
+Division,Wt,T,B,E,SHu,Q,Co,SP,SC2,Mf,N2,S2
+Division,Wf2,LM2,Ch2,SE2,Wh2,R,SAt,Mt2,K2,P2,L2,Mg2
+Division,SAn2,H2,Mf2,Lc2,SP2,Mg3,Ch3,SHi2,Ch4,LM3,K4,O2,E2
+
+Results
+rrrrurrurrr ruurrurru ururrurru uruuurur rruuuurrr
+urruruurr uurue2e-1e-1ur rurrrurrur rrurrrrruu rrrurruurr
+rrrrrururu ruururrru uuruuuu rururruur uurrrruur
+rrurrrurur rurruuuu rurrrrruur ururruurr rurrrrrrrrrr

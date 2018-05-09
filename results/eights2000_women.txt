@@ -1,0 +1,16 @@
+Set,Summer Eights
+Short,Eights
+Gender,Women
+Year,2000
+
+Division,OG,P,N,Wh,SC,SE,S,U,LM,SHi,Mt,Br
+Division,Wf,Mg,Ch,SAn,J,Lc,SJ,H,L,O,T,B
+Division,E,K,Co,Wt,Q,SP,SHu,Mf,LM2,Ch2,SC2,S2
+Division,N2,Wh2,Wf2,Mt2,SE2,SAt,R,Mg2,P2,K2,SAn2,SP2
+Division,L2,Mg3,Lc2,SHi2,Ch3,Ch4,O2,SHi3,Co2,SHi4,SJ2,SJ3,J2
+
+Results
+rrrrrrrrrrrrr rrrrrrrrrrrrr rurre2e-1e-1ruu ururrurru uuuuuru
+rrrrrrrrrrrrr uure2e-1e-1e1e1e-2rr rururuurr rurrruuru ruurrruur
+urrrrrrrurr rururuurr uruururrr rrurrrrre1e1e-2r rrururrurr
+ruururrur rro3uuuru ro3urruurr ruuururrr rururrurrr

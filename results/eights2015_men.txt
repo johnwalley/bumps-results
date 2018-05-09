@@ -3,13 +3,13 @@ Short,Eights
 Gender,Men
 Year,2015
 
-Division,Oriel 1,Pembroke 1,Christ Church 1,Magdalen 1,Trinity 1,University 1,Wolfson 1,Balliol 1,St Catherine's 1,Keble 1,Worcester 1,S.E.H. 1,Wadham 1
-Division,Hertford 1,New College 1,Lincoln 1,St John's 1,Brasenose 1,L.M.H. 1,St Anne's 1,Mansfield 1,St Peter's 1,Jesus 1,Oriel 2,Exeter 1,Pembroke 2
-Division,Christ Church 2,Corpus Christi 1,Somerville 1,Queen's 1,St Hugh's 1,Merton 1,New College 2,Magdalen 2,Linacre 1,Wadham 2,S.E.H. 2,University 2,Trinity 2
-Division,Balliol 2,St Antony's 1,Keble 2,Jesus 2,Worcester 2,Brasenose 2,St Catherine's 2,Green Templeton 1,Wolfson 2,Osler House 1,Merton 2,Hertford 2,Exeter 2
-Division,Lincoln 2,St John's 2,St Hilda's 1,St Peter's 2,Regent's Park 1,Christ Church 3,Jesus 3,St Anne's 2,Wolfson 3,Pembroke 3,Wadham 3,Green Templeton 2,Queen's 2
-Division,St Benet's Hall 1,University 3,L.M.H. 2,Oriel 3,Trinity 3,Wolfson 4,S.E.H. 3,St Hugh's 2,New College 3,Pembroke 4,Magdalen 3,St John's 3,Mansfield 2
-Division,Linacre 2,Hertford 3,Keble 3,Merton 3,Keble 4,Oriel 4,Keble 5,Queen's 3,St Antony's 2,Balliol 3,Mansfield 3,New College 4,Jesus 4,Queen's 4
+Division,O,P,Ch,Mg,T,U,Wf,B,SC,K,Wt,SE,Wh
+Division,H,N,Lc,SJ,Br,LM,SAn,Mf,SP,J,O2,E,P2
+Division,Ch2,Co,S,Q,SHu,Mt,N2,Mg2,L,Wh2,SE2,U2,T2
+Division,B2,SAt,K2,J2,Wt2,Br2,SC2,Green Templeton 1,Wf2,Osler House 1,Mt2,H2,E2
+Division,Lc2,SJ2,SHi,SP2,R,Ch3,J3,SAn2,Wf3,P3,Wh3,Green Templeton 2,Q2
+Division,SB,U3,LM2,O3,T3,Wf4,SE3,SHu2,N3,P4,Mg3,SJ3,Mf2
+Division,L2,H3,K3,Mt3,K4,O4,K5,Q3,SAt2,B3,Mf3,N4,J4,Q4
 
 Results
 rruuuurur ro5uururrrr rurruurrru uurure2e-1e1e-2u uururrrurr ruruururu rruururrur

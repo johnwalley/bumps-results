@@ -1,0 +1,17 @@
+Set,Summer Eights
+Short,Eights
+Gender,Women
+Year,2004
+
+Division,P,N,Mt,S,Wh,SHi,SC,Ch,SE,OG,K,U
+Division,H,Br,Q,Lc,Mg,LM,Wf,O,Wt,B,L,SJ
+Division,T,SAn,Co,J,Mt2,E,SHu,Mf,SAt,SP,Wh2,L2
+Division,Ch2,LM2,K2,Mg2,P2,SC2,O2,Wt2,SHi2,SE2,Wf2,R
+Division,SJ2,Lc2,Co2,H2,N2,Q2,Wt3,Lc3,N3,Br2,O3,B2
+Division,Wt4,Q4,P3,SP2,B3,SHu2,E2,Q3,SE3,Mg3,U2,T2,SJ3
+
+Results
+o3uuuruu ururuuru uruuruur rurruurrrr urrruruur rrrro3ururr
+ruuuurur rruuruuu rururuurr ururururr urruurrru urrururrrr
+uuuurrru ruuruurrr rro3uuuur urrruruur uruuurur ruuruuru
+ruuuruur uuruurrrr rruruurrrr rrrrururru rrrruuruu rruuruurr

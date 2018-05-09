@@ -1,0 +1,18 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,2002
+
+Division,O,P,E,B,Ch,Mg,N,J,Lc,SC,SE,H
+Division,Wh,Br,K,T,SP,U,SJ,Wt,Mt,Q,SAn,LM
+Division,O2,Wf,S,Mf,P2,N2,Co,Lc2,L,Ch2,SE2,K2
+Division,SHu,OG,Br2,E2,SC2,Mg2,SJ2,J2,Q2,Wt2,U2,B2
+Division,Mt2,H2,Mg3,T2,SP2,O3,Wh2,P3,LM2,K3,SAn2,SB
+Division,L2,N3,R,Lc3,Wf2,J3,B3,SAt,S2,Mf2,P4,Ch3
+Division,Wt3,SE3,Co2,Ch4,J4,Mt3,H3,Br3,Wh3,U3,U4,Br4,N4
+
+Results
+rrrrrurrrur rruruuurr urururrrrr rrrre1e1e-2uurr rrrruurrrrr rururrurrr rruurrurrr
+urruururr ururuuur o3uruuurr rrruurrrur e1e1e-2uurrrrrr rrrrrrrurrrr ruuurrrrrr
+rurruruur o3uuruuu urruuurrr rruuro3uu rrrrurruru ruuururrr rururrrrrrr
+rrrruruuu rrurururu ruuurrrrrr ruuo3urrrr ruurrrrurr urruururr rrrururrrrr

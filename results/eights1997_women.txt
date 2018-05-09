@@ -1,0 +1,16 @@
+Set,Summer Eights
+Short,Eights
+Gender,Women
+Year,1997
+
+Division,OG,SC,N,SHi,P,S,Br,Wh,SE,Wf,J,LM
+Division,U,SAn,O,H,Ch,SJ,Mt,K,Lc,Wt,Mg,L
+Division,E,B,OG2,SHu,Q,T,Mf,S2,SP,LM2,N2,Co
+Division,SHi2,SJ2,Ch2,SC2,U2,SE2,K2,R,OG3,Wf2,Wh2,L2
+Division,Mt2,SAt,E2,O2,Mg2,Mt3,SHu2,J2,Br2,SE3,J3,T2,Wf3
+
+Results
+urrurruur uruuuurr rururrrrur rruuurrrrr rurrurrrrrr
+rururuurr ruruuuur rrruururu uruuurrrr uuuuurrr
+uurrururr uuruuuu rrurrruurr rruuuuru rrruuurrrr
+ruuurrrur rro3uurrur ururuuur ruuuuurr rruuuuur
