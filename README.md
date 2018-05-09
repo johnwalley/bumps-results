@@ -32,16 +32,19 @@ Results start with the bottom crew in each division (the sandwich crew for all b
 | r     | rowed over             |
 | u     | bumped up one place    |
 | o3    | overbumped up 3 places |
-| e-2   | moved down 2 places    | 
+| e-2   | moved down 2 places    |
 
 A crew which has been (over)bumped down does not need an entry as it is implied by the entry for the crew which bumped up.
 
+Crews are typically represented by an [abbreviation](abbreviations.txt).
+
 ## Acknowledgements
+
 Results based on charts produced by:
 
-- [Bumps Charts Archive](http://www.mcshane.org/bumps/)
-- [Cambridgeshire Rowing Association](http://www.crarowing.co.uk/town-bumps/about-the-cra-town-bumps/results/historic-bumps-results)
-- [History of the Cantabrigian Rowing Club 1950-2010](http://www.cantabsrowing.org.uk/history-of-the-cantabrigian-rowing-club-1950-2010/)
-- [Oxford University Rowing Clubs](http://www.ourcs.org.uk/)
-- [The Bumps](http://www.thebumps.co.uk/)
-- [Oxford Bumps Charts](http://eodg.atm.ox.ac.uk/user/dudhia/rowing/bumps/)
+* [Bumps Charts Archive](http://www.mcshane.org/bumps/)
+* [Cambridgeshire Rowing Association](http://www.crarowing.co.uk/town-bumps/about-the-cra-town-bumps/results/historic-bumps-results)
+* [History of the Cantabrigian Rowing Club 1950-2010](http://www.cantabsrowing.org.uk/history-of-the-cantabrigian-rowing-club-1950-2010/)
+* [Oxford University Rowing Clubs](http://www.ourcs.org.uk/)
+* [The Bumps](http://www.thebumps.co.uk/)
+* [Oxford Bumps Charts](http://eodg.atm.ox.ac.uk/user/dudhia/rowing/bumps/)
