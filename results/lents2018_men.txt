@@ -4,7 +4,7 @@ Gender,Men
 Year,2018
 
 Division,L,D,J,Ca,Pb,Ph,Cr,T,R,Cl,Q,G,SC,TH,Cu,K,F
-Division,M,E,W,Ca2,L2,J2,CC,H,T2,S,D2,Cl2,SE,D2,Q2,SS,Pb2
+Division,M,E,W,Ca2,L2,J2,CC,H,T2,S,D2,Cl2,SE,Dw,Q2,SS,Pb2
 Division,HH,Cr2,E2,R2,SC2,T3,M2,L3,TH2,CH,Cu2,J3,Ph2,Cl3,F2,K2,Q3
 Division,SS2,SC3,Ca3,Ca4,SE2,D3,W2,Pb3,TH3,Q4,HH2,H2
 
