@@ -1,8 +1,8 @@
 Set,Torpids
 Short,Torpids
-Gender,Gender
+Gender,Women
 Year,2000
-Days,NaN
+Days,0
 
 
 Results
