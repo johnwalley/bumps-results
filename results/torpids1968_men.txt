@@ -1,0 +1,17 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1968
+
+Division,SJ,O,B,Ch,SE,Wt
+Division,N,K,Lc,Q,P,Mt,U,Wh,Co
+Division,E,T,Mg,H,SC,J,U2,SP,SJ2
+Division,Br,B2,SE2,Lc2,K2,P2,O2,Ch2,Wt2
+Division,SJ3,Mg2,N2,SP2,O3,Mf,Lc3,E2,Q2
+Division,SP3,SC2,Lc4,Co2,Mt2,Wh2,J2,Ch3,U3
+
+Results
+e1e4re1e-1e1e-6e1e-1 re5re-2e1e-2e1e1e-4r re4e1e1e-2e-4e1e-1rr rrre1e1e1e1e-4e1e-1 rrre2e-1e-1re1e-1r rrrrrrr
+re2e-1e-1e1e2re-3r e4e1e1e-3e-3re3e-1re-2 rrrre1e1e-2rrr re1e1e-2rrre1e-1r rrrrre1e1e-2rr rrrre1e-1r
+rrre1e-1rre2r re-2e1e-1e2re-2re1r e2e-2e-1rrre1e-1rr e1e-1rrre1e-1e1e1r e1e-3rre1e-1e1e-1rr e1e1e-2rrrr
+rre2re-2re2e-1e-1 re3e-1e2e-2e-2re1e-1r e1e-1e2e-1e-1rrre1e-1 re3e-1e-1e1e1e-3rrr rre2e-1e1e1e-3rrr rrrrre1e-1

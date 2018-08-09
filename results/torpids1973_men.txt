@@ -1,0 +1,17 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1973
+
+Division,O,B,U,Ch,Q,SC
+Division,J,Wt,SJ,K,Wh,N,T,E,Mg
+Division,SE,Lc,SP,Osler House 1,Br,O2,U2,P,SJ2
+Division,H,Mt,Co,SC2,SP2,Q2,SE2,Lc2,P2
+Division,Ch2,Wh2,Br2,J2,P3,Lc3,K2,Wf,O3
+Division,SE3,Wt2,Mg2,Mt2,SC3,J3,K3,Wh3,L
+
+Results
+re1e1e-2e1e1e-2rr re1e2e-2e-1re1e-1rr re1e-1e1e1e-2re1e1e-2 rre1e-1e1e2e-2e-1rr re1e-1rrre1e-1rr rrrre1e-1r
+e2e-1e1e1e-3rrrr e2e-1e3e-2re-2e1e1e-2r e1e-1e1e-1e3rre-3rr e1e1e-2e2e-1e2e-2e-1rr e1e-1rre2e-1e-1rrr e1e1e-2re1e-1r
+rrre2e-1e-1re3r rre1e-4re1e1e-2e2e-1 re1e1e1e-4e1e-1re2e-1 re1e-2rre1e-1re1e-1 re1e-1re1e-1rre1e-1 rrrrrrr
+rrrrrre1e1e-2 rrre1e1e-2re1e1e-2 re1e1e1e1e-4re2e-1e-1 re1e-1rrrre3e-1r re-2e2e2e-1e-3rrrr e2e-1e-1rrrr
