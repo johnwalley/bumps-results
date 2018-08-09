@@ -1,0 +1,19 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1961
+
+Division,SE,Ch,Mt,Mg,Lc,Q,Br,T,SJ,B,J
+Division,H,Wt,K,P,O,N,U,Co,Wh,SC,E
+Division,SE2,SP,Lc2,Ch2,Q2,O2,B2,SJ2,U2,Mg2,SP2
+Division,N2,Mt2,E2,Br2,J2,K2,Wt2,Ch3,P2,T2,Wh2
+Division,U3,B3,SC2,SE3,SP3,K3,H2,Co2,Mg3,Q3,Lc3
+Division,E3,Wt3,P3,O3,B4,SP4,SC3,J3,Mg4,U4,Br3
+Division,Lc4,Br4,Mt3,SC4,K4,E4,Co3,SE4
+Division,Q4,SJ3,H3,Ch4,SJ4,Wt4,Q5,Wt5,SC5,SE5,Wt6
+
+Results
+ruururu ruruur rrururuu uuuuurr urrrruurr uururrrrr rurrrrrrur ururrurrr
+rrurrrrur uuruu ruruurur rrrurruru o3uruurrr ruruurru uuurrrru uuurrurr
+rurrrrurr rururrr uruuruu uuurrrur uuuuurr uuruuru ruururrrr ruuurrrrr
+rrrruuur rrrurru rurururrr ruurrruu uruuuur rrrurrrrur uuururrr uuuurrrr

@@ -1,0 +1,19 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1962
+
+Division,SE,Ch,Lc,Mt,SJ,Mg,B,Q,K,Br,H
+Division,T,J,Wt,N,P,O,E,Co,SP,U,SE2
+Division,Wh,Lc2,SC,B2,Ch2,SJ2,Q2,N2,O2,Mg2,SP2
+Division,U2,K2,Mt2,Wt2,Br2,Ch3,E2,U3,J2,B3,SE3
+Division,P2,T2,K3,Wh2,SC2,SP3,Q3,Mg3,Co2,O3,H2
+Division,Wt3,Lc3,P3,SC3,E3,J3,U4,B4,SP4,Mt3,Br3,Lc4
+Division,Mg4,K4,SC4,SE4,Br4,SJ3,E4,Co3
+Division,SJ4,SE5,SE6,SJ5,B5,K5,T3,N3,Co4,B6,K6
+
+Results
+rrrruuru rrruuu rruururru uuururu uuruuru ururruur ururuurr uruuuru
+ruuuurr uuuur e2e-1e-1uururu ruururur ruurrrrrrr ruruuuu uuruuur ruruurrrr
+rruuurrr uruurr uuuururr uurururr uurrrrrru rruurrrur rruuuuu uruurrrrr
+rurrurur rruurrr e2e-1e-1uuurru rurururu ruurrrrur rururrrru rurruuur rrrruurrrr

@@ -1,0 +1,18 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1959
+
+Division,Ch,Q,Mt,SE,Mg,B,J,Lc,Wt,N,H,T
+Division,Br,P,O,U,SJ,Wh,Co,E,K,SP,SC,B2
+Division,Lc2,Q2,Mg2,SE2,Ch2,O2,Mt2,J2,SP2,N2,SJ2,Br2
+Division,P2,Wt2,U2,B3,E2,Ch3,SE3,H2,Wh2,U3,K2,T2
+Division,Lc3,K3,SC2,Co2,Mg3,SP3,SC3,Mg4,Wt3,Br3,E3,SP4
+Division,P3,Q3,B4,O3,J3,Mt3,U4,P4,Wh3,B5,Ch4,Lc4
+Division,H3,T3,Wt4,H4,Br4,Wh4,E4,K4,SC4,O4,SJ3,E5,K5
+
+Results
+rruuuuur ruurruurr uurururu rruurruru rruuruurr rruuuurrr rurrrrrrrur
+rurrurruu rruurrrrru ruo3uurrrr rrruurrrur rrrurrruur rrruurrurr uururrurr
+urruuuur ruuurrrur ururururr rruuuruu uuuruuu uurruuur ruururrur
+rrurrruuu uurruruu ro3uuruur ruuuurru rurrururu rururuuu urrurruru

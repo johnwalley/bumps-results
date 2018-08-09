@@ -1,0 +1,20 @@
+Set,Summer Eights
+Short,Eights
+Gender,Gender
+Year,1969
+
+Division,K,SE,O,Ch,Mt,B,SJ,N,U,Br,Q,Lc
+Division,E,Wt,SC,Mg,J,SE2,T,P,Wh,H,SP,Co
+Division,SE3,Ch2,O2,Mt2,N2,K2,Q2,SJ2,U2,B2,Lc2,Ch3
+Division,P2,Br2,Wt2,H2,K3,E2,Mg2,Lc3,T2,B3,SC2,SP2
+Division,U3,SE4,Wh2,Br3,K4,Mt3,Wt3,J2,Ch4,O3,Co2,SJ3
+Division,Mg3,P3,Q3,Mf,E3,SE5,SE6,K5,U4,Lc4,SJ4,SC3
+Division,O4,Wt4,H3,P4,K6,Wh3,Co3,T3,J3,SP3,U5,O5
+Division,Osler House 1,Mg4,O6,B4,Ch5,Mf2,B5,J4,Ch6,H4,L,SHi
+Division,Wf,Osler House 2,Mt4,E4,SC4,Wh4,SP4,Co4,Mt5,E5,Wh5,SP5,B6
+
+Results
+rruruo3uu uuuuo3ur urrure1e1e1e1e-4r uururruu uuururur uro3urrurr rurruruur rrrruuuru rrururrurr
+ruuo3ue1e1e1e-3 ruuuurrrr ruuurruu rruuuuur ruue3ue1e1e-5u uurruurrr uuuruuu rrrrruuurr rrrrurrrrur
+uuuro3uu uuuuuru uurruuur o3uruuurr rruuruurr ruurruuu ruurrruur rrrruurrur uruuurrrr
+ruurrurru ruuuurru ruuuuuu ururuuru ruuuruur uuuuuur uuurrruu uruuurur rruurrrrrrr

@@ -1,0 +1,18 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1956
+
+Division,B,Mt,Mg,N,T,Q,Ch,SE,U,Br,Lc,O
+Division,SP,J,SC,Wh,Wt,P,H,Mg2,E,Co,SJ,K
+Division,O2,B2,Mt2,Ch2,N2,Lc2,SE2,Q2,Wt2,Br2,SP2,T2
+Division,U2,P2,E2,B3,J2,SJ2,SC2,H2,K2,K3,SE3,Mg3
+Division,Lc3,U3,Ch3,Wh2,Co2,Br3,T3,Mg4,SC3,P3,Q3,U4
+Division,O3,Mt3,SP3,B4,E3,Wt3,J3,SJ3,E4,O4,T4,SP4
+Division,B5,SP5,Q4,Wh3,Ch4,SJ4,SE4,H3,Br4,P4,P5,B6,SP6
+
+Results
+ururrrruu ruuruuur uruuurru uururruu uuruuurr ruruuruu ruurrurrrr
+ruruurrur uurruruu rruuurrur ruuruuru ruuruurrr ururrruur uuuuurrr
+rrururruu ruurrruur ruurruuu uurrruurr rruruuurr rrurrrurrrr rurrrruurr
+rrruruuur uuuruuu uurrrurur ruruuuur ruruuurrr rurrruurrr rrurrrruur
