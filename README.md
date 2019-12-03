@@ -167,5 +167,6 @@ Results based on charts produced by:
 * [Cambridgeshire Rowing Association](http://www.crarowing.co.uk/town-bumps/about-the-cra-town-bumps/results/historic-bumps-results)
 * [History of the Cantabrigian Rowing Club 1950-2010](http://www.cantabsrowing.org.uk/history-of-the-cantabrigian-rowing-club-1950-2010/)
 * [Oxford University Rowing Clubs](http://www.ourcs.co.uk/)
+* [Cambridge University Combined Boat Clubs](https://www.cucbc.org/)
 * [The Bumps](http://www.thebumps.co.uk/)
 * [Oxford Bumps Charts](http://eodg.atm.ox.ac.uk/user/dudhia/rowing/bumps/)
