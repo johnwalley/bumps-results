@@ -1,0 +1,75 @@
+MAYS 2018
+ 4  4  69   = NDay, NDiv, NCrew
+ 17  Women's Div I
+Jesus                       0   0   0   0
+Emmanuel                    0  -1   0   0
+Caius                      -1  -1   0   0
+Newnham                     1   1   0   0
+Downing                     0   1   0   0
+LMBC                       -1   0   0   0
+Clare                       1   0   0   0
+Christ's                   -1  -1  -1  -1
+Girton                      1   0   0   0
+1st and 3rd                 0   1   0  -1
+Peterhouse                 -1  -1  -1  -1
+Churchill                   1   0   1   1
+Fitzwilliam                -1   0   1   0
+Pembroke                    1   1   0   1
+Queens'                     0  -1   0  -1
+Jesus II                   -1  -1  -1  -1
+Homerton                    1   1   0   1
+ 17  Women's Div II
+Magdalene                  -1  -1  -1  -1
+St Catharine's              1   1   0   1
+Trinity Hall                0   1   1   0
+King's                      0   0   1   1
+Newnham II                  0  -1  -1  -1
+Murray Edwards             -1  -1  -1  -1
+Darwin                      1   1   0   1
+Lucy Cavendish              0   1   1   0
+Selwyn                      0  -1  -1  -1
+Pembroke II                -1  -1  -1   0
+Wolfson                     1   1   1   1
+Robinson                   -1  -1  -1  -1
+Emmanuel II                 1   1   1   1
+Sidney Sussex               0   1   1   1
+Downing II                 -1   1   1   0
+Corpus Christi              1  -1   0   1
+Queens' II                  0   0   0  -1
+ 17  Women's Div III
+Clare II                    0  -1  -1   0
+Caius II                   -1   0   1   0
+LMBC II                     1   1   0   1
+Newnham III                -1  -1  -1  -1
+Trinity Hall II             1   0   0   0
+St Edmund's                 0   1   0  -1
+Murray Edwards II          -1  -1  -1  -1
+Hughes Hall                 1   0   1   1
+Christ's II                -1  -1  -1  -1
+St Catharine's II           1   1   0   1
+Emmanuel III                0   1   1   0
+Jesus III                  -1  -1   0  -1
+Pembroke III                1   0   1   1
+King's II                  -1   0  -1  -1
+Darwin II                   1   1   0   1
+Clare III                   0  -1   0   1
+Homerton II                 0   1   1   1
+ 18  Women's Div IV
+Fitzwilliam II             -1  -1  -1  -1
+Queens' III                 1   0  -1  -1
+Lucy Cavendish II           0   1   1   0
+LMBC III                   -1  -1  -1  -1
+St Catharine's III          1   0   1   1
+Magdalene II               -1  -1  -1  -1
+Caius III                   1   1   0   1
+Sidney Sussex II            0   1   1   0
+Clare IV                    0   0   1   1
+Emmanuel IV                -3   0  -1  -1
+Darwin III                 -1   0   1  -1
+Pembroke IV                 1   0  -1   1
+Trinity Hall III            3   0   0   1
+Wolfson II                  0  -1  -1   0
+Queens' IV                 -1  -1  -1   1
+Trinity Hall IV             1   1   1   0
+Homerton III               -1   0   1  -1
+St Catharine's IV           1   1   1   1

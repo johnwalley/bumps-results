@@ -1,0 +1,21 @@
+TORPIDS 1979
+ 4  2  17   = NDay, NDiv, NCrew
+ 7  Women's Div I
+Hertford                   -1  -1   0   0
+Jesus                      -1   1   0   0
+Wadham                      2   0   0   0
+L.M.H.                     -3  -2   3   2
+Brasenose                   1  -2  -4   1
+St Anne's                  -2   1  -2  -2
+Somerville                  2   1  -1  -2
+ 10  Women's Div II
+St Catherine's             -2   0  -3   3
+Wolfson                     3   1   1  -1
+St Hugh's                   1   1   1   1
+Linacre                     0   0   3   0
+St Catherine's II          -1   0   2  -1
+L.M.H. II                  -2   3   0  -1
+Linacre II                  2  -3   0   1
+St Hilda's                  1   0   0  -1
+Hertford II                 0   0   0   0
+L.M.H. III                  0   0   0   0

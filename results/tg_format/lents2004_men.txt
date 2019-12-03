@@ -1,0 +1,15 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Men
+Year,2004
+
+Division,Ca,T,D,L,J,TH,E,Cu,Cr,SC,S,R,Cl,Ca2,Q,Pb,F
+Division,G,L2,SS,M,Ph,K,D2,T2,CT,J2,CC,E2,Q2,Cr2,W,Cu2,R2
+Division,TH2,Dw,L3,Cl2,SC2,Pb2,T3,S2,G2,F2,J3,H,D3,SS2,Ca3,Ph2,CH
+Division,T4,CC2,HH,K2,Q3,W2,SE,Cr3,M2,Cu3,L4,Cl3,Pb3,TH3,Dw2,Ph3,R3,D4
+
+Results
+urrurrruuuur uurro3uuurru uruurruruurr rrruruurrurrrr
+rurruruuuuu ruuurrurruur rruuurrrrruur rruururruurrr
+rrrrururruuur rruuuuuuurr rurruuruuuu urrrrurruurrrr
+ururururuuu ruuuurrurrru urururrruuur rurrurrrurrrrrr

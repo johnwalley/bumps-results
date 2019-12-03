@@ -1,0 +1,38 @@
+TORPIDS 1926
+ 6  3  33   = NDay, NDiv, NCrew
+ 10  Men's Div I
+Christ Church              -1  -1  -1  -1   0   0
+University                  1   0   0   0   0   0
+Merton                      0   1   0   0   0   0
+Brasenose                  -1  -1  -1  -1  -1  -1
+Balliol                     1   0   1   0   0   0
+Magdalen                    0   1   0   1   0   0
+Wadham                      0  -1   0   1   0  -1
+New College                 0   1   1   0   0   0
+Worcester                   0   0  -1   0  -1  -1
+Balliol II                  0   0   1   0   1   1
+ 11  Men's Div II
+Corpus Christi              0   0   0   0   1   1
+Pembroke                   -1   0  -1  -1  -1  -1
+Oriel                       1   0   0  -1   0   0
+Trinity                     0  -1  -1  -1  -1  -1
+Queen's                    -1  -1  -1  -1  -1  -1
+Keble                       1   1   1   1   0   1
+New College II             -1  -1   0   1   1   1
+Lincoln                     1   1   1   1   0   0
+St John's                  -1   0   0  -1  -1  -1
+Exeter                      1   1   1   1   1   0
+Magdalen II                 0   0   0   1   1   1
+ 12  Men's Div III
+Worcester II               -1  -1  -1  -1   0  -1
+Christ Church II            1   0   0  -1  -1   0
+Hertford                    0   1   0   1   1   1
+Wadham II                  -1  -1   0   0   0   1
+St Catherine's              1   0   1   0   1   1
+S.E.H.                      0   1   0   1   0   0
+Jesus                       0   0   0   0   0   0
+St John's II                0   0   0  -1   0   0
+Brasenose II                0   0  -1   0   0   0
+Exeter II                   0  -1  -1   0   0   0
+Oriel II                   -1   0   1   0   0   0
+University II               1   1   1   1   0   0

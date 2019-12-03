@@ -1,0 +1,57 @@
+LENTS 1997
+ 4  3  52   = NDay, NDiv, NCrew
+ 17  Women's Div I
+Trinity Hall               -1   0   0   0
+Emmanuel                    1   0   0   0
+Queens'                     0   0   0   0
+New Hall                   -1   0  -1  -1
+LMBC                        1   0   0   0
+Jesus                       0   0   1   0
+Newnham                    -1  -1  -1  -1
+Churchill                   1   0  -1   0
+Christ's                   -1   0   1   0
+St Catharine's              1   1   1   1
+Clare                      -1  -1  -1  -1
+Girton                      1   0  -1  -1
+Sidney Sussex              -1  -1  -1  -1
+Pembroke                    1   1   1   1
+Downing                    -1   0   1   1
+Caius                       1   1   1   1
+Selwyn                      0  -1   0  -1
+ 17  Women's Div II
+CCAT                        0  -1   0   1
+Corpus Christi             -1  -1  -1  -1
+1st and 3rd                 1   2   0   1
+Jesus II                    0   1   0   0
+Magdalene                   0  -1  -1  -1
+Robinson                   -1  -1  -1  -1
+Fitzwilliam                 1   1   1   0
+Emmanuel II                -1  -1  -1   0
+LMBC II                     1   1   1   1
+Homerton                    0   1   1   1
+Peterhouse                  0  -1  -1  -1
+Wolfson                    -1  -1  -1   0
+King's                      1   1   1   1
+Newnham II                  0   1   1   0
+New Hall II                 0  -1   0  -1
+St Catharine's II          -1   0  -1  -1
+Trinity Hall II             1   1   1   1
+ 18  Women's Div III
+Selwyn II                  -3   1  -1   1
+Hughes Hall                -1  -1   1  -1
+Queens' II                  1   0   0   1
+Vet School                  3   0   1   1
+Girton II                  -1   0   0   1
+Darwin                      1   0   0  -1
+1st and 3rd II              0   0   0  -1
+Downing II                 -1  -1  -1  -1
+Homerton II                 1   0  -1  -1
+CCAT II                     0   1   1   1
+Sidney Sussex II           -3  -1  -1  -1
+LMBC III                   -1   0  -1  -1
+Robinson II                 1   1   1   1
+Magdalene II                3  -1   0   1
+Fitzwilliam II              0   1   1   0
+Corpus Christi II           0  -1   0   1
+Jesus III                  -1   0   0   0
+Churchill II                1   1   1   1

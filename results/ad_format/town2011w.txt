@@ -1,0 +1,40 @@
+TOWN 2011
+ 4  2  36   = NDay, NDiv, NCrew
+ 17  Women's Div I
+City 1                      0   0   0   0
+99 1                        0   0   0   0
+Camb Veterans 1            -1   0   0   0
+City 2                      1   0   0   0
+Cantabs 1                   0  -1   0  -1
+Champs 1                   -1  -1  -1  -1
+City 3                      1   1   0   0
+99 2                       -1  -1  -1   0
+St Neots 1                  1   1   0   1
+Champs 2                   -1  -1  -1   0
+Cantabs 2                   1   1   1   0
+Chesterton 1               -1  -1   0  -1
+X-Press 1                   1   1   1   1
+City 4                      0   1   1   0
+Champs 3                   -1  -1   0   0
+99 3                        1   0  -1   0
+City 5                      0   1   1   1
+ 19  Women's Div II
+Isle of Ely 1              -1  -1  -1  -1
+Champs 4                    1   0  -1   1
+Champs 5                    0   1   1  -1
+City 6                     -1  -1  -1   0
+Cantabs 3                   1   0   1   0
+St Radegund 1               0   1   0   1
+X-Press 2                   0  -1   0   0
+Cantabs 4                  -1   0  -1  -1
+Champs 6                    1   1   1   0
+Champs 7                    0  -1   0   1
+St Radegund 2               0   1   1   0
+City 7                      0   0   0   0
+Chesterton 2                0   0   0   0
+99 4                       -1  -1  -1   0
+City 8                      1   0   0   0
+Champs 8                   -1  -1  -1   1
+Cantabs 5                   1   1   0  -1
+City 9                     -1   0   1  -1
+St Neots 2                  1   1   1   1

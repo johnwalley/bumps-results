@@ -1,0 +1,18 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,2019
+
+Division,K,O,Ch,P,Wh,Wf,B,U,SE,T,SC,J,Mg
+Division,N,LM,H,Wt,Q,SHu,Mf,Mt,Lc,E,SJ,Co,Br
+Division,O2,Ch2,P2,SAn,K2,SAt,S,SP,Wh2,U2,J2,N2,L
+Division,SE2,B2,Green Templeton,T2,SHi,SC2,Mt2,Wf2,Lc2,Mg2,Br2,R,SP2
+Division,H2,Q2,SB,E2,SJ2,P4,Wf3,LM2,K3,Wh3,Mf2,SC3,B3
+Division,O3,S2,Ch3,N3,Co2,Mt3,K4,O4,Co3,Lc3,Q3,Br3,SE3
+Division,LM3,Ch4,SE4,Wf4,Wf5,Green Templeton 2,SB2,L2,Mt4,Lc4,Ch5,SAn2,Lc5
+
+Results
+re2e-1e-1ruuo3u uururrro3u uurrrurrru uururrrrur o3urrrururr rrurrrrrurrr rurrurrrurr
+urruuuru rruuurruu ruuruuo3u rurrruurru ururuurrrr rurrruuurr rrrruurrrru
+uruuuurr ruuuuuur uuuruurrr uruuurrur rrurrururrr urruruuru uruuurrrrr
+rururruur uurruuuu rrruuruuu rrrrrrrrrrurr rurre1e1e-2rrurr ruruuurur rrrrrrrrurrrr

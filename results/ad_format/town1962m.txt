@@ -1,0 +1,36 @@
+TOWN 1962
+ 4  2  32   = NDay, NDiv, NCrew
+ 17  Men's Div I
+City 1                      0  -1   0   0
+Cantabs 1                  -1   0   0   0
+99 1                        1   1   0   0
+Rob Roy 1                  -1  -1   0   0
+City 2                      1   0   0   0
+Scouts 1                    0   1   0   0
+Cantabs 2                  -1  -1  -1  -1
+Rob Roy 2                   1   0   0   0
+Pye 1                       0   1   0  -1
+Cambs High School 1        -1  -1  -1   0
+ACUA 1                      1   0   1   1
+Scouts 2                   -1  -1   0  -1
+99 2                        1   1   0   1
+City 3                      0   1   1   0
+ACUA 2                      0   0  -1   0
+Beehives 1                  0  -1   0  -1
+Scouts 3                   -1   0   0   1
+ 15  Men's Div II
+Bridge 1                   -1   0   0   0
+99 3                        2   1   1   1
+City 4                      0   0   0  -1
+Rob Roy 3                   0   0  -1  -1
+City 5                      0  -1  -1   0
+99 4                       -1  -1  -1  -1
+Cam Grammar School 1        1   1   1   1
+Rob Roy 4                  -3  -1  -1  -1
+Scouts 4                   -1  -3   1   0
+99 5                        1   0   1   0
+Leys Sch 1                  3   1   1   1
+Pye 2                      -3   0   0   0
+Cam Grammar Sch 2          -1   0   0   1
+ACUA 3                      1   3   0   1
+ACUA 4                      3   1   0   0

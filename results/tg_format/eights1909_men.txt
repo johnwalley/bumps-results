@@ -1,0 +1,17 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1909
+Days,6
+
+Division,Ch,Mg,N,B,SJ,Mt,T,U,Br,O
+Division,Co,Lc,Wh,Wt,Ch2,P,E,K,N2,J
+Division,T2,Q,H,Mg2,SJ2,SC,SE,Br2,U2,O2,T3
+
+Results
+ro3urrrur rrrrrrrrrrr uuuurrr
+urrurrur rrruruur rrrurrrrrr
+ruurrrur rrrrurrru rrurrrrrrr
+rrrrrurrrr rurrrrrrrr rrrrrrrrrrr
+rrrrrrrrur rrrrrrrrrrr rururrrrr
+rrrrurrrrr rrrrrrrrur rrrrrrrrrrr

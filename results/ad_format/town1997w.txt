@@ -1,0 +1,28 @@
+TOWN 1997
+ 4  1  25   = NDay, NDiv, NCrew
+ 25  Women's Div I
+City 1                      0   0   0   0
+Rob Roy 1                  -1   1   0  -1
+City 2                      1  -1  -1   0
+City 3                      0  -1   0  -1
+99 1                       -1   0  -1   0
+Free Press 1                1   1   1   1
+Rob Roy 2                   0  -1   0   0
+City 4                     -1  -1  -1  -1
+Free Press 2                1   1   1   1
+Free Press 3               -1   0   1   0
+Cantabs 1                   1   1   0   0
+Rob Roy 3                  -1   0   0   0
+City 5                      1   0   0   1
+Cantabs 2                   0   0   0   0
+Simoco 1                    0   0   0  -1
+Free Press 4               -1  -1   0   0
+Rob Roy 4                   1   0  -1   0
+Mott MacDonald 1           -1  -1   0   0
+Cantabs 3                   1   1   1   1
+City 6                     -1  -1  -1  -1
+Cantabs 4                   1   1   0   0
+Rob Roy 5                  -3   1   0   1
+99 2                       -1  -1   0   0
+Ionica 1                    1   0   1   1
+Cantabs 5                   3   1   0  -1

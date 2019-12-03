@@ -1,0 +1,36 @@
+EIGHTS 1909
+ 6  3  31   = NDay, NDiv, NCrew
+ 10  Men's Div I
+Christ Church               0   0   0   0   0   0
+Magdalen                    0   0   0   0   0   0
+New College                 0   0   0   0   0   0
+Balliol                    -1   0   0   0   0   0
+St John's                   1   0   0   0   0   0
+Merton                     -1  -1  -1   0  -1   0
+Trinity                     1   0   0   0  -1   0
+University                 -1   0   1   0   0   0
+Brasenose                   1   1   0   0   1   0
+Oriel                      -1   0  -1   0   0  -1
+ 10  Men's Div II
+Corpus Christi              1   0   0   0   1   0
+Lincoln                     0  -1   0   0   0   1
+Wadham                      0   1   1   0   0   0
+Worcester                   0  -1   0   0   0   0
+Christ Church II            0   1   0   0   0   0
+Pembroke                    0   0  -1   0   0   0
+Exeter                      0  -1   0   0   0   0
+Keble                       0   1   1   0   0   0
+New College II              0   0   0  -1   0   0
+Jesus                       0   0   0   1   0   0
+ 11  Men's Div III
+Trinity II                  0   0   0   0   0   0
+Queen's                    -1   1  -1   0   1   0
+Hertford                    1  -1   1   0  -1   0
+Magdalen II                 0   0   0   0   0   0
+St John's II                0   0   0  -1   0  -1
+St Catherine's              0  -1  -1   0   0   0
+S.E.H.                     -3  -1   0   0   0   0
+Brasenose II               -1   0  -1   0   0   0
+University II               1   0   1   0   0   1
+Oriel II                    3   1   0   1   0   0
+Trinity III                 0   1   1   0   0   0

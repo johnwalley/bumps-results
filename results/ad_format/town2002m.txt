@@ -1,0 +1,63 @@
+TOWN 2002
+ 4  4  57   = NDay, NDiv, NCrew
+ 17  Men's Div I
+Rob Roy 1                   0   0   0   0
+99 1                        0   0   0   0
+Rob Roy 2                   0   0   0   0
+Cantabs 1                   0   0   0   0
+City 1                      0   0   0   0
+Rob Roy 3                   0   0   0   0
+Rob Roy 4                   0   0   0   0
+99 2                        0   0   0   0
+Hornets 1                   0   0   0   0
+X-Press 1                  -1  -1  -1   0
+99 3                        1   0  -1   0
+Cantabs 2                  -1   0   1   0
+City 2                      1   1   1   0
+Cantabs 3                   0   0   0   0
+99 4                       -1  -1   0   0
+Rob Roy 5                   1   0   0   0
+Simoco 1                    0   1   0   0
+ 17  Men's Div II
+City 3                      0   0   0   0
+Max Entropy 1              -1  -1  -1   0
+Cantabs 4                   1   0  -1   0
+X-Press 2                  -1  -1  -1   0
+Cantabs 5                   1   1   1   0
+St Neots 1                  0   1   1   0
+99 5                       -1  -1  -1   1
+X-Press 3                   1   0   1   0
+Rob Roy 6                  -1   0   1  -1
+X-Press 4                   1   1   0   0
+St Ives 1                   0  -1   0   0
+99 6                       -1  -1  -1   0
+Champs 1                    1   1   0   0
+Cantabs 6                   0   1   0   0
+City 4                     -1  -1  -1  -1
+Rob Roy 7                   1   0   1   0
+Camb Veterans 1             0   1   0   0
+ 17  Men's Div III
+X-Press 5                  -1  -1  -1   1
+Cantabs 7                   1   0  -1   2
+Rob Roy 8                  -3  -1  -1   1
+St Radegund 1              -1   0  -1   0
+Cantabs 8                   1   0   1  -1
+Rob Roy 9                   3   1   2  -1
+Champs 2                    0   1   1   0
+Simoco 2                    0  -1   0   0
+99 7                       -3  -1  -3  -1
+99 8                       -1  -3  -1  -3
+Rob Roy 10                  1   0  -1  -1
+Champs 3                    3   1   1  -1
+Cantabs 9                  -1   3   1   0
+Champs 4                    1   1   0   1
+Rob Roy 11                  0   0   1   0
+Cantabs 10                 -1  -1  -1  -1
+St Ives 2                   1   0   3   0
+ 6  Men's Div IV
+Rob Roy 12                  0   1   0   1
+Cantabs 11                 -1   0   0   1
+Champs 5                    1   0   1   3
+St Radegund 2               0  -1   0  -1
+Champs 6                   -1   0   0   1
+Cantabs 12                  1   1   0   0

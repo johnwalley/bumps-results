@@ -1,0 +1,33 @@
+TOWN 1960
+ 4  2  29   = NDay, NDiv, NCrew
+ 17  Men's Div I
+City 1                      0   0   0   0
+Rob Roy 1                  -1   0   0  -1
+99 1                        1   0   0   0
+City 2                      0   0   0   1
+Cantabs 1                   0   0   0   0
+Scouts 1                    0   0   0   0
+Pye 1                       0   0   0   0
+Rob Roy 2                  -1  -1  -1  -1
+ACUA 1                      1   0   0   0
+99 2                        0   1   0  -1
+Cantabs 2                   0  -1  -1   0
+Central Old Boys 1         -1  -1   0   0
+Cantabs 3                   1   1   1   1
+City 3                      0   1   1   1
+Instrument Co 1             0   0   0  -1
+Beehives 1                 -1   0  -1   0
+Scouts 2                    1   0   0   1
+ 12  Men's Div II
+99 3                        0   0   1   0
+Cantabs 4                   0   0   0   0
+Rob Roy 3                  -1  -1  -1  -1
+ACUA 2                      1   0   0  -1
+City 4                      0   1   0   1
+Pye 2                      -1  -1   0   0
+99 4                        1   0   1   0
+Scouts 3                    0   1   0   1
+Cantabs 5                   0   0   0   0
+Instrument Co 2             0   0   0   0
+Scouts 4                    0   0   0   0
+Cantabs 6                   0   0   0   0

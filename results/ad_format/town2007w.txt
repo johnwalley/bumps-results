@@ -1,0 +1,38 @@
+TOWN 2007
+ 4  2  34   = NDay, NDiv, NCrew
+ 17  Women's Div I
+99 1                        0   0   0  -1
+99 2                       -1  -1  -1   0
+City 1                      1   0  -1   0
+Rob Roy 1                   0   1   1   1
+Camb Veterans 1             0   0   1   0
+Cantabs 1                   0  -1  -1  -1
+City 2                     -1  -1   0   1
+Rob Roy 2                   1   1   0   0
+Champs 1                    0   1   1   0
+City 3                      0   0   0   0
+99 3                       -1  -1  -1  -1
+Cantabs 2                   1   0   0   0
+X-Press 1                   0   1   0   0
+Champs 2                    0   0   1   0
+Max Entropy 1               0   0   0   1
+Simoco 1                   -1  -1  -1  -1
+Champs 3                    1   0   0  -1
+ 17  Women's Div II
+X-Press 2                  -1  -1  -1  -1
+St Ives/Ely 1               1   1  -1   0
+City 4                      0   1   2   1
+St Radegund 1              -1  -1  -1  -1
+Champs 4                    1   0   1   1
+Champs 5                   -1  -1  -1  -1
+City 5                      1   1   0   1
+Simoco 2                   -1  -1  -1  -1
+Cantabs 3                   1   1   1   0
+St Radegund 2              -1  -1  -1  -1
+Champs 6                    1   1   1   1
+City 6                      0   1   1   1
+City 7                      0   0   1   1
+X-Press 3                   0  -1   0   0
+Champs 7                   -1   0   0   0
+City 8                      1   1   0   1
+Champs 8                    0   0   0   0

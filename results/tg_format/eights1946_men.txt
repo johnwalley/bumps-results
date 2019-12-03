@@ -1,0 +1,19 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1946
+Days,6
+
+Division,T,SE,N,O,Ch,B,Mg,SJ,Br,E,P,N2
+Division,Wt,U,Wh,Co,H,Mg2,K,SP,Q,Mt,Lc,J
+Division,SE2,O2,B2,SC,Br2,SJ2,T2,Ch2,Mt2,E2,U2,SP2
+Division,P2,Q2,H2,K2,Ch3,Wt2,J2,Mg3,Lc2,B3,B4,K3
+Division,SC2,SJ3,T3,O3,Br3,P3,Q3,E3,U3,Mg4
+
+Results
+uruuru rrrurruuu rrrurrurrrr rurrrrurru urrrrururr
+ro3urrur uuo3uuur rruuruurr ururuuur rurrurrrur
+ruurrur ruurrurru ruuuurrrr rururrruu uurrruurr
+urruuu uuuuurrr uuurruru urrruruur ruuruurrr
+rrrrruur ruuuuuu rrrruruurr rrrruuruu rururrrurr
+urrurru uuuuuur ruurrruur ruurrruur ururrrrrrrr

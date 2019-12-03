@@ -1,0 +1,57 @@
+TOWN 1983
+ 4  3  52   = NDay, NDiv, NCrew
+ 17  Men's Div I
+City 1                      0   0   0  -1
+99 1                        0  -1   0   0
+99 2                       -1   0   0   0
+Rob Roy 1                   1   1   0   1
+City 2                      0   0   0   0
+99 3                       -1   0   0   0
+Univ Sports 1               1   0   0   0
+99 4                       -1  -1  -1  -1
+Cantabs 1                   1   0  -1   0
+Free Press 1                0   1   1   0
+City 3                      0   0   1   0
+Churchill 1                -1  -1  -1  -1
+Addenbrooke's 1             1   0   0   1
+Lady Somerset 1             0   1   0  -1
+99 5                        0   0   1   1
+Univ Sports 2               0  -1  -1  -1
+Telephones 1               -1   0   1  -1
+ 17  Men's Div II
+Darwin 1                   -1   0  -1  -1
+City 4                      2   1   0   1
+99 6                        0  -1   0   1
+Macdonalds 1               -1   0   0   0
+Rob Roy 2                   1   1   1   2
+Leckhampton 1               0  -1  -1  -1
+Free Press 2                0   1   0  -1
+City 5                      0   0   1   1
+99 7                        0  -1   0   0
+Univ Sports 3              -1  -1  -1  -1
+Chemical Lab 1              1   1   0   1
+99 8                       -1  -1  -1  -1
+Cantabs 2                   1   1   0  -1
+Free Press 3                0   1   1   1
+City 6                     -1  -1  -1  -1
+Red Lion Toft 1             1   0   1   1
+Rob Roy 3                  -1  -1   0   1
+ 18  Men's Div III
+Metallurgy 1                1   1   0   1
+Pye 1                       0   1   1   0
+King's 1                    0   0  -1  -1
+Univ Sports 4               0  -1  -1  -1
+City/Netherhall 1          -1  -1  -1  -1
+Macdonalds 2                1   1   1   0
+Free Press 4                0   1   1   1
+Rob Roy 4                   0   0   1   1
+Vaughan Cornish 1          -1  -1  -1  -1
+Rob Roy 5                   1   0  -1  -1
+Free Press 5                0   1   1   1
+Addenbrooke's 2            -1  -1  -1   1
+Hole in the Wall 1          1   0   1   1
+Cantabs 3                  -1   0   1  -1
+Barclays Bank 1             1   1   0   1
+Red Lion Toft 2             0  -1   0   0
+Pye 2                      -1   0   0   0
+Cantabs 4                   1   1   0   0

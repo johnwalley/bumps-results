@@ -1,0 +1,81 @@
+TORPIDS 2013
+ 4  6  73   = NDay, NDiv, NCrew
+ 12  Men's Div I
+Pembroke                    0   0   0   0
+Christ Church               0  -1   0   0
+Magdalen                    0   1   0   0
+Balliol                     0   0   0   0
+Wolfson                     0  -1  -1   0
+St John's                  -1  -1   0  -1
+St Catherine's              1   1   0   0
+L.M.H.                     -5  -1  -1  -1
+Oriel                       1   1   1   0
+Hertford                    0  -1  -1  -1
+Wadham                      2   0  -1  -1
+St Anne's                   0  -1   0  -1
+ 12  Men's Div II
+Trinity                     2   1   1   1
+Worcester                   0   2   1   1
+New College                 0  -1  -1   0
+Pembroke II                -1  -1   0   0
+Lincoln                     1   1   1   2
+S.E.H.                      0   1   1   1
+Brasenose                   0   0   0   0
+Queen's                    -2  -2   0   1
+Jesus                       1   0  -1  -1
+University                  1   0   1   0
+St Hugh's                  -2   0   0   0
+Exeter                      1   1  -1  -1
+ 12  Men's Div III
+St Peter's                 -1  -1   0  -1
+Somerville                  2   1   1   1
+Christ Church II            0   1   0   0
+Merton                      0  -1   1   1
+Mansfield                   0   1  -1  -1
+Keble                      -3   0   0   0
+Trinity II                  1   0  -7  -1
+Corpus Christi              1   0   1   1
+Wadham II                   1   0   1  -1
+St Antony's                -1   0   1   0
+New College II              1  -2   1   0
+Exeter II                  -1 -12  -4  -5
+ 12  Men's Div IV
+Balliol II                  1   2   2   1
+Magdalen II                 0   1   1  -1
+Lincoln II                -10  -2   1  -1
+Linacre                     1   1  -1   0
+St John's II                0   1  -2  -1
+Oriel II                    2   1   1   2
+Worcester II                1   1   1   0
+Jesus II                    1   0  -1  -2
+St Catherine's II           1   2   1   0
+University II              -1   1  -1  -1
+Wolfson II                  1   2   1   1
+Hertford II                 3  -3   2   1
+ 12  Men's Div V
+St Anne's II              -12  -1   2   0
+Regent's Park               2   3  -3   1
+Merton II                  -2  -1  -1   1
+St Hugh's II                2   0   1   0
+Keble II                    1   0   0   0
+Green Templeton             3   4   2   1
+Wadham III                  0  -1   0  -1
+Wadham IV                   2   1   2   1
+Brasenose II                1   1   1   1
+St Peter's II               1   0  -2  -2
+Christ Church III          -1  -1  -5  -5
+Pembroke III                2   0   1   2
+ 13  Men's Div VI
+St Benet's Hall           -12   1   0   0
+S.E.H. II                   3   0   1   2
+Brasenose III               1   2  -1  -2
+Trinity III                 1  -1   0  -1
+St Catherine's III          0   0   2   1
+St Hilda's                  2   1   1   3
+Somerville II               1  -1  -2   1
+S.E.H. III                  0  -1   1   1
+Pembroke IV                 2   1   1   1
+Green Templeton II          1   1   1   1
+Corpus Christi II           0  -2   0   0
+St John's III               2   0   0   0
+Wolfson III                 1   1   0   2

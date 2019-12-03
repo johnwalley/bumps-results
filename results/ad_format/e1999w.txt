@@ -1,0 +1,68 @@
+EIGHTS 1999
+ 4  5  61   = NDay, NDiv, NCrew
+ 12  Women's Div I
+Osler-Green                 0   0   0   0
+New College                 0   0  -1   0
+St Catherine's              0  -1  -1   0
+S.E.H.                     -1  -1   0   0
+Pembroke                    1   1   1   0
+Somerville                 -1   0   0   0
+Wadham                      1   1   1   0
+Brasenose                  -1  -1  -1  -1
+University                  1   0   0   0
+St Hilda's                 -1   0   1   0
+L.M.H.                      1   1   0   0
+Wolfson                     0   0  -1   0
+ 12  Women's Div II
+St Anne's                   0  -1  -1  -1
+Lincoln                    -1  -1  -1  -1
+Merton                      1   1   1   1
+Magdalen                    0   1   1   0
+Jesus                      -1   0   0   1
+Christ Church               1   0   1   1
+Oriel                      -1   0  -1  -1
+St John's                   1   0   0   0
+Osler-Green II             -1  -1  -1  -1
+Hertford                    1   0   1   0
+Linacre                     0   1   0   1
+Keble                      -1   0  -1  -1
+ 12  Women's Div III
+Worcester                  -1  -1  -1  -1
+Trinity                     2   0   1   0
+Balliol                     0   1   1   1
+Exeter                      0   0   1   1
+St Hugh's                  -1  -1  -1   0
+Queen's                     1   0  -1   0
+Corpus Christi              0   1   1   1
+St Peter's                  0   0   1   0
+St Catherine's II          -1   0  -1  -1
+Mansfield                   1   0   0   0
+New College II              0  -1  -1  -1
+Somerville II              -1   0  -1   1
+ 12  Women's Div IV
+Wolfson II                 -1  -1   0  -1
+L.M.H. II                   2   1   1   0
+Christ Church II            0   1   2   1
+S.E.H. II                   0  -1   0  -1
+Wadham II                  -1   2   0   1
+Regent's Park               1  -1  -1  -1
+St Antony's                 0  -1   0   1
+Merton II                   0   1   1   1
+Keble II                   -1  -1  -1   1
+Pembroke II                 1   0  -1   0
+Linacre II                 -1  -1  -1  -1
+Magdalen II                 1   1   1   0
+ 13  Women's Div V
+St Anne's II                0   1   1  -1
+Hertford II                 0   0   1   0
+Mansfield II                0  -1  -1  -1
+Lincoln II                 -1  -1   0   1
+St Peter's II               1   1   0   1
+Magdalen III                0   1   1   0
+Christ Church III           0   0  -1   0
+St Hilda's II              -1   1   1   0
+Christ Church IV            1  -1   0   0
+L.M.H. III                  0   0   0  -1
+Keble IV                    0   0   0   1
+Oriel II                    0  -1   0   0
+Exeter II                   0   1   0   0

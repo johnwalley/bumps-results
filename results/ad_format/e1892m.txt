@@ -1,0 +1,27 @@
+EIGHTS 1892
+ 6  2  23   = NDay, NDiv, NCrew
+ 11  Men's Div I
+Brasenose                   0  -1  -1   0   0   0
+New College                -1   0   1   0   0   0
+Magdalen                    1   1   0   0   0   0
+Christ Church               0   0   0   0   0   0
+St John's                   0  -1   0   0   0   0
+Balliol                     0   1   0   0   0   0
+Hertford                   -1   0  -1  -1   0   0
+Pembroke                    1   0   0   0   0   0
+Keble                       0   0   1   0   0   0
+Exeter                      0   0  -1   0   0   0
+Merton                      0  -1  -1  -1   0   0
+ 12  Men's Div II
+Corpus Christi             -1  -1  -1  -1  -1  -1
+Queen's                     1   1   1   1   0   0
+University                  0   1   1   0   0   0
+Trinity                     0   0   1   1   0   0
+Worcester                   0  -1   0  -1   0   1
+St Catherine's             -1  -1   0   0   0   0
+Wadham                      1   1   0   1   0   0
+Oriel                      -1   0   0   0   0   0
+Lincoln                     1   1   0   1   1   0
+St Mary Hall                0   0   0   0  -1  -1
+Jesus                       0   0   0  -1   0   1
+S.E.H.                      0   0   0   1   1   0

@@ -1,0 +1,20 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1947
+Days,6
+
+Division,T,O,Mg,N,SE,SJ,Ch,U,Br,B,E,Mg2
+Division,Wh,Co,P,Wt,N2,Mt,K,SP,Q,H,O2,SE2
+Division,J,SJ2,Lc,Br2,SC,B2,E2,T2,SP2,U2,K2,Ch2
+Division,Q2,B3,Mt2,Mg3,P2,B4,Wt2,SJ3,H2,SC2,J2,Br3
+Division,Ch3,Lc2,K3,E3,O3,T3,Mg4,Q3,P3,U3,Wh2,N3
+Division,SP3,Mt3,Wt3,H3,SC3,Lc3,Wh3,Br4,E4,T4
+
+Results
+rrro3uur rrrurrurru ruurrrruu ruuurrrur rururruur uuuurrur
+uurrurr ro5o3ururrr uuurruur uurrururr uururruu rrrrruurrrr
+rrururu urrrrruurr ruurruuu uruururu ruurrruur rrrrrrurrrrr
+urrrrrur rurrruuur uuurrrrur rurururur uurrruurr urrrrrrrurr
+ururuu uuruurru uruurruu uurururu ruruuurrr rrrrrurrrrrr
+rruurur ruruuuur rruururru ruurururr ururrrrrrrr rrrrrrrrurrr

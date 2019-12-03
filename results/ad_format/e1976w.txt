@@ -1,0 +1,15 @@
+EIGHTS 1976
+ 4  1  12   = NDay, NDiv, NCrew
+ 12  Women's Div I
+L.M.H.                      0  -1   0   0
+St Hugh's                  -1   0   0   0
+Wadham                      1   1   0   0
+Wolfson                     0   0   0   0
+St Catherine's              0   0   0   0
+Jesus                       0   0   0  -1
+St Hilda's                  0  -1   0   0
+Somerville                  0   1   0   1
+Brasenose                   0  -1   0  -1
+Hertford                   -1  -1   0   0
+L.M.H. II                   1   1   0   0
+St Hugh's II                0   1   0   1

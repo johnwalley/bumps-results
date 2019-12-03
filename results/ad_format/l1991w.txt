@@ -1,0 +1,57 @@
+LENTS 1991
+ 4  3  52   = NDay, NDiv, NCrew
+ 17  Women's Div I
+Emmanuel                    0  -1   0   1
+Caius                      -1   0   0  -1
+LMBC                        1   1   0  -1
+Jesus                       0   0  -1   0
+Trinity Hall                0  -1   0   0
+Churchill                  -1   0  -1  -1
+Newnham                     1   1   1   1
+Clare                       0  -1  -1   0
+New Hall                    0   1   1   0
+Sidney Sussex               0  -1   0  -1
+Christ's                   -1  -1  -1  -1
+Queens'                     1   1   1   1
+Girton                     -1  -1   0   1
+St Catharine's              1   1   0   1
+Homerton                   -3  -1  -1   0
+Pembroke                   -1  -1   0   0
+Downing                     1   0   0   0
+ 17  Women's Div II
+Selwyn                      3   1   1   0
+Fitzwilliam                -1  -1  -1   1
+1st and 3rd                 1   2   0   0
+Robinson                    0   1   1   0
+QMABC                       0  -1   0   0
+Jesus II                    0   1   1  -1
+Newnham II                  0   0  -1   1
+Corpus Christi              0   0   1  -1
+Clare II                   -1  -1  -1  -1
+LMBC II                     1   0  -1  -1
+Peterhouse                  0   1   1   0
+Churchill II               -1  -1  -1  -1
+CCAT                        1   0   1   1
+Magdalene                   0   1   0   1
+New Hall II                 0   0   1   0
+Addenbrooke's              -1   1  -1   0
+Emmanuel II                 1  -1   1   1
+ 18  Women's Div III
+Girton II                   0   0   0   0
+Caius II                   -1  -1  -1   0
+LMBC III                    1   0  -1  -1
+Darwin                     -1  -1   0  -1
+Wolfson                     1   1   1   0
+St Edmund's                -1   0  -1  -1
+Selwyn II                   1   1   1   1
+Christ's II                 0  -1  -1  -1
+1st and 3rd II             -1  -1  -1  -1
+Sidney Sussex II            1   1   1   1
+Queens' II                 -1  -1   0   1
+St Catharine's II           1   1   1   1
+Homerton II                 0   1   1   1
+Robinson II                 0   0  -1   0
+Pembroke II                -1  -1  -1   0
+Girton III                  1   0   1   0
+Corpus Christi II          -1   0   1   0
+Newnham III                 1   1   0   0

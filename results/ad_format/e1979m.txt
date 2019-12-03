@@ -1,0 +1,133 @@
+EIGHTS 1979
+ 4  10  121   = NDay, NDiv, NCrew
+ 12  Men's Div I
+Oriel                       0   0   0   0
+Keble                      -1   0   0   0
+S.E.H.                      1   0   0   0
+New College                -1  -1  -1  -1
+Balliol                     1   0   0   0
+Christ Church               0   1   0   0
+Merton                     -1  -1  -1  -1
+Lincoln                     1   0   1   0
+University                 -1  -1  -1   0
+Exeter                      1   1   0   1
+Wadham                     -1  -1   0   0
+Magdalen                    1   1   1   0
+ 12  Men's Div II
+Worcester                  -1   0   0   0
+Pembroke                    1   1   1   1
+St John's                   0  -1  -1  -1
+Corpus Christi              0   1   0  -1
+Trinity                    -1   0   0   1
+Queen's                     1   0   1   1
+Christ Church II            0   0   0   0
+Jesus                       0   0   0  -1
+St Catherine's              0   0  -1   0
+St Peter's                  0  -1   0   0
+Oriel II                   -1  -1   1  -1
+Osler House                 1   1   1   1
+ 12  Men's Div III
+Brasenose                  -1  -1   1  -1
+Keble II                    1   1  -1   1
+S.E.H. II                   0   1  -1   1
+University II               0   0  -1  -1
+Balliol II                  0  -1  -1   0
+Pembroke II                -1  -1   0  -1
+Hertford                    1   1   1   0
+Merton II                   0   1   1   1
+Exeter II                  -1  -1  -1  -1
+Queen's II                  1   0  -1  -1
+New College II             -1  -1  -1  -1
+Lincoln II                  1   1   1   1
+ 12  Men's Div IV
+Wolfson                    -1   0   1   1
+Mansfield                   1   1   1   1
+St John's II               -1  -1  -1   0
+Wadham II                   1   0   0   1
+Christ Church III           0   1   0  -1
+St Peter's II              -1  -1   0  -1
+Worcester II                1   0   1   1
+S.E.H. III                  0   1   0   0
+Brasenose II                0   0   0   1
+Keble III                   0   0  -1   0
+Magdalen II                 0  -1   0  -1
+Balliol III                -1   0   0   1
+ 12  Men's Div V
+Oriel III                   1   1   1   0
+Hertford II                 0   0  -1  -1
+Exeter III                  0  -1  -1  -1
+University III             -1  -1  -1  -1
+Jesus II                    1   1   1   0
+St Catherine's II          -1   0   1   1
+Keble IV                    1   1   1   1
+Corpus Christi II          -1  -1  -1  -1
+Oriel IV                    1   0   0   1
+Merton III                  0   1   0   0
+St Peter's III             -1  -1  -1  -1
+Christ Church IV            1   0   1   0
+ 12  Men's Div VI
+Pembroke III                0   1   0   1
+S.E.H. IV                   0   0   1   0
+Queen's III                -1  -1  -1  -1
+Trinity II                  1   0  -1   0
+St Catherine's III         -1  -1  -1  -1
+Lincoln III                 1   1   1   1
+St John's III              -1  -1  -1  -1
+Wadham III                  1   1   1   0
+University IV               0   1   1   1
+Jesus III                  -1  -1  -1  -1
+Regent's Park               1   0   1   1
+New College III            -1   0   1   0
+ 12  Men's Div VII
+Linacre                     1   1   0   1
+Exeter IV                   0  -1   1   1
+Christ Church V            -1  -1   0   0
+Worcester III               1   1  -1   0
+Osler House II              0   1   0   0
+Lincoln IV                  0   0   0  -1
+University V               -1  -1  -1   0
+Christ Church VI            1   0  -1  -1
+Oriel V                    -1   0   1   1
+Queen's IV                  1   1   1   1
+St Catherine's IV           0  -1  -1  -1
+Pembroke IV                -1   0   1   1
+ 12  Men's Div VIII
+Exeter V                    1   1   0  -1
+Hertford III                0  -1  -1   0
+Balliol IV                 -1   0   1   0
+St Catherine's V            1   1   0   1
+Corpus Christi III         -1  -1   1   0
+Osler House III             1   0   0   0
+Mansfield II                0   1  -1  -1
+Lincoln V                  -1   0  -1   0
+Worcester IV                1   0   0   1
+Queen's V                  -1  -1  -1  -1
+Corpus Christi IV           1   0   1   0
+Oriel VI                   -1   0  -1   1
+ 12  Men's Div IX
+Queen's VI                 -1  -1   0   0
+Linacre II                  2   1   0  -1
+Wadham IV                   0   1   2   1
+Trinity III                 0   0   0   0
+Pembroke V                  0   0   0  -1
+Wolfson II                  0  -1  -1  -1
+Hertford IV                -1   0   1   0
+Lincoln VI                  1   1   0   1
+S.E.H. V                    0   0  -1   0
+Worcester V                 0   0   1   1
+Wadham V                    0  -1  -1  -1
+St Catherine's VI          -1  -1  -1  -1
+ 13  Men's Div X
+St John's IV                1   1   0   0
+St Peter's IV              -1  -1  -1   0
+Merton IV                   1   1   1   0
+Keble V                     0   1   1   1
+S.E.H. VI                   0   0   1   1
+Wolfson III                 0  -1  -1  -1
+Pembroke VI                -1  -1  -1  -1
+Merton V                    1   1   0  -1
+S.E.H. VII                  0   1   1   1
+Linacre III                -3   0   0   0
+Oriel VII                  -1   0   0   0
+Brasenose III               1   0   0   1
+Keble VI                    3   0   1   1

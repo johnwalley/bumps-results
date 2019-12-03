@@ -1,0 +1,89 @@
+LENTS 1975
+ 4  5  82   = NDay, NDiv, NCrew
+ 16  Men's Div I
+Jesus                       0   0  -1  -1
+1st and 3rd                 0  -1  -1  -1
+Selwyn                     -1  -1  -1  -1
+LMBC                        1   1   1   0
+Clare                      -1   0   1   1
+Fitzwilliam                 1   1   1   1
+Emmanuel                    0  -1  -1   0
+Pembroke                   -1   0   1   0
+Trinity Hall                1   1   0   1
+Downing                     0  -1  -1   0
+Queens'                    -1  -1  -1   0
+Churchill                   1   1   0  -1
+Magdalene                  -1  -1   0   0
+Caius                       1   1   1   1
+St Catharine's              0   1   1   0
+Sidney Sussex              -1  -1   0  -1
+ 16  Men's Div II
+King's                      1   0   0   0
+Clare II                   -1   0  -1  -1
+LMBC II                     1   1   0   0
+Christ's                    0  -1  -1   0
+Jesus II                   -1  -1   0  -1
+Corpus Christi              1   1   1   1
+Trinity Hall II             0   1   1   1
+Peterhouse                  0   0   0   1
+1st and 3rd II             -1   0   0   0
+Fitzwilliam II              1   0   0   0
+Churchill II                0   0   0   0
+Emmanuel II                 0  -1   1   0
+Pembroke II                -1  -1  -1  -1
+Queens' II                  1   1  -1   0
+Christ's II                 0   1   0  -1
+Selwyn II                  -1  -1  -1  -1
+ 16  Men's Div III
+Downing II                  1  -1   0   1
+LMBC III                   -1   0   1   0
+Magdalene II                1   2   1   1
+1st and 3rd III             0  -1  -1  -1
+Corpus Christi II          -1  -1  -1   0
+Caius II                    1   1   0   1
+Clare III                  -1  -1   0  -1
+St Catharine's II           1   1   1   0
+Jesus III                   0   1   1   1
+Downing III                -1  -1  -1  -1
+Churchill III               1   0  -1  -1
+Sidney Sussex II            0   1   1   1
+LMBC IV                    -3   1   0  -1
+Pembroke III               -1  -1  -1  -1
+Jesus IV                    1   0   0   1
+Peterhouse II               3   0   1   1
+ 16  Men's Div IV
+Fitzwilliam III            -1  -1  -1  -1
+1st and 3rd IV              1   0   1   1
+Churchill IV               -1  -1  -1   0
+King's II                   1   1   0   1
+Trinity Hall III            0   1   1   0
+Christ's III                0   0   1   1
+Magdalene III               0   0   0  -1
+Queens' III                -1  -1   0  -1
+Corpus Christi III          1   0  -1   0
+Selwyn III                 -1   0  -1   0
+Caius III                   1   1   1   1
+Churchill V                 0  -1   0   0
+Downing IV                 -1  -1   0  -1
+Magdalene IV                1   1   1   1
+Emmanuel III                0   1   0  -3
+Queens' IV                 -1  -1  -1  -3
+ 18  Men's Div V
+1st and 3rd V              -1   1  -3  -1
+Wolfson                     2   0  -1  -1
+Sidney Sussex III          -1  -1  -1   3
+Selwyn IV                   1   0   1   4
+St Catharine's III          0   1   4   1
+Fitzwilliam IV              0  -1  -1  -1
+Clare IV                   -1  -1  -1  -1
+LMBC V                      1   1   1   1
+St Catharine's IV           0   1   1   0
+1st and 3rd VI             -1  -1  -1  -1
+Trinity Hall IV             1   0   1   1
+Darwin                      0   1   0   1
+Emmanuel IV                 0  -1  -1   0
+LMBC VI                    -3  -1   0   0
+Christ's IV                -1   0   0  -1
+Caius IV                    1   0   1   1
+Peterhouse III              3   1   1   0
+Caius V                     0   1   0   1

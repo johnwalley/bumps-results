@@ -1,0 +1,101 @@
+EIGHTS 2017
+ 4  7  92   = NDay, NDiv, NCrew
+ 13  Men's Div I
+Oriel                      -1  -1   0   0
+Christ Church               1   0   0   0
+Keble                       0   1   0   0
+Pembroke                    0   0   0   0
+Wolfson                     0   0   0   0
+University                  0  -1   0   0
+Magdalen                   -1   0   0  -1
+Wadham                      1   1   0   0
+S.E.H.                      0   0  -1  -1
+New College                 0  -1  -1   0
+Trinity                    -1  -1   0   0
+Balliol                     1   1   1   1
+Hertford                   -1   0  -1  -1
+ 13  Men's Div II
+St Catherine's              1   1   1   1
+L.M.H.                      0   0   1   0
+Mansfield                   0   0  -1   0
+Lincoln                     0  -1   0  -1
+Worcester                  -1   0  -1  -1
+Jesus                       1   1   1   1
+Brasenose                   0  -1  -1   0
+Pembroke II                -1  -1  -1  -1
+Queen's                     1   1   1   1
+St Hugh's                  -1   0   1   0
+St John's                   1   1   1   1
+Oriel II                   -1  -1  -1  -1
+St Anne's                   1   0  -1  -1
+ 13  Men's Div III
+Exeter                      0  -1   1   1
+Merton                      0   2   1   1
+St Peter's                 -1  -1  -1  -1
+Corpus Christi              1   0   0   1
+Christ Church II            0   1   0   0
+New College II             -1  -1  -1  -1
+St Antony's                 1   0   1   0
+Somerville                  0   1   0   1
+University II               0  -1   0   1
+Wadham II                  -1   0   0  -1
+Keble II                    1   1   1   0
+Linacre                     0   0   0   1
+Balliol II                  0   0  -1   0
+ 13  Men's Div IV
+Trinity II                 -1  -1   0  -1
+S.E.H. II                   1   0  -1   0
+Magdalen II                -1   0  -1  -1
+Jesus II                    1   1   2   0
+Wolfson II                  0  -1  -1   0
+Hertford II                -1  -1  -1  -1
+St Catherine's II           1   1   1   1
+Osler House                -1  -1  -1  -1
+Green Templeton             1   1   1   1
+Brasenose II                0   1   1  -5
+Merton II                   0  -1  -1   5
+Worcester II               -1  -1  -1  -1
+St Hilda's                  1   1   1   1
+ 13  Men's Div V
+Lincoln II                  0   1   1   1
+St John's II                0  -1  -1  -1
+Exeter II                  -1  -1  -1  -1
+Regent's Park               1   1   1   0
+Wolfson III                -1  -1  -1  -1
+St Peter's II               1   1   1   1
+Pembroke III               -1  -1  -1  -1
+St Benet's Hall             1   1   1   1
+University III             -1  -1  -1  -1
+Queen's II                  1   1   1   1
+L.M.H. II                   0   1   1   1
+Jesus III                   0   0   1   1
+Mansfield II                0   0   0   1
+ 13  Men's Div VI
+Christ Church III           0   0   0  -1
+St Anne's II               -1  -1  -1   1
+Somerville II               1   0  -1   0
+Wadham III                 -1   0   1  -1
+Keble III                   1   1   1   1
+Oriel III                   0   0   0   0
+St Hugh's II                0  -1  -1  -1
+New College III            -5  -1  -1  -1
+Balliol III                -1  -1  -1  -1
+Pembroke IV                 1   0   1   1
+Linacre II                 -1   0   1   0
+St Antony's II              1   1   0   1
+Jesus IV                    5   1   0  -1
+ 14  Men's Div VII
+Merton III                 -1  -1  -1  -1
+St Hilda's II               1   1  -1   0
+St Catherine's III         -1   0   1   1
+Balliol IV                  1   1   2   1
+Corpus Christi II           0   0  -1   0
+Keble IV                    0   0   1   1
+Lincoln III                -1   0  -1  -1
+Corpus Christi III          1   0   0   0
+St Antony's III             0  -1  -1  -1
+Magdalen III               -1   0   1   1
+St Hilda's III              1   1   1   0
+Oriel IV                   -1   1   0   1
+Somerville III              1  -1   0  -1
+Queen's III                 0   0   0   1

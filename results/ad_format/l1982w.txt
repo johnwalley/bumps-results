@@ -1,0 +1,38 @@
+LENTS 1982
+ 4  2  34   = NDay, NDiv, NCrew
+ 16  Women's Div I
+Girton                     -1   0   0  -1
+Newnham                     1   0   0   0
+Selwyn                     -1   0  -1   0
+New Hall                    1   0   0   1
+Churchill                   0  -1   0   0
+1st and 3rd                -1   0   0  -1
+Clare                       1   1   1   0
+Girton II                  -1  -1  -1   0
+Homerton                    1   0  -1  -1
+Trinity Hall                0   1   1   1
+Jesus                       0   0   1   1
+Clare II                   -1   0  -1  -1
+Emmanuel                    1   0   0  -1
+Sidney Sussex              -1   1   1   1
+Caius                       1  -1  -1  -1
+New Hall II                -1  -1  -1  -1
+ 18  Women's Div II
+Christ's                    1   0   1   1
+St Catharine's             -1  -1  -1  -1
+Darwin                      1   1   0   1
+Fitzwilliam                 0   1   1   0
+QMABC                      -1  -1  -1  -1
+Queens'                     1   0   1   1
+Newnham II                  0   1   0   1
+Selwyn II                   0   0   1   0
+St Catharine's II          -3  -1  -1  -1
+Robinson                   -1   1   1   1
+Emmanuel II                 1  -1  -1  -1
+Newnham III                 3   0  -1   0
+Christ's II                 0   1   1   0
+Newnham IV                  0   0   1   1
+Homerton II                 0   0   0   1
+Fitzwilliam II              0  -1   0   0
+Trinity Hall II             0   1   0   0
+Jesus II                    0   0   0   0

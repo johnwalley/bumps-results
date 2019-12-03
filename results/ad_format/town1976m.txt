@@ -1,0 +1,55 @@
+TOWN 1976
+ 4  3  50   = NDay, NDiv, NCrew
+ 16  Men's Div I
+City 1                     -1  -1   0   0
+Rob Roy 1                   1   0  -1   0
+99 1                        0   1   1   0
+Scouts 1                   -1  -1  -1  -1
+Cantabs 1                   1   0  -1   0
+99 2                        0   1   1   0
+99 3                        0   0   1   0
+Churchill 1                -1  -1  -1  -1
+Rob Roy 2                   1   0   0   1
+City 2                      0   1   0   0
+Rob Roy 3                  -1   0   0   1
+ACUA 1                      1   0   1   0
+Cantabs 2                   0  -1  -1  -1
+Telephones 1                0   1   0  -1
+Leckhampton 1               0  -1  -1  -1
+99 4                       -1  -1  -1  -1
+ 16  Men's Div II
+Rob Roy 4                  -3   1   1   1
+Cantabs College 1          -1  -1  -1  -1
+City 3                      1   1   1   1
+MacDonalds 1                4   1   1   1
+King's 1                   -1  -1   0   0
+Cam Veterans 1              1   0   1   1
+St Cats 1                  -3  -1  -1  -1
+Leckhampton 2              -1   0   1  -1
+Scouts 2                    1   0  -1   1
+99 5                        3   1   0   1
+Churchill 2                 0   1   0   0
+Cantabs 5                   0   0   1   0
+ACUA 2                      0  -1  -1  -1
+City 4                     -1   0   1   0
+Peterhouse 1                1   1   0   1
+Clare 1                     0  -1   0  -1
+ 18  Men's Div III
+Cantabs 4                   0  -1  -1  -1
+Soham Village College 1    -1  -1  -1  -1
+Eleans 1                    1   2   0   1
+City 5                     -1  -1  -1 -10
+Darwin 1                    1   1   1   1
+Churchill 3                 0   1   1   1
+99 6                       -1  -1  -1   1
+MacDonalds 2                1   0   1   1
+Telephones 2               -1  -1   0   1
+99 7                        1   1   0   0
+Churchill 4                -1  -3   0   1
+Rob Roy 5                   1   1   1   2
+Cantabs 5                  -1  -4   0   0
+Rob Roy 6                   1  -1   0   1
+Cantabs 6                  -1   4   0   0
+99 8                        1   2   0   2
+ACUA 3                      0   1   0   1
+City 6                      0   1   0   1

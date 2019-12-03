@@ -1,0 +1,28 @@
+TOWN 1968
+ 4  2  24   = NDay, NDiv, NCrew
+ 15  Men's Div I
+Rob Roy 1                   0   0   0   0
+99 1                       -1   0   0   0
+Leys Sch 1                  1   0   0   0
+Cantabs 1                   0   0   0   0
+99 2                        0   0   0   0
+Rob Roy 2                   0   0   0   0
+Cambs High School 1        -1  -1  -1  -1
+Scouts 1                    1   0  -1  -1
+Rob Roy 3                  -1  -1  -1  -1
+ACUA 1                      1   1   1   0
+99 3                       -1   0   1   1
+Leys Sch 2                  1   1   1   1
+Scouts 2                   -1   0   0   0
+Cantabs 2                   1   0   0   1
+99 4                        0   0   0   0
+ 9  Men's Div II
+Cam Grammar Sch 1           0   0   0   0
+Rob Roy 4                   0   0   0   0
+Cantabs 3                   0   0   0  -1
+Cam Grammar Sch 2          -1  -1  -1  -1
+Rob Roy 5                   1   0  -1   0
+Rob Roy 6                  -1   0   1   0
+ACUA 2                      1   1   1   1
+Scouts 3                   -1   0   0   0
+ACUA 3                      1   0   0   1

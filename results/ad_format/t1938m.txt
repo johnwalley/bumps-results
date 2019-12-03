@@ -1,0 +1,50 @@
+TORPIDS 1938
+ 6  4  44   = NDay, NDiv, NCrew
+ 13  Men's Div I
+Magdalen                    0  -1  -1   0   0   0
+New College                 0   1   0   0   0   0
+S.E.H.                      0   0   1   0   0   0
+University                  0   0   0   0   0  -1
+St John's                   0   0  -1  -1   0   0
+Balliol                     0   0   1   0  -1   0
+Exeter                      0  -1  -1   0  -1   0
+Oriel                      -1  -1  -1   0   0   0
+Pembroke                    1   1   0   1   1   1
+Corpus Christi             -1  -1   0   0   0   0
+Christ Church               1   1   1   0   0   0
+Keble                      -1  -1   0   0   0   0
+Trinity                     1   1   1   0   1   0
+ 13  Men's Div II
+Merton                      0   1   0   0   0   0
+Brasenose                   0   0   0   0   0   0
+Jesus                      -1   0   0  -1  -1  -1
+Queen's                     1   0   0   0  -1   0
+Lincoln                    -1  -1  -1  -1  -1  -1
+Worcester                   1   0  -1   0   1   0
+New College II             -1  -1  -1  -1  -1  -1
+Hertford                    1   1   1   1   1   0
+Balliol II                 -1   0   1   1   0   0
+St John's II                1   1   1   0   0   1
+Magdalen II                -1  -1  -1  -1  -1   0
+Christ Church II            1   0  -1  -1   0   1
+Wadham                      0   1   1   1   1   0
+ 13  Men's Div III
+St Catherine's              0  -1   0   1   0   0
+Exeter II                  -1  -1   0   0   0   0
+St Peter's                  1   1   1   1   1   1
+S.E.H. II                   0   1   0   0   1   0
+Brasenose II                0  -1   0   0  -1  -1
+Queen's II                  0   1   0   0   0  -1
+Oriel II                   -1   1   0  -1  -1  -1
+Keble II                    1  -1  -1   0   1   1
+Pembroke II                 0  -1  -1  -1   0  -1
+Merton II                  -1  -1  -1  -1  -1  -1
+St Peter's II               1   1   1   1   1   1
+University II               0   1   1   0   0   1
+Worcester II               -1   0  -1  -1  -1   0
+ 5  Men's Div IV
+Hertford II                 1   0   1   1   0   0
+Balliol III                -1  -1   0   0   1   1
+Corpus Christi II           1   0   1   1  -1   0
+Christ Church III           0   1   0   1   2   1
+Balliol IV                  0   0   0   0   0   0

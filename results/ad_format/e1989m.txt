@@ -1,0 +1,120 @@
+EIGHTS 1989
+ 4  9  109   = NDay, NDiv, NCrew
+ 12  Men's Div I
+Oriel                       0   0   0   0
+New College                 0   0   0   0
+University                  0   0   0   0
+Christ Church               0   0   0   0
+S.E.H.                      0   0   0   0
+Worcester                   0   0   0  -1
+Pembroke                    0   0  -1   0
+Keble                       0  -1  -1   1
+Hertford                   -1  -1   0   0
+St John's                   1   1   1   1
+Balliol                     0   1   1  -1
+Wadham                      0   0   0   0
+ 12  Men's Div II
+Magdalen                    0   0  -1   0
+Lincoln                     0  -1  -1  -1
+Trinity                    -1  -1  -1  -1
+Brasenose                   1   1   1   0
+St Catherine's              0   1   1   0
+Oriel II                    0  -1   0   1
+Queen's                    -1  -1  -1   0
+Jesus                       1   1   1   1
+Exeter                     -1  -1  -1  -1
+New College II              1   1   0   0
+Wolfson                     0   1   1   0
+St Peter's                  0   0   1   0
+ 12  Men's Div III
+Corpus Christi              0  -1   0   0
+Osler House                -1   0   0   0
+University II               1   1   0   1
+L.M.H.                      0   0   0   0
+Merton                      0   0  -1   0
+Christ Church II            0   0   1   0
+Oriel III                  -1  -1  -1  -1
+Hertford II                 1   0   0   0
+Mansfield                  -1  -1  -1  -1
+Worcester II                1   1   0   0
+S.E.H. II                   0   1   1   0
+Keble II                   -1  -1  -1  -1
+ 12  Men's Div IV
+Lincoln II                 -3  -1   0   0
+St John's II               -1   0   1   0
+St Anne's                   1   1   0   1
+Balliol II                  4   0   1   1
+Exeter II                  -3  -1   0  -1
+Pembroke II                -1   0  -1   0
+St Catherine's II           1   0   0  -1
+Brasenose II                3   1   0   1
+Linacre                     0   1   1   1
+Queen's II                  0   0  -1   0
+Magdalen II                 0  -1  -1  -1
+Trinity II                 -1  -1  -1  -1
+ 12  Men's Div V
+Wadham II                   1   1   1   1
+Worcester III              -1  -1  -1  -1
+Osler House II              1   1   1   0
+Jesus II                    0   1   1   1
+Keble III                  -1  -1  -1   0
+New College III             1   0   1   1
+Christ Church III          -1  -1   0  -1
+University III              1   1   0   1
+Merton II                  -1   0  -1  -1
+Wolfson II                  1   1   1   0
+Balliol III                 0   0   1   1
+Exeter III                  0  -1  -1   0
+ 12  Men's Div VI
+Merton III                 -1  -1  -1   0
+S.E.H. III                  1   1  -1   0
+St Peter's II               0   1   2   1
+University IV               0   0   1   0
+Lincoln III                -1   0  -1  -1
+L.M.H. II                   1   0   0  -1
+Oriel IV                    0  -1  -1  -1
+Oriel V                    -1  -1  -1   0
+St Catherine's III          1   1   1   1
+Keble IV                   -1  -1  -1   1
+Hertford III                1   1   1   1
+Christ Church IV           -1   0  -1  -1
+ 12  Men's Div VII
+St John's III              -1  -1  -1  -1
+Pembroke III                2   1   1   1
+Corpus Christi II          -1   0   1   1
+New College IV              1   1   2  -1
+Wadham III                 -1  -1  -1  -1
+Queen's III                 1   0  -1  -1
+St Anne's II                0   1   1   1
+St Catherine's IV          -1  -1  -1  -1
+Brasenose III               1   0   1   1
+Hertford IV                 0   1   0   1
+Mansfield II                0  -1  -1   0
+Oriel VI                   -1   0  -1  -8
+ 12  Men's Div VIII
+L.M.H. III                  1   1   1   0
+Worcester IV                0  -1  -1   2
+S.E.H. IV                  -1  -1  -1   2
+Templeton                   1   1   2   1
+Exeter IV                  -1  -1  -1   1
+Magdalen III                1   1   1  -6
+University V                0   1   1   2
+Magdalen IV                 0   0   1   2
+Christ Church V            -1   0  -1  -1
+Jesus III                   1   0   0   3
+L.M.H. IV                   0  -1  -1  -1
+S.E.H. V                   -1  -1  -1  -1
+ 13  Men's Div IX
+St Anne's III              -1   1   1   1
+St Hugh's                   2   1   1   2
+St Hugh's II                0   0   1   1
+Magdalen V                  0  -1   0   0
+St Peter's III              0   1   0   1
+Linacre II                 -1   0  -1  -1
+Lincoln IV                  1   0   0   0
+Oriel VII                   0  -1   0   1
+Worcester V                -1  -1   0   0
+Pembroke IV                 1   1   1   0
+St Hugh's III              -1   0   0   0
+Brasenose IV                1   1   0   0
+Oriel VIII                  0   0   0   0

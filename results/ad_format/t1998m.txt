@@ -1,0 +1,81 @@
+TORPIDS 1998
+ 4  6  73   = NDay, NDiv, NCrew
+ 12  Men's Div I
+Oriel                       0   0   0   0
+Pembroke                    0   0   0   0
+Magdalen                    0   0  -1   0
+Brasenose                  -1   0   0   0
+New College                 1   0   1   0
+University                  0  -3  -1   0
+Lincoln                    -1   1  -1   0
+Christ Church               1   1   0   0
+Oriel II                   -2  -1  -1   0
+Exeter                      1   1   1   0
+Worcester                   1   0   1   0
+Queen's                     0   1   0   0
+ 12  Men's Div II
+S.E.H.                      0   0   1   0
+Wadham                      0   0   0   0
+St Catherine's              0   0   0   0
+Trinity                     0  -1   1   0
+Jesus                       0   1  -9   0
+St John's                   0   0   1   0
+Balliol                    -2  -2   0   0
+St Peter's                  1  -1   1   0
+Merton                      1   1   1   0
+Osler-Green                -3  -1  -1   0
+Hertford                    1   1   1   0
+L.M.H.                      1   1   1   0
+ 12  Men's Div III
+Keble                       1   0   2   0
+St Anne's                   0   1   1   0
+Wolfson                    -2  -1   0   0
+Linacre                     1  -1   0   0
+Mansfield                   1   1   1   0
+Pembroke II                -1  -1  -1   0
+Corpus Christi              1   1   0   0
+Oriel III                  -1  -4  -2   0
+Balliol II                 -3   1  -2   0
+Keble II                    2   1   0   0
+Christ Church II            0   1   0   0
+New College II              2   1   1   0
+ 12  Men's Div IV
+University II               0  -1   2   0
+St Hugh's                  -1   0   1   0
+Magdalen II                 1   2   1   0
+Exeter II                  -9  -1  -1   0
+Lincoln II                  1   0  -1   0
+Brasenose II                1  -2   1   0
+Somerville                  1   1   1   0
+L.M.H. II                   1   1  -1   0
+S.E.H. II                   0   1  -1   0
+Wolfson II                  2  -3  -1   0
+St John's II                0   2   1   0
+Wadham II                   0  -1   0   0
+ 12  Men's Div V
+St Anne's II                3   0   0   0
+Worcester II                0   2   1   0
+Jesus II                    0   0   1   0
+St Benet's Hall            -2  -1  -1   0
+St Catherine's II           1   0   0   0
+St Peter's II               1   0  -1   0
+Oriel IV                   -1  -1  -1   0
+Queen's II                  1   1   1   0
+Merton II                   0   1   1   0
+University III             -1   0  -1   0
+Hertford II                 1   0   1   0
+Regent's Park              -1  -1  -2   0
+ 13  Men's Div VI
+Magdalen III                1   0   1   0
+Linacre II                 -7   1   1   0
+Corpus Christi II           1   1   0   0
+Balliol III                 1  -6   0   0
+Trinity II                  1   0   1   0
+L.M.H. III                  0   1  -1   0
+University IV               2   2   1   0
+St Catherine's III          1   1   1   0
+Mansfield II                1   1  -4   0
+Brasenose III              -3   0   0   0
+Pembroke III                1   0   2   0
+S.E.H. III                  1   0   1   0
+University V                1   0   0   0

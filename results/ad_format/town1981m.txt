@@ -1,0 +1,54 @@
+TOWN 1981
+ 4  3  49   = NDay, NDiv, NCrew
+ 17  Men's Div I
+City 1                      0   0   0   0
+99 1                        0   0   0   0
+City 2                      0   0   0   0
+99 2                        0   0  -1   0
+99 3                        0  -1   0   0
+City 3                     -1   0  -1   0
+St Ives 1                   1   1   1   0
+Peterborough 1              0   0   1   0
+Churchill 1                 0   0   0  -1
+Sidney Sussex 1            -1  -1  -1  -1
+Christ's 1                  1   0  -1  -1
+Lady Somerset 1            -1  -1  -1   0
+Addenbrooke's 1             1   1   1   1
+Cantabs 1                  -1  -1   0   0
+Univ Sports 1               1   1   1   1
+99 4                        0   1   1   1
+Telephones 1               -1   0  -1  -1
+ 15  Men's Div II
+MacDonalds 1               -1  -1  -1  -1
+Free Press 1                2   0   0   0
+99 5                       -1   0   1   1
+City 4                      1   1   1   0
+99 6                       -1  -1  -1  -1
+Univ Sports 2               1   0   0   1
+Rob Roy 1                  -1  -1  -1  -1
+99 7                        1   1   0  -1
+Darwin 1                   -1   0   1   1
+Leckhampton 1               1   1   1   1
+99 8                       -1  -1  -1  -1
+Chemical Lab 1              1   0  -1  -1
+Univ Sports 3              -1  -1  -1   0
+City 5                      1   1   1   1
+Cantabs 2                  -1   0   1   1
+ 17  Men's Div III
+Darwin 2                    1   1   1   1
+Free Press 2                0  -1  -1  -1
+Police 1                    0   1   0   0
+Telephones 3               -3  -1  -1  -1
+Univ Sports 4              -1   0  -1  -1
+Red Lion Toft 1             1   0   0   1
+Free Press 3                3   0   1   0
+Rob Roy 2                  -3   1   0   1
+MacDonalds Ladies 1        -1  -1  -1  -1
+City 6                      1   0   1   1
+99 9                        3   1   1   0
+City 7                     -1   1   1   0
+99 10                       1  -1  -1   0
+City 8                      0   0   1   1
+Rob Roy 3                   0   0  -1   0
+99 11                      -1   1   1   0
+Rob Roy Ladies 1            1  -1   0   0

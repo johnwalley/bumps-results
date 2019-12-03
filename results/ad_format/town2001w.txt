@@ -1,0 +1,25 @@
+TOWN 2001
+ 4  2  21   = NDay, NDiv, NCrew
+ 17  Women's Div I
+Rob Roy 1                   0   0   0   0
+Camb Blue 1                 0   0   0   0
+99 1                       -1  -1  -1  -1
+City 1                      1   0   0   0
+Cantabs 1                  -1  -1   0   1
+Rob Roy 2                   1   1   0   0
+Camb Blue 2                -1   0   0  -1
+City 2                      1   1   1   0
+Champs 1                    0  -1   0  -1
+City 3                     -1   0  -1   0
+Simoco 1                    1   1   0   1
+Camb Blue 3                 0  -1   0   0
+Cantabs 2                  -1   0   0   0
+Rob Roy 3                   1   1   1   1
+Champs 2                   -1   0   0   0
+City 4                      1   0   0   0
+Rob Roy 4                  -1   0  -1  -1
+ 4  Women's Div II
+Champs 3                   -1   0   1   0
+Camb Blue 4                 2   0   0   0
+Cantabs 3                  -1   1   0   1
+City 5                      1  -1   0   0

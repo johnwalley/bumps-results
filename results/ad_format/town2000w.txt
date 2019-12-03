@@ -1,0 +1,30 @@
+TOWN 2000
+ 4  1  27   = NDay, NDiv, NCrew
+ 27  Women's Div I
+Free Press 1                0  -1   0   0
+City 1                     -1   0   0  -1
+Rob Roy 1                   1   1   0   0
+Free Press 2               -1  -1  -1  -1
+Rob Roy 2                   1   0  -1  -1
+City 2                     -1  -1  -1  -1
+99 1                        1   1   1   1
+City 3                     -1  -1  -1  -1
+Cantabs 1                   1   1   1   1
+Free Press 3               -1  -1   0   1
+Rob Roy 3                   1   1   1   1
+City 4                     -1  -1  -1  -1
+Cantabs 2                   1   1   1   1
+City 5                     -1   0   1   1
+Free Press 4                1   1   0  -1
+Free Press 5                0  -1  -1  -1
+Free Press 6               -1  -1  -1  -1
+Champs 1                    1   1   0   1
+Rob Roy 4                  -1  -1   0   1
+Simoco 1                    1   1   1   0
+99 2                       -1   0  -1  -1
+Champs 2                    1   1   1   1
+99 3                        0  -1  -1   0
+Rob Roy 5                  -1  -1  -1   1
+Cantabs 3                   1   1   1   0
+Champs 3                   -1   0   1  -1
+Cantabs 4                   1   1   1   1

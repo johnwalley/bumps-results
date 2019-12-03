@@ -1,0 +1,95 @@
+MAYS 1986
+ 4  4  89   = NDay, NDiv, NCrew
+ 22  Women's Div I
+Churchill                   0   0   0   0
+New Hall                    0   0  -1  -1
+Trinity Hall                0  -1  -1  -1
+Clare                      -1  -1  -1  -1
+Newnham                     1   1   1   0
+Homerton                   -1  -1  -1   0
+Jesus                       1   1   1   1
+Fitzwilliam                 0   1   1   1
+Newnham II                 -1  -1  -1  -1
+1st and 3rd                 1   0   1   1
+Girton                     -1  -1  -1   0
+Caius                       1   1   0   0
+Sidney Sussex              -1  -1   0  -1
+Christ's                    1   1   1   0
+New Hall II                -1   0  -1  -1
+St Catharine's              1   1   1   1
+Selwyn                      0  -1  -1  -1
+Clare II                   -1  -1  -1  -1
+Emmanuel                    1   1   1   1
+QMABC                      -1  -1  -1  -1
+Churchill II                1   1   1   1
+Downing                    -1  -1   0   1
+ 22  Women's Div II
+LMBC                        1   1   1   1
+Newnham III                -1  -1  -1  -1
+Queens'                     1   1   1   1
+Homerton II                -1  -1  -1  -1
+Selwyn II                   1   1   0  -1
+Girton II                  -3   1  -3   1
+New Hall III               -1  -1  -1  -1
+Trinity Hall II             1  -3   1   0
+Darwin                      3   1   1   1
+Jesus II                    0   3   1   1
+Clare III                  -1  -1  -9  -1
+Newnham IV                  1  -3  -1  -1
+Christ's II                 0   1   0   0
+Girton III                 -1  -1  -1  -1
+1st and 3rd II              1   3   3   1
+Robinson                   -1  -1  -1  -1
+Corpus Christi              1   1   1   1
+Wolfson                    -1  -1  -1   0
+Pembroke                    1   1   1   1
+Addenbrooke's               0   1   1   1
+Peterhouse                  0  -1   9  -1
+Vet School                  0   1   1   1
+ 22  Women's Div III
+Emmanuel II                 0   0   0  -1
+Homerton III               -1  -1  -1  -1
+Sidney Sussex II            1   0  -1  -1
+Caius II                    0   1   1   2
+Fitzwilliam II             -1  -1   0  -1
+Jesus III                   1   0   1   1
+Girton IV                  -1  -1  -1  -1
+Churchill III               1   1   0   1
+Christ's III               -1  -3  -1  -1
+LMBC II                     1   1   0   1
+Homerton IV                 0  -1   0  -1
+St Catharine's II          -5  -1   3   1
+Trinity Hall III           -1  -1  -3  -1
+Jesus IV                    1   3   1   0
+LMBC III                   -1   0  -1   0
+Downing II                  1   1   1   1
+Churchill IV                5   1   0   1
+Clare IV                   -1  -1  -1  -1
+Corpus Christi II           1   1   1   0
+Jesus V                     0   1   0   1
+QMABC II                    0  -1  -1  -1
+LMBC IV                    -1   0  -1   1
+ 23  Women's Div IV
+Jesus VI                   -1  -1  -1  -1
+Fitzwilliam III             2   1   1   0
+Pembroke II                 0   1   2   1
+Robinson II                 0   0   1   0
+1st and 3rd III            -1  -1  -1  -1
+Downing III                 1   0  -1   0
+Caius III                  -1  -1  -1  -1
+Selwyn III                  1   1   1   1
+Emmanuel III                0   1   1   0
+1st and 3rd IV             -1   0  -1  -1
+Queens' II                  1   0   1   1
+Sidney Sussex III           0  -1  -1  -1
+Trinity Hall IV            -3  -1  -1  -1
+St Catharine's III         -1   0  -1  -1
+Emmanuel IV                 1   0   1   1
+Darwin II                   3   1   1   1
+Queens' III                 0   1   1   1
+New Hall IV                 0  -1  -1   0
+Jesus VII                  -1  -1   0  -1
+Addenbrooke's II            1   1   1   1
+Emmanuel V                 -1   0  -1   0
+Newnham V                   1   1   1   1
+Queens' IV                  0   0   1   1

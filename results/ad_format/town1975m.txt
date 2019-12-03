@@ -1,0 +1,48 @@
+TOWN 1975
+ 4  3  43   = NDay, NDiv, NCrew
+ 15  Men's Div I
+Rob Roy 1                  -1   0   0   0
+City 1                      1   0   0   0
+99 1                        0   0   0   0
+Scouts 1                    0   0   0   0
+Churchill 1                 0  -1  -1  -1
+99 2                       -1   0   1   0
+Cantabs 1                   1   1   0   0
+Rob Roy 2                   0  -1   0   0
+ACUA 1                     -1  -1  -1   0
+99 3                        1   1   0   1
+Leckhampton 1              -1  -1  -1  -1
+City 2                      1   1   0   0
+Rob Roy 3                   0   1   1   0
+Cantabs 2                   0   0   1   0
+99 4                       -1   0  -1   0
+ 14  Men's Div II
+County Boys 1              -1  -1   0  -1
+Telephones 1                2   0   0   1
+Rob Roy 4                  -1   0   0   1
+Clare Crabs 1               1   1   1   0
+St Cats 1                   0   0   0  -1
+Churchill 2                -1  -1  -1  -1
+Leckhampton 2               1   0  -1   0
+Cantabs 3                  -1  -1  -1   0
+City 3                      1   1   1   1
+Scouts 2                    0   1   1   0
+ACUA 2                     -1   0   0   0
+99 5                        1   0   1   1
+CCL Owls 1                  0  -1   0  -1
+Clare Crabs 2              -1  -1  -1  -1
+ 14  Men's Div III
+Cantabs 4                  -1   1   0  -1
+Scouts 3                    2   1   0   0
+Telephones 2                0  -1  -1  -1
+ACUA 3                     -1  -1  -1  -1
+City 4                      1   1   1   2
+Rob Roy 5                  -1  -1  -1  -1
+City 5                      1   1   1   1
+99 6                        0   1   1   1
+Rob Roy 6                   0  -1  -1   0
+City 6                     -1  -1   0   0
+99 7                        1   1   1   1
+ACUA 4                     -1  -1   0   0
+City 7                      1   1   1   1
+99 8                        0   1   0   0

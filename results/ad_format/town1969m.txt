@@ -1,0 +1,27 @@
+TOWN 1969
+ 4  2  23   = NDay, NDiv, NCrew
+ 15  Men's Div I
+Rob Roy 1                   0   0   0   0
+Leys Sch 1                  0   0   0   0
+99 1                        0   0   0   0
+Cantabs 1                   0   0   0  -1
+99 2                       -1  -1  -1  -1
+Rob Roy 2                   1   0  -1   0
+ACUA 1                      0   1   1   1
+Leys Sch 2                  0   0   1   0
+Scouts 1                   -1   0   0   0
+99 3                        1   0   0   1
+Cambs High School 1        -1  -1  -1  -1
+Cantabs 2                   1   0  -1  -1
+Rob Roy 3                   0   1   1   0
+Scouts 2                    0  -1  -1  -1
+99 4                       -1  -1  -1  -1
+ 8  Men's Div II
+Cam Grammar Sch 1           1   1   1   1
+Rob Roy 4                  -1  -1  -1  -1
+ACUA 2                      1   1   1   1
+Rob Roy 5                  -1  -1  -1   0
+ACUA 3                      1   1   1   1
+Cam Grammar Sch 2          -1  -1   0   0
+Police 1                    1   1   1   1
+Selwyn 1                    0   1   1   1

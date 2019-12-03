@@ -1,0 +1,55 @@
+TORPIDS 1986
+ 4  4  49   = NDay, NDiv, NCrew
+ 12  Women's Div I
+St Hugh's                   0   0   0  -1
+St Catherine's              0  -1   0   0
+L.M.H.                     -1  -1   0   0
+Osler House                 1   1   0   1
+St Hilda's                 -1   0   0   0
+Somerville                  1   1   0   0
+University                  0   0   0  -1
+Worcester                   0  -1   0   0
+Balliol                    -1   0   0   0
+Wadham                      1   1   0   1
+St Anne's                   0  -1   0  -1
+Pembroke                   -1   0   0  -1
+ 12  Women's Div II
+Trinity                    -1  -2   0   0
+Jesus                       2   1   0   0
+St Hugh's II               -1   1   0   0
+Brasenose                   1   1   0   2
+Keble                       0   0   0   0
+Lincoln                     0   0   0  -2
+Corpus Christi              0  -2   0   0
+Exeter                     -2   0   0  -1
+Wolfson                     1   1   0   1
+New College                 1   1   0   1
+Hertford                    0  -2   0   1
+St Hilda's II              -1  -1   0  -2
+ 12  Women's Div III
+Queen's                     1   1   0   1
+S.E.H.                      0   2   0  -1
+St Hugh's III               0  -2   0   0
+Somerville II               0   1   0   1
+Magdalen                   -1   0   0  -1
+Christ Church               1   1   0   1
+St John's                   0  -1   0  -2
+Merton                     -1   0   0   1
+St Peter's                  1   1   0   1
+Trinity II                  0  -3   0  -3
+Pembroke II                -2   1   0   0
+St John's II                1   1   0   1
+ 13  Women's Div IV
+S.E.H. II                   1   1   0   0
+Worcester II               -3   1   0   1
+St Hugh's IV                1  -1   0   1
+St Hugh's V                 0  -2   0   0
+University II               2   1   0   1
+St Hugh's VI               -4   1   0  -2
+New College II              1   1   0   0
+Keble II                    0   0   0   0
+Jesus II                    2   0   0   0
+Jesus III                   1  -4   0   1
+Trinity III                -1   0   0  -1
+St Catherine's II           1   1   0   1
+Hertford II                 0   2   0   1

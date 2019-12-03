@@ -1,0 +1,20 @@
+LENTS 1978
+ 4  1  17   = NDay, NDiv, NCrew
+ 17  Women's Div I
+Newnham                     0   0   0  -1
+Churchill                  -1  -1  -1  -1
+Clare                       1   0  -1  -1
+New Hall                    0   1   1   1
+New Hall II                 0  -1  -1   0
+Newnham II                 -1  -1   0  -1
+Girton                      1   1   1   1
+QMABC                       0   1   1   1
+Selwyn                     -1  -1  -1  -1
+Darwin                      1   0  -1  -1
+Girton II                   0   1   1   1
+Wolfson                    -1  -1  -1   0
+Trinity Hall                1   0   1   1
+Sidney Sussex               0   1   0   1
+Homerton                    0   0   1   0
+Girton III                  0   0   0   0
+New Hall III                0   0   0   0

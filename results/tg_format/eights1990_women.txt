@@ -1,0 +1,16 @@
+Set,Summer Eights
+Short,Eights
+Gender,Women
+Year,1990
+
+Division,Osler House,Wh,S,P,LM,Br,SHu,N,Wf,J,U,SHi
+Division,SC,SAn,Lc,Co,K,SHu2,Ch,S2,H,SE,Wt,Mg
+Division,SJ,B,L,Q,LM2,T,Br2,SP,Mt,SHu3,O,N2
+Division,Mf,E,SHi2,Wh2,SC2,U2,Wf2,H2,Osler House 2,O2,S3,P2
+Division,Ch2,SE2,B2,K2,Wt2,LM3,P3,Mg2,SAn2,Lc2,SJ2,SHi3,N3
+
+Results
+rurruuurr ruruuuru uuururru rurrruruu uuruurur
+uro3uruur ro3uuuuu ruuruuru uuruo3urr rururrruu
+rrrurururr urruuuur uuruurrrr ruruurrur ururuuur
+rrrrruurur ruuurruu rrrruurrrrr uruururu uururrrrrr

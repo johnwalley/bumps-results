@@ -1,0 +1,17 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1913
+Days,6
+
+Division,N,Mg,U,Ch,Lc,B,Br,Ch2,SJ,Mt
+Division,Co,Mg2,T,O,P,Wh,K,T2,N2,E,B2
+Division,Wt,SJ2,Q,Br2,H,J,SE,U2,SC,O2,Mt2,Mg3
+
+Results
+rrurrurur uurrurur rrururrrr
+uruururr rurrrrrurr ruurrrrrr
+rruururu uurrrrrru uuururr
+uuuuurr ruurrrrru ruuurrrr
+rurruurrr rruurrrur rrurrrrrrr
+rururrrur rrrrrurrrrr rururrrrr

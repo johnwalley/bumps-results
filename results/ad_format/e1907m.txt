@@ -1,0 +1,26 @@
+EIGHTS 1907
+ 6  2  22   = NDay, NDiv, NCrew
+ 10  Men's Div I
+Magdalen                    0   0  -1   0   0   0
+New College                -1   0   0   0   0   0
+Christ Church               1   0   1   0   0   0
+Trinity                     0   0   0   0   0   0
+University                  0   0   0   0   0   0
+Balliol                     0  -1   0   0   0   0
+Pembroke                   -1   0   0  -1  -1  -1
+St John's                   1   1   0   0   0   0
+Lincoln                     0  -1  -1   0  -1  -1
+Brasenose                   0   1   0   1   0  -1
+ 12  Men's Div II
+Corpus Christi              0   0  -1   0   1   1
+Keble                       0  -1   0   0  -1   0
+Worcester                  -1   0   0  -1   0   0
+Merton                      1   1   2   0   1   1
+Jesus                       0   0  -1   0  -1   0
+Exeter                     -1   0   0   0   1   0
+Oriel                       1   0   1   1   1   1
+Queen's                     0   0   0   0   0   0
+Hertford                    0   0   0   0  -1   0
+St Catherine's             -1   0   0   0   0   0
+Wadham                      1   0   0   0   1   0
+S.E.H.                      0   0   0   0   0   0

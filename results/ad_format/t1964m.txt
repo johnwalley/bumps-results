@@ -1,0 +1,52 @@
+TORPIDS 1964
+ 4  6  44   = NDay, NDiv, NCrew
+ 6  Men's Div I
+S.E.H.                      0   0   0   0
+Christ Church               0   0   0   0
+Balliol                     0   0   0   0
+St John's                   0   0   0   0
+Oriel                       0   0  -2   0
+Magdalen                    0   0   1   0
+ 8  Men's Div II
+Lincoln                     0   0   1   0
+Queen's                    -2  -3  -1   0
+Keble                       1   0   0   0
+New College                 1   0   0   0
+Worcester                   0   1   0   0
+University                  0   1   0   0
+Hertford                   -1  -1   0  -1
+Exeter                      1   1   0   0
+ 8  Men's Div III
+St Peter's                 -1   0   0  -1
+Merton                      1   1   1   0
+Pembroke                    0   0  -1   0
+Brasenose                   0  -1   0   0
+St Catherine's             -2  -2  -1   0
+Wadham                      1   1   1   2
+Trinity                     1   0   0   0
+Jesus                       0   1   0   0
+ 8  Men's Div IV
+Corpus Christi              0   1   0  -1
+Balliol II                 -1  -1  -1   0
+Lincoln II                 -2  -2  -2  -2
+Christ Church II            2   0   1   1
+Keble II                    1   1   0   0
+St Peter's II              -1  -2   1   0
+S.E.H. II                   1   1  -1  -1
+University II               0   2   2   0
+ 8  Men's Div V
+St John's II                0   1   1   1
+New College II              0   0   0   1
+Queen's II                 -4  -2  -1  -1
+Brasenose II                1   0  -2   0
+Exeter II                   1  -2   0   0
+S.E.H. III                  1   1   1   1
+Hertford II                -1   1   0   0
+Worcester II                2   1   1   0
+ 6  Men's Div VI
+Magdalen II                -2  -2   0   0
+St Catherine's II           0   0   1   0
+Pembroke II                 2   1   0   0
+Brasenose III               0   0   0   0
+Worcester III               0   2   0   1
+Brasenose IV                0   0   0   0

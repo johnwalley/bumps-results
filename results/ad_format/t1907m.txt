@@ -1,0 +1,36 @@
+TORPIDS 1907
+ 6  3  31   = NDay, NDiv, NCrew
+ 10  Men's Div I
+University                 -1  -1   0   0   0   0
+Magdalen                    1   0  -1   0   0   0
+Christ Church              -1   0   0   0   0   0
+Balliol                     1   1   1   0   0   0
+New College                 0   0   0   0   0   0
+New College II             -1  -1  -1  -1   0   0
+Exeter                      1   0   0   0  -1   0
+Brasenose                   0   1   0  -1   0   0
+Pembroke                   -1  -1   0   0  -1  -1
+Trinity                     1   0   1   1   1   0
+ 10  Men's Div II
+Lincoln                     0  -1   0  -1  -1  -1
+Balliol II                  0   2   0   1   0   0
+Merton                      0   0  -1  -1  -1  -1
+University II               0  -1  -1  -1  -1   0
+Magdalen II                -1   0   1   1   1   1
+Keble                       1   1   1   1   1   0
+Queen's                    -1  -1  -1  -1  -1   0
+Corpus Christi              1   0  -1  -1  -1  -1
+Christ Church II           -1   0   1   1   1   1
+St John's                   1   1   1   1   1   1
+ 11  Men's Div III
+Worcester                  -1  -1   0   0   0   0
+Hertford                    1   0   0   1   1   0
+Oriel                       0   1   0   0   1   1
+Jesus                       0   0   0   0   0   0
+Brasenose II                0   0   0   0   0   0
+St John's II                0   0   0   0   0   0
+Keble II                   -1  -1  -1  -1   0   0
+St Catherine's              1   0   0  -1  -1   0
+Wadham                     -1   0   1   0   1   0
+Trinity II                  1   1   0   1   0   0
+S.E.H.                      0   0   0   1   0   0

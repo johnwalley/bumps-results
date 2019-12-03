@@ -1,0 +1,38 @@
+TORPIDS 1913
+ 6  3  33   = NDay, NDiv, NCrew
+ 10  Men's Div I
+Magdalen                    0   0   0   0   0   0
+St John's                   0   0   0   0   0   0
+Balliol                     0  -1   0   0   0   0
+New College                -1   0  -1   0  -1   0
+Christ Church               1   1   0   0   0   0
+Corpus Christi             -1  -1  -1  -1  -1  -1
+Trinity                     1   0   1   0   0  -1
+Christ Church II            0   1   0  -1  -1  -1
+University                  0  -1  -1  -1  -1  -1
+Brasenose                  -1   0  -1   1   1   1
+ 11  Men's Div II
+Magdalen II                 1   1   1   1   1   1
+New College II              0   0   2   1   1   0
+Oriel                       0  -1  -1   0   0  -1
+Pembroke                    0   1   0   0   1   1
+Balliol II                  0  -1  -1  -1  -1  -1
+Merton                     -1  -1  -1  -1  -1   0
+St John's II                1   1   1   0   0   1
+Keble                       0   1   1   0  -1   0
+Exeter                      0  -1   0   1   1   0
+Lincoln                    -1   0   0  -1  -1  -1
+Worcester                   1   1   1   1   1   1
+ 12  Men's Div III
+Hertford                    0   0  -1   0   1   0
+Queen's                     0   0   1   1   1   1
+S.E.H.                     -1   0  -1   0   0   0
+Jesus                       1   0   0   0  -1   0
+Brasenose II                0  -1   0   0  -1   0
+University II              -1   0   0  -1  -1   0
+Wadham                      1   1   1   0   1   1
+Keble II                    0   0  -1  -1   0   0
+Christ Church III           0  -1  -1   0   0   0
+Trinity II                 -1  -1   0   0   0   0
+St Catherine's              1   1   1   1   1   0
+Exeter II                   0   1   1   1   1   0

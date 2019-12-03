@@ -1,0 +1,40 @@
+TOWN 2012
+ 4  2  36   = NDay, NDiv, NCrew
+ 17  Women's Div I
+City 1                      0   0   0   0
+99 1                        0   0   0   0
+City 2                      0   0   0  -1
+Camb Veterans 1             0   0  -1   0
+City 3                      0  -1  -1   0
+St Neots 1                 -1  -1   0   0
+Cantabs 1                   1   1   1   1
+Cantabs 2                  -1  -1  -1   0
+Rob Roy 1                   1   1   1   0
+X-Press 1                   0   1   0   0
+Champs 1                    0   0   1   0
+99 2                        0   0   0   0
+City 4                      0   0  -1   0
+Champs 2                    0   0   1   0
+City 5                     -1  -1   0  -1
+Chesterton 1                1   0   0  -1
+99 3                       -1  -1  -1  -1
+ 19  Women's Div II
+Champs 3                    1   1   0   1
+Champs 4                    0   1   0  -1
+Champs 5                   -1  -1   0   0
+Cantabs 3                   1   0   1   2
+St Radegund 1               0   1   0   1
+Isle of Ely 1              -1  -1  -1  -1
+Champs 6                    1   0  -1  -1
+City 6                      0   1   1   0
+X-Press 2                   0  -1   0   1
+St Radegund 2              -3  -1  -1  -1
+Champs 7                   -1   0  -1  -1
+Cantabs 4                   1   0   0   0
+City 7                      3   1   1   1
+Chesterton 2               -1  -1  -1   0
+City 8                      1   1   1   0
+St Neots 2                  0   1   1   1
+Cantabs 5                  -1  -1   0   0
+Cantabs 6                   1   0   1   1
+99 4                        0   1   0   0

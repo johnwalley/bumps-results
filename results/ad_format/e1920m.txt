@@ -1,0 +1,35 @@
+EIGHTS 1920
+ 6  3  30   = NDay, NDiv, NCrew
+ 9  Men's Div I
+University                 -1  -1  -1  -1  -1  -1
+New College                 1   0  -1   0   0   0
+Christ Church              -1   0   1   0   0   0
+Magdalen                    1   1   1   0   0   0
+Merton                      0   0   0   1   0   0
+St John's                  -1   0  -1  -1  -1  -1
+Oriel                       1   0   0   0   1   0
+Balliol                    -1   1   1   0  -1   0
+Trinity                     1  -1   0   1   1   1
+ 10  Men's Div II
+Corpus Christi             -1  -1   0   0  -1   0
+Magdalen II                 1   0   0   0   1   0
+Worcester                   0   1   0   0   0   1
+Brasenose                   0  -1  -1   0  -1  -1
+Christ Church II            0   1   0  -1   0  -1
+Pembroke                    0  -1  -1  -1  -1  -1
+Lincoln                    -1  -1  -1   0   1   0
+Queen's                     1   1   1   1   1   0
+Wadham                     -1   0   1   1   0   1
+Exeter                      1   1   1   0   1   1
+ 11  Men's Div III
+New College II              0   0   0   0   0   1
+Keble                       0   0   0   0   0   0
+Jesus                       0   0   0   0  -1   0
+S.E.H.                     -1  -1   0   0  -1  -1
+St Catherine's              1   0  -1   0   0  -1
+Balliol II                 -1   0   0   0   1   1
+Hertford                    1   1   1   0   1   0
+University II               0   0  -1   0  -1   0
+Lincoln II                  0  -1   0   0   1   0
+St Catherine's II          -1   0   0   0   0   0
+New College III             1   1   1   0   0   1

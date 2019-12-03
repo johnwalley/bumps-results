@@ -1,0 +1,39 @@
+EIGHTS 1921
+ 6  3  34   = NDay, NDiv, NCrew
+ 11  Men's Div I
+Magdalen                    0  -1   0   0   0   0
+New College                 0   1   0   0   0   0
+Christ Church               0   0  -1  -1  -1   0
+Merton                      0   0   1   0   0   0
+Oriel                      -1   0   0   0   1   0
+Trinity                     1   0   0   1   0   0
+University                  0   0   0   0   0  -1
+Balliol                     0   0   0   0   0   1
+Magdalen II                 0   0   0   0  -1   0
+Worcester                   0  -1  -1   0   0   0
+St John's                   0   1   0  -1   0   0
+ 11  Men's Div II
+Queen's                     0  -1   0   0   0   0
+Corpus Christi              0   1   1   1   1   0
+Exeter                      0   0   0   0   0   0
+Christ Church II            0   0  -1   0   0   0
+Wadham                      0  -1   0   0   0   0
+Brasenose                  -1   0  -1  -1  -1  -1
+Lincoln                     1   1   1   0   0   0
+New College II              0  -1   0   1   1  -1
+Pembroke                   -1   0   0   0   1   0
+Keble                       1   1   1   0  -1   1
+Hertford                    0   0  -1  -1  -1  -1
+ 12  Men's Div III
+Jesus                       0  -1  -1  -1  -1  -1
+Balliol II                  0   1   1  -1   0   0
+St Catherine's              0  -1   0   1   1   0
+S.E.H.                     -1   0  -1  -1   0  -1
+Lincoln II                  1   1   1   2   0   1
+University II               0  -1  -1   0  -1   0
+Oriel II                   -1  -1   0  -1   0   0
+Trinity II                  1   1   1   0   1   1
+Worcester II                0   1   1   1   0   1
+St John's II               -1  -1   0   0   0   0
+Queen's II                  1   0  -1   0   0   0
+Magdalen III                0   1   1   1   1   1

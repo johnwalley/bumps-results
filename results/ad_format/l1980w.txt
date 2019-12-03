@@ -1,0 +1,29 @@
+LENTS 1980
+ 4  2  25   = NDay, NDiv, NCrew
+ 16  Women's Div I
+Girton                      0   0   0  -1
+New Hall                    0   0   0   1
+Clare                      -1  -1   0   0
+Churchill                   1   0   0   0
+Newnham                     0   1   0   0
+Girton II                  -1  -1   0  -1
+Selwyn                      1   0  -1   1
+Trinity Hall               -1   0  -1  -1
+Homerton                    1   1   1  -1
+New Hall II                 0  -1  -1   0
+Darwin                     -1  -1  -1  -1
+1st and 3rd                 1   1   1   1
+Sidney Sussex               0   1   1   1
+Clare II                    0   0   1   0
+Wolfson                     0   0  -1  -1
+QMABC                      -1  -1  -1  -1
+ 9  Women's Div II
+Jesus                      -1   2   1   1
+Caius                       2  -1   0  -1
+Fitzwilliam                -1  -1  -1  -1
+Emmanuel                    1   0   1   2
+Christ's                    0   1   0   1
+St Catharine's              0  -1   0   1
+St Catharine's II          -1  -1   0   0
+Selwyn II                   1   1   1   0
+Newnham II                  0   1   0   0

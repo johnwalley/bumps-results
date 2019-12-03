@@ -1,0 +1,99 @@
+MAYS 2019
+ 4  6  91   = NDay, NDiv, NCrew
+ 17  Men's Div I
+LMBC                        0   0  -1  -1
+Clare                      -3  -1  -1  -1
+Pembroke                   -1   0  -1  -1
+Caius                       1   1   1   0
+Magdalene                   3  -1   0   1
+Downing                     0   1   1   0
+Emmanuel                    0   0   1   1
+1st and 3rd                 0  -1   0   0
+Jesus                      -1  -1  -1   0
+Peterhouse                  1   1   0   1
+Queens'                    -1  -1   0  -1
+King's                      1   1   0   0
+Robinson                    0   1   1   0
+Christ's                    0   0  -1   0
+Selwyn                      0  -1   0  -1
+Wolfson                    -1   0  -1   0
+LMBC II                     1   1   1   1
+ 17  Men's Div II
+Girton                     -1  -1  -1  -1
+Churchill                   1   0  -1  -1
+Homerton                   -1  -1  -1  -1
+Trinity Hall                1   1   2   1
+St Catharine's             -1   0   1   1
+Hughes Hall                 1   1   1   1
+St Edmund's                -1  -1  -1   0
+Fitzwilliam                 1   0  -1   0
+Corpus Christi             -1  -1   0   0
+Caius II                    1   1   1   1
+Sidney Sussex              -1   0   0  -1
+Pembroke II                 1   1   1   0
+Darwin                     -1  -1  -1   0
+Downing II                  1   0  -1   0
+Jesus II                   -1   0   1   0
+Emmanuel II                 1   1   1   1
+1st and 3rd II              0   0   0   0
+ 17  Men's Div III
+Clare II                    0   0   0   0
+Christ's II                -1  -1  -1  -1
+Queens' II                  1   0  -1  -1
+Robinson II                 0   1   1   0
+St Catharine's II          -1   0   0   1
+Magdalene II                1   0   1   1
+LMBC III                   -1  -1  -1  -1
+Trinity Hall II             1   0  -1  -1
+Peterhouse II              -1  -1  -1   0
+Jesus III                   1   1   1   0
+Churchill II                0   1   1   1
+Queens' III                 0  -1   0  -1
+Fitzwilliam II             -1   0  -1  -1
+Emmanuel III                1   1   1   1
+Clare III                  -1  -1  -1  -3
+Wolfson II                  1  -3  -1  -1
+Selwyn II                   0   1   0   1
+ 17  Men's Div IV
+Caius III                   0  -1   2  -1
+1st and 3rd III            -1  -1  -1  -1
+Clare Hall                  1   4   1   1
+Corpus Christi II          -1  -1   0   1
+Hughes Hall II              1   1   0   1
+King's II                  -1   0   0   0
+Pembroke III                1   1   1   4
+Darwin II                   0   0  -1  -1
+Anglia Ruskin               0  -1  -1  -1
+Girton II                  -1  -1  -1  -1
+Sidney Sussex II            1   1   1   0
+St Edmund's II             -1  -1  -1   0
+Trinity Hall III            1   1   1   1
+St Catharine's III         -1  -1  -1   0
+Churchill III               1   1   1   1
+Homerton II                -1   0   1   0
+Downing III                 1   1   1   1
+ 17  Men's Div V
+Christ's III                0   0   0   0
+Magdalene III               0   0   0   0
+Jesus IV                   -3  -1   0  -1
+Queens' IV                 -1   0   0   0
+Magdalene IV                1   0   1   0
+Clare IV                    3   0  -1   0
+Emmanuel IV                 0   1   0   0
+Corpus Christi III         -1  -1  -1  -1
+Jesus V                     1   0  -1  -1
+Pembroke IV                -1  -1   0   1
+Fitzwilliam V               1   1   1   1
+Queens' V                   0   1   1   1
+Trinity Hall IV            -1  -1  -1   0
+Downing IV                  1   0  -1  -1
+Magdalene V                -1  -1   0   0
+Selwyn III                  1   1   1   0
+Corpus Christi IV          -1  -1   0  -1
+ 6  Men's Div VI
+Peterhouse III              1   1   1   1
+Darwin III                 -1   0  -1   0
+Downing V                   1   1   0   0
+Churchill IV                0  -1   0   0
+Magdalene VI               -1   0   0   0
+Caius IV                    1   1   1   1

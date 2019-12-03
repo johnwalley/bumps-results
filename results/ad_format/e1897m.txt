@@ -1,0 +1,26 @@
+EIGHTS 1897
+ 6  2  22   = NDay, NDiv, NCrew
+ 10  Men's Div I
+New College                 0   0   0   0   0   0
+Trinity                    -1   0   0   0   0   0
+Magdalen                    1   0   0   0   0   0
+University                  0   0   0   0   0   0
+Balliol                     0   0   0   0   0   0
+Exeter                      0   0   0   0   0  -1
+St John's                  -1  -1  -1   0   0  -1
+Hertford                    1   0   0   0  -1  -1
+Brasenose                   0   1   0  -1   0   1
+Queen's                    -1   0   0   0   0   1
+ 12  Men's Div II
+Christ Church               1   0   1   1   1   1
+Pembroke                    0   0   0   0   0   0
+Jesus                       0   0   0   0   0   0
+Keble                       0   0   0   0   0   0
+Wadham                     -1  -1   0  -1   0  -1
+Corpus Christi              1   0   0   0   0   0
+Worcester                   0   1   0   0  -1   0
+Merton                      0  -1   1   1   1   0
+Lincoln                     0   1  -1   0   0   1
+St Catherine's              0   0  -1   0   0   0
+Oriel                      -1   1   1   0   0   0
+S.E.H.                      1  -1   0   0   0   0

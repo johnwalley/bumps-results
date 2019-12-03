@@ -1,0 +1,14 @@
+Set,Town Bumps
+Short,Town
+Gender,Women
+Year,2019
+
+Division,Cantabs 1,City 1,Cantabs 2,X-Press 1,99 1,Cantabs 3,Chesterton 1,City 2,Cantabs 4,Rob Roy 1,99 2,99 3,Champs 1,City 3,Isle of Ely 1,Champs 2,City 4
+Division,City 5,City 6,X-Press 2,Cantabs 5,Champs 3,Cantabs 6,City 7,99 4,Champs 4,Chesterton 2,99 5,Cantabs 7,Cantabs 8,X-Press 3,Chesterton 3,City 8,Champs 5
+Division,Cantabs 9,Champs 6,Cantabs 10,Isle of Ely 2,99 6,99 7,Chesterton 4,99 8,Champs 7,99 9
+
+Results
+rruruur rururruuro3ur rrruurrururrrr
+rrrrrrurr ururruuurrru uuuurrururrr
+ruuuur urrrruuuurur rurrrrurrrrrrrrr
+urruuu uuruuuuurrr rrurrrrurrrrrrrr

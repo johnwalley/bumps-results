@@ -1,0 +1,57 @@
+LENTS 2000
+ 4  3  52   = NDay, NDiv, NCrew
+ 17  Women's Div I
+Trinity Hall               -1  -1  -1   0
+Emmanuel                    1   0   0   0
+Pembroke                   -1  -1   0   0
+Jesus                       1   1   0   0
+Queens'                    -1   0   0   0
+Newnham                     1   1   1   0
+Christ's                   -1   0  -1  -1
+LMBC                        1   0   0  -1
+Churchill                   0  -1  -1  -1
+1st and 3rd                -1  -1  -1  -1
+Caius                       1   1   1   1
+St Catharine's             -1  -1  -1   0
+Downing                     1   1   1   1
+New Hall                    0   1   1   1
+Fitzwilliam                -1  -1  -1  -1
+Clare                       1   0   1   1
+CCAT                       -1   0  -1   1
+ 17  Women's Div II
+Selwyn                      1   1   0  -1
+Sidney Sussex               0  -1   0   0
+Girton                      0   1   2   1
+Magdalene                   0   0  -1  -1
+Jesus II                    0  -1   0   1
+King's                     -1  -1   0  -1
+LMBC II                     1   1   1   0
+Robinson                    0   1   0   0
+Corpus Christi             -1  -1  -1  -1
+Emmanuel II                 1   0  -1  -1
+Newnham II                 -1  -1  -1  -1
+Wolfson                     1   1   1   1
+Homerton                   -1   0   1   1
+Darwin                      1   1   1   1
+Peterhouse                  0   0  -1   0
+Queens' II                  0  -1   0  -1
+Hughes Hall                -1   0   0  -1
+ 18  Women's Div III
+St Catharine's II          -1   0  -1  -1
+New Hall II                 2   1   1   1
+Trinity Hall II            -1   1   1   2
+CCAT II                     1  -1  -1  -1
+Clare Hall                 -1  -1  -1  -1
+Churchill II                1   0   1   1
+Homerton II                -3  -1  -1  -1
+Lucy Cavendish             -1  -5  -1  -1
+Pembroke II                 1   0   1   0
+Clare II                    3   1   0   1
+Selwyn II                  -1  -1   0   1
+LMBC III                    1   1   0   0
+Downing II                  0   1   1   0
+Caius II                    0   5   0   1
+Girton II                  -3   1   1   1
+King's II                  -1  -1   0   0
+Sidney Sussex II            1   0  -1   0
+Robinson II                 3   0   1   0

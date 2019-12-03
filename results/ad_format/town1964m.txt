@@ -1,0 +1,41 @@
+TOWN 1964
+ 4  3  36   = NDay, NDiv, NCrew
+ 14  Men's Div I
+99 1                       -1   0   0   0
+City 1                      1   0   0   0
+City 2                      0   0   0   0
+Cantabs 1                  -1   0  -1   0
+Rob Roy 1                   1   0   0   0
+Scouts 1                    0  -1   0   0
+Pye 1                      -1   0   0   0
+99 2                        1   1   1   0
+Rob Roy 2                   0   0   0  -1
+99 3                       -1  -1  -1  -1
+ACUA 1                      1   0  -1  -1
+Scouts 2                   -1  -1  -1  -1
+City 3                      1   1   1   1
+Bridge 1                   -1   0   1   1
+ 14  Men's Div II
+Cantabs 2                  -1  -1   0   0
+Leys Sch 1                  2   1   1   1
+Cambs High School 1         0   1   0   1
+ACUA 2                     -1  -1   0  -1
+Rob Roy 3                   1   0   0   0
+Scouts 3                    0   1   0   0
+Cam Grammar School 1       -1   0   0  -1
+Beehives 1                  1   0   0   1
+Grammar School OB 1         0   0  -1  -1
+99 4                        0  -1  -1  -1
+99 5                       -1  -1  -1  -1
+Leys Sch 2                  1   1   1   1
+City 4                      0   1   1   1
+Pye 2                      -1   0  -1   0
+ 8  Men's Div III
+Scouts 4                    1   0   1   1
+Rob Roy 4                   0   0   1   1
+Pye 3                      -1   0  -1   1
+Cantabs 3                   1   0   0   0
+Leys Sch 3                 -1   0   0   0
+ACUA 3                      1   0   1  -1
+City 5                      0   0  -1   1
+Rob Roy 5                   0   0   1  -1

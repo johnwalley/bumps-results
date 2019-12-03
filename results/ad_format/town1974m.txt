@@ -1,0 +1,45 @@
+TOWN 1974
+ 4  3  40   = NDay, NDiv, NCrew
+ 15  Men's Div I
+Rob Roy 1                   0   0   0   0
+Scouts 1                   -1  -1   0   0
+99 1                        1   0  -1   0
+City 1                      0   1   1   0
+Rob Roy 2                  -1  -1  -1   0
+Churchill 1                 1   0   0   0
+Cantabs 1                   0   1   0  -1
+99 2                        0   0   1   1
+ACUA 1                      0   0   0   0
+Rob Roy 3                   0  -1  -1  -1
+Cantabs 2                  -1  -1  -1   0
+99 3                        1   1   0   0
+Selwyn 1                   -1  -1  -1  -1
+Leckhampton 1               1   1   1   0
+99 4                       -1   0   1  -1
+ 15  Men's Div II
+Cambs High School 1        -1   0  -1  -1
+City 2                      2   1   1   1
+King's 1                    0  -1   0   1
+Churchill 2                -1  -1  -1  -1
+Billygoats 1                1   1   1   2
+Rob Roy 4                   0   1   0  -1
+Scouts 2                   -1  -1  -1  -1
+Telephones 1                1   0   1   1
+ACUA 2                     -1  -1  -1  -1
+Clare 1                     1   1   0   1
+Cantabs 3                   0   1   1   0
+Consultant Owls 1           0  -1  -1  -2
+CU Medics                  -1  -1   0   0
+City 3                      1   1   1   1
+Cantabs 4                  -1  -1  -1   0
+ 10  Men's Div III
+Goldilocks 1                1   1   1   1
+99 5                        0   1   0   2
+Scouts 3                   -1  -1   0   1
+Grammarians 1               1   0   1   0
+Telephones 2                0   1   0  -1
+Cantabs 5                  -1  -1   0   0
+Nobblets 1                  1   0  -1   0
+ACUA 3                     -1   0   0   0
+Goldilocks 2                1   1   1   0
+Cantabs 6                   0   0   0   0

@@ -1,0 +1,43 @@
+EIGHTS 1924
+ 6  3  38   = NDay, NDiv, NCrew
+ 12  Men's Div I
+Magdalen                   -1   0   0   0   0   0
+Christ Church               1   0   0   0   0   0
+Trinity                     0  -1   0   0   0   0
+New College                 0   1   0   0   0   0
+Merton                      0   0   0   0   0   0
+Oriel                      -1   0   0   0   0  -1
+Worcester                   1   0   0   0   0   0
+Pembroke                    0   0  -1  -1   0  -1
+Magdalen II                -1  -1  -1  -1  -1   0
+Lincoln                     1   0   1   0  -1   0
+Exeter                     -1   0   1   0  -1   0
+Brasenose                   1   1   0   1   1   1
+ 12  Men's Div II
+Corpus Christi             -1  -1  -1  -1  -1  -1
+Queen's                     1   0   0   1   1   1
+St John's                  -1  -1  -1  -1  -1   0
+Wadham                      1   1   0   0   1   0
+Balliol                     0   1   1   0  -1   0
+University                  0   0   1   1   1   0
+Christ Church II           -1  -1  -1  -1  -1  -1
+New College II              1   0   0   1   1   0
+Worcester II               -1  -1  -1  -1  -1   0
+Hertford                    1   1   0   0   1   1
+Queen's II                  0   1   1   0  -1   0
+Keble                      -1   0  -1  -1  -1  -1
+ 14  Men's Div III
+Jesus                       1   0   1   1   1   0
+Balliol II                  0   0   1   1   1   0
+Merton II                   0   0   0   1   1   1
+St Catherine's              0   0   0  -1  -1   0
+Lincoln II                 -1  -1  -1  -1  -1  -1
+Magdalen III                1   0  -1  -1   0   0
+University II              -1  -1  -1  -1   0   1
+Brasenose II                1   1   1   1   1   0
+Wadham II                   0   1   1   1   1   1
+Trinity II                 -1   0   0   1   1   0
+Oriel II                    1   0   1   1   0   0
+S.E.H.                      0  -1   0   1  -1  -1
+St John's II               -1   0   0   0   0   1
+Pembroke II                 1   1   0  -1   1   0

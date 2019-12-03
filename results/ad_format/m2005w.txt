@@ -1,0 +1,84 @@
+MAYS 2005
+ 4  5  77   = NDay, NDiv, NCrew
+ 17  Women's Div I
+Emmanuel                    0   0  -1  -1
+Caius                       0  -1  -1   0
+Pembroke                   -1   0   1   1
+Jesus                       1   1   1   0
+Newnham                    -1  -1  -1  -1
+LMBC                        1   0  -1  -1
+Clare                       0   1   1   0
+Downing                    -1  -1  -1  -1
+Girton                      1   0   1   1
+Trinity Hall                0   1   0   1
+Churchill                   0  -1  -1   0
+Magdalene                   0   1   1   0
+New Hall                    0  -1  -1  -1
+St Catharine's             -1  -1  -1  -1
+Christ's                    1   1   1   1
+Selwyn                      0   1   1   0
+Darwin                     -1  -1  -1  -1
+ 17  Women's Div II
+1st and 3rd                 1   0   1   1
+Queens'                     0   1   0  -1
+Emmanuel II                -1  -1   0   0
+King's                      1   0   1   2
+Peterhouse                 -1   0   0  -1
+Fitzwilliam                 1   1   0   1
+Robinson                   -1  -1  -1  -1
+CCAT                        1   0  -1   0
+Sidney Sussex              -1  -1  -1  -1
+Jesus II                    1   1   1   1
+Pembroke II                 0   1   1   0
+Wolfson                    -1  -1   0   0
+Caius II                    1   0   1   1
+LMBC II                     0   1   0   1
+Trinity Hall II            -1  -1  -1   0
+Newnham II                  1   0   0   0
+Homerton                    0   1   0   0
+ 17  Women's Div III
+Girton II                   0   0   1   0
+Clare II                    0   0   0  -1
+Downing II                  0   0  -1  -1
+New Hall II                 0  -1  -1  -1
+Churchill II               -1  -1  -1  -1
+St Catharine's II           1   1   1   1
+Queens' II                 -1   0   1   1
+Jesus III                   1   1   1   1
+1st and 3rd II             -1  -1  -1  -1
+LMBC III                    1   0   0   1
+Clare Hall                  0   1   0  -1
+Corpus Christi              0   0   1   1
+Homerton II                -1   0  -1  -1
+Darwin II                   1   0   0   1
+Addenbrooke's               0  -1  -1  -1
+Vet School                 -1  -1  -1  -1
+Magdalene II                1   1   1   0
+ 17  Women's Div IV
+CCAT II                     0   1   1   1
+Selwyn II                   0  -1  -1  -1
+Sidney Sussex II           -1  -1  -1  -1
+Hughes Hall                 1   1   1   1
+St Edmund's                -1   0   1   1
+1st and 3rd III             1   1   1   1
+Robinson II                 0  -1  -1  -1
+Caius III                  -1  -1  -1  -1
+Pembroke III                1   1   0   1
+Christ's II                -1  -1   0   1
+Newnham III                 1   1   1   0
+New Hall III                0   1   1   1
+Emmanuel III               -1  -1  -1  -1
+Queens' III                 1   0   0   0
+King's II                   0   1   0  -1
+Clare III                  -1  -1  -1  -1
+Fitzwilliam II              1   0   1   1
+ 9  Women's Div V
+Peterhouse III             -3  -1  -1  -1
+St Catharine's III         -1   0  -1  -1
+Jesus IV                    1   2   0   1
+LMBC IV                     3  -1   1   0
+Sidney Sussex III          -1   0   1   1
+Newnham IV                  1   1   1   1
+Jesus V                     0  -1   0  -1
+1st and 3rd IV             -1   0   0   1
+Girton III                  1   1   0   1

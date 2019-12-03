@@ -1,0 +1,57 @@
+LENTS 2007
+ 4  3  52   = NDay, NDiv, NCrew
+ 17  Women's Div I
+Clare                       0   0  -1  -1
+Caius                       0  -1  -1  -1
+Emmanuel                   -1  -1   0   1
+1st and 3rd                 1   1   1   0
+Downing                    -1   0   0   0
+Jesus                       1   1   1   1
+Newnham                    -1   0   0   0
+LMBC                        1   0   0   0
+Trinity Hall               -1  -1  -1  -1
+Girton                      1   0   0  -1
+Churchill                   0   1   0   1
+Selwyn                     -1  -1  -1  -1
+Pembroke                    1   0   1   0
+Queens'                     0   1   0   1
+New Hall                   -1  -1  -1  -1
+Fitzwilliam                 1   0   1   0
+Christ's                    0   1   0   1
+ 17  Women's Div II
+Robinson                    0  -1  -1   0
+King's                     -1  -1  -1   0
+St Catharine's              1   1   1   0
+Jesus II                   -1   0   1   0
+Peterhouse                  1   1   1   1
+Sidney Sussex              -1   0  -1   0
+LMBC II                     1   0   0  -1
+Darwin                      0  -1   0  -1
+Magdalene                  -1   0  -1   0
+CCAT                        1   1   1   1
+Wolfson                     0  -1   0  -1
+Caius II                   -1   0  -1  -1
+Emmanuel II                 1   1   1   1
+Newnham II                  0  -1  -1  -1
+St Edmund's                -1   0   1   1
+Pembroke II                 1   1   1   1
+Corpus Christi             -1   0   0   0
+ 18  Women's Div III
+Queens' II                 -1   0  -1  -1
+Homerton                    2   0   0   1
+St Catharine's II           0  -1  -1  -1
+New Hall II                -1  -1  -1  -1
+Lucy Cavendish              1   1   1   0
+Girton II                  -1  -1   0   1
+Clare II                    1   1   1   1
+Clare Hall                 -1  -1  -1  -1
+1st and 3rd II              1   1   1   1
+Downing II                 -1  -1  -1  -1
+Trinity Hall II             1   1   0  -1
+Anglia Ruskin II           -1  -1  -1   0
+Selwyn II                   1   1   1   1
+Pembroke III                0   1   1   1
+Emmanuel III                0  -1   0   0
+1st and 3rd III            -1   0   0  -1
+Christ's II                 1   1   1   1
+Pembroke IV                 0   0   0   1

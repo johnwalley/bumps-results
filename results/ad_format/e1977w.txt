@@ -1,0 +1,16 @@
+EIGHTS 1977
+ 4  1  13   = NDay, NDiv, NCrew
+ 13  Women's Div I
+Wadham                      0   0  -1   0
+L.M.H.                      0   0   1   0
+St Hugh's                   0   0  -1   0
+Wolfson                    -1  -1   0   1
+St Catherine's              1   0   1   0
+Somerville                  0   1   0  -1
+Jesus                      -1   0   0  -1
+St Hilda's                  1   0   0   0
+Wadham II                  -1   1  -1  -1
+Hertford                    1  -1   1   1
+Somerville II              -1  -1   0   0
+St Anne's                   1   0   0   1
+St Catherine's II           0   1   0   0

@@ -1,0 +1,55 @@
+TORPIDS 1994
+ 4  4  49   = NDay, NDiv, NCrew
+ 12  Women's Div I
+Somerville                  0   0   0   0
+New College                -1   0   0   0
+Osler House                 1   0   0   0
+St Catherine's              0   0   0   0
+University                 -1   0   0   0
+Wadham                      1   0   0   0
+Pembroke                   -1   0   0   0
+Christ Church               1   0   0   0
+St Hilda's                 -1   0   0   0
+Oriel                       1   0   0   0
+L.M.H.                      0   0   0   0
+Trinity                     0   0   0   0
+ 12  Women's Div II
+Wolfson                    -5   0   0   0
+Worcester                   1   0   0   0
+St Anne's                   1   0   0   0
+Brasenose                   1   0   0   0
+St John's                   1   0   0   0
+Jesus                       1   0   0   0
+Keble                      -6   0   0   0
+Lincoln                     1   0   0   0
+Hertford                    1   0   0   0
+S.E.H.                      1   0   0   0
+Somerville II               1   0   0   0
+Queen's                     1   0   0   0
+ 12  Women's Div III
+Balliol                    -2   0   0   0
+Merton                      2   0   0   0
+Magdalen                    1   0   0   0
+Exeter                     -1   0   0   0
+Linacre                     1   0   0   0
+St Peter's                 -1   0   0   0
+Osler House II              1   0   0   0
+Wadham II                   0   0   0   0
+Pembroke II                -2   0   0   0
+New College II              1   0   0   0
+St Hugh's                   1   0   0   0
+Oriel II                   -1   0   0   0
+ 13  Women's Div IV
+L.M.H. II                   1   0   0   0
+Christ Church II           -2   0   0   0
+Corpus Christi              0   0   0   0
+Mansfield                   2   0   0   0
+University II              -2   0   0   0
+St John's III               1   0   0   0
+L.M.H. III                  1   0   0   0
+Osler House III            -1   0   0   0
+Jesus II                    1   0   0   0
+Mansfield II               -1   0   0   0
+St Hilda's II               1   0   0   0
+Hertford II                 0   0   0   0
+St Anne's II                0   0   0   0

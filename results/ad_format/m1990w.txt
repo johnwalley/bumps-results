@@ -1,0 +1,55 @@
+MAYS 1990
+ 4  3  50   = NDay, NDiv, NCrew
+ 16  Women's Div I
+Churchill                   0   0   0   0
+Jesus                      -1  -1  -1   0
+Emmanuel                    1   0   0   0
+Vet School                 -1   0   1   0
+LMBC                        1   1   0   0
+Queens'                     0   0   0   0
+Trinity Hall                0   0   0   0
+St Catharine's              0   0   0   0
+Newnham                     0   0   0   0
+Downing                     0   0   0   0
+Homerton                    0   0   0  -1
+Clare                      -1  -1   0   0
+Pembroke                    1   0  -1   0
+New Hall                   -1   0   0   0
+Girton                      1   1   1   1
+Robinson                    0   0   0   0
+ 16  Women's Div II
+LMBC II                     0  -1   0   0
+Sidney Sussex               0   1   0   0
+Christ's                    0   0   0   0
+QMABC                       0   0   0   0
+Caius                      -1  -1   0   0
+1st and 3rd                 1   0  -1   0
+Corpus Christi             -1  -1   0   0
+Selwyn                      1   1   1   0
+Jesus II                    0   1   0   0
+Jesus III                  -1  -1   0  -1
+Addenbrooke's               1   0  -1   0
+New Hall II                 0   1   1   0
+Peterhouse                  0   0  -1   0
+Girton II                   0   0   1   1
+Newnham II                  0  -1  -1   0
+Queens' II                 -1   0  -1  -1
+ 18  Women's Div III
+Pembroke II                 1   1   0   0
+St Catharine's II          -1   1   2   0
+Magdalene                   1  -1  -1  -1
+Homerton II                 0  -1   0   1
+Clare II                    0   1   1   1
+Selwyn II                   0  -1  -1   0
+Fitzwilliam                 0   1   0  -1
+Wolfson                    -1   0  -1  -1
+CCAT                        1   0   1   1
+Caius II                    0  -1   0   1
+Churchill II               -1  -1  -1  -1
+New Hall III                1   1   1   0
+LMBC III                    0   1   0   0
+Robinson II                -1  -1  -1  -1
+Homerton III                1   0   1   0
+Christ's II                -1  -1   0   1
+Girton III                  1   1   0   1
+LMBC IV                     0   1   1   0

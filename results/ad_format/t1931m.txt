@@ -1,0 +1,42 @@
+TORPIDS 1931
+ 6  3  37   = NDay, NDiv, NCrew
+ 12  Men's Div I
+Worcester                   0  -1  -1  -1  -1   0
+Balliol                     0   1   0  -1  -1  -1
+Corpus Christi              0   0   1   1   0   0
+University                 -1  -1  -1   0  -1  -1
+Magdalen                    1   0  -1   0   1   1
+Brasenose                  -1  -1   0  -1  -1  -1
+Wadham                      1   1   1   1   1   0
+Keble                       0   1   1   0   0   0
+Christ Church               0   0  -1   0   1   1
+New College                -1   0  -1  -1   0  -1
+Balliol II                  1   0   1   1   1   0
+Merton                      0  -1  -1   0  -1   0
+ 12  Men's Div II
+St Catherine's              0   1   1   0   0   1
+Lincoln                     0  -1   0  -1  -1  -1
+Exeter                      0   1   1   1   0  -1
+Pembroke                   -1  -1   0   0  -1  -1
+St John's                   1   0  -1   0   1   0
+New College II             -1  -1  -1  -1  -1  -1
+Oriel                       1   1   1   1   1   2
+Trinity                     0   1   0  -1  -1  -1
+University II               0  -1  -1  -1  -1  -1
+Hertford                   -1  -1  -1  -1  -1  -1
+S.E.H.                      1   1   1   1   1   1
+Queen's                     0   1   1   1   1   1
+ 13  Men's Div III
+Wadham II                   0   0   1   1   1   1
+Jesus                      -1  -1  -1  -1  -1   0
+Magdalen II                 1   0  -1   0   1   1
+Brasenose II               -1   0   1   0  -1   0
+St Peter's                  1   1   1   1   1   1
+Christ Church II           -1  -1   0   0   0  -1
+Exeter II                   1   0  -1   0   1   0
+Oriel II                   -1   0  -1  -1   0   1
+Keble II                    1   1   1   1   1   1
+St John's II                0   0   1   0  -1  -1
+Merton II                   0  -1  -1   0   0   0
+Lincoln II                 -1   0   1   0   0   0
+Balliol III                 1   1   0   1   1   1

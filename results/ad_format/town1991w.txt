@@ -1,0 +1,27 @@
+TOWN 1991
+ 4  1  24   = NDay, NDiv, NCrew
+ 24  Women's Div I
+99 1                        0   0   0   0
+Cantabs 1                  -1   0   0   0
+City 1                      1   0   0   0
+City 2                     -1   0   0   0
+99 2                        1   0   0   0
+City 3                     -1   0   0  -1
+99 3                        1   0   0   0
+City 4                      0   0  -1   0
+City 5                     -1  -1  -1  -1
+Pye 1                       1   0   1   1
+99 4                       -1   0   1   0
+Pye 2                       1   1   0   0
+Cantabs 2                   0  -1  -1  -1
+Barclays Bank 1            -1  -1   0   1
+Leckhampton 1               1   1   0   1
+Pye 3                      -1   0  -1  -1
+Emmanuel 1                  1   1   1   0
+99 5                        0  -1  -1  -1
+Coopers & Lybrand 1        -1  -1  -1   0
+Mott Macdonald 1            1   1   1   0
+Rob Roy 1                  -1   0   1   1
+Pye 4                       1   1   1   1
+City 6                      0   0   0   0
+Rob Roy 2                   0   0   0   0

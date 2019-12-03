@@ -1,0 +1,15 @@
+Set,May Bumps
+Short,Mays
+Gender,Women
+Year,1987
+
+Division,Cu,N,J,NH,F,TH,T,Cl,H,Ca,Cr,SC,N2,G,E,SS,Cu2,NH2,L,S,Q,Cl2
+Division,D,QM,Dw,S2,J2,N3,T2,H2,TH2,G2,NH3,Cr2,CC,Ph,Pb,N4,A,G3,VS,R,W,HH
+Division,CT,Ca2,Cl3,E2,J3,SS2,Cu3,H3,L2,F2,J4,Cu4,G4,D2,H4,SC2,Cr3,CC2,L3,J5,TH3,F3
+Division,Pb2,Cl4,L4,QM2,R2,S3,J6,D3,E3,Q2,T3,Ca3,T4,Q3,SC3,N5,Pb3,H5,Q4,SC4,CC3,Ca4,CT2
+
+Results
+rurruuurro3ururrr o3uruururruruuu urruuuruuruuur uuuuruuururrur
+rruuuuuurruuru urruuo3uruurro3u ruuuuruuuruurr ruuuruuururrrrrr
+urrrurruuuuurur ruuuuro3uuro3uu uuuuruurrruuur rruuururrruurrrrr
+ruururruuuuruu rruuuurrruuurur o5uururuuruuurr ruuuurururrrrrrrr

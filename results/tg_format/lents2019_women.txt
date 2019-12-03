@@ -1,0 +1,15 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Women
+Year,2019
+
+Division,J,D,N,Cl,E,ME,T,Cr,L,Pb,G,Cu,TH,SC,Q,Ca,LC
+Division,K,F,H,Ph,J2,Dw,E2,SS,M,R,S,W,N2,L2,HH,Pb2,Cl2
+Division,CC,Cr2,SC2,SE,T2,J3,D2,Q2,K2,ME2,Ca2,TH2,Dw2,L3,LC2,N3,Cl3
+Division,E3,Q3,H2,Cu2,HH2,Ca3
+
+Results
+urur ururo3uo3urur ruurrruuurru uurururuuur
+ruru rrururuuuurr uuurururruu ruuruo3uuuu
+rrurr ruruuo3uo5uu ruuuruurrrur rruruurrurrrrr
+rrrur rrurrruruuurr uurruruuo3ur rrrruuuuurrrr

@@ -1,0 +1,18 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1929
+Days,6
+
+Division,Br,N,Mg,Ch,E,Mg2,Mt,Wh,Lc,U,Wt,P
+Division,SJ,B,T,Q,N2,J,Co,SC,O,B2,Ch2,K
+Division,H,Br2,Wt2,Wh2,U2,SE,O2,Q2,Lc2,E2,P2,K2
+Division,SJ2,T2,H2,J2,Co2,N3,O3
+
+Results
+rruru uuurrrurr rurruurrrr rrruruurrr
+ruurr ruururrur rruuurrrrr rururrrrrrr
+uuur rrurrrurru ruurrurrrr rrrrrurrurr
+urrur rurrrrrrrrrr urrruurrrr uuuurrrrr
+ururr ururrrruu rurrrrurru ruurrurrrr
+rrrrur rrrururrur rrurruurrr rruurrurrr

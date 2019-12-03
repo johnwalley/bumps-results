@@ -1,0 +1,52 @@
+TORPIDS 1951
+ 6  4  46   = NDay, NDiv, NCrew
+ 12  Men's Div I
+New College                 0   0   0   0   0   0
+Christ Church              -1   0   0  -1   0  -1
+Worcester                   1   0   0   0   0   0
+S.E.H.                      0   0  -1   0   0   1
+Magdalen                    0  -1  -1   0   1   0
+Pembroke                   -1  -1  -1  -1  -1   0
+Lincoln                     1   1   1   1   0   0
+Trinity                    -1  -1  -1  -1   0   0
+University                  1   1   1   0  -1   0
+Balliol                    -1  -1  -1   0   0  -1
+St Peter's                  1   1   1   0   0   0
+Brasenose                  -1  -1   0  -1  -1  -1
+ 12  Men's Div II
+Merton                      1   1   1   1   0  -1
+Oriel                       0   1   1   1   1   1
+Wadham                     -1  -1  -1  -1  -1  -1
+St John's                   1   0  -1  -1  -1  -1
+St Catherine's              0   1   1   1   0   1
+Jesus                       0   0   1   1   1   0
+Exeter                      0  -1   0   0   1   1
+Corpus Christi             -1   0   0   0   0   1
+Queen's                     1   1   0   1   1   1
+Keble                       0  -1   0   0   0   1
+Hertford                   -1   0   0   0   0   0
+New College II              1   1   0   0   0  -1
+ 12  Men's Div III
+Lincoln II                 -1  -1   0  -1   0  -1
+S.E.H. II                   1   0  -1   0  -1   0
+Merton II                   0   1   1   0   0   0
+Brasenose II                0   0  -1  -1  -1  -1
+Keble II                    0  -1  -1  -1  -1  -1
+Balliol II                 -1  -1  -1  -1  -1  -1
+St Peter's II               1   1   1   1   1   0
+Pembroke II                 0   1   1   1   0   1
+Oriel II                    0  -1  -1   0   1   1
+Christ Church II            0   1   1   1   1   0
+Worcester II                0  -1  -1   0   0   0
+Jesus II                   -1   0  -1  -1  -1  -1
+ 10  Men's Div IV
+New College III            -1  -1  -1  -1  -1  -1
+University II               2   1   1   1   1   1
+St John's II               -1  -1  -1  -1  -1   0
+Magdalen II                 1   1   2   0   0   1
+Exeter II                   0   1   1   1   0  -1
+Trinity II                 -1   0   0   1   1   1
+St Catherine's II           1   0   1   1   1   1
+Hertford II                 0   0   0   0   1   1
+Queen's II                 -1   0   0   0   0   0
+Oriel III                   1   0   0   0   0   0

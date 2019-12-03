@@ -1,0 +1,36 @@
+EIGHTS 1914
+ 6  3  31   = NDay, NDiv, NCrew
+ 10  Men's Div I
+New College                 0   0  -1   0   0   0
+Magdalen                    0  -1   0   0  -1   0
+Christ Church              -1   0   0   0   1   0
+University                  1   1   1   0   0   0
+St John's                   0   0   0   0   0  -1
+Merton                     -1  -1   1   0   1   1
+Balliol                     1   0   0   0  -1  -1
+Trinity                     0   1  -1  -1   0   0
+Brasenose                   0  -1  -1  -1  -1   0
+Lincoln                    -1  -1  -1  -1  -1  -1
+ 10  Men's Div II
+Corpus Christi             -1   1   1   0   0   0
+Oriel                       2   1   0   1   0   1
+Christ Church II           -1  -1   0   0   1   0
+Magdalen II                 1   0   1   1   0   0
+Wadham                     -1  -1  -1   0   0   0
+Worcester                   1   1   0   1   1   0
+Pembroke                    0   1   0   0   0   1
+Keble                      -1  -1  -1   0   0   0
+Queen's                     1   0   1   0   0   0
+Trinity II                 -1   0  -1   0   0  -1
+ 11  Men's Div III
+Exeter                      1   1   0   0   0   0
+New College II              0   0   2   0   0   0
+Jesus                       0   0   0   0   0   1
+Balliol II                  0  -1  -1  -1  -1   0
+S.E.H.                      0   1   0   0  -1   0
+Brasenose II                0   0   1   0   1   0
+Hertford                    0  -1  -1   0   0   0
+Oriel II                   -1  -1  -1   0   0   1
+St John's II                1   1   0   1   0  -1
+University II              -1   0   1   0   0  -1
+St Catherine's              1   1   1   0   1   1

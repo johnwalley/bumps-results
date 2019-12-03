@@ -1,0 +1,37 @@
+EIGHTS 1911
+ 6  3  32   = NDay, NDiv, NCrew
+ 10  Men's Div I
+Magdalen                   -1   0   0   0   0   0
+New College                 1   0   0   0   0   0
+Christ Church               0   0   0   0   0   0
+Balliol                     0  -1   0   0   0  -1
+St John's                   0   1   0   0   0   0
+Brasenose                   0  -1   0  -1   0   0
+Trinity                     0   1   0   0  -1   0
+Corpus Christi              0   0  -1   0  -1  -1
+Merton                      0  -1   0  -1   0  -1
+Wadham                     -1  -1  -1   1  -1  -1
+ 10  Men's Div II
+Lincoln                    -1   1   0   1   1   0
+University                  2   1   1   1   1   1
+Christ Church II            0   0   1  -1   1   2
+Oriel                       0  -1  -1  -1  -1  -1
+Keble                      -1  -1   0   1   0   0
+Pembroke                    1   1   0   0   0   1
+Exeter                      0   1   1   0   0   0
+Worcester                   0  -1   0   0  -1  -1
+Jesus                      -1  -1  -1  -1  -1  -1
+New College II              1   1   0   0   1   0
+ 12  Men's Div III
+Trinity II                  0   1   0  -1   0   1
+Magdalen II                 0   0   1   1   1   1
+Queen's                     0   0   0   1   0   0
+Hertford                    0   0   0   0   1   0
+St John's II               -1  -1   0   0  -1  -1
+University II               1   0  -1   0   0   0
+Lincoln II                 -1   0   0  -1  -1  -1
+Brasenose II                1   1   1   0   0   1
+S.E.H.                      0   0  -1   0   1   1
+St Catherine's              0  -1  -1   0   0   0
+Oriel II                   -1   0   1   0   0   1
+Balliol II                  1   1   1   1   1   0

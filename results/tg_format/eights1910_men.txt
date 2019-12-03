@@ -1,0 +1,14 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1910
+
+Division,Ch,Mg,N,SJ,B,Br,T,U,Co,Mt
+Division,Wh,Lc,O,Ch2,Wt,K,P,E,J,N2
+Division,T2,Q,H,Mg2,U2,SJ2,SC,Br2,SE,Wh2,Lc2
+
+Results
+ruurrurr rrrrrrrurr rrurrrrru
+uurrrrrrr rrrrrurrrr rurrruur
+ruuurrrr rrrrurrrrr urrrrrrrrr
+uurrrrur rrrurrrru rrrrrrrrrrr

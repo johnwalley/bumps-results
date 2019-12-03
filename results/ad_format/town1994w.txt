@@ -1,0 +1,21 @@
+TOWN 1994
+ 4  1  18   = NDay, NDiv, NCrew
+ 18  Women's Div I
+City 1                     -1  -1   0   0
+99 1                        1   0  -1   0
+Rob Roy 1                   0   1   1   0
+City 2                      0   0   0   0
+City 3                      0   0   0   0
+City 4                      0   0   0   0
+City 5                      0  -1  -1  -1
+Cam Consultants 1          -3   1   0   1
+City 6                     -1  -1  -1  -1
+Rob Roy 2                   1   0   1   0
+Free Press 1                3   1   0   0
+Pye 1                      -1   1   1   0
+Free Press 2                1  -1  -1  -1
+Cam Consultants 2          -1  -1  -1  -1
+Free Press 3                1   0   1   1
+Rob Roy 3                  -1   0   1   0
+Red Lion Toft 1             1   1   0   1
+Rob Roy 4                   0   0   0   1

@@ -1,0 +1,19 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1938
+Days,6
+
+Division,N,Mg,B,Br,O,T,SE,Co,E,P,Ch,SJ
+Division,Mg2,N2,U,J,K,Wt,Q,Wh,O2,Mt,H,B2
+Division,Lc,Br2,SC,SP,Ch2,Mt2,SJ2,SE2,T2,E2,Q2,Mg3
+Division,N3,K2,SP2,Wt2,U2,H2,Ch3,P2,B3,Mg4,J2,Lc2,Mt3
+Division,K3,SJ3,E3,SP3,Ch4,SC2,O3,Wh2,Q3,B4,H3,Co2,P3,Q4
+
+Results
+rruurro3urr ururururu urururrur rrurrrurrrr rrurrrurrrr
+ruurruruu rurruruurr rruruuurr ruurrrurrr rrruruurrr
+rruuuurur ururrurrur ruruuuur rurrrrrrrrrr rrrrururur
+ruuurrruu uurruuuu ururruuu rurrrruurr rrrurururr
+rrrruruuur ruuuuuur rruurrurrr uurrurrrrr urrruruur
+rrruruuurr uuurruurr rurrrurrrrr rurrrrrrrrrr rrrrrrrrrrru

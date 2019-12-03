@@ -1,0 +1,68 @@
+EIGHTS 1994
+ 4  5  61   = NDay, NDiv, NCrew
+ 12  Women's Div I
+Somerville                 -1  -1  -1   0
+Osler House                 1   0   0   0
+Pembroke                    0   1   0  -1
+Brasenose                   0  -1   0  -1
+University                 -1   0  -1   0
+New College                 1   1   1   1
+Wadham                      0  -1  -1  -1
+Oriel                      -1  -1  -1  -1
+St Hilda's                  1   1   1   1
+St Catherine's              0   1   1   0
+Wolfson                    -1   0  -1  -1
+Jesus                       1   0   1   1
+ 12  Women's Div II
+Christ Church               0   0  -1   1
+L.M.H.                     -1  -1   0  -1
+St Anne's                   1   0   2   1
+Keble                       0   1   0   0
+St Hugh's                  -1  -1   0  -1
+Magdalen                    1   0  -1   0
+St John's                  -1   0  -1  -1
+S.E.H.                      1   1   1   1
+Somerville II               0  -1  -1   0
+Lincoln                    -1  -1   0  -1
+Hertford                    1   1   1   1
+Trinity                    -1  -1  -1  -1
+ 12  Women's Div III
+Worcester                   1   1   1   1
+Merton                      0   1   0  -1
+Corpus Christi             -3   0  -1  -1
+Exeter                     -1   0   0  -1
+Balliol                     1   0   0   1
+Linacre                     3   0   1   2
+St Peter's                  0  -1  -1  -1
+St Hugh's II               -1  -1  -1  -1
+New College II              1   1   1   1
+Queen's                     0   1   1   1
+Pembroke II                -1   1   1   1
+Osler House II              1  -1   0   1
+ 12  Women's Div IV
+St Hilda's II              -1   1   0  -1
+L.M.H. II                   1  -1  -1   0
+Oriel II                   -1  -1   0   0
+Mansfield                   1   0   1   1
+Somerville III              0   1   0   0
+Christ Church II            0   0  -1   1
+University II              -1   1   1  -1
+Wadham II                   1  -1   0   0
+Jesus II                    0   0  -1   0
+St John's II                0  -1   0  -1
+Osler House III            -1   0  -1   0
+Keble II                    1   1   1   0
+ 13  Women's Div V
+S.E.H. II                  -3  -1   0   0
+St Antony's                 1   0  -1  -1
+Worcester II                1  -1  -1   0
+Regent's Park               1   1   2   1
+Hertford II                 0   1   1   1
+Balliol II                  0   0   0   0
+St Catherine's II           0   0   0   0
+Somerville IV              -1   1   0   0
+Linacre II                  1  -1   0   0
+New College III             0   0  -1   1
+Merton II                  -1   1   1  -1
+Mansfield II                1  -1   0  -1
+St Anne's II                0   0   0   1

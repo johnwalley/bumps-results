@@ -1,0 +1,38 @@
+TORPIDS 1923
+ 6  3  33   = NDay, NDiv, NCrew
+ 11  Men's Div I
+Worcester                  -1   0   0   0   0  -1
+Magdalen                    1   0   0   0   0   0
+Christ Church               0   0   0   0   0   1
+New College                 0   0   0   0  -1  -1
+Balliol                     0   0   0  -1  -1   0
+Brasenose                   0   0   0   1   1   0
+New College II             -1  -1  -1  -1  -1  -1
+Merton                      1   0  -1   0   0  -1
+University                  0   1   1   0   1   1
+Corpus Christi              0  -1  -1  -1  -1   0
+Magdalen II                -1  -1  -1  -1   0  -1
+ 11  Men's Div II
+St John's                   1   1   1   0  -1  -1
+Trinity                     0   1   1   1   1   1
+Balliol II                  0   0   1   1   1   1
+Queen's                     0   0  -1   0  -1   0
+Wadham                      0   0   1   1   1   1
+Christ Church II           -1  -1  -1  -1  -1  -1
+Pembroke                    1   0   0  -1   0   0
+Keble                       0   1   0   1   1   1
+Lincoln                     0   0   1   0   0   0
+Oriel                       0   0   0   1   0   0
+Exeter                      0   0   0   0   1   0
+ 11  Men's Div III
+St John's II               -1  -1  -1  -1  -1  -1
+Brasenose II                1   0  -1  -1   0  -1
+Hertford                    0   1   1   0  -1   0
+Wadham II                  -1  -1   0   0   1   0
+Worcester II                1   0   1   1   1   1
+Jesus                       0   1   0   1   0   1
+St Catherine's              0   0   0   0   0   1
+Christ Church III          -1  -1   0   0  -1   1
+S.E.H.                      1   0   0   0   0   0
+Lincoln II                  0   1   0   0   0   0
+Magdalen III                0   0   0   0   1  -1

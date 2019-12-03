@@ -1,0 +1,49 @@
+EIGHTS 1929
+ 6  4  43   = NDay, NDiv, NCrew
+ 12  Men's Div I
+Brasenose                   0   0   0   0   0   0
+New College                 0   0   0   0   0   0
+Magdalen                    0   0  -1   0   0  -1
+Christ Church              -1   0   0   0  -1   0
+Exeter                      1   0   1   0   0   0
+Magdalen II                -1   0  -1  -1  -1  -1
+Merton                      1   0   0  -1   0   0
+Wadham                      0  -1   0   1   0  -1
+Lincoln                    -1   0   0  -1  -1   0
+University                  1   1   1   1   1   1
+Worcester                   0  -1   0  -1  -1   0
+Pembroke                    0   1   0   1   1   1
+ 12  Men's Div II
+St John's                   0   0   0   1   1   1
+Balliol                     0   0   0   0   1   0
+Trinity                     0   0   0   0   0   0
+Queen's                     0   0   0   0   0  -1
+New College II             -1  -1   0  -1   0   0
+Jesus                       1   0  -1   1  -1  -1
+Corpus Christi             -1  -1  -1   0   0  -1
+St Catherine's              1   1   1  -1   1   1
+Oriel                       0   1   0   1   0   1
+Balliol II                  0  -1  -1  -1  -1  -1
+Christ Church II           -1   0   1   0  -1   0
+Keble                       1   1   1   0   0   0
+ 12  Men's Div III
+Hertford                    0   0  -1   0   1   0
+Brasenose II                0  -1   0   0  -1   0
+Worcester II               -1   0   0   0   1   1
+Wadham II                   1   1   1   1   1   1
+University II               0   0  -1   0   0  -1
+S.E.H.                      0  -1   0   0   0   1
+Oriel II                    0   1   1   0   0   0
+Queen's II                 -1  -1  -1  -1  -1   0
+Lincoln II                  1   0   0   0   0   0
+Exeter II                  -1  -1   0   1   0   0
+Pembroke II                 1   1   0   0  -1   1
+Keble II                   -1   0   0   0   1   0
+ 7  Men's Div IV
+St John's II               -1   0  -1   1   0  -1
+Trinity II                  2   1   1   0   1  -1
+Hertford II                 0  -1  -1   0   0   0
+Jesus II                   -1  -1  -1   1  -1   0
+Corpus Christi II           1   1   1  -1  -1   0
+New College III             0   1   1   0   1   1
+Oriel III                   0   0   1  -1   1   0

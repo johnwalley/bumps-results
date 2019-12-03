@@ -1,0 +1,68 @@
+TORPIDS 2010
+ 4  5  61   = NDay, NDiv, NCrew
+ 12  Women's Div I
+St Catherine's              0   0  -1   0
+Christ Church              -1   0   0  -1
+Magdalen                    1   0   1   0
+Oriel                       0   0  -1   0
+S.E.H.                     -1   1   1   1
+Queen's                     1  -1   0  -1
+New College                -1   1   0   1
+Osler House                 1  -1   0  -2
+St Hilda's                 -2  -1  -1  -1
+Exeter                      1  -1  -1  -2
+Wadham                      1   1   0   1
+Pembroke                   -1   0   1   1
+ 12  Women's Div II
+Balliol                     1   1   1   1
+Hertford                   -1   0   0  -1
+Keble                       1   0   0   2
+Somerville                  0   0  -1  -1
+St John's                   0  -1  -1  -1
+Merton                     -1  -3  -1   0
+Wolfson                    -2   1  -1   0
+Worcester                   2   1   1   1
+University                  1   1   1   1
+Linacre                    -1  -1   0  -1
+Mansfield                   1   1   1   1
+St Hugh's                   0   1   1   0
+ 12  Women's Div III
+Trinity                     0   0   0   1
+St Anne's                   0   0   0  -1
+Brasenose                   0   0  -4   0
+St Antony's                 0  -3   1   1
+Corpus Christi             -1   0   1   1
+Jesus                       1   1   1   1
+L.M.H.                      0   2   1  -2
+New College II              0   0   0  -1
+Lincoln                     0   0   0   1
+Hertford II                 0  -1   0  -1
+Wadham II                   0   1   0   0
+Balliol II                  0   0  -1  -1
+ 12  Women's Div IV
+St John's II                0   0  -2   0
+Pembroke II                 0  -3  -1  -2
+Wolfson II                  0   1   2   1
+Worcester II                0   1   1   1
+Exeter II                   0   1   0  -1
+St Hilda's II               0  -1  -4  -1
+Balliol III                 0   1   1   1
+Queen's II                  0  -4  -1  -4
+Trinity II                  0   1   1   0
+University II               0   1   0  -1
+St Anne's II                0   0   1   1
+St Peter's                  0   2   2   2
+ 13  Women's Div V
+Brasenose II                0   0  -2   2
+St Catherine's II           0   0   0   0
+Trinity III                 0   0   3   1
+St Hugh's II                0   0  -3   0
+Christ Church II            0   0   1   0
+St Peter's II               0   0   1   2
+Wolfson III                 0   0   1   0
+S.E.H. II                   0   0  -4  -1
+Merton II                   0   0   1  -2
+New College III             0   0   1   1
+Green Templeton             0   0   0   0
+L.M.H. II                   0   0   2   1
+Linacre II                  0   0   0   1

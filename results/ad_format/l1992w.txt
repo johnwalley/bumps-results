@@ -1,0 +1,57 @@
+LENTS 1992
+ 4  3  52   = NDay, NDiv, NCrew
+ 17  Women's Div I
+Emmanuel                   -1   0   0   0
+LMBC                        1   0   0   0
+Newnham                     0   0   0   0
+Caius                      -1   0   0  -1
+Jesus                       1   0   0   0
+Trinity Hall                0   0  -1  -1
+New Hall                   -1  -1   0  -1
+Queens'                     1   0   1   1
+Churchill                  -1   0  -1   0
+Clare                       1   1   0   1
+St Catharine's              0  -1   0  -1
+Sidney Sussex              -1   0  -1  -1
+Selwyn                      1   1   1   1
+Girton                      0  -1  -1   0
+Christ's                   -1  -1  -1   0
+Downing                     1   1   1   1
+1st and 3rd                -1  -1   0   0
+ 17  Women's Div II
+Pembroke                   -1   1   1   0
+Robinson                    2   1   1   1
+Homerton                    0   0   0   0
+Fitzwilliam                -1   0  -1  -1
+Jesus II                    1   0   0  -1
+QMABC                       0  -1  -1  -1
+Newnham II                 -1  -1  -1   0
+Corpus Christi              1   1   1   1
+Peterhouse                 -3  -1  -1   1
+CCAT                       -1   0  -1   0
+LMBC II                     1   0   1   1
+Magdalene                   3   1   1   1
+Clare II                    0   1   1   0
+New Hall II                -1   0   0  -1
+Emmanuel II                 1   0   1  -1
+Churchill II               -1  -1  -1  -1
+Addenbrooke's               1   0  -1  -1
+ 18  Women's Div III
+Girton II                   0  -1   1   1
+Wolfson                    -1   0  -1   0
+Selwyn II                   1   2   1   1
+LMBC III                    0  -1   0   0
+Caius II                   -1   0   0  -1
+Sidney Sussex II            1   1   1   1
+Darwin                      0  -1  -1  -1
+St Catharine's II           0   1   0   1
+Homerton II                 0  -1  -1  -1
+Christ's II                -1  -1  -1  -1
+Queens' II                  1   1   1   0
+1st and 3rd II             -1  -1  -1   0
+Robinson II                 1   1   1   1
+Corpus Christi II           0   1   1   1
+Pembroke II                 0  -1   0  -1
+Downing II                 -1   0  -1   0
+Magdalene II                1   1   1   1
+Trinity Hall II             0   0   1   1

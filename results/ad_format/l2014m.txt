@@ -1,0 +1,63 @@
+LENTS 2014
+ 4  4  57   = NDay, NDiv, NCrew
+ 17  Men's Div I
+Caius                      -1   0   0   0
+Downing                     1   0   0   0
+Queens'                     0  -1  -1  -1
+1st and 3rd                -1  -1  -1  -1
+Jesus                       1   1   0   0
+LMBC                        0   1   1   0
+Peterhouse                 -1  -1   0  -1
+Pembroke                    1   0   1   1
+Christ's                    0   1   0   1
+Girton                      0   0  -1   0
+Clare                       0  -1   0  -1
+Trinity Hall               -1  -1  -1  -1
+St Catharine's              1   1   1   1
+King's                      0   1   0   1
+Robinson                    0   0   1   0
+Selwyn                      0  -1   0  -1
+Magdalene                  -1  -1   1   1
+ 17  Men's Div II
+Caius II                   -1   1  -1  -1
+Emmanuel                    2   1   0   1
+Fitzwilliam                 0   0   0   1
+Churchill                   0   0   0   0
+Downing II                  0   0  -1   1
+Homerton                    0  -1  -1   0
+1st and 3rd II             -1  -1  -1  -1
+Jesus II                    1   1   1  -1
+LMBC II                     0   1   1   0
+Queens' II                  0   0   1   0
+Sidney Sussex               0  -1   0   0
+Christ's II                -1  -1  -1  -1
+Wolfson                     1   1   0   1
+Pembroke II                -1  -1  -1   0
+Darwin                      1   1   0  -1
+Corpus Christi              0   1   1   1
+Anglia Ruskin              -1  -1  -1  -1
+ 17  Men's Div III
+Hughes Hall                 1  -1   0  -1
+Emmanuel II                -1  -1   0   1
+St Edmund's                 1   2   1   1
+Peterhouse II              -3   1   0   1
+Selwyn II                  -1  -1  -1  -1
+Clare II                    1   0   0  -1
+St Catharine's II           3   1   1   1
+Churchill II               -1   1   1   0
+Magdalene II                1  -1  -1  -1
+1st and 3rd III             0   0   1   1
+Caius IV                   -3  -1   0  -1
+Queens' III                -1  -3  -1  -1
+Clare Hall                  1   0   1   1
+Robinson II                 3   0  -1   0
+LMBC III                    0   1   1   0
+Corpus Christi II          -1  -1  -1  -1
+Darwin II                   1   3  -1   0
+ 6  Men's Div IV
+Churchill III               0   1   1   1
+Magdalene III               0   0   1   1
+LMBC IV                    -1  -1  -1   0
+Pembroke IV                 1   0   0   1
+St Edmund's II             -1   0   1   0
+Wolfson II                  1   1   0   0

@@ -1,0 +1,48 @@
+TORPIDS 1947
+ 6  4  42   = NDay, NDiv, NCrew
+ 12  Men's Div I
+St John's                   0  -1  -1   0   0  -1
+S.E.H.                     -1  -1  -1   0  -1   0
+New College                 1   1   0   0   0   0
+Magdalen                   -1  -1  -1  -1  -1  -1
+Christ Church               1   1   1   0   0   0
+Trinity                     0   1   1   0   0   1
+Brasenose                   0   0   1   0   1   0
+Pembroke                    0   0   0   1   0   0
+Balliol                     0   0   0   0   1   0
+Worcester                   0  -1   0   0   0   0
+Exeter                     -1   0  -1   0  -1  -1
+University                  1   1   0   0   0   1
+ 12  Men's Div II
+Corpus Christi              0   0   1   0   0   0
+Wadham                      0   0   0  -1  -1  -1
+Merton                     -1  -1  -1  -1  -1  -1
+Keble                       1   0  -1  -1  -1  -1
+Oriel                       0   1   1   1   1   0
+St Peter's                  0   0   1   1   1   1
+Hertford                    0  -1   0  -1  -1  -1
+St Catherine's             -1   0  -1  -1  -1  -1
+Jesus                       1   1   0   1   1   1
+Brasenose II                0  -1  -1  -1  -1  -1
+St John's II               -1  -1  -1  -1  -1  -1
+Lincoln                     1   1   1   1   1   1
+ 12  Men's Div III
+Queen's                     0   1   1   1   1   1
+Balliol II                  0   0   1   1   1   1
+S.E.H. II                  -1  -1  -1  -1   0   1
+Christ Church II            1   0  -1  -1  -1  -1
+Exeter II                   0   1   1   1   1   1
+St Peter's II               0  -1  -1   0   0   0
+Keble II                   -1  -1  -1  -1   1   1
+New College II              1   1   1   1   1   1
+Pembroke II                 0   1   1   1   1   1
+Worcester II               -1   0  -1   0  -1  -1
+University II               1   0   1   0   0  -1
+Wadham II                   0  -1   0   0   1   1
+ 6  Men's Div IV
+Merton II                   0  -1   0   0  -1   0
+Oriel II                   -1   0   0  -1   0   0
+St Catherine's II           1   2   1   1  -1  -1
+Lincoln II                  0  -1   1   1   1   1
+Exeter III                  0   1  -1   0   0   0
+St Peter's III              0   0   0   0   0   0

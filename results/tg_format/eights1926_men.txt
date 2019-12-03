@@ -1,0 +1,14 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1926
+
+Division,Ch,Br,Mg,N,Mt,Q,E,O,Wh,T,Lc,Wt,P
+Division,B,Mg2,N2,U,SJ,Co,J,Mt2,H,Ch2,Wt2,B2,SC
+Division,Br2,Q2,U2,Mg3,Wh2,O2,SE,K,T2,SJ2,Lc2,H2,SC2,Ch3
+
+Results
+rrrururruu rrururruru rrruurrrrrrr
+rrurrruuur rururruurr urrururrrrr
+rururrurrrr ururrrrrrur rrrururrrrrr
+rrruuuuru rrurrrrrruu rrururrrrur

@@ -1,0 +1,65 @@
+TORPIDS 1975
+ 4  6  57   = NDay, NDiv, NCrew
+ 7  Men's Div I
+Oriel                       0   0   0   0
+University                 -1  -1   0   0
+Christ Church               1   0  -1   0
+Balliol                     0   1   1   0
+Worcester                   0   0   0   0
+Jesus                      -1  -1   1  -2
+New College                 1   0   0   0
+ 10  Men's Div II
+S.E.H.                      0   1  -2   1
+St Catherine's             -2  -4  -4  -1
+Keble                       1   0   1   1
+Oriel II                    1   0  -1  -1
+Lincoln                     0   1   1   0
+Trinity                     0   1  -1   0
+Magdalen                    0   1   1   1
+Wadham                      0   1   0   0
+Exeter                     -1  -1   1  -1
+Queen's                     1   0   1   0
+ 10  Men's Div III
+St John's                   0   1   1  -1
+Pembroke                    0  -1   0   1
+St Peter's                 -1   0   0   0
+Osler House                -2   0   0   0
+Brasenose                   2   1   1   2
+Merton                      1   0   0   0
+Corpus Christi              0   0   0   0
+University II               0   0   0   0
+S.E.H. II                   0   0   0   0
+Christ Church II            0   0   0   0
+ 10  Men's Div IV
+Lincoln II                  0   0   0   0
+Pembroke II                -1  -1   0  -1
+St Peter's II               1   0   0   0
+Jesus II                   -2  -1  -2  -1
+Hertford                    1   1   0   0
+Wolfson                     1   0   0   1
+Queen's II                  0   1   0   0
+St John's II                0  -2  -1  -1
+St Catherine's II          -1  -1  -1  -1
+Wadham II                   1   1   1   0
+ 10  Men's Div V
+Brasenose II               -7  -3  -1  -1
+S.E.H. III                  0  -3  -2  -3
+Keble II                    0   1   2   1
+Oriel III                   3   2   1   0
+Wadham III                 -5   0  -1  -1
+Mansfield                   2   1   0   2
+Balliol II                 -2   2   1   1
+New College II              3   1   0   0
+Trinity II                  2  -1   0  -1
+Magdalen II                 4   0   1  -1
+ 10  Men's Div VI
+Exeter II                  -3  -2  -1  -2
+Merton II                   1   2   0   1
+Hertford II                 0  -1  -1  -1
+Wolfson II                 -3  -1   0   1
+Exeter III                  3   0   2   3
+Pembroke III                1   2  -1   0
+St Peter's III             -1   1   1   1
+Oriel IV                    2   1   2   2
+Wadham IV                   0   0   0   1
+Oriel V                     0   0   0   0

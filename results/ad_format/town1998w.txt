@@ -1,0 +1,27 @@
+TOWN 1998
+ 4  1  24   = NDay, NDiv, NCrew
+ 24  Women's Div I
+City 1                     -1  -1  -1   0
+Free Press 1                1   0   0   0
+Rob Roy 1                   0   1   0   0
+City 2                      0   0   1   0
+Free Press 2               -1  -1   0   0
+99 1                        1   0  -1   0
+City 3                     -1  -1  -1  -1
+Rob Roy 2                   1   1   1   0
+Cantabs 1                  -1  -1  -1  -1
+Free Press 3                1   1   0  -1
+City 4                      0   1   1   1
+City 5                      0   0   1   1
+Rob Roy 3                  -1   0   1   1
+Cantabs 2                   1   0  -1   0
+Cantabs 3                  -1  -1  -1  -1
+Rob Roy 4                   1   0   0  -1
+Free Press 4                0   1   0   1
+Rob Roy 5                   0  -1  -1  -1
+City 6                      0   1   1   0
+99 2                        0  -1  -1  -1
+City 7                      0   1   1   1
+Free Press 5                0   0   1   1
+Champs 1                   -1   0   0   0
+Domino 1                    1   0   0   1

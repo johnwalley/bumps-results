@@ -1,0 +1,14 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Women
+Year,2012
+
+Division,D,Pb,E,T,Q,Cr,J,TH,Cl,Ca,N,L,M,SC,S,K,Cu
+Division,Ph,G,ME,E2,L2,F,SS,J2,HH,R,Pb2,H,T2,SE,Cr2,AR,Ca2
+Division,N2,Dw,W,D2,Cl2,Ph2,TH2,SS2,CH2,G2,HH2,ME2,T3,L3,AR2,Cr3,SC2,E3
+
+Results
+ruurrrurururr rrrururuuuur rururrrururrrr
+rruurururuur uurururrrurrr rurrurururrur
+ruururruuurr rururuurrurrr uurrruruuurr
+rruururrrrurrr ururuuurrrru ruururuurrrrr

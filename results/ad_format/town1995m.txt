@@ -1,0 +1,57 @@
+TOWN 1995
+ 4  3  52   = NDay, NDiv, NCrew
+ 17  Men's Div I
+Rob Roy 1                   0   0   0   0
+99 1                        0   0   0   0
+City 1                     -1   0   0   0
+Rob Roy 2                   1   0   0   0
+Free Press 1               -1  -1   0   0
+99 2                        1   0   0   0
+City 2                      0   1   0   0
+Cantabs 1                  -1   0  -1   0
+Rob Roy 3                   1   0   0   0
+Free Press 2                0  -1   0  -1
+City 3                     -1   0   0   1
+99 3                        1   1   1   0
+Maximum Entropy 1           0   0  -1  -1
+Cantabs 2                   0  -1  -1  -1
+Trinity Hall 1              0   1   1   0
+Cantabs 3                  -1  -1  -1   0
+Rob Roy 4                   1   0   1   1
+ 17  Men's Div II
+99 4                        0  -1   1   0
+99 5                       -3   1   0  -1
+Red Lion Toft 1            -1  -1  -1  -1
+City 4                      1   0   0   0
+Rob Roy 5                   3   2   0   1
+Free Press 3                0   0   1   1
+Cantabs 4                   0   0   0   1
+Free Press 4               -1   1   0  -1
+Free Press 5                1  -1  -1  -1
+Cantabs 5                   0  -1   0   1
+99 6                        0   1   1   1
+Free Press 6                0   0  -1   0
+Cantabs 6                   0  -1   0  -1
+Free Press 7               -1  -1  -1  -1
+Rob Roy 6                   1   1   1   0
+Maximum Entropy 2           0   1   0   1
+Mott Macdonald 1           -1   0  -1  -1
+ 18  Men's Div III
+Champs 1                   -1   0   1   1
+Marshalls 1                 2   0   1   0
+99 7                        0  -1  -1  -1
+Cam Consultants 1          -1  -1  -1  -1
+City 5                      1   1   0   1
+Pye 1                      -1  -1  -1  -1
+Cantabs 7                   1   1   1   0
+Leckhampton 1               0   1   1   1
+Free Press 8               -1  -1  -1  -1
+Cantabs 8                   1   0   1   1
+99 8                       -1  -1  -1   0
+Rob Roy 7                   1   1   0   1
+Cantabs 9                   0   1   1   0
+Cantabs 10                 -1   0   0   0
+Rob Roy 8                   1   0   1   1
+Rob Roy 9                   0  -1   1  -1
+Cantabs 11                  0   1  -1   1
+Cantabs 12                  0   0   0   0

@@ -1,0 +1,75 @@
+MAYS 2012
+ 4  4  69   = NDay, NDiv, NCrew
+ 17  Women's Div I
+Downing                     0   0   0   0
+Pembroke                    0  -1  -1   0
+Christ's                   -1  -1  -1  -1
+Newnham                     1   1   0  -1
+Emmanuel                   -1  -1   0   1
+Jesus                       1   1   1   1
+Clare                       0   1   1   0
+LMBC                       -1  -1  -1  -1
+Queens'                     1   0  -1  -1
+Caius                       0   1   1   0
+Trinity Hall                0  -1   0   1
+1st and 3rd                 0   1   1   1
+Magdalene                   0  -1  -1  -1
+St Catharine's              0   1   0  -1
+Churchill                  -1  -1  -1  -1
+Girton                      1   0   1   1
+Selwyn                      0   1   0   1
+ 17  Women's Div II
+Peterhouse                  0   0   1   0
+King's                      0   0   0   1
+Pembroke II                 0   0  -1  -1
+Sidney Sussex               0  -1   0   1
+Emmanuel II                -1  -1   0  -1
+Murray Edwards              1   1   1   0
+Jesus II                   -1  -1  -1  -1
+Fitzwilliam                 1   1   0   0
+Robinson                    0   1   0   1
+Newnham II                  0  -1  -1  -1
+Anglia Ruskin              -1  -1  -1  -1
+Homerton                    1   1   1   0
+Darwin                      0   1   1   1
+Clare II                   -1  -1   0   0
+LMBC II                     1   0   1   1
+Hughes Hall                -1   0   0  -1
+Downing II                  1   1   0   1
+ 17  Women's Div III
+Trinity Hall II             0  -1  -1  -1
+Corpus Christi             -1  -1  -1  -1
+Wolfson                     1   1   0  -1
+Caius II                    0   1   1   2
+Christ's II                 0   0   1   1
+Queens' II                  0   0   0   1
+Girton II                   0  -1  -1  -1
+Magdalene II               -1  -1  -1  -1
+Selwyn II                   1   1   0  -1
+Pembroke III                0   1   1   1
+St Catharine's II           0   0   1   1
+1st and 3rd II              0   0   0   1
+Emmanuel III                0   0  -1  -1
+Clare Hall                  0  -1  -1   0
+Newnham III                -1   0   1   1
+Murray Edwards II           1   1   1   0
+St Edmund's                -1  -1  -1  -1
+ 18  Women's Div IV
+Sidney Sussex II            1   0   0  -1
+Jesus III                  -1  -1  -1  -1
+Homerton II                 1   1   0  -1
+Darwin II                  -1  -1  -1  -1
+Christ's III                1   1   1   2
+Fitzwilliam II              0   1   1   1
+Hughes Hall II             -1  -1  -1   1
+Peterhouse II               1   0   1   1
+King's II                   0   1   0   1
+Selwyn III                 -1   0   0  -1
+Queens' III                 1   0   1  -1
+Pembroke IV                 0   0  -1  -1
+Clare III                   0  -1  -1  -1
+Trinity Hall III           -1  -1   0   1
+Murray Edwards III          1   1   1   1
+Robinson II                -1   0   0   0
+LMBC III                    1   1   1   1
+Sidney Sussex III           0   0   0   0

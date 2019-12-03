@@ -1,0 +1,39 @@
+TORPIDS 1924
+ 6  3  34   = NDay, NDiv, NCrew
+ 11  Men's Div I
+Magdalen                   -1  -1  -1   0   0   0
+Christ Church               1   0   0   0   0   0
+Worcester                  -1  -1   0  -1  -1   0
+Brasenose                   1   1   0   0   0   0
+University                  0   1   1   0   0   0
+New College                 0   0   0   1   0  -1
+Balliol                    -1  -1  -1   0   0   0
+Trinity                     1   0  -1   0   0   0
+Merton                      0   1   1   0   1   1
+Balliol II                  0   0   1   0   0   0
+St John's                  -1  -1  -1  -1  -1  -1
+ 11  Men's Div II
+Wadham                      1   0   0   0   0  -1
+New College II             -1  -1  -1  -1  -1  -1
+Corpus Christi              1   1   0   0   0  -1
+Keble                       0   1   1   0   0   2
+Magdalen II                -1  -1  -1  -1  -1   0
+Queen's                     1   0   1   1   0   0
+Pembroke                    0   1   0   1   1   0
+Lincoln                    -1  -1   0   0   1   0
+Oriel                       1   0   1   0   1   1
+Exeter                     -1   0   0   0   0   0
+Worcester II                1   1   0   1   0   1
+ 12  Men's Div III
+Christ Church II            0   0   0   0   0   0
+Hertford                   -1   0   1   0   0  -1
+Jesus                       1   0  -1   0  -1  -1
+Brasenose II                0   0  -1  -1   0   0
+Wadham II                   0  -1  -1   0   0   0
+St Catherine's             -1  -1   0   0  -1   0
+St John's II                1   1   1   0   1   1
+S.E.H.                      0   1   1   1   0   1
+Lincoln II                  0  -1   0   0   0   0
+Keble II                    0   1   0   0   1   0
+Queen's II                 -1   0   0   0   0   0
+Oriel II                    1   0   0   0   0   0

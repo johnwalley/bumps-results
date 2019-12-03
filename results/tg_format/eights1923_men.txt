@@ -1,0 +1,17 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1923
+Days,6
+
+Division,N,Mg,Mt,O,Ch,T,Co,Mg2,SJ,Wt,E,B
+Division,Lc,U,P,Q,Br,K,Ch2,N2,Wh,SC,B2,Wt2
+Division,Mg3,Lc2,H,Q2,Wh2,T2,J,Mt2,SE,U2,SJ2,O2,Br2
+
+Results
+urururrur rruuuuur uruururu
+rurruuuu rurrurruu uuurrrurr
+uurruuur uuurruur ruurrurur
+rururuuu ruurururr uururrrrrr
+rrruuruur uurrrurru ruurrrurrr
+rrrruruuu rurrrrruur uuurrrurr

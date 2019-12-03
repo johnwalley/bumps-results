@@ -1,0 +1,63 @@
+EIGHTS 1932
+ 6  5  56   = NDay, NDiv, NCrew
+ 12  Men's Div I
+Brasenose                   0  -1   0   0   0   0
+University                 -1  -1   0  -1  -1  -1
+Magdalen                    1   1   0   0   0   0
+New College                 0   1   0   0  -1  -1
+Christ Church               0   0  -1  -1   0   1
+Balliol                     0  -1  -1   0   0   0
+Pembroke                   -1  -1   0  -1  -1  -1
+Worcester                   1   1   1   1   1   0
+Exeter                     -1   0  -1  -1  -1  -1
+Oriel                       1   1   1   1   1   1
+Queen's                     0  -1   0   1   1   0
+Wadham                     -1  -1  -1  -1  -1  -1
+ 12  Men's Div II
+Trinity                     1   1   1   1   0   0
+Lincoln                    -1  -1  -1  -1  -1  -1
+St John's                   1   1   0  -1   0   1
+Magdalen II                 0   1   1   1   1   1
+Merton                     -1  -1  -1  -1   0   0
+Jesus                       1   0   1   1   0  -1
+S.E.H.                      0   1   0   1   1   1
+St Catherine's              0  -1   0   1   0   1
+Corpus Christi             -1   0  -1   1   0   0
+Keble                       1   1   1   0   1   1
+Wadham II                   0   0   1  -1   0   0
+New College II             -1  -1   0  -1  -1  -1
+ 12  Men's Div III
+Hertford                    1   0   0   0   0  -1
+Balliol II                  0   1   0   0  -1  -1
+University II              -1  -1  -1  -1  -1  -1
+Christ Church II            1   0  -1  -1  -1  -1
+Worcester II                0   1   1   1   1   1
+Oriel II                    0   0   1   1   1   1
+St John's II               -1  -1  -1   1   0   1
+St Peter's                  1   0   0   1   1   1
+Brasenose II               -1  -1  -1  -1   0  -1
+Keble II                    1   1   0   0   1   1
+Lincoln II                  0   1   1  -1  -1   0
+Exeter II                   0  -1   0  -1  -1  -1
+ 12  Men's Div IV
+Trinity II                 -1  -1   0   0   1   1
+Pembroke II                 1   1   1   0   1   0
+St Catherine's II           0   1   0   2   0   0
+Corpus Christi II           0  -1   0  -1  -1  -1
+Oriel III                  -1   0  -1  -1  -1  -1
+Christ Church III           1   1   0   0  -1  -1
+Queen's II                  0  -1  -1  -1  -1  -1
+Balliol III                -1  -1   0   1   1   1
+Magdalen III                1   1   1   1   1   1
+Jesus II                   -1   0   0   0   1   1
+Merton II                   1   1   1   1   1   1
+Brasenose III              -1  -1   0  -1  -1  -1
+ 8  Men's Div V
+Pembroke III                1  -1   0   0   0   0
+Wadham III                 -1  -1  -1  -1  -1  -1
+University III              1   2   0   0   0   1
+Worcester III               0   1   0   1   0   0
+St John's III               0   0   1   0   1   0
+Keble III                   0   0   0   1   0   1
+Jesus III                   0   0   0   0   1   0
+University IV               0   0   0   0   0   1

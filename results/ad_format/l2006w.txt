@@ -1,0 +1,57 @@
+LENTS 2006
+ 4  3  52   = NDay, NDiv, NCrew
+ 17  Women's Div I
+Downing                    -1  -1  -1  -1
+Clare                       1   0   0   0
+Caius                       0   1   0   0
+Emmanuel                    0   0   1   0
+Jesus                       0  -1   0   0
+LMBC                       -1  -1   0   0
+1st and 3rd                 1   1   0   1
+Newnham                     0   1   0   0
+Pembroke                   -1  -1  -1  -1
+Girton                      1   0  -1   0
+Trinity Hall                0   1   1   0
+Churchill                   0   0   1   0
+Christ's                   -1  -1  -1  -1
+Selwyn                      1   0   0   1
+Queens'                     0   1   0   0
+St Catharine's             -1  -1  -1  -1
+New Hall                    1   0   1   0
+ 17  Women's Div II
+Fitzwilliam                 0   1   0   1
+Robinson                    0   0   1   0
+Jesus II                    0  -1   0   0
+Sidney Sussex              -1  -1   1  -1
+King's                      1   1   0   1
+Magdalene                  -1  -1   0  -1
+Peterhouse                  1   1  -1   1
+Darwin                     -1  -1   1   1
+LMBC II                     1   1   0   0
+Emmanuel II                -1   0  -1  -1
+CCAT                        1   1  -1   0
+St Edmund's                 0  -1  -1  -1
+Newnham II                 -1  -1   0   1
+Wolfson                     1   1   1   0
+Caius II                    0   1   1   1
+St Catharine's II          -1  -1  -1  -1
+Queens' II                  1   0  -1  -1
+ 18  Women's Div III
+New Hall II                -1  -1  -1   0
+Pembroke II                 1   1   1   0
+Homerton                   -1   0   1   1
+Corpus Christi              1   1   1   1
+Clare Hall                 -1  -1  -1   0
+Lucy Cavendish              1   0   0   0
+Downing II                 -1  -1   0  -1
+Girton II                   1   1   0   0
+Trinity Hall II            -1   0  -1  -1
+Clare II                    1   1   1   0
+1st and 3rd II             -1   1   1   1
+Newnham III                 1  -1   0   1
+CCAT II                     0   0   0   0
+Fitzwilliam II              0   0  -1  -1
+Peterhouse II               0   0   1   0
+King's II                   0  -1  -1   1
+CCAT III                   -1   0   1  -1
+Wolfson II                  1   1   0   1

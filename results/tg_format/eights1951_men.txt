@@ -1,0 +1,21 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1951
+Days,6
+
+Division,N,T,Mg,Mt,Ch,O,B,Wt,U,Br,SJ,P
+Division,Lc,SE,Mg2,E,SP,Q,Wh,N2,J,SC,K,Co
+Division,SE2,Br2,Ch2,T2,P2,Mt2,O2,SJ2,E2,H,SP2,U2
+Division,K2,Mg3,SC2,Lc2,N3,B2,J2,Wt2,Q2,E3,Br3,H2
+Division,T3,B3,K3,Lc3,U3,Wh2,P3,Ch3,SC3,SJ3,Wh3,B4
+Division,Br4,Mt3,J3,Co2,O3,SP3,K4,N4,Q3,U4,SE3,Wt3
+Division,J4,Wt4,Mg4,E4,P4,SC4,O4,U5,Mt4,Co3,Wh4,B5,Br5
+
+Results
+urrruruur rrruuuuu urruruuu rrruuurur ro3urrurur rurrurrurr rrurrurrur
+rrrrrurruu uuuuuur rurruurur rrrurururr uuurrrurr urruuurrr ruuurrurr
+ruuuruur ruuuuuu uurrruurr rruruurrrr ro3urrruru rrruurrurr rrrrrrrurru
+rrrruruuu uuuuuur ruuruuur ruruuuru uururrurr rruuurrrrr uuurruur
+rrrururuu rurruuuu uuururrrr uruuruur rururrrrur uruuurru ruururrru
+rrurrrrurrr uo3uuuur ruuruuru uuurrrrru rrruurrrru rurrruuur uurrrrrurr

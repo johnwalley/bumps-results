@@ -1,0 +1,61 @@
+TORPIDS 1959
+ 4  5  54   = NDay, NDiv, NCrew
+ 12  Men's Div I
+Queen's                    -1  -1  -1  -1
+Balliol                     1   0   0   0
+Worcester                  -1  -1  -1   0
+Christ Church               1   1   0  -1
+S.E.H.                      0   1   1   1
+Magdalen                    0   0   1   1
+Exeter                      0  -1  -1  -1
+Hertford                   -1  -1  -1  -1
+St John's                   1   1   0   0
+Oriel                       0   1   1   0
+New College                 0   0   1   1
+Merton                      0  -1   0   0
+ 12  Men's Div II
+Pembroke                    0  -1  -1  -1
+St Peter's                 -1  -1  -1  -1
+Lincoln                     1   2   0   1
+Wadham                      0   1   1   0
+Brasenose                  -1  -1   0   0
+University                  1   0   1   1
+Trinity                     0   1   0   1
+Jesus                      -1  -1  -1  -1
+Corpus Christi              1   0  -1   0
+St Catherine's             -1   0   1   0
+Keble                       1   1   1   0
+Christ Church II           -1  -1  -1  -1
+ 12  Men's Div III
+Balliol II                  1   0   0   1
+S.E.H. II                   0   1   0  -1
+St Peter's II               0   0   1   1
+St John's II                0   0  -1   0
+Oriel II                    0  -1   0   0
+Magdalen II                -1  -1  -1   0
+Queen's II                  1   1   1   1
+Lincoln II                  0   1   0  -1
+Brasenose II                0  -1  -1  -1
+Pembroke II                -1  -1  -1  -1
+University II               1   1   1   1
+Balliol III                 0   1   1   0
+ 12  Men's Div IV
+Hertford II                 0   0  -1   1
+Exeter II                  -1  -1  -1  -1
+Merton II                   1   0   2   1
+Jesus II                   -1  -1  -1   0
+Keble II                    1   1   0  -1
+Christ Church III           0   1   1   1
+St Peter's III             -1  -1  -1  -1
+Corpus Christi II           1   0   1   1
+St Catherine's II          -1  -1  -1   0
+Trinity II                  1   1   0  -1
+New College II              0   1   1   1
+Lincoln III                -1   0  -1  -1
+ 6  Men's Div V
+Wadham II                   1   0   1   1
+Corpus Christi III          0  -1  -1  -1
+St John's III              -1  -1  -1   0
+S.E.H. III                  1   1   1   0
+University III              0   1   1   1
+Keble III                   0   0   1   1

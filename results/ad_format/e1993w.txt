@@ -1,0 +1,68 @@
+EIGHTS 1993
+ 4  5  61   = NDay, NDiv, NCrew
+ 12  Women's Div I
+Somerville                  0   0   0   0
+Brasenose                   0  -1  -1   0
+University                 -1  -1   0   0
+Pembroke                    1   1   0  -1
+Osler House                 0   1   1   1
+New College                 0   0   0   0
+Wolfson                    -1  -1  -1  -1
+Wadham                      1   0   0   0
+Christ Church              -1  -1  -1  -1
+St Hilda's                  1   1   0  -1
+L.M.H.                     -1  -1  -1   0
+Oriel                       1   1   1   1
+ 12  Women's Div II
+St Anne's                  -1  -1   0   0
+St Catherine's              1   1   1   1
+Keble                      -1   0   0   0
+Jesus                       1   1   1   1
+St Hugh's                   0   0   0   0
+St John's                   0   0  -1   0
+Hertford                   -1  -1  -1  -1
+Magdalen                    1   0   1   0
+Somerville II               0   1   0  -1
+Worcester                  -1  -1  -1   0
+S.E.H.                      1   0   1   1
+Lincoln                     0   1   0   1
+ 12  Women's Div III
+Merton                     -1   0   0   0
+Trinity                     1   0   1   0
+Balliol                    -1   0   0  -1
+Corpus Christi              1   0   0   0
+Exeter                      0   0   0   1
+St Hugh's II               -1   0   0  -1
+Linacre                     1   0   0   0
+St Peter's                  0   0   0   1
+Queen's                    -1   0   0   0
+New College II              1   0   0   0
+Brasenose II               -1   0   0  -1
+Pembroke II                 1   0   0   0
+ 12  Women's Div IV
+St Hilda's II               0   0   0  -1
+L.M.H. II                  -1   0   0   0
+Osler House II              1   0   0   2
+Somerville III             -1   0   0  -1
+Oriel II                    1   0   0   0
+Mansfield                   0   0   0   1
+University II               0   0   0  -1
+Christ Church II            0   0   0   1
+Jesus II                   -1   0   0   0
+Wadham II                   1   0   0   0
+Osler House III             0   0   0  -1
+Exeter II                  -1   0   0  -1
+ 13  Women's Div V
+Oriel III                  -1   0   0   1
+St John's II                2   0   0   1
+St Hilda's III              0   0   0  -1
+Queen's II                 -1   0   0   0
+Magdalen II                 1   0   0   1
+Keble II                    0   0   0  -1
+S.E.H. II                  -1   0   0   0
+Trinity II                 -1   0   0   0
+Lincoln II                  2   0   0   1
+Manchester                  0   0   0  -1
+St Antony's                 0   0   0   1
+Worcester II               -1   0   0   0
+Christ Church III           1   0   0   0

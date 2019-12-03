@@ -1,0 +1,32 @@
+EIGHTS 1908
+ 6  3  27   = NDay, NDiv, NCrew
+ 8  Men's Div I
+Christ Church               0   0   0   0   0   0
+Magdalen                    0   0   0   0   0   0
+New College                 0   0   0   0   0   0
+Trinity                     0   0  -1  -1  -1   0
+University                  0  -1  -1  -1   0   0
+St John's                  -1   0   1   1   0   0
+Balliol                     1   1   1   0   0   0
+Merton                      0   0   0   1   1   0
+ 9  Men's Div II
+Brasenose                   0   0   0   0   0   0
+Corpus Christi              0   0  -1   0   0   0
+Pembroke                   -1  -1  -1   0  -1  -1
+Oriel                       1   0   1   0   0   0
+Lincoln                     0   1   0   0   0   0
+Keble                      -1  -1  -1  -1   0   0
+Worcester                   1   0   1   0   0  -1
+Exeter                      0   1   0  -1  -1   0
+Jesus                      -1   0   0  -1  -1   0
+ 10  Men's Div III
+Queen's                    -1   0  -1  -1   0  -1
+Wadham                      2   0   1   1   1   1
+Hertford                    0  -1  -1   0  -1   0
+St Catherine's             -3  -1   0   0  -1   0
+S.E.H.                     -1  -3  -1   0   0   0
+New College II              1   0   1   1   1   0
+Christ Church II            3   1   1   2   1   1
+Magdalen II                -1   3   0  -1   0   0
+Trinity II                  1   1   0   1   1   1
+St John's II                0   0   1   0   1   0

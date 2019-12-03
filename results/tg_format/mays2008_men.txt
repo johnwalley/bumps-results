@@ -1,0 +1,17 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,2008
+
+Division,Ca,T,L,TH,J,SC,Cu,Q,D,E,Pb,Cl,R,T2,Cr,F,M
+Division,Ca2,S,K,W,L2,Ph,D2,CT,E2,J2,CC,G,Dw,SC2,SE,SS,H
+Division,Q2,Cu2,Pb2,S2,G2,T3,R2,M2,F2,Cr2,Cl2,TH2,J3,L3,E3,HH,Dw2
+Division,Ph2,SC3,Q3,D3,Cl3,TH3,S3,Ca3,CC2,W2,T4,K2,L4,Pb3,Cu3,J4,CH
+Division,Cr3,SS2,Ca4,T5,M3,Cr4,CT2,R3,J5,L5,F3,Pb4,H2,SE2,Q4,SS3,L6
+Division,G3,E4,CT3,Dw3,G4,D4,K3,Pb5,CH2
+
+Results
+rro3uru uurruurruuu rruuuururrur uururrruurur ruururrrrrurrr rruurruururu
+uuo3ur ruro5uuruurrr ruuuuuruurr rururrruururr rruruurrruuu rrrurrrurrurur
+o3urrur rrrururruuurr uuuuuururrr uururuururrr ruuruururrur rruuruuurrrrr
+ururru uurrrrruuuru uruuuuuruu rrrurruuurrrrr urrurururrrru rurrruuuuurr

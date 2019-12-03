@@ -1,0 +1,49 @@
+TOWN 1988
+ 4  3  44   = NDay, NDiv, NCrew
+ 16  Men's Div I
+Rob Roy 1                   0   0   0   0
+99 1                        0   0   0   0
+Cantabs 1                   0   0   0   0
+Rob Roy 2                   0  -1   1  -1
+City 1                     -1   0   0   0
+99 2                        1   1  -1   1
+99 3                       -1  -1  -1  -1
+Pye 1                       1   0   0   0
+City 2                      0   1   0   0
+Free Press 1                0   0   1   0
+Free Press 2                0  -1   0   0
+Cantabs 2                   0   1   0   1
+99 4                        0   0   0  -1
+Churchill 1                -1  -1  -1  -1
+Free Press 3                1   0  -1  -1
+Wolfson 1                  -1  -1  -1  -1
+ 16  Men's Div II
+Rob Roy 3                   1   1   1   1
+99 5                       -1  -1  -1   0
+Cantabs 3                   1   1   1   1
+99 6                       -1  -1   0  -1
+King's 1                    1   1   1   1
+Free Press 4               -1  -1  -1  -1
+St Ives 1                   1   1   1   1
+Red Lion Toft 1             0   1   0   1
+Pye 2                      -1  -1   0  -1
+Cantabs 4                   1   0   1   0
+Macdonalds 1                0   1   0   1
+City 4                      0   0  -1  -1
+Leckhampton 1               0  -1  -1   0
+Red Lion Toft 2            -1  -1  -1  -1
+Free Press 5                1   1   1   1
+Cherry Hinton 1             0  -1   1   0
+ 12  Men's Div III
+St Ives 2                  -1   0   0   1
+Rob Roy 4                   1   2   1   1
+Free Press 6                0   0   0  -1
+99 7                       -1  -1   0   1
+Free Press 7                1   0  -1  -1
+Barclays Bank 1            -1   0   0   0
+Cantabs 5                   1   1   1   1
+Cherry Hinton 2             0  -1  -1   0
+Cantabs 6                  -1  -1  -1   1
+Rob Roy 5                   1   1   0   0
+99 8                       -1   0   1  -1
+City 5                      1   1   1   0

@@ -1,0 +1,25 @@
+EIGHTS 1899
+ 6  2  21   = NDay, NDiv, NCrew
+ 10  Men's Div I
+New College                 0   0   0   0   0   0
+Magdalen                    0   0   0   0   0   0
+Balliol                     0   0   0   0   0   0
+Trinity                     0   0   0   0   0   0
+University                  0   0   0   0   0   0
+Christ Church               0   0   0   0   0   0
+Brasenose                  -1   1   0   0  -1   0
+Hertford                    1  -1  -1  -1   0  -1
+Merton                      0  -1   0   1   0   0
+Queen's                    -1  -1  -1  -1  -1  -1
+ 11  Men's Div II
+Exeter                     -1   1   0   0  -1  -1
+Worcester                   2   1   1   0   1   0
+St John's                  -1  -1  -1  -1  -1  -1
+Keble                       1   0   1   0   1   1
+Pembroke                    0   1   0   1   0   1
+Corpus Christi             -1   0   0   1   0   1
+Lincoln                     1   0   1   0   1   0
+St Catherine's             -1   0   1   0   1   0
+Jesus                       1   0  -1  -1  -1   0
+Wadham                      0   0   0   1   0   1
+Oriel                       0   0   0   0   1   0

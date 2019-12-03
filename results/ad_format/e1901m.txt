@@ -1,0 +1,26 @@
+EIGHTS 1901
+ 6  2  22   = NDay, NDiv, NCrew
+ 10  Men's Div I
+Magdalen                   -1  -1   0   0   0   0
+New College                 1   0   0   0   0   0
+University                  0   1   0   0   0   0
+Brasenose                  -1  -1  -1  -1  -1  -1
+Balliol                     1   0   0   0   0   0
+Worcester                   0   1   0   0   0   0
+Pembroke                    0   0   1   0   0   0
+Merton                      0  -1   0   0   1   0
+Keble                      -1   0  -1  -1   0   0
+Trinity                     1   1   0   1   0   0
+ 12  Men's Div II
+Lincoln                     0   0  -1   1   0   0
+Christ Church               0  -1  -1  -1   0   0
+Corpus Christi             -1  -1  -1   0   0   0
+Exeter                      1   1   2   0   0   1
+Oriel                      -1  -1   0  -1  -1  -1
+Queen's                     1   1   1   0   0   0
+Hertford                    0   1   1   1   0   0
+Jesus                       0   0  -1  -1   0   1
+Wadham                      0   0   1   1   0   0
+St John's                   0   0  -1   0   0   0
+St Catherine's              0   0   1   1   1   0
+S.E.H.                      0   0   0   0   0   0

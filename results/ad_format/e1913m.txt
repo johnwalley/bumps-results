@@ -1,0 +1,38 @@
+EIGHTS 1913
+ 6  3  33   = NDay, NDiv, NCrew
+ 10  Men's Div I
+New College                 0   0   0   0   0   0
+Magdalen                    0   0   0   0   0   0
+University                  0   0  -1   0   0   0
+Christ Church               0   0   1   0   0   0
+Lincoln                    -1   0  -1  -1  -1  -1
+Balliol                     1   0   0  -1   0  -1
+Brasenose                   0  -1  -1  -1   0   1
+Christ Church II           -1  -1  -1  -1  -1   0
+St John's                   1   1   1   1   0   0
+Merton                      0   1   1   1   0   1
+ 11  Men's Div II
+Corpus Christi              0   0  -1   1   0   0
+Magdalen II                -1  -1   0   0   0   0
+Trinity                     1   0   2   1   1   0
+Oriel                       0   1   0   0   1   0
+Pembroke                   -1   0   0   0   0  -1
+Wadham                      1   0   0   0   0   0
+Keble                       0   0   0   0  -1   0
+Trinity II                  0   0   0  -1  -1   0
+New College II             -1  -1  -1   0   0   0
+Exeter                      1   0  -1  -1   0   0
+Balliol II                 -1   0  -1   0   0  -1
+ 12  Men's Div III
+Worcester                   1   1   1   1   1   1
+St John's II               -1  -1  -1  -1  -1  -1
+Queen's                     1   0   2   1   1   0
+Brasenose II                0   1   0  -1  -1   0
+Hertford                   -1  -1  -1   1   1   0
+Jesus                       1   0   1   1   0   1
+S.E.H.                      0   1   0   1   1   0
+University II               0  -1  -1   1   0   0
+St Catherine's             -1   0   1  -1  -1   1
+Oriel II                    1   1   1  -1   0   1
+Merton II                   0  -1   0   1   1  -1
+Magdalen III                0   1   0  -1   0   0

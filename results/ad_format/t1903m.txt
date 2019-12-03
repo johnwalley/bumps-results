@@ -1,0 +1,33 @@
+TORPIDS 1903
+ 6  3  28   = NDay, NDiv, NCrew
+ 9  Men's Div I
+New College                 0   0   0   0   0   0
+University                  0   0   0   0   0   0
+Brasenose                   0   0   0   0   0   0
+Magdalen                    0   0   0   0   0   0
+Balliol                     0   0   0   0   0   0
+Pembroke                    0   0   0   0   0   0
+Balliol II                 -1   0   0   0   0  -1
+Trinity                     1   0   0   0   0   0
+Hertford                    0   0   0   0  -1   0
+ 9  Men's Div II
+Corpus Christi              0   0  -1  -1  -1  -1
+Keble                       0   0   1   0  -1  -1
+New College II              0  -1  -1   0   0   1
+Merton                     -1  -1  -1  -1   0  -1
+Christ Church               1   1   0   1   2   1
+Exeter                      0   1   1   0   1   1
+Magdalen II                 0   0   1   0   0   0
+Brasenose II                0   0   0   1   0   0
+Lincoln                     0   0   0   0   0   1
+ 10  Men's Div III
+Oriel                       0   0   0   0   0   0
+Worcester                   0  -1  -1   0   0   0
+Queen's                     0   1   0   0   0   0
+St John's                   0   0   1   0   0   0
+Keble II                    0   0   0   0   0   0
+Christ Church II            0   0   0   0   0   0
+Wadham                      0   0   0   0   0   0
+Jesus                      -1   0   0   0   0   0
+St Catherine's              1   0   0   0   0   0
+Merton II                   0   0   0   0   0   0

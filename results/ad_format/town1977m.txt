@@ -1,0 +1,46 @@
+TOWN 1977
+ 4  3  41   = NDay, NDiv, NCrew
+ 15  Men's Div I
+99 1                        0   0   0   0
+Rob Roy 1                   0   0   0   0
+City 1                      0   0   0   0
+99 2                        0  -1  -1   0
+99 3                       -1  -1   0  -1
+Rob Roy 2                   1   1   0   0
+Scouts 1                   -1   0  -1  -1
+City 2                      1   1   1   0
+Univ Sports 1               0  -1  -1  -1
+Rob Roy 3                  -1  -1  -1  -1
+Churchill 1                 1   1   1   1
+MacDonalds 1                0   1   1   1
+Telephones 1                0   0   1   1
+City 3                      0  -1  -1   0
+Rob Roy 4                  -1  -1  -1  -1
+ 14  Men's Div II
+TTFNTT 1                    1   1   0   1
+Leckhampton 1               0   1   1   0
+Cam Veterans 1              0   0   1   0
+99 4                        0   0   0   1
+99 5                        0  -1  -1  -1
+Leckhampton 2              -1  -1  -1  -1
+Billygoats 1                1   1   0   0
+Cantabs Rugby 1            -1  -1  -1  -1
+Peterhouse 1                1   1   1   0
+Scouts 2                   -1  -1  -1  -1
+City 4                      1   1   1   1
+Univ Sports 2              -1  -1  -1  -1
+99 6                        1   1   1   1
+Clare 1                     0   1   1   1
+ 12  Men's Div III
+Downing 1                   0  -1   0   1
+Wolfson 1                  -1   0   0   0
+Telephones 2                1   1   1   1
+City 5                      0   0   0   0
+99 7                        0   0   0   0
+Soham 1                    -1  -1  -1   0
+99 8                        1   0  -1  -1
+City 6                     -1   0   1   1
+Telephones 3                1   1   1   0
+Scouts 3                   -1  -1   0   1
+City 7                      1   0  -1  -1
+99 9                        0   1   1   0

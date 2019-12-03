@@ -1,0 +1,57 @@
+LENTS 2012
+ 4  3  52   = NDay, NDiv, NCrew
+ 17  Women's Div I
+Downing                     0   0   0   0
+Pembroke                    0  -1  -1   0
+Emmanuel                    0   1   0   0
+1st and 3rd                 0   0   1   0
+Queens'                    -1  -1  -1  -1
+Christ's                    1   0  -1  -1
+Jesus                       0   1   1   0
+Trinity Hall               -1  -1  -1  -1
+Clare                       1   0   1   1
+Caius                       0   1   0   1
+Newnham                     0   0   1   0
+LMBC                        0  -1   0   0
+Magdalene                  -1   0   0  -1
+St Catharine's              1   1   0   1
+Selwyn                      0   0  -1  -1
+King's                     -1   1   1   1
+Churchill                   1  -1  -1  -1
+ 17  Women's Div II
+Peterhouse                  0   0   1   1
+Girton                     -1   0   0   0
+Murray Edwards              1   0   0   1
+Emmanuel II                -1   1  -1   0
+LMBC II                     1  -1   1   0
+Fitzwilliam                -1   0   0  -1
+Sidney Sussex               1   0   0   0
+Jesus II                   -1  -1  -1  -1
+Hughes Hall                 1   0  -1  -1
+Robinson                    0   1   1   1
+Pembroke II                -1  -1  -1  -1
+Homerton                    1   0   1   1
+1st and 3rd II              0   1   0   1
+St Edmund's                -1  -1  -1  -1
+Christ's II                 1   0   1   0
+Anglia Ruskin               0   1   0   1
+Caius II                    0  -1   0   1
+ 18  Women's Div III
+Newnham II                  0   1   1   0
+Darwin                      0  -1  -1  -1
+Wolfson                    -1  -1  -1   0
+Downing II                  1   1   0   0
+Clare II                    0   1   1   0
+Peterhouse II              -1  -1   1   0
+Trinity Hall II             1   0   1   1
+Sidney Sussex II            0   1  -1   0
+Clare Hall II              -1  -1  -1   0
+Girton II                   1   0   0   0
+Hughes Hall II              0   1   0  -1
+Murray Edwards II           0   0   1   1
+1st and 3rd III             0  -1  -1  -1
+LMBC III                   -1  -1  -1   0
+Anglia Ruskin II            1   1   0  -1
+Christ's III               -1   0   1   1
+St Catharine's II           1   1   1   1
+Emmanuel III                0   0   0   0

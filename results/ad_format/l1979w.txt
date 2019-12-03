@@ -1,0 +1,20 @@
+LENTS 1979
+ 4  1  17   = NDay, NDiv, NCrew
+ 17  Women's Div I
+New Hall                    0   0   0  -1
+Newnham                    -1  -1   0  -1
+Girton                      1   0   0   1
+Clare                       0   1   0   0
+Churchill                   0   0   0   1
+New Hall II                -1  -1  -1  -1
+Girton II                   1   0   0   0
+Trinity Hall                0   1   0  -1
+Darwin                      0  -1  -1  -1
+Sidney Sussex              -1  -1  -1  -1
+Selwyn                      1   1   1   1
+Homerton                    0   1   1   1
+Wolfson                    -1  -1  -1   0
+St Edmund's                 1   0   1   1
+1st and 3rd                 0   1   0   1
+Girton III                 -1   0   0   0
+Clare II                    1   0   1   0

@@ -1,0 +1,94 @@
+EIGHTS 1950
+ 6  7  85   = NDay, NDiv, NCrew
+ 12  Men's Div I
+Trinity                     0  -1   0   0   0   0
+Magdalen                   -1   0   0   0   0   0
+New College                 1   1   0   0   0   0
+Brasenose                  -1  -1  -1  -1  -1  -1
+Christ Church               1   0   0   0  -1   0
+Merton                      0   1   0   0   1   0
+Oriel                       0   0   1   0   0   0
+S.E.H.                     -1  -1  -1  -1  -1  -1
+Worcester                   1   0  -1   0   1   0
+Balliol                     0   1   1   1   0   0
+University                 -1   0   0   1   1   1
+St John's                   1   0   1   0  -1   0
+ 12  Men's Div II
+Pembroke                    0   0   0   0   1   0
+Lincoln                     0   0   0   0   0   1
+Exeter                      0   0   0  -1   0   0
+Wadham                      0   0  -1  -1  -1   0
+Magdalen II                 0   0   1   1   0   0
+Queen's                     0   0   0   1   0  -1
+S.E.H. II                  -1  -1  -1  -1  -1  -1
+New College II              1   0   0  -1   0   0
+St Peter's                  0   1   0   1   1   1
+Trinity II                 -1  -1  -1  -1  -1  -1
+St Catherine's              1   0   1   0   0  -1
+Jesus                       0   1   0   1   0   1
+ 12  Men's Div III
+Brasenose II                0   0   1  -1   0  -1
+St John's II               -1  -1  -1  -1  -1  -1
+Christ Church II            1   0  -1  -1   0   1
+Keble                       0   1   1   2   1   0
+Pembroke II                -1   0   0   1   0   0
+Corpus Christi              1   0   1   1   1   2
+Merton II                   0   0   0   0   1   0
+Hertford                    0  -1  -1  -1   1   0
+University II              -1  -1   0   1  -1  -1
+Exeter II                   1   1   0  -1   0   0
+Keble II                   -1   0   0   0  -1   0
+Oriel II                    1   1   1   1   0   1
+ 12  Men's Div IV
+Lincoln II                  0   0   0  -1  -1  -1
+Magdalen III                0   0  -1   0   1   0
+New College III             0  -1   0  -1   0   0
+Balliol II                 -1   0  -1   0   0   0
+St Peter's II               1   1   1   1   1   1
+Worcester II                0  -1   0  -1  -1   1
+Trinity III                -1  -1  -1  -1  -1  -1
+St Catherine's II           1   1   1   1   0   1
+Brasenose III              -1  -1   0   1   0  -1
+Jesus II                    1   1   0   1   0   0
+Queen's II                  0   1   1   0   1  -1
+Wadham II                  -1  -1  -1  -1  -1  -1
+ 12  Men's Div V
+Balliol III                 1   0   0  -1   0  -1
+Christ Church III          -1  -1  -1  -1  -1  -1
+Lincoln III                 1   1   0  -1  -1  -1
+St John's III              -1  -1  -1  -1  -1  -1
+Exeter III                  1   1   1   2   1   1
+Balliol IV                 -1  -1  -1  -1  -1  -1
+Hertford II                 1   1   1   1   1   2
+Brasenose IV               -1  -1  -1  -1  -1   0
+Keble III                   1   1   1   1   1   1
+University III              0   1   1   1   1   1
+Wadham III                 -1  -1   0   0   1   1
+Pembroke III                1   0   1   1   1   1
+ 12  Men's Div VI
+Oriel III                   0  -1  -1   0  -1  -1
+Keble IV                   -3   1   0  -1  -1  -1
+Queen's III                -1  -1  -1  -1  -1  -1
+Jesus III                   1   0   1   0   0  -1
+St Catherine's III          3   2   0   1   1   1
+St Peter's III              0  -1  -1   0   1   1
+Worcester III              -1  -1  -1  -1  -1   0
+Merton III                  1   1   1   1   1   1
+Corpus Christi II           0   1   1   1   1   1
+Exeter IV                  -1  -1  -1  -1  -1  -1
+S.E.H. III                  1   0   1   0  -1  -1
+Jesus IV                   -1  -1  -1   0   1   1
+ 13  Men's Div VII
+Worcester IV               -1   1   1  -1   0  -1
+New College IV              2   1   0   1   1   1
+Hertford III               -1   0   0   0  -1  -1
+University IV               1   0   1   2   1   1
+University V                0  -1  -1  -1  -1   0
+Christ Church IV           -1  -1  -1  -1  -1   0
+Oriel IV                    1   1   0  -1  -1  -1
+Corpus Christi III         -1  -1  -1  -1   0  -1
+Magdalen IV                 1   1   1   1   1   1
+Merton IV                  -1  -1   0   1   1   0
+Pembroke IV                 1   1   1   1   1   1
+St Peter's IV              -1   0   0   0   0   1
+St Catherine's IV           1   1   1   1   1   1

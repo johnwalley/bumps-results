@@ -1,0 +1,57 @@
+LENTS 2008
+ 4  3  52   = NDay, NDiv, NCrew
+ 17  Women's Div I
+1st and 3rd                 0   0   0   0
+Jesus                       0  -1   0   0
+Clare                      -1  -1  -1   0
+Emmanuel                    1   1   0   0
+Caius                      -1   0   1   1
+Downing                     1   1   0  -1
+LMBC                        0   0   0  -1
+Newnham                    -1  -1  -1  -1
+Churchill                   1   0  -1  -1
+Girton                     -1  -1  -1  -1
+Pembroke                    1   1   1   1
+Queens'                     0   1   1   1
+Trinity Hall                0  -1  -1  -1
+Fitzwilliam                -1  -1  -1  -1
+Christ's                    1   1   1   1
+Selwyn                     -1  -1   0  -1
+St Catharine's              1   1   1   1
+ 17  Women's Div II
+Peterhouse                  0  -1  -1  -1
+New Hall                   -3  -1  -1  -1
+Robinson                   -1   0  -1  -1
+Jesus II                    1   0   1   2
+King's                      3   2   1   1
+Anglia Ruskin              -1  -1  -1  -1
+LMBC II                     1   1   1   1
+Sidney Sussex              -1  -1  -1   0
+Emmanuel II                 1   1   1   1
+Darwin                     -1  -1   0  -1
+Magdalene                   1   1   1   1
+Pembroke II                 0   1   1   1
+Wolfson                    -1  -1  -1  -1
+St Edmund's                 1   0  -1  -1
+Caius II                    0   1   1   1
+Homerton                    0   0   1   1
+Newnham II                 -1   0  -1  -1
+ 18  Women's Div III
+Corpus Christi             -1   0   1   0
+Hughes/Lucy                 2   0   0   1
+Clare II                    0  -1   0   0
+Queens' II                 -1  -1  -1  -1
+1st and 3rd II              1   1   0   1
+Girton II                   0   1   0  -1
+New Hall II                -1  -1  -1  -1
+Selwyn II                   1   0   1   1
+Clare Hall                  0   1   0   1
+Trinity Hall II            -1  -1   0  -1
+Pembroke III                1   0   1   0
+Christ's II                 0   1   0   1
+Downing II                 -1  -1  -1   1
+Emmanuel III                1   0  -1   0
+Hughes/Lucy II             -1   0   1  -1
+Sidney Sussex II            1   1   1   1
+Selwyn III                 -1   0   0   0
+Jesus III                   1   0   0   0

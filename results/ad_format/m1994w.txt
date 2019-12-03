@@ -1,0 +1,72 @@
+MAYS 1994
+ 4  4  66   = NDay, NDiv, NCrew
+ 16  Women's Div I
+Jesus                       0   0   0   0
+LMBC                       -1  -1   0   0
+Newnham                     1   0  -1   0
+Emmanuel                    0   1   1   0
+Churchill                   0   0  -1   1
+Homerton                    0  -1  -1   0
+Trinity Hall               -1  -1  -1   0
+Queens'                     1   1   1  -1
+Sidney Sussex              -1  -1  -1   0
+Pembroke                    1   1   1   0
+Clare                       0   1   1   0
+Selwyn                     -3   1   0  -1
+Vet School                 -1  -1  -1  -1
+St Catharine's              1   1   1   0
+Downing                     3  -1   0   0
+Girton                     -1   0   0  -1
+ 16  Women's Div II
+1st and 3rd                -1   0  -1  -1
+New Hall                    2   0   1   1
+Christ's                    0  -1  -1   0
+Robinson                   -1  -1  -1  -1
+Caius                       1   1   1   2
+LMBC II                    -1  -1  -1  -1
+Magdalene                   1   1   1   1
+Corpus Christi              0   1   1   0
+QMABC                       0   0   1   1
+Newnham II                 -1   0  -1  -1
+Jesus II                    1   0   0   1
+Addenbrooke's               0  -1  -1   0
+Homerton II                -1  -1  -1  -1
+Fitzwilliam                 1   1   1   0
+Jesus III                  -1  -1   0  -1
+Peterhouse                  1   1   1   1
+ 16  Women's Div III
+New Hall II                 0   1   1   0
+Clare II                    0   0  -1   0
+St Catharine's II           0  -1   0   0
+Girton II                  -3  -1  -1  -1
+Wolfson                    -1   0  -1  -1
+Pembroke II                 1   0   0  -1
+Emmanuel II                 3   1   1   2
+Queens' II                 -1   0   1   1
+CCAT                        1   1   1   1
+LMBC III                   -1  -1   0  -1
+Trinity Hall II             1   0   0   1
+Darwin                      0   1   0   0
+Sidney Sussex II           -1  -1  -1  -1
+Christ's II                 1   0  -1  -1
+Hughes Hall                -1  -1  -1  -1
+Magdalene II                1   1   1   1
+ 18  Women's Div IV
+1st and 3rd II              0   1   1   1
+Caius II                    0   0   1   1
+Corpus Christi II           0  -1   0   0
+Homerton III               -1  -1   1  -1
+Churchill II                1   1   0   1
+New Hall III               -1  -1  -1  -1
+Clare III                   1   1  -1   1
+Jesus IV                    0   1   0  -1
+Homerton IV                -1   1   1   1
+Emmanuel III                1  -1  -1   0
+Robinson II                 0  -1  -1   1
+Newnham III                -1   0   1  -1
+CCAT II                     1   1   1   1
+Emmanuel IV                 0  -1   1   0
+CCAT III                   -1  -1   0   0
+Girton III                  1   1  -1  -1
+Queens' III                 0   1   0   1
+Downing II                  0   0   0   0

@@ -1,0 +1,54 @@
+TOWN 2015
+ 4  3  49   = NDay, NDiv, NCrew
+ 17  Women's Div I
+City 1                      0   0   0   0
+Cantabs 1                   0   0   0   0
+99 1                        0   0   0   0
+Rob Roy 1                  -1   0   0   0
+City 2                      1   0   0   0
+City 3                      0  -1  -1  -1
+Cantabs 2                   0   1   0  -1
+Camb Veterans 1            -3  -1  -1   0
+City 4                     -1   0  -1  -1
+St Neots 1                  1   0   0   1
+X-Press 1                   3   0   1   1
+Chesterton 1                0   1   1   0
+99 2                       -1   0   0  -1
+Champs 1                    1   0   1   1
+Rob Roy 2                   0   0  -1  -1
+St Radegund 1               0  -1  -1  -1
+Champs 2                   -1   0   1   1
+ 17  Women's Div II
+Champs 3                   -1  -1  -1  -1
+Cantabs 3                   2   1   1   1
+99 3                        0   1   0   1
+City 5                      0  -1   0   1
+Cantabs 4                  -1   0  -1   0
+City 6                      1   1   1   0
+Champs 4                    0   0   1   0
+Champs 5                    0   0   0   0
+Isle of Ely 1               0  -1  -1   1
+City 7                      0   1   0   0
+St Neots 2                 -1   0  -1   0
+Rob Roy 3                   1   0   1  -1
+Champs 6                   -1  -1  -1  -1
+99 4                        1   0   1   0
+X-Press 2                   0   1   0  -1
+Chesterton 2                0  -1  -1  -1
+City 8                     -1  -3   1   0
+ 15  Women's Div III
+St Radegund 2              -1  -1  -1  -1
+Cantabs 5                   2   1   1   1
+Rob Roy 4                   0   1   0   1
+Cantabs 6                   0   3   1   1
+99 5                       -1  -1   0   0
+Chesterton 3                1   0  -1   0
+99 6                       -1  -1  -1  -1
+Cantabs 7                   1   1   1   1
+X-Press 3                  -1  -1  -1  -1
+99 7                        1   1   0  -1
+Cantabs 8                   0   1   1   1
+City 9                      0   0   1   1
+Cantabs 9                   0   0   0   1
+City 10                    -1   0   0   0
+Cantabs 10                  1   0   0   0

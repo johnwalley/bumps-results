@@ -1,0 +1,56 @@
+TOWN 1996
+ 4  3  51   = NDay, NDiv, NCrew
+ 17  Men's Div I
+Rob Roy 1                  -1   0   0   0
+99 1                        1   0   0   0
+Rob Roy 2                   0   0   0   0
+City 1                      0   0   0   0
+99 2                        0  -1  -1   0
+City 2                     -1  -1   0   0
+Free Press 1                1   1   0   0
+Rob Roy 3                   0   1   1   0
+99 3                        0   0   0  -1
+Cantabs 1                   0   0   0   1
+City 3                      0   0   0   0
+Free Press 2               -1  -1  -1   0
+Trinity Hall 1              1   0   0   0
+Rob Roy 4                   0   1   0   0
+Maximum Entropy 1           0   0   1   0
+Rob Roy 5                   0   0   0   0
+Cantabs 2                   0   0  -1  -1
+ 17  Men's Div II
+99 4                        0   0   1  -1
+Cantabs 3                   0   0  -1  -1
+Free Press 3                0  -1  -1   0
+99 5                        0   1   1   2
+Cantabs 4                  -1  -1   0  -1
+99 6                        1   0   1   1
+Free Press 4                0   1   0   0
+Cantabs 5                  -1  -1  -1   0
+Free Press 5                1   0  -1  -1
+Rob Roy 6                   0   1   1   1
+Free Press 6               -1   0   0   0
+Maximum Entropy 2           1   0   1   1
+Cantabs 6                   0   0   0  -1
+Marshalls 1                 0   0  -1   0
+Champs 1                    0  -1  -1  -1
+Free Press 7               -1   0   1   0
+Pye 1                       1   1   1   1
+ 17  Men's Div III
+City 5                      0   0   0   1
+Mott Macdonald 1           -1  -1   0  -1
+Cantabs 7                   1   0  -1   1
+Free Press 8                0   1   1  -1
+99 7                       -1  -1  -1  -1
+Cantabs 8                   1   0  -1  -1
+Cam Consultants 1          -1  -1  -1  -1
+Rob Roy 7                   1   1   1   1
+Pye 2                       0   1   1   1
+Cantabs 9                   0  -1  -1  -1
+Bullard Lab 1              -1   0   1   1
+Free Press 9                1   1   1   1
+Pye 3                       0  -1   0   0
+Free Press 10              -1   0   0   0
+Cantabs 10                  1   1   0   1
+Cantabs 11                  0   0   0   0
+Rob Roy 9                   0   0   0   0

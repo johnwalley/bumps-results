@@ -1,0 +1,35 @@
+TOWN 1950
+ 4  2  31   = NDay, NDiv, NCrew
+ 15  Men's Div I
+99 1                        0   0   0   0
+Rob Roy 1                   0   0   0   0
+99 2                       -1   0   0   0
+Town 1                      1   0   0   0
+Pye 1                      -1  -1  -1   0
+Scouts 1                    1   0   0   0
+New Museums 1               0   1   0   0
+Rob Roy 2                  -1   0   0   0
+Beehives 1                  1   0   1   0
+Pye 2                       0   0   0  -1
+99 3                        0  -1   0   0
+Scouts 2                    0   1   0   1
+Town 2                      0   0   0   0
+Beehives 2                  0  -1  -1  -1
+Scouts 3                   -1  -1  -1  -1
+ 16  Men's Div II
+New Museums 2              -1   1   1   0
+Old YM 1                    2   1   0   0
+Rob Roy 3                  -1  -1   0   0
+99 4                        1   0   1   1
+New Museums 3              -1   0   0   0
+Town 3                      1   1   0   1
+Old YM 2                    0  -1  -1  -1
+Rob Roy 4                  -1  -1  -1  -1
+99 5                        1   1   0   0
+Pye 3                       0   1   1   0
+Scouts 4                   -3   0  -1   0
+Town 4                     -1   0   0   0
+Old Cantabs 1               1   1   1   1
+Old Cantabs 2               3  -1   0   1
+Old Cantabs 3              -1   0   0   0
+Old Cantabs 4               1   0   1   0

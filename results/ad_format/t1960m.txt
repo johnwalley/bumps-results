@@ -1,0 +1,57 @@
+TORPIDS 1960
+ 4  8  47   = NDay, NDiv, NCrew
+ 6  Men's Div I
+Balliol                    -2   0   0  -1
+S.E.H.                      1  -1   0   1
+Christ Church               1   1   0  -1
+Magdalen                    0   0   0  -1
+Queen's                     0   0  -1   0
+Worcester                   0  -1  -1   0
+ 6  Men's Div II
+St John's                   0   1   1   2
+Oriel                       0  -1   0   0
+New College                -1   0   0  -1
+Exeter                     -1   0   0   1
+Lincoln                     2   1   1   0
+Hertford                    0  -1  -1  -1
+ 6  Men's Div III
+Merton                      0   1   0  -1
+Wadham                     -1   0  -1  -1
+University                  1   0   1   1
+Pembroke                    0   0   1   1
+Trinity                    -1  -1   0  -2
+St Peter's                  1   0  -3   1
+ 6  Men's Div IV
+Brasenose                   0   1   1   1
+Keble                       0   0   2   0
+Corpus Christi              0   0   0   1
+St Catherine's              0   0   0   0
+Balliol II                 -1  -1  -1  -1
+Jesus                       1   0   0   0
+ 6  Men's Div V
+St Peter's II               0   1  -1  -1
+S.E.H. II                   0  -5  -1  -1
+Queen's II                 -1  -2   0  -1
+Christ Church II           -2   1   0   1
+St John's II                2   1   2   0
+Oriel II                    1   2  -1  -1
+ 6  Men's Div VI
+University II              -1   0   1  -1
+Lincoln II                  1   3   1   2
+Magdalen II                 0   0  -1   0
+Merton II                  -2  -1  -1  -1
+Brasenose II                1  -1   0   0
+Hertford II                 1  -1   0  -1
+ 6  Men's Div VII
+Keble II                    0   3   1   3
+New College II              0   0   1   1
+Jesus II                   -1  -2  -2   0
+Lincoln III                 1   0  -1  -1
+University III             -1  -1   0  -2
+Exeter II                   1   1   1   1
+ 5  Men's Div VIII
+Worcester II                0   2   0   1
+St Catherine's II           0   0   2   0
+New College III             0   0   0   2
+Corpus Christi II           0  -1   0   0
+Corpus Christi III          0   1   0   0

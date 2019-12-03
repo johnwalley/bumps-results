@@ -1,0 +1,14 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Women
+Year,2000
+
+Division,TH,E,Pb,J,Q,N,Cr,L,Cu,T,Ca,SC,D,NH,F,Cl,CT
+Division,S,SS,G,M,J2,K,L2,R,CC,E2,N2,W,H,Dw,Ph,Q2,HH
+Division,SC2,NH2,TH2,CT2,CH,Cu2,H2,LC,Pb2,Cl2,S2,L3,D2,Ca2,G2,K2,SS2,R2
+
+Results
+o3urruo3uuuu urruuururrrrr uuruuruuuu
+urro5uurururr rurruuruurur ruruuurrruur
+ruururruruur rruuuurrruru uruuuurrrurr
+rrururruruuu uruuuururru ruruuuurrrrrr

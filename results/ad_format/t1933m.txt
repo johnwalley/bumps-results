@@ -1,0 +1,44 @@
+TORPIDS 1933
+ 6  3  39   = NDay, NDiv, NCrew
+ 12  Men's Div I
+Magdalen                    0   0   0   0   0   0
+Wadham                     -1  -1  -1  -1  -1  -1
+Worcester                   1   0   0  -1  -1  -1
+Christ Church               0   1   0   1   0   0
+Keble                       0  -1  -1  -1  -1  -1
+Corpus Christi             -1  -1  -1  -1  -1  -1
+University                  1   1   1   0   1   0
+Oriel                      -1  -1  -1  -1  -1  -1
+New College                 1   1   1   1   0   1
+Balliol                     0   1   1   1   1   0
+Merton                      0  -1  -1   0   1   1
+St John's                  -1  -1  -1  -1  -1   0
+ 13  Men's Div II
+Balliol II                  1   1   1   1   1   1
+St Catherine's             -1  -1  -1  -1   0  -1
+S.E.H.                      1   1   1   1   1   1
+Brasenose                   0   1   1   0  -1  -1
+Exeter                      0   0   1   1   1   1
+Lincoln                     0  -1  -1   0  -1  -1
+Trinity                    -1   0   1   0   0   1
+Pembroke                    1   1   0   1   1   1
+Keble II                    0  -1  -1   0   1   1
+Wadham II                  -1  -1  -1  -1  -1  -1
+St Peter's                  1   1   0  -1  -1  -1
+University II              -1  -1  -1  -1  -1  -1
+Queen's                     1   1   1   1   1   0
+ 14  Men's Div III
+Jesus                       0   1   1   0  -1   0
+New College II              0  -1   0   1   1   0
+Balliol III                -3   1   0  -1   0  -1
+Exeter II                  -1  -1  -1   0   0   1
+St John's II                1   0   0   0   1   1
+Magdalen II                 3   1   1   1   1   1
+Hertford                    0   0   1   1   0   1
+Brasenose II               -1  -1  -1   0   0   0
+Worcester II                1   0   0  -1   1   0
+Oriel II                    0   1   0   1  -1  -1
+Merton II                   0  -1   0  -1   0   0
+Christ Church II           -1   0   0   1   0   0
+Queen's II                  1   1   1   0   0   1
+Magdalen III                0   0   0   0   0   0

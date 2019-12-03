@@ -1,0 +1,31 @@
+TOWN 1957
+ 4  2  27   = NDay, NDiv, NCrew
+ 18  Men's Div I
+City 1                      0   0   0   0
+99 1                        0   0   0   0
+Pye 1                       0   0  -1  -1
+Old Cantabs 1               0  -1   0   1
+Old Cantabs 2              -1   0   0   0
+Rob Roy 1                   1   1   1   0
+99 2                        0  -1  -1  -1
+Scouts 1                   -1  -1   0   1
+City 2                      1   1   0  -1
+New Museums 1              -1   0   0   0
+Rob Roy 2                   1   1   1   1
+Instrument Co 1             0  -1   0   0
+Old YM 1                   -1   0   0  -1
+Central Old Boys 1          1   1   0   0
+Old Cantabs 3               0   0  -1   0
+Pye 2                       0  -1   0   0
+99 3                       -1  -1   1   0
+City 3                      1   1   1   1
+ 9  Men's Div II
+Old Cantabs 4               0   1  -1  -1
+New Museums 2              -1  -1  -1  -1
+Scouts 2                    1   0   0   1
+City 4                     -1  -1  -1  -1
+Rob Roy 3                   1   1   0   0
+New Museums 3              -1  -1  -1   0
+Instrument Co 2             1   1   1   0
+Central Old Boys 2          0   1   1   1
+Rob Roy 4                   0   0   1   1

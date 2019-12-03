@@ -1,0 +1,38 @@
+TOWN 2006
+ 4  2  34   = NDay, NDiv, NCrew
+ 17  Women's Div I
+99 1                        0   0   0   0
+City 1                      0   0   0  -1
+Rob Roy 1                   0   0  -1   0
+Cantabs 1                   0  -1  -1   0
+City 2                     -1  -1   0   0
+99 2                        1   1   1   1
+Camb Veterans 1             0   1   1   0
+City 3                     -1   0   0   0
+Champs 1                    1   0   0   0
+X-Press 1                   0  -1  -1   0
+Simoco 1                   -1  -1  -1  -1
+Cantabs 2                   1   1   0  -1
+Champs 2                   -1   0   1   0
+99 3                        1   1   1   1
+Max Entropy 1               0   0   0   1
+St Ives 1                   0   0  -1  -1
+St Radegund 1              -1  -1   0  -1
+ 17  Women's Div II
+X-Press 2                   1  -1   0   1
+City 4                     -1   0  -3   0
+Champs 3                    1   2   1   0
+Champs 4                    0   0  -1   0
+City 5                      0  -1   3   1
+Cantabs 3                  -1  -1  -1  -1
+Champs 5                    1   1   1   0
+Simoco 2                    0   1   0  -1
+Isle of Ely 1              -3   1   0   0
+Cantabs 4                  -1  -1   0  -1
+99 4                        1   1   1   1
+Simoco 3                    3  -1   0   1
+City 6                     -1  -1  -1   0
+99 5                        1   0  -1   0
+St Radegund 2               0   1   1   1
+City 7                     -1   0   0   0
+Champs 6                    1   0   1   0

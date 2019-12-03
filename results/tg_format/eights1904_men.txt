@@ -1,0 +1,16 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1904
+Days,6
+
+Division,N,Mg,U,B,Br,Ch,P,T,E,Mt
+Division,Wt,J,Lc,SJ,K,H,O,Co,Q,Wh,SE,SC
+
+Results
+uruururr ruuurrrr
+rrrrrrrrrur rrurrurrr
+rurrrrruu urrrrrurr
+rrrrururrr rrrrrrrrrrr
+uurruurr rurrrrrrrr
+rrrrrrrrrrrr rrurrrrrrr

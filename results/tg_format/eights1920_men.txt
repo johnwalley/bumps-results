@@ -1,0 +1,17 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1920
+Days,6
+
+Division,U,N,Ch,Mg,Mt,SJ,O,B,T
+Division,Co,Mg2,Wt,Br,Ch2,P,Lc,Q,Wh,E
+Division,N2,K,J,SE,SC,B2,H,U2,Lc2,SC2,N3
+
+Results
+urruurrr ruurrrru ruuruu
+rurrurrrr rruuuur rurrrrur
+rrurrurrr ruuurrrr rrurruu
+rrrrrrrrrrr rrurrurrr rurrurrr
+rurururr rurururr uuurrrr
+rrruurrrr uruurru rrrurrrrr

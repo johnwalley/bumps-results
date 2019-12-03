@@ -1,0 +1,57 @@
+LENTS 2013
+ 4  3  52   = NDay, NDiv, NCrew
+ 17  Women's Div I
+Downing                     0   0   0   0
+Emmanuel                    0  -1  -1   0
+1st and 3rd                 0   1   0   0
+Pembroke                   -1  -1   0   0
+Jesus                       1   0   1   0
+Clare                      -1  -1  -1   0
+Christ's                    1   1   0   0
+Caius                       0   1   0  -1
+Queens'                    -1   0   0  -1
+Newnham                     1   0   1   1
+St Catharine's              0   0   0   1
+Trinity Hall               -1  -1   0  -1
+LMBC                        1   0  -1   0
+King's                      0   1   1   0
+Magdalene                  -1  -1  -1  -1
+Peterhouse                  1   0  -1   0
+Selwyn                     -1  -1   0   1
+ 17  Women's Div II
+Murray Edwards              1   1   1   1
+Churchill                   0   1   1   0
+Girton                     -1   1   0   0
+LMBC II                     1  -1   0  -1
+Emmanuel II                 0   0  -1  -1
+Sidney Sussex              -3   1   0  -1
+Robinson                   -1  -1  -3  -1
+Fitzwilliam                 1   1   1   1
+Homerton                    3  -1   0   1
+Hughes Hall                 0   0  -1   0
+1st and 3rd II             -1  -1  -1   0
+Jesus II                    1   0   1   0
+Christ's II                 0   1   3   1
+Pembroke II                -1  -1   1   0
+Newnham II                  1   0   1   1
+Caius II                   -1   0  -1  -1
+St Edmund's                 1   1  -1  -1
+ 18  Women's Div III
+Downing II                  0   0   1   1
+Clare II                    0  -1  -1  -1
+Trinity Hall II            -1  -1  -1  -1
+Darwin                      1   1   0   1
+Wolfson                    -1  -1   0   1
+Peterhouse II               1   1   1   0
+Sidney Sussex II           -1  -1  -1   0
+Murray Edwards II           1   1   1   1
+Clare Hall                  0   1   0  -1
+St Catharine's II          -3  -1  -1   0
+Emmanuel III               -1   1   0   0
+Churchill II                1  -1  -1   1
+Homerton II                 3   0   1   1
+Murray Edwards III         -1  -1   0  -1
+King's II                   1   1   1  -1
+Downing II                 -1   0   0   1
+Queens' II                  1   1   1   0
+Queens' III                 0   0   0   0

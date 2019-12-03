@@ -1,0 +1,49 @@
+MAYS 1981
+ 4  2  45   = NDay, NDiv, NCrew
+ 22  Women's Div I
+Clare                      -1   0   0   0
+New Hall                    1   0   0   0
+Newnham                     0   0   0  -1
+Churchill                  -1  -1  -1  -1
+Girton                      1   0  -1   0
+Girton II                  -1  -1   0   1
+Trinity Hall                1   1   1   1
+New Hall II                 0   1   1   0
+Selwyn                     -1   0  -1  -1
+QMABC                       1   0   0  -1
+Clare II                    0  -1  -1  -1
+Newnham II                 -1  -1   0   1
+Homerton                    1   1   1   1
+Sidney Sussex              -1   0   0  -1
+1st and 3rd                 1   1   1   1
+Newnham III                -1  -1  -1  -1
+Selwyn II                   1   0  -1  -1
+Wolfson                    -1  -1  -1  -1
+New Hall III                1   1   1   1
+Fitzwilliam                -1  -1  -1   0
+Emmanuel                    1   1   1   1
+Girton III                 -1  -3   1   1
+ 23  Women's Div II
+Hughes Hall                -1  -1  -1  -1
+Jesus                       2   1   1   1
+Girton IV                   0   1   0  -1
+St Catharine's             -1   0   0   1
+Caius                       1   3   1   1
+Newnham IV                 -1  -1  -1  -1
+Christ's                    1   0  -1  -1
+Lucy Cavendish             -3  -1   0  -1
+Downing                    -1   0  -1   0
+Queens'                     1   0   1   1
+Robinson                    3   1   1   0
+Churchill II                0   1   1   1
+Churchill III              -1   1  -1  -1
+Trinity Hall II             1  -1   1   1
+Clare III                  -1  -1  -1  -1
+Homerton II                 1   0  -1  -1
+Emmanuel II                 0   1   1   1
+Homerton III               -1   1   1   1
+Newnham V                   1  -1  -1  -1
+Fitzwilliam II             -1   0   0   1
+Sidney Sussex II            1   0   1   1
+1st and 3rd II              0  -1   0   0
+Caius II                    0   1   0   0

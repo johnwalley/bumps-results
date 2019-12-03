@@ -1,0 +1,68 @@
+TORPIDS 2006
+ 4  5  61   = NDay, NDiv, NCrew
+ 12  Women's Div I
+New College                -1 -11  -1   1
+Oriel                       1   0   0   0
+Christ Church              -1   1  -2  -1
+Queen's                     1   1   0   0
+Merton                     -1   0  -1  -1
+Osler-Green                 1   1   0   0
+Somerville                 -3  -1  -2  -2
+St Catherine's              1   2   2   0
+Magdalen                    0   1  -1  -1
+St Hilda's                  2   1   1   1
+Pembroke                   -2   1   1  -1
+S.E.H.                      1   2   1   1
+ 12  Women's Div II
+Wolfson                    -1  -2   0  -2
+Worcester                   2   2   0   1
+L.M.H.                     -2   0  -6  -1
+Hertford                    1   1   2   1
+Wadham                      1   1   0   1
+Keble                       0  -2   1  -1
+St John's                  -2   0   0  -1
+Exeter                      1   1   1   1
+St Hugh's                   1   1   1   1
+Brasenose                   0  -3  -1  -2
+Lincoln                    -2  -2  -2  -3
+Balliol                     1   1   2   1
+ 12  Women's Div III
+Linacre                     1   0   0   1
+Trinity                     0   0   1   0
+Mansfield                  -1  -1   1   1
+University                  1   4   1   1
+Jesus                      -1   0   0   1
+St Anne's                   1   1   1   1
+Corpus Christi              0  -1  -2   0
+Lincoln II                 -5  -4  -4  -4
+Wolfson II                  0  -2  -2  -1
+St Peter's                  2   1   0   1
+St Antony's                 1   1   1   1
+St Hilda's II               1   1   1   0
+ 12  Women's Div IV
+Merton II                  -1   1  -2  -3
+Wadham II                   2   0   1  -2
+Keble II                   -2   1   0   1
+New College II              1   1   2   1
+Hertford II                 1   1   1   2
+Worcester II                0  -1   1   2
+Queen's II                  0   1   1   0
+St John's II               -2   0   0   1
+S.E.H. II                   1  -1   1   0
+Pembroke II                 1   1   1   0
+Oriel II                   -2  -2   0  -1
+Linacre II                  1   0  -1   0
+ 13  Women's Div V
+Worcester III               1  -1   0   2
+Jesus II                    0   2   1   1
+Mansfield II               -1  -1   0  -2
+St Anne's II                1   1   0   0
+Pembroke III               -1   0  -2  -1
+Queen's III                 1   1   0   1
+Regent's Park              -5   0   0   0
+Balliol II                  0   1   1   1
+Exeter II                   2  -4   1   0
+St Hugh's II                0   0  -1   0
+Osler-Green II              2   1   1   1
+Exeter III                  1   2   0   1
+Balliol III                 0   0   0   0

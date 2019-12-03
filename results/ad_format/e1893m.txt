@@ -1,0 +1,27 @@
+EIGHTS 1893
+ 6  2  23   = NDay, NDiv, NCrew
+ 11  Men's Div I
+Magdalen                    0   0   0   0   0   0
+New College                -1   0   0   0   0   0
+Brasenose                   1   0   0   0   0   0
+Christ Church               0  -1   0   0   0   0
+Balliol                     0   1   0   0   0   0
+St John's                   0   0   0   0   0   0
+Pembroke                    0   0  -1  -1   0   0
+Keble                      -1   0  -1   0   0  -1
+Queen's                     1   0   1   0   0   0
+Hertford                    0  -1  -1   0   0   0
+Exeter                     -1   0   1   0   0   1
+ 12  Men's Div II
+University                 -1   0   0   0   0   0
+Trinity                     2   1   1   1   0   0
+Merton                     -1  -1  -1  -1  -1   0
+Wadham                      1   0   0   0   0   0
+Lincoln                     0   1   0   0   0   0
+Worcester                  -1   0   0   1   0   0
+Corpus Christi              1   0   1   0   0   0
+St Catherine's              0   0   0   0   1   0
+Oriel                       0   0   0   0  -1   1
+S.E.H.                      0   0   0   0   1  -1
+Jesus                      -1   0   0   0   0   1
+St Mary Hall                1   0   0   0   0  -1

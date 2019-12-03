@@ -1,0 +1,17 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1922
+Days,6
+
+Division,N,Mg,Mt,T,O,Ch,B,U,Co,Mg2,SJ
+Division,Wt,Q,E,Lc,Ch2,Wh,K,N2,P,Lc2,Br
+Division,B2,SC,T2,H,Wt2,J,Mg3,SE,U2,Q2,SJ2,Mt2,Wh2
+
+Results
+ururururr ruurrrrur rrrurrrrrrr
+rurrrrrurrr rrurururr rruurrrrrr
+uuuruurr urruurrrr ruurrrrrrr
+rrruurrrru uruurrrrr uurrrurrr
+ruruuuur rrrruurru rurrrurrrr
+rrururrurr rruruuur urrrrrrrrrr

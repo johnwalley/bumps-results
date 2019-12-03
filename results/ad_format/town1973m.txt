@@ -1,0 +1,43 @@
+TOWN 1973
+ 4  3  38   = NDay, NDiv, NCrew
+ 15  Men's Div I
+Rob Roy 1                   0   0   0   0
+99 1                        0  -1   0   0
+Rob Roy 2                  -1  -1   0   0
+Scouts 1                    1   1   0   0
+Cantabs 1                  -1   0  -1   0
+City 1                      1   1   0   0
+99 2                        0  -1   0   0
+ACUA 1                     -1   0   0   0
+Churchill 1                 1   1   1   0
+99 3                       -1  -1  -1  -1
+Rob Roy 3                   1   0  -1   1
+City 2                     -1  -1  -1  -1
+Cantabs 2                   1   1   1  -1
+99 4                        0   1   1   0
+Leckhampton 1               0   0   1   1
+ 15  Men's Div II
+Grammarians 1               0   0  -1  -1
+Cambs High School 1         0   0   1   1
+Churchill 2                 0   0  -1   0
+Rob Roy 4                   0  -1  -1   0
+ACUA 2                     -1  -1  -1  -1
+King's 1                    1   1   1   1
+Fitzwilliam 1               0   1   1   0
+Cantabs 3                  -1   0  -1  -1
+Scouts 2                    1   0   1   0
+Telephones 1                0   0   1   1
+Cantabs 4                  -1  -1  -1  -1
+Lady Somerset 1             1   0  -1  -1
+Magdalene 1                 0   1   1   1
+Scouts 3                   -1  -1  -1  -1
+Consultant Owls 1           1   0   1   1
+ 8  Men's Div III
+City 3                      0   1   0   1
+ACUA 3                      0   0   1   0
+Grammarians 2               0  -1   0   0
+Telephones 2               -1   0   0   0
+Goldilocks 1                1   1   0   1
+Bean Group 1                0   0   0   0
+Rob Roy 5                   0   0   0   0
+Cantabs 5                   0   0   0   0

@@ -1,0 +1,78 @@
+EIGHTS 1947
+ 6  6  70   = NDay, NDiv, NCrew
+ 12  Men's Div I
+Trinity                     0   0   0   0   0   0
+Oriel                      -1   0   0  -1   0  -1
+Magdalen                    1   0   0   0   0   0
+New College                 0   0   0   1   0   0
+S.E.H.                      0  -1  -1   0  -1   0
+St John's                  -1  -1   0   0   1   0
+Christ Church               1   1   0   0   0   1
+University                 -1   0   0   0   0   0
+Brasenose                   1   1   1   0   0   0
+Balliol                    -1   0   0   0   0   0
+Exeter                      1   0   0   0   0   0
+Magdalen II                -1  -1  -1  -1  -1   0
+ 12  Men's Div II
+Wadham                      1   0   0  -1   0   0
+Corpus Christi             -1  -1  -1  -1  -1   0
+Pembroke                    1   1   0   1   0   0
+Worcester                  -1   0   1   1   0   0
+New College II              1   1   1   0   0   0
+Merton                      0   0   0   1   1   0
+Keble                       0  -1   0   0  -1  -1
+St Peter's                 -1   0  -1  -1  -1  -1
+Queen's                     1   1   0   0   1   0
+Hertford                    0  -1  -1  -1  -1   0
+Oriel II                   -1  -1  -1  -1   0  -1
+S.E.H. II                   1   1   1   0   1   0
+ 12  Men's Div III
+Jesus                       0   1   1   1   0   1
+St John's II               -1  -1  -1  -1   0  -1
+Lincoln                     1   0   1   1   1   0
+Brasenose II                0   1   0   1   1   1
+St Catherine's              0   0   1   0  -1   0
+Balliol II                  0  -1  -1  -1   0  -1
+Exeter II                  -1   0   1   0  -1   0
+Trinity II                  1   1   0   1   1   1
+St Peter's II              -1  -1   0  -1  -1  -1
+University II               1   0  -1   0  -1  -1
+Keble II                   -1  -1  -1  -1  -1   0
+Christ Church II            1   1   1   1   1   1
+ 12  Men's Div IV
+Queen's II                 -1  -1  -1   0   1   0
+Balliol III                 1   1  -1   0  -1   1
+Merton II                  -1  -1  -1   0   0   1
+Magdalen III                1   1   2   1   1   1
+Pembroke II                 0   1   1   1   2   1
+Balliol IV                  0   0   1   0   0  -1
+Worcester II                0   0   0   0  -1  -1
+St John's III               0  -1  -1  -1   0   1
+Hertford II                -1  -1  -1  -1  -1  -1
+St Catherine's II           1   1   0  -1  -1  -1
+Jesus II                   -1  -1   0   1  -1   0
+Brasenose III               1   1   1   1   1   0
+ 12  Men's Div V
+Christ Church III          -1   0   0  -1   0   1
+Lincoln II                  1   1   1   1   1   1
+Keble III                   0   0  -1  -1  -1  -1
+Exeter III                  0  -1  -1  -1  -1  -1
+Oriel III                  -1   0   1   1   0  -1
+Trinity III                 1   1   1   1   2   0
+Magdalen IV                 0  -5  -1   0  -1  -1
+Queen's III                 0  -3   0  -1  -1   0
+Pembroke III               -1   1   0   0   0   1
+University III              1  -1   0   0  -1  -1
+Wadham II                   0   3   0   0   1   1
+New College III             0   5   0   1   1   1
+ 10  Men's Div VI
+St Peter's III              0   0  -1  -1  -1   0
+Merton III                 -1  -1  -1   0   0  -1
+Worcester III               1   0   2   1   1   0
+Hertford III               -3  -1   1   0   1   1
+St Catherine's III         -1   0   0   0  -1  -1
+Lincoln III                 1   0   1   0   1   1
+Wadham III                  3   1   0   1   2   1
+Brasenose IV                0   1  -1   0   0   1
+Exeter IV                   0  -1   0   1  -1   0
+Trinity IV                  0   1   0  -1   1   0

@@ -1,0 +1,31 @@
+TOWN 1966
+ 4  2  27   = NDay, NDiv, NCrew
+ 17  Men's Div I
+99 1                        0   0   0   0
+Cantabs 1                   0  -1  -1   0
+99 2                       -1  -1  -1   0
+Rob Roy 1                   1   1   0   0
+Scouts 1                   -1  -1   0   0
+Leys Sch 1                  1   1   1   0
+Rob Roy 2                   0   1   1   0
+Bridge 1                    0  -1   0   1
+Cantabs 2                  -1  -1  -1  -1
+ACUA 1                      1   1   0  -1
+Scouts 2                   -1  -1  -1  -1
+Cambs High School 1         1   1   0  -1
+Rob Roy 3                  -1  -1   0   1
+99 3                        1   1   1   1
+Leys Sch 2                  0   1   1   1
+Cam Grammar Sch 1           0   0  -1   0
+Scouts 3                   -1  -1   0   0
+ 10  Men's Div II
+ACUA 2                      1   0  -1   0
+Leys Sch 3                  0   1   2   0
+Cantabs 3                  -1  -1  -1  -1
+Leys Sch 4                  1   0   0   0
+Cam Grammar Sch 2           0   1   0  -1
+Leys Sch 5                 -1   0  -1   0
+Cambs High Sch 2            1   0   1   1
+ACUA 3                      0  -1   0  -1
+Leys Sch 6                 -1   0   0   1
+99 4                        1   1   1   1

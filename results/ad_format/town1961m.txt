@@ -1,0 +1,33 @@
+TOWN 1961
+ 4  2  29   = NDay, NDiv, NCrew
+ 17  Men's Div I
+City 1                      0   0   0   0
+99 1                        0   0   0  -1
+City 2                     -1  -1   0   0
+Rob Roy 1                   1   0  -1   0
+Cantabs 1                   0   1   1   1
+Scouts 1                    0   0   0   0
+Pye 1                       0   0  -1  -1
+ACUA 1                      0  -1  -1  -1
+Cantabs 2                   0   1   1   0
+99 2                        0  -1  -1  -1
+City 3                     -1  -1  -1   0
+Rob Roy 2                   1   1   1   1
+Cambs High School 1         0   1   1   1
+Scouts 2                    0   0   1   1
+Instrument Co 1             0  -1  -1  -1
+99 3                       -1  -1   0  -1
+Beehives 1                  1   1   0  -1
+ 12  Men's Div II
+Cantabs 3                   0  -1  -1  -1
+City 4                     -1  -1   0   1
+ACUA 2                      1   2   1   1
+99 4                       -1  -1  -1   0
+Scouts 3                    1   1   1   2
+Rob Roy 3                   0   1   0   0
+Cambs High School 2        -3  -1   0   1
+Scouts 4                   -1   0  -1  -1
+Rob Roy 4                   1   0   0  -1
+City 5                      3   0   1   0
+99 5                       -1   0   0   0
+Cam Grammar School 1        1   1   1   1

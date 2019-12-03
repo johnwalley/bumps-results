@@ -1,0 +1,55 @@
+TORPIDS 1987
+ 4  4  49   = NDay, NDiv, NCrew
+ 12  Women's Div I
+Osler House                 0   0   0  -1
+St Hugh's                   0   0  -1   0
+St Catherine's             -2  -2   0   0
+Somerville                  1   0   1   1
+L.M.H.                      1   0   0   0
+St Hilda's                 -4  -3  -4  -4
+Wadham                      1   1  -1   1
+University                  1   1   1  -1
+Worcester                   1   0   0  -1
+Balliol                     1   0  -1  -2
+Jesus                      -2  -1   1   0
+Brasenose                   1   1   1   1
+ 12  Women's Div II
+St Anne's                   1   1  -1   1
+Pembroke                   -1   0   1  -1
+St Hugh's II                1   2   1   1
+Trinity                    -1  -1   0   1
+Keble                       1   0   0   0
+Wolfson                    -1   0  -1   0
+New College                 1   1   2   1
+Lincoln                    -1   0  -4   0
+Corpus Christi              1   0   1   1
+Queen's                     0  -2   1  -1
+Exeter                     -1   1   1   0
+Hertford                    1   1   1   2
+ 12  Women's Div III
+S.E.H.                      0  -1   0   0
+Somerville II              -1   0   0   0
+Christ Church               1   1   1   1
+St Hilda's II              -3  -1  -3  -2
+St Hugh's III               1  -1   1   0
+St Peter's                  1   1  -2   1
+Magdalen                    1   0   1  -1
+Merton                     -1  -3  -1  -4
+St John's                   1   1   0   0
+St John's II                0   1   1  -2
+S.E.H. II                  -2   0  -7  -5
+Pembroke II                 1   0   1   1
+ 13  Women's Div IV
+St Hugh's IV                1   2   1   1
+New College II              0   0   2   1
+St Hugh's V                 0   0   1   2
+Keble II                   -4   0   1   0
+Hertford II                 1   0   1   0
+Wadham II                   1   0   1   2
+Oriel                       1   0   1   1
+Brasenose II                1  -6   1   1
+L.M.H. II                  -4   1  -1   1
+Osler House II              1   2   1   0
+Christ Church II            1   1  -1   1
+Lincoln II                  1   1   1   1
+Queen's II                  1   1   0   1

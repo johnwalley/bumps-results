@@ -1,0 +1,23 @@
+TOWN 1990
+ 4  1  20   = NDay, NDiv, NCrew
+ 20  Women's Div I
+City 1                     -1  -1   0   0
+99 1                        1   0   0   0
+City 2                     -1  -1   0   1
+Cantabs 1                   1   1   0   0
+99 2                        0   1   0  -1
+City 3                      0   0   0   0
+99 3                        0   0   0   0
+Cantabs 2                  -1  -9   0   0
+99 4                        1  -1  -1  -1
+City 4                      0   2   0  -1
+City 5                      0   1   1   1
+Rob Roy 1                  -1  -6   0   0
+Coopers & Lybrand 1         1   0   0   0
+Rob Roy 2                  -1   1  -1  -1
+Pye 1                       1   3   0   1
+Macdonalds 1                0   3   0   0
+Rob Roy 3                  -1  -2   0   0
+City 6                      1   1   0   1
+Pye 2                      -1   3   0   3
+City 7                      1   4   1  -3

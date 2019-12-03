@@ -1,0 +1,56 @@
+LENTS 1995
+ 4  3  51   = NDay, NDiv, NCrew
+ 17  Women's Div I
+Emmanuel                    0   0   0   0
+Jesus                       0  -1  -1   0
+Newnham                    -3  -1  -1   0
+LMBC                       -1   0   0  -1
+Queens'                     1   0   1   1
+Trinity Hall                3   1   0  -1
+St Catharine's             -1   0   1   0
+New Hall                    1   1   0   1
+Selwyn                     -1  -1  -1  -1
+Clare                       1   0  -1   0
+Sidney Sussex              -1   0   1   0
+Churchill                   1   1   1   0
+Girton                      0  -1   0   0
+1st and 3rd                -1  -1  -1  -1
+Christ's                    1   1   0   1
+Caius                       0   1   0  -1
+Magdalene                  -1  -1   0  -1
+ 17  Women's Div II
+Pembroke                    1   0   1   1
+Downing                     0   1   0   1
+Homerton                   -1  -1  -1  -1
+Corpus Christi              1   0  -1  -1
+Robinson                   -3   1   0   1
+LMBC II                    -1  -1  -1  -1
+Fitzwilliam                 1   0   1   1
+CCAT                        3   1   1   1
+Jesus II                   -1   1   1   0
+QMABC                       1  -1  -1  -1
+Wolfson                     0   0   1   1
+Newnham II                  0   0  -1  -1
+Emmanuel II                -1   1   1   1
+Selwyn II                   1  -1  -1  -1
+New Hall II                 0   0   1   1
+Clare II                    0  -1  -1   0
+Peterhouse                  0   1   0   1
+ 17  Women's Div III
+St Edmund's                 0  -1   0   0
+Sidney Sussex II           -1   0   0  -1
+St Catharine's II           1   1   1   0
+Girton II                  -1  -1  -1   1
+Homerton II                 1   0  -1   0
+Queens' II                  0   1   1   1
+Addenbrooke's              -1   1   1  -1
+Trinity Hall II             1  -1   0   0
+Churchill II                0  -1  -1  -1
+Pembroke II                -1  -1  -1  -1
+Christ's II                 1   1   0  -1
+Caius II                    0   1   1   1
+CCAT II                     0  -1  -1   0
+Downing II                 -1   0   1   1
+1st and 3rd II              1   1   1   1
+Girton III                 -1   0   1   0
+Robinson II                 1   0  -1   0

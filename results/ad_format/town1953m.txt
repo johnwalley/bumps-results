@@ -1,0 +1,34 @@
+TOWN 1953
+ 4  2  30   = NDay, NDiv, NCrew
+ 17  Men's Div I
+City 1                      0   0   0   0
+99 1                        0   0   0   0
+Rob Roy 1                   0   0   0   0
+Scouts 1                    0   0   0   0
+City 2                      0  -1   0  -1
+99 2                       -1   0  -1   0
+Rob Roy 2                   1   1   0   0
+Beehives 1                  0  -1   0   0
+New Museums 1              -1   0   0   0
+Pye 1                       1   1   1   1
+Old YM 1                    0   0   0   0
+City 3                      0  -1   0  -1
+Scouts 2                   -1  -1  -1   0
+Old Cantabs 1               1   1   0   0
+99 3                       -3  -1  -1  -1
+New Museums 2              -1  -1   0  -1
+Pye 2                       1   0   1   0
+ 13  Men's Div II
+Rob Roy 3                  -1   2   0  -1
+Old Cantabs 2               4   1   0   1
+Old Cantabs 3               0   0   1   2
+Old YM 2                    0  -1   0   0
+Beehives 2                 -1  -1  -1  -1
+Instrument Co 1             1   1   0   1
+Scouts 3                    0   1   0  -1
+Old Cantabs 4              -1   0   0   1
+City 4                      1   0   1   1
+Pye 3                       0  -1   0   1
+Rob Roy 4                  -1   0   0   0
+Instrument Co 2             1   1   0  -1
+City 5                      0   0   0   0

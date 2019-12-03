@@ -1,0 +1,19 @@
+LENTS 1977
+ 4  1  16   = NDay, NDiv, NCrew
+ 16  Women's Div I
+New Hall                   -1  -1  -1  -1
+Newnham                     1   0   0   0
+Churchill                   0   1   0   0
+Clare                       0   0   1   0
+Newnham II                  0   0  -1   0
+QMABC                      -1  -1   0   0
+New Hall II                 1   0   1   1
+Darwin                     -1  -1  -1   0
+Girton                      1   1   0   0
+TSS                         0   1   0   0
+Wolfson                    -1  -1  -1   0
+Selwyn                      1   0   1   0
+Girton II                   0   1   0  -1
+Newnham III                 0   0   1   1
+Girton III                  0   0   0   0
+Newnham IV                  0   0   0   0

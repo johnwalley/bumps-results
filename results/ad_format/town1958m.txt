@@ -1,0 +1,30 @@
+TOWN 1958
+ 4  2  26   = NDay, NDiv, NCrew
+ 17  Men's Div I
+City 1                      0   0   0   0
+99 1                       -1   0   0   0
+Rob Roy 1                   1   0   0   0
+Cantabs 1                   0   0   0   0
+Pye 1                       0   0   0   0
+Cantabs 2                  -1   0  -1  -1
+Rob Roy 2                   1   0   0   0
+City 2                      0   0   1   0
+Scouts 1                   -1   0   0   0
+99 2                        1   0   0   1
+ACUA 1                      0   0   0   0
+Central Old Boys 1          0   0   0   0
+Instrument Co 1             0   0   0   0
+City 3                     -1   0  -1  -1
+Cantabs 3                   1   0   0   0
+Beehives 1                  0   0   1   0
+Pye 2                       0  -1   0  -1
+ 9  Men's Div II
+Scouts 2                    0  -1  -1  -1
+Cantabs 4                  -1  -1  -1  -1
+Rob Roy 3                   1   2   0   1
+Central Old Boys 2         -1   0   1   1
+ACUA 2                      1   1   1   1
+Rob Roy 4                   0   0   0   1
+ACUA 3                     -1  -1   0   0
+Pye 3                       1   0  -1   0
+Scouts 3                    0   1   1   0

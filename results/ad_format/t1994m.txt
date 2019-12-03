@@ -1,0 +1,94 @@
+TORPIDS 1994
+ 4  7  85   = NDay, NDiv, NCrew
+ 12  Men's Div I
+Oriel                       0   0   0   0
+Brasenose                   0   0   0   0
+University                 -1   0   0   0
+Pembroke                    1   0   0   0
+Magdalen                    0   0   0   0
+Worcester                   0   0   0   0
+Christ Church               0   0   0   0
+New College                -1   0   0   0
+S.E.H.                      1   0   0   0
+Oriel II                   -3   0   0   0
+Balliol                     1   0   0   0
+L.M.H.                      0   0   0   0
+ 12  Men's Div II
+St Catherine's              2   0   0   0
+Hertford                   -3   0   0   0
+Lincoln                     1   0   0   0
+Wadham                      1   0   0   0
+Wolfson                     1   0   0   0
+Queen's                    -3   0   0   0
+Exeter                      1   0   0   0
+St John's                   1   0   0   0
+Jesus                       1   0   0   0
+Keble                       0   0   0   0
+Christ Church II           -1   0   0   0
+St Peter's                  1   0   0   0
+ 12  Men's Div III
+Trinity                     0   0   0   0
+Osler House                 0   0   0   0
+St Hugh's                   0   0   0   0
+University II              -1   0   0   0
+Merton                      1   0   0   0
+Oriel III                   0   0   0   0
+New College II             -3   0   0   0
+Balliol II                  1   0   0   0
+Pembroke II                 0   0   0   0
+Linacre                     2   0   0   0
+Worcester II               -1   0   0   0
+St Anne's                   1   0   0   0
+ 12  Men's Div IV
+Brasenose II               -2   0   0   0
+Mansfield                   1   0   0   0
+S.E.H. II                   1   0   0   0
+Exeter II                   0   0   0   0
+Keble II                   -1   0   0   0
+Corpus Christi              1   0   0   0
+Wolfson II                  0   0   0   0
+Queen's II                 -4   0   0   0
+St John's II               -2   0   0   0
+St Catherine's II           2   0   0   0
+Magdalen II                 2   0   0   0
+L.M.H. II                   2   0   0   0
+ 12  Men's Div V
+Lincoln II                  0   0   0   0
+Regent's Park              -4   0   0   0
+Wadham II                   0   0   0   0
+St Peter's II               2   0   0   0
+Oriel IV                    0   0   0   0
+Jesus II                    2   0   0   0
+Hertford II                -6   0   0   0
+St John's III              -4   0   0   0
+Keble III                   2   0   0   0
+Oriel V                     1   0   0   0
+St Benet's Hall             3   0   0   0
+St Anne's II                1   0   0   0
+ 12  Men's Div VI
+Worcester III               3   0   0   0
+Queen's III               -11   0   0   0
+Christ Church III           1   0   0   0
+New College III             1   0   0   0
+Exeter III                  1   0   0   0
+University III              1   0   0   0
+Osler House II              0   0   0   0
+Merton II                   2   0   0   0
+Magdalen III                1   0   0   0
+St Peter's III              1   0   0   0
+Magdalen IV                 1   0   0   0
+Merton III                  1   0   0   0
+ 13  Men's Div VII
+St Antony's                 1   0   0   0
+Wadham III                 -2   0   0   0
+Mansfield II                1   0   0   0
+St Anne's III               1   0   0   0
+Linacre II                  0   0   0   0
+S.E.H. III                  0   0   0   0
+Templeton                  -3   0   0   0
+Mansfield III               1   0   0   0
+Merton IV                   1   0   0   0
+L.M.H. III                  1   0   0   0
+Manchester                  0   0   0   0
+Corpus Christi II          -1   0   0   0
+Lincoln III                 1   0   0   0

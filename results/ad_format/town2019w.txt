@@ -1,0 +1,49 @@
+TOWN 2019
+ 4  3  44   = NDay, NDiv, NCrew
+ 17  Women's Div I
+Cantabs 1                   0   0   0   0
+City 1                      0   0   0   0
+Cantabs 2                   0   0   0   0
+X-Press 1                   0  -1   0   0
+99 1                       -1   0   0   0
+Cantabs 3                   1   1   0   0
+Chesterton 1                0  -1   0   0
+City 2                     -1   0   0  -1
+Cantabs 4                   1   1   0   0
+Rob Roy 1                   0   0  -1   0
+99 2                        0  -1   0   0
+99 3                       -1  -1   0   0
+Champs 1                    1   1   1   1
+City 3                     -1  -1  -1   0
+Isle of Ely 1               1   1   0   0
+Champs 2                    0   1   0  -1
+City 4                      0  -1   0   0
+ 17  Women's Div II
+City 5                      0  -1  -1   0
+City 6                     -3   0  -1  -1
+X-Press 2                  -1   0   0  -1
+Cantabs 5                   1   0   1   0
+Champs 3                    3   2   1   1
+Cantabs 6                   0  -1  -1  -1
+City 7                     -1  -1  -1  -1
+99 4                        1   1   1   1
+Champs 4                   -1  -1  -1  -1
+Chesterton 2                1   1   1   1
+99 5                        0   1   1   1
+Cantabs 7                   0   0   1   1
+Cantabs 8                  -1  -1   0  -1
+X-Press 3                   1   0   0   1
+Chesterton 3                0   1   0   0
+City 8                     -1  -1   1  -1
+Champs 5                    1   0   0   1
+ 10  Women's Div III
+Cantabs 9                   0   1  -1  -1
+Champs 6                   -1  -1  -1  -1
+Cantabs 10                  1   0  -1  -1
+Isle of Ely 2              -1   0   1   1
+99 6                        1   1   1   2
+99 7                        0   0  -1   0
+Chesterton 4               -1   0  -1  -1
+99 8                        1   0   1   1
+Champs 7                    0   0   1   0
+99 9                        0   0   0   1

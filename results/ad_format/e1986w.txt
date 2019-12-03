@@ -1,0 +1,68 @@
+EIGHTS 1986
+ 4  5  61   = NDay, NDiv, NCrew
+ 12  Women's Div I
+Osler House                 0  -1   0   0
+St Hugh's                  -3  -1   0   1
+St Hugh's II               -1   0  -1  -1
+St Hilda's                  1   0   0   0
+Somerville                  3   1   0   0
+L.M.H.                     -1  -1   0  -1
+St Anne's                   1   1   1   0
+Corpus Christi              0   1   0   0
+St Catherine's             -1   1  -1  -1
+Wadham                      1  -1   1   1
+Jesus                      -1  -1  -1  -1
+Brasenose                   1   0  -1   0
+ 12  Women's Div II
+Worcester                  -1   0   1   0
+Pembroke                    1   1   1   1
+Hertford                   -1  -1  -1  -1
+Keble                       1   0  -1   0
+New College                -1   0   1   0
+Wolfson                     1   1   1   1
+Balliol                     0  -1  -1   0
+Lincoln                    -1  -1   0   0
+University                  1   1   0   1
+L.M.H. II                  -3   1  -1   0
+Linacre                    -1  -1  -1  -1
+Somerville II               1   0   0  -1
+ 12  Women's Div III
+Christ Church               3   1   1   0
+Trinity                     0  -1  -1  -1
+St Hilda's II              -1  -1  -1  -1
+S.E.H.                      1   1   2   1
+Queen's                     0   1   1   1
+St Hugh's III               0   0   1   1
+Trinity II                 -1  -1  -1  -1
+St Catherine's II           1   0  -1   0
+Magdalen                    0   1   1   1
+Brasenose II                0  -3   0  -1
+Jesus II                    0  -1   0  -1
+St Hugh's IV               -1  -1  -1  -1
+ 12  Women's Div IV
+Merton                      1   1   0   1
+Mansfield                  -1  -1  -1  -1
+St John's                   1   4   1   0
+St Hilda's III             -1   0   1   1
+St Peter's                  1   1   1   2
+Wolfson II                  0  -1  -1   0
+New College II              0   1   0   1
+Keble II                    0  -1   0  -1
+St Hugh's V                -1   0  -1  -1
+Balliol II                  1   1   1   0
+Wadham II                  -1   1   1   1
+Hertford II                 1  -1  -1  -1
+ 13  Women's Div V
+Exeter                      0  -1  -1  -1
+University II              -3  -1  -1   0
+Worcester II               -1   0   0   1
+L.M.H. III                  1   0   1   1
+Osler House II              3   1   1   1
+Oriel                       0   1   0   0
+Pembroke II                -1   1   1   0
+Balliol III                 1  -1   0  -1
+Magdalen II                 0   0  -1   0
+Exeter II                   0  -1   0   0
+Magdalen III                0   1   1   1
+Corpus Christi II           0   0   0  -1
+St Peter's II               0   0   0   1

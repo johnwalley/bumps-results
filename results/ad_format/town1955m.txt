@@ -1,0 +1,32 @@
+TOWN 1955
+ 4  2  28   = NDay, NDiv, NCrew
+ 17  Men's Div I
+City 1                      0   0   0   0
+99 1                        0   0   0   0
+Pye 1                       0   0   0   0
+Rob Roy 1                   0  -1  -1  -1
+Scouts 1                   -1  -1  -1  -1
+Old Cantabs 1               1   1   0   0
+City 2                     -1  -1   0   1
+99 2                        1   1   1   0
+Rob Roy 2                  -1  -1  -1  -1
+Old Cantabs 2               1   1   1   1
+Old YM 1                    0   1   0  -1
+Pye 2                      -1  -1  -1  -1
+Beehives 1                  1   0   1   1
+New Museums 1               0   1   0   1
+City 3                     -1  -1  -1   0
+99 3                        1   0   1   0
+Scouts 2                   -1  -1   0   0
+ 11  Men's Div II
+Old Cantabs 3               1   1   0   1
+Instrument Co 1             0   1   1   0
+Rob Roy 3                   0  -1  -1   0
+New Museums 2               0   1   0  -1
+Old Cantabs 4               0  -1   0  -1
+Pye 3                      -1  -1   0   0
+Central Old Boys 1          1   1   1   1
+99 4                        0   1   0   1
+Beehives 2                  0   0  -1  -1
+New Museums 3              -1   1   1   0
+Old Cantabs 5               1  -1   0   1

@@ -1,0 +1,38 @@
+TOWN 2008
+ 4  2  34   = NDay, NDiv, NCrew
+ 17  Women's Div I
+Rob Roy 1                  -1  -1   0  -1
+99 1                        1   0   0  -1
+City 1                      0   1   0   1
+Camb Veterans 1             0   0   0   1
+99 2                        0   0   0   0
+Rob Roy 2                   0  -1   0  -1
+Champs 1                    0   1   0   0
+City 2                      0  -1   0   0
+Cantabs 1                   0   1   0   1
+City 3                     -1   0  -1  -1
+Cantabs 2                   1   0   0  -1
+X-Press 1                   0  -1   0   1
+Champs 2                   -1   0  -1   0
+99 3                        1   1   1   1
+City 4                      0  -1   0   0
+Champs 3                    0   1   1   0
+Champs 4                   -1   0   0   0
+ 17  Women's Div II
+Chesterton 1                1   0   0   0
+City 5                      0   0   0   0
+X-Press 2                   0   0   0   0
+Cantabs 3                   0   0   0  -1
+Champs 5                    0  -1   0   0
+St Radegund 1              -1   0  -1  -1
+City 6                      1   1   0   1
+Champs 6                    0  -1   0   1
+99 4                        0   1   1   0
+City 7                      0   0  -1   0
+Chesterton 2                0  -1   0  -1
+City 8                      0   1   1   0
+Cantabs 4                   0   0  -1   0
+X-Press 3                   0  -1   0   0
+Champs 7                   -1  -1   1  -1
+City 9                      1   1   1   1
+Champs 8                    0   1  -1   1

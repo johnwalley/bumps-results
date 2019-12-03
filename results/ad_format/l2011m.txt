@@ -1,0 +1,75 @@
+LENTS 2011
+ 4  4  69   = NDay, NDiv, NCrew
+ 17  Men's Div I
+1st and 3rd                 0  -1  -1   0
+Downing                     0   1   0  -1
+LMBC                        0  -1   0   0
+Pembroke                   -1   0   0  -1
+Caius                       1   1   1   1
+Jesus                      -1  -1   0   0
+Queens'                     1   0   0   1
+Clare                      -1   0   0  -1
+Trinity Hall                1   1   0   0
+King's                     -1  -1  -1  -1
+Emmanuel                    1   0  -1  -1
+Peterhouse                  0   1   1   1
+Magdalene                   0   0   1   1
+Girton                      0   0   0   1
+Fitzwilliam                 0   0  -1   0
+Robinson                    0  -1   0   0
+Churchill                  -1   0   0   0
+ 17  Men's Div II
+Selwyn                     -1   0   0  -1
+Christ's                    2   1   1   0
+St Catharine's              0  -1   1   1
+1st and 3rd II              0   1  -1  -1
+Sidney Sussex               0  -1  -1   0
+LMBC II                    -1  -1   0  -1
+Caius II                    1   1   0   1
+Downing II                  0   1   1   0
+Jesus II                    0  -1   1   1
+Wolfson                     0   1  -1   0
+Corpus Christi             -1  -1  -1  -1
+Homerton                    1   0  -1   0
+Queens' II                 -1   0   1   0
+Pembroke II                 1   1   1   0
+Christ's II                 0  -1   0   0
+Darwin                     -1  -1  -1  -1
+Emmanuel II                 1   1   0   1
+ 17  Men's Div III
+St Edmund's                 0   1   0   0
+Anglia Ruskin               0   0   1   0
+1st and 3rd III             0  -3  -1   0
+Selwyn II                   0  -1   0  -1
+Robinson II                -3  -1  -3  -1
+Churchill II               -1   0   1   1
+Magdalene II                1   3   0   1
+Peterhouse II               3   1   0   0
+Jesus III                  -1  -1   1  -1
+Clare II                    1   1   0  -1
+LMBC III                   -3  -1  -1  -1
+Fitzwilliam II             -1  -5  -1  -1
+Trinity Hall II             1   0   3   1
+King's II                   3   1  -1   1
+Girton II                  -1  -1   0   1
+St Catharine's II           1   1   0   0
+Addenbrooke's              -1  -1   1   0
+ 18  Men's Div IV
+Caius IV                    1   1   1   0
+1st and 3rd IV             -1  -1  -1  -1
+Hughes Hall                 1   6   0   1
+Wolfson II                  0   1  -3   1
+Sidney Sussex II           -1  -1  -1  -1
+Queens' III                 1   0   1   0
+Emmanuel III               -1   0   1   0
+Clare Hall                  1   1   3   1
+Christ's III                0   0  -1   0
+Homerton II                 0  -1   0   0
+Downing III                -1  -1  -1  -1
+Pembroke III                1   1   1   1
+Queens' IV                  0   1   0  -1
+Jesus IV                   -1  -1  -1  -1
+Trinity Hall III            1   0   1   1
+St Catharine's III          0   1   0   1
+Magdalene III              -1   0   0   1
+Hughes Hall II              1   0   1   0

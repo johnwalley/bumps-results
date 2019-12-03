@@ -1,0 +1,59 @@
+TORPIDS 1962
+ 4  6  51   = NDay, NDiv, NCrew
+ 8  Men's Div I
+St John's                   0  -1  -1  -1
+S.E.H.                      0   1   0   0
+Christ Church               0   0   1   0
+Balliol                     0   0   0   1
+Magdalen                   -1   0   0   0
+Oriel                       1   0   0   0
+Queen's                     0   0   0  -1
+Lincoln                     0   0   0   1
+ 8  Men's Div II
+New College                 0   0   0  -1
+Worcester                   0   0  -1   0
+Exeter                      0  -1  -1  -1
+University                 -1   0   1   0
+Keble                       1   1   1   1
+St Peter's                  0   0  -1   0
+Hertford                    0   0   1   1
+Merton                      0   0   0   0
+ 8  Men's Div III
+Pembroke                    0   0   0   0
+St Catherine's              0  -1   0   0
+Brasenose                   0   1   0   0
+Wadham                      0   0   0   0
+Jesus                       0   0   0  -1
+Lincoln II                 -1  -1   0  -1
+Corpus Christi              1   0  -1   0
+Trinity                     0   1   1   1
+ 8  Men's Div IV
+Balliol II                  0   0   0   1
+St Peter's II              -1   0  -1   0
+Keble II                    1   0   0  -1
+St John's II                0  -1  -1  -1
+S.E.H. II                  -1   0   1   0
+Christ Church II            1   1   1   1
+University II              -1   1   0   1
+Queen's II                  1  -1  -1   0
+ 9  Men's Div V
+Oriel II                   -1   0   0   0
+New College II              1   0   1   0
+Exeter II                   0   0   0  -1
+Hertford II                -1  -1  -1  -1
+Balliol III                 1   0  -1  -1
+Worcester II               -1  -1  -1   0
+Brasenose II                1   1   1   1
+Magdalen II                -1  -1   0   0
+S.E.H. III                  1   1   1   1
+ 10  Men's Div VI
+Pembroke II                -1  -1  -1  -1
+St John's III               1   1   1   1
+Wadham II                   0   1   0  -1
+St Catherine's II          -1   1   1   1
+University III              1  -1  -1   0
+Merton II                   0  -1   0   0
+Lincoln III                -1  -1  -1   0
+Trinity II                  1   1   1   1
+Exeter III                  0   1   0   0
+Brasenose III               0   0   1   0

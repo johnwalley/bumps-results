@@ -1,0 +1,57 @@
+LENTS 1999
+ 4  3  52   = NDay, NDiv, NCrew
+ 17  Women's Div I
+Emmanuel                   -1   0   0   0
+Trinity Hall                1   0   0   0
+Queens'                    -1   0  -1   0
+Pembroke                    1   0   0   0
+Jesus                       0   0   1   0
+Christ's                    0  -1   0   0
+LMBC                       -1   0   0   0
+Newnham                     1   1   0   0
+St Catharine's             -1  -1   0  -1
+1st and 3rd                 1   0  -1   0
+Churchill                   0   1   1   0
+Clare                      -1  -1  -1  -1
+New Hall                    1   0  -1  -1
+CCAT                       -1  -1  -1   0
+Caius                       1   1   1   1
+Downing                     0   1   1   1
+Fitzwilliam                 0   0   1   1
+ 17  Women's Div II
+Selwyn                      0  -1   1   0
+Girton                      0   1  -1  -1
+LMBC II                    -1  -1  -1  -1
+Sidney Sussex               1   0   0   1
+Magdalene                   0   1   0   0
+Jesus II                    0   0   1   0
+Corpus Christi              0  -1   0  -1
+Emmanuel II                -1   0  -1   0
+King's                      1   1   0   1
+Newnham II                  0  -1   0   0
+Homerton                   -1   0  -1   0
+Robinson                    1   1   1   1
+Peterhouse                  0  -1   0  -1
+St Catharine's II          -1   0  -1  -1
+Wolfson                     1   1   1   0
+New Hall II                 0  -1  -1   0
+Clare Hall                 -1  -1  -1  -1
+ 18  Women's Div III
+Darwin                      1   1   1   1
+Trinity Hall II            -1   0   1   0
+Queens' II                  1   1   1   1
+CCAT II                     0  -1   1   1
+Lucy Cavendish             -1   0  -1  -1
+Homerton II                 1   1  -1  -1
+1st and 3rd II              0  -1  -1  -1
+Selwyn II                  -1  -1  -1  -1
+Churchill II                1   1   1   1
+Vet School                  0   1   1   1
+Downing II                  0  -1  -1  -1
+Caius II                   -1  -1  -1  -1
+Pembroke II                 1   1   1   1
+Clare II                    0   1   1   1
+Darwin II                  -1   0   0   1
+LMBC III                    1   0   1   1
+Girton II                   0   0   0   0
+Newnham III                 0   0   0   0
