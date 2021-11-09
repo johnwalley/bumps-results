@@ -1,0 +1,15 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Men
+Year,1930
+
+Division,J,1st Trinity,E,Pb,S,TH,Ca,J2,Cr,Cl,L,Q,K,1st Trinity 2,3rd Trinity
+Division,SC,TH2,CC,Ph,Pb2,Ca2,Cr2,1st Trinity 3,L2,SS,Q2,J3,D,Cl2,F
+Division,Ca3,M,TH3,Pb3,E2,L3,Pb4,S2,Ph2,1st Trinity 4,D2,CC2,E3,Cr3,SS2
+Division,TH4,K2,Ca4,SC2,L4,M2,J4,Ph3,Cl3,F2,1st Trinity 5,E4,Q3,Pb5,K3,SC3
+
+Results
+urrrurrururr rurrrrrruruu rruuruururr uuruurrrrur
+rurrrurrurur rrurrrruruur rrruurrrruru ruururrrruu
+rrurrruuuru urrrrruururr rruuurrurur uuruurruur
+rrrurrruuurr rururruruur ruuurrrrruu urrurruurrrr

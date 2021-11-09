@@ -1,0 +1,67 @@
+LENTS 1925
+ 4  4  61   = NDay, NDiv, NCrew
+ 15  Men's Div I
+Jesus                      -1   0   0   0
+1st Trinity                 1   0   0   0
+Pembroke                    0   0   0   0
+LMBC                        0  -1  -1  -1
+Caius                       0   1   0  -1
+Trinity Hall                0  -1   0   1
+3rd Trinity                -1  -1  -1  -1
+Christ's                    1   1   1   1
+Queens'                     0   1   0  -1
+1st Trinity II             -1   0  -1  -1
+Jesus II                    1   0   1   1
+King's                      0  -1  -1  -1
+Corpus Christi             -1   0   1   1
+Clare                       1   1   1   1
+Emmanuel                    0   0   0   1
+ 15  Men's Div II
+St Catharine's             -1  -1  -1   0
+Pembroke II                 1   0  -1  -1
+LMBC II                    -1  -1   0  -1
+Sidney Sussex               1   1   1   0
+Selwyn                      0   1   1   1
+Downing                    -1  -1   0  -1
+1st Trinity III             1   0  -1   0
+Trinity Hall II             0   1   1   1
+Pembroke III                0   0   0   1
+Caius II                    0   0   0  -1
+Queens' II                 -1  -1   0  -1
+Christ's II                 1   0  -1   0
+Jesus III                  -1   0   0   1
+Clare II                    1   1   1   1
+Magdalene                   0  -1  -1  -1
+ 15  Men's Div III
+Emmanuel II                 0  -1   1   0
+1st Trinity IV             -1   0  -1  -1
+Peterhouse                  1   2   0   0
+Pembroke IV                 0  -1  -1  -1
+Fitzwilliam                -1   0   1   1
+Caius III                   1   1   1   1
+Sidney Sussex II            0  -1   0  -1
+Trinity Hall III           -1  -1   1   1
+King's II                   1   1   0   1
+Selwyn II                   0   1  -1   0
+LMBC III                    0   0   0   0
+LMBC IV                     0   0   0   0
+1st Trinity V              -1   0   0   1
+Trinity Hall IV             1   0   0  -1
+Jesus IV                    0   0  -1  -1
+ 16  Men's Div IV
+Christ's III                0  -1   0   1
+Downing II                 -1   0   0  -1
+Emmanuel III                1   1   1   0
+Pembroke V                  0   0  -1  -1
+King's III                  0  -1  -1  -1
+Peterhouse II              -1  -1  -1  -1
+Corpus Christi II           1   1   1   1
+Queens' III                 0   1   1   1
+Clare III                  -1   0   0   1
+Caius IV                    1   0   1   1
+LMBC V                     -1  -1   0   0
+Caius V                     1   0  -1   0
+Fitzwilliam II             -3   0   0   0
+Emmanuel IV                -1   1   0   0
+Clare IV                    1  -1   0   0
+St Catharine's II           3   1   1   0

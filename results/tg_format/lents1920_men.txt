@@ -1,0 +1,15 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Men
+Year,1920
+
+Division,J,1st Trinity,Pb,L,E,Cr,3rd Trinity,Q,SS,J2,TH,1st Trinity 2,CC,Ca,Cl
+Division,Pb2,L2,Pb3,K,1st Trinity 3,SC,M,Ca2,S,TH2,Cr2,D,Cl2,E2,1st Trinity 4
+Division,L3,J3,1st Trinity 5,Pb4,Q2,Ph,S2,K2,L4,Ca3,F,Pb5,TH3,SS2,CC2
+Division,E3,J4,L5,Pb6,1st Trinity 6,Ca4,Cr3,TH4,S3,E4,K3,SS3,Q3,Cl3,D2,Ph2
+
+Results
+ruuuruurur rrururrruurr rrrrurrrruurr rrruurrruurr
+rruuururuu ruruururrru rrrrrurruuru rrurrururrru
+ruuuruurrrr ruuuurrurrr rrrrrrurrurrrr rrruuruurur
+uuuruuurrr uuurruuurr rrrrruuuurrr rrrrururruru

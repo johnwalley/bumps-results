@@ -1,8 +1,0 @@
-Set,Torpids
-Short,Torpids
-Gender,Women
-Year,2007
-Days,0
-
-
-Results

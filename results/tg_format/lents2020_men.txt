@@ -1,0 +1,15 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Men
+Year,2020
+
+Division,Ca,L,D,Pb,R,J,T,SC,Cr,TH,Ph,K,Cl,M,E,Q,F
+Division,Cu,L2,G,S,W,Ca2,CC,SE,Dw,SS,J2,HH,T2,Pb2,H,D2,E2
+Division,Cl2,Q2,Cr2,M2,SC2,TH2,R2,CH,T3,Cu2,F2,L3,J3,Q3,Ph2,AR,A
+Division,W2,HH2,D3,S2,Dw2,Pb3,M3,Cu3,H2,G2,Q4,Cu4
+
+Results
+rruuurru rrrrrurururuu ruururururrrr rruuuururuu
+uruuurrr rururrrururrrr urrruo3uurrrrr rurruuuruurr
+ruruurur urrruurururu rurururuurrrr rruuuuurrurr
+rurrrrruu rurrurrururur rrrururuurrrrr rruruurrrruur

@@ -1,0 +1,48 @@
+TOWN 2021
+ 4  3  43   = NDay, NDiv, NCrew
+ 17  Women's Div I
+Cantabs 1                   0   0   0   0
+City 1                      0   0  -1  -1
+Cantabs 2                   0   0   1   0
+Cantabs 3                   0  -1   0   0
+X-Press 1                  -1   0   0   0
+99 1                        1   1   0   1
+Cantabs 4                   0   0   0   0
+Chesterton 1                0  -1  -1  -1
+St Neots 1                 -1  -1  -1   0
+Champs 1                    1   1   0  -1
+City 2                      0   1   1   1
+99 2                        0   0   1   1
+Rob Roy 1                   0   0   0  -1
+Isle of Ely 1               0   0  -1   0
+99 3                       -3   0  -1  -1
+Champs 2                   -1   0  -1   0
+Rob Roy 2                   1   1   1   1
+ 17  Women's Div II
+Champs 3                   -1  -1  -1   0
+City 3                      4  -1   0   0
+City 4                     -1  -1   0  -1
+Cantabs 5                   1   1   2   0
+City 5                      0   1   1   1
+99 4                       -1  -1  -1  -1
+X-Press 2                   1   0  -1  -1
+Chesterton 2               -1  -1  -1   0
+City 6                      1   1   1   1
+99 5                       -1  -1   0  -1
+Cantabs 6                   1   1   1   1
+Cantabs 7                   0   1   1   1
+City 7                      0   0  -1  -1
+X-Press 3                   0  -1   0   1
+St Neots 2                 -1  -1  -1  -1
+Champs 4                    1   1   1   1
+Chesterton 3               -1   0  -1   1
+ 9  Women's Div III
+Cantabs 8                   1   1   0  -1
+99 6                        0  -1  -1   0
+City 8                     -1  -1  -1  -1
+Cantabs 9                   1   1   2   1
+Isle of Ely 2              -1  -1  -1   0
+Cantabs 10                  1   1   1   0
+Cantabs 11                  0   1   1   0
+City 9                     -1   0   0   0
+Cantabs 12                  1   0   1   1
