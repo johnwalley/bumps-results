@@ -1,0 +1,15 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Women
+Year,2022
+
+Division,D,J,N,E,L,Pb,Cu,Cl,Ca,T,TH,F,Cr,Q,ME,Dw,SC
+Division,G,H,SS,K,S,Ph,LC,E2,J2,R,CC,M,N2,HH,D2,W,Q2
+Division,Cl2,L2,SE,Pb2,Ca2,SC2,Cr2,E3,TH2,CH,N3,SS2,M2,Q3,AR,F2,TH3
+Division,T2,Ca3,LC2,Cu2,Pb 3,Ph2,L3,K2,Ca4
+
+Results
+rrruurr rurururruruu uurruurrurru rruruuururur
+rururrr uurrurruruur o3urrruuuuur rurrrrruurrrru
+rrurrru ruuurrrrruuu uurruuurruu uuuuruurrrrr
+rrrrrrur uuuuuruuur rruruururrrru ruurrrurrurrrr
