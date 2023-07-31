@@ -1,0 +1,52 @@
+TOWN 2023
+ 4  3  47   = NDay, NDiv, NCrew
+ 17  Women's Div I
+Cantabs 1                   0   0   0   0
+City 1                      0   0   0   0
+Cantabs 2                   0   0   0   0
+99 1                        0   0   0   0
+Cantabs 3                   0  -1   0  -1
+Cantabs 4                   0   1   0   0
+St Neots 1                  0  -1  -1  -1
+X-Press 1                  -1  -1  -1  -1
+City 2                      1   1   0   1
+99 2                        0   1   1   0
+Chesterton 1               -1   0  -1  -1
+Rob Roy 1                   1   0   1   1
+Champs 1                    0  -1  -1   0
+Isle of Ely 1              -1  -1   0  -1
+City 3                      1   1   1   1
+Champs 2                   -1   0  -1   0
+Rob Roy 2                   1   1   1   1
+ 17  Women's Div II
+Rob Roy 3                   0   0  -1  -1
+Camb Vets 1                 0  -1   0   1
+99 3                       -1   0  -1  -1
+Cantabs 5                   1   1   2   1
+City 4                      0  -1  -1   0
+Champs 3                   -1  -1  -1  -1
+City 5                      1   1   1   0
+X-Press 2                   0   1   1   1
+City 6                      0  -1  -1  -1
+99 4                        0   1   1   0
+St Radegund 1               0  -1  -1   0
+99 5                       -1  -1   0  -1
+Cantabs 6                   1   1   1   1
+Chesterton 2               -1   0  -1  -1
+Cantabs 7                   1   1   1   1
+X-Press 3                   0  -1  -1   0
+City 7                     -1   0  -1  -1
+ 13  Women's Div III
+Cantabs 8                   1   1   1   1
+99 6                        0  -1  -1   0
+Champs 4                   -1  -1  -1   0
+Cantabs 9                   1   1   2   1
+Chesterton 3               -1  -1   0  -1
+Cantabs 10                  1   1   1   1
+Cantabs 11                  0   1   1   0
+City 8                      0   0   0   1
+City 9                     -1  -1  -1   0
+Isle of Ely 2               1   0  -1   0
+Cantabs 12                  0   1   1   0
+Cantabs 13                  0   0   1   0
+St Radegund 2               0   0   0   0

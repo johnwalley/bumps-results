@@ -1,0 +1,58 @@
+TOWN 2022
+ 3  3  53   = NDay, NDiv, NCrew
+ 17  Men's Div I
+99 1                        0   0   0
+Cantabs 1                   0   0   0
+Rob Roy 1                   0   0  -1
+Cantabs 2                   0  -1   0
+99 2                       -1   0   0
+City 1                      1   1   1
+X-Press 1                   0   0   0
+Cantabs 3                   0   0  -1
+Chesterton 1                0  -1   0
+99 3                       -1   0   0
+City 2                      1   1   1
+City 3                      0  -1   0
+Champs 1                   -1  -1  -1
+Cantabs 4                   1   1   0
+Cantabs 5                   0   1   0
+99 4                        0  -1  -1
+St Neots 1                 -1  -1  -1
+ 17  Men's Div II
+City 4                      1   1   1
+City 5                      0   1   1
+Chesterton 2               -1   0  -1
+X-Press 2                   1   0   1
+St Radegund 1              -1   0   0
+City 6                      1   0   1
+City 7                     -1   0   0
+Cantabs 6                   1   0   0
+City 8                      0   0  -1
+Cantabs 7                   0  -1   0
+X-Press 3                  -1  -1   1
+99 5                        1   1   1
+Cantabs 8                   0   1  -1
+Champs 2                   -1   0  -1
+99 6                        1   0   0
+Isle of Ely 1               0  -1  -1
+St Neots 2                 -1  -1  -1
+ 19  Men's Div III
+Champs 3                   -1   1   1
+City 9                      2   1   1
+Cantabs 9                   0   0   1
+City 10                     0  -1  -1
+X-Press 4                  -1  -1  -1
+Cantabs 10                  1   1   0
+Cantabs 11                 -1  -1  -1
+X-Press 5                   1   1   1
+City 11                     0   1   1
+City 12                     0  -1  -1
+Champs 4                   -1  -1  -1
+99 7                        1   1   1
+Champs 5                   -1  -1  -1
+99 8                        1   1   1
+99 9                        0   1   1
+99 10                       0   0   1
+99 11                       0  -1  -1
+99 12                       0   1   0
+Camb Veterans 1             0   0   1

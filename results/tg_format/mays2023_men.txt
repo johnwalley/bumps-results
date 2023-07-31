@@ -1,0 +1,16 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,2023
+
+Division,Ca,L,M,Pb,Ph,E,D,K,Cl,Q,J,L2,T,HH,R,S,Cr
+Division,SC,TH,Ca2,F,W,G,Cu,CC,SE,SS,H,E2,Pb2,Cl2,Dw,D2,T2
+Division,J2,M2,Q2,SC2,Cu2,R2,TH2,Cr2,E3,L3,J3,Ph2,CH,F2,S2,HH2,Ca3
+Division,Q3,T3,Pb3,K2,CC2,G2,Cl3,SS2,W2,LC,Cu3,M3,Dw2,SC3,H2,E4,Cr3
+Division,F3,J4,Cl4,L4,M4,Ca4,CH2,K3,Pb4
+
+Results
+rrruuu ururuo3urrurr ruuo3uuururr uurrrruurrrur ururruruurrrr
+rururu rruururruuur urrurruuurur ruuro3ururrru ro3urrruruurrr
+ruurur rurruruuuuu uruuuuurrru uuo3urrrrurur rururrrururrrr
+uuruu uuuurrruuur ruruuuuurru o5uururrrrrurr uruurrrururrr

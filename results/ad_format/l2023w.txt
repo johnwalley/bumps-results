@@ -1,0 +1,69 @@
+LENTS 2023
+ 4  4  63   = NDay, NDiv, NCrew
+ 17  Women's Div I
+Newnham                     0  -1   0  -1
+Downing                    -1  -1   0  -1
+Jesus                       1   1   0   0
+Emmanuel                    0   1   0   1
+Caius                       0   0   0   1
+Pembroke                   -1  -1   0   0
+LMBC                        1   0   0   0
+Trinity Hall                0   1   0   0
+Clare                      -1  -1   0   0
+Churchill                   1   0   0  -1
+Christ's                   -1   0   0  -1
+1st and 3rd                 1   1   0   1
+Queens'                     0  -1   0  -1
+St Catharine's             -1  -1   0  -1
+Fitzwilliam                 1   1   0   1
+Sidney Sussex               0   1   0   1
+Darwin                      0  -1   0   0
+ 17  Women's Div II
+Homerton                    0  -1   0  -1
+Murray Edwards             -1  -1   0  -1
+Peterhouse                  1   2   0   1
+Girton                     -1  -1   0  -1
+King's                      1   1   0   1
+Lucy Cavendish             -1  -1   0  -1
+Selwyn                      1   1   0   1
+Robinson                   -1  -1   0  -1
+Magdalene                   1   1   0   1
+Corpus Christi              0   1   0   1
+Emmanuel II                -1  -1   0  -1
+Newnham II                  1   0   0   1
+Jesus II                    0   1   0   0
+Hughes Hall                -1   1   0   1
+Queens' II                  1  -1   0  -1
+LMBC II                     0   0   0   1
+Pembroke II                -1  -1   0   0
+ 17  Women's Div III
+Downing II                  1  -1   0   0
+Caius II                   -1   0   0   0
+Wolfson                     1   2   0   0
+Christ's II                -1  -1   0   0
+Clare II                    1   0   0   0
+Emmanuel III                0   1   0   0
+St Edmund's                 0   0   0   0
+St Catharine's II           0  -1   0   0
+Newnham III                -1  -1   0   0
+Trinity Hall II             1   1   0   0
+Queens' III                 0   1   0   0
+Sidney Sussex II            0  -1   0   0
+Clare Hall                 -1  -1   0   0
+1st and 3rd II              1   1   0   0
+Magdalene II               -1  -1   0   0
+Caius III                   1   1   0   0
+Churchill II                0   1   0   0
+ 12  Women's Div IV
+Fitzwilliam II              0  -1   0   0
+Peterhouse II              -1   0   0   0
+Lucy Cavendish II           1   1   0   0
+King's II                  -1   0  -1   0
+Clare III                   1   0   0   0
+Churchill III               0  -1  -1   0
+Jesus III                  -1  -1  -1   0
+Hughes Hall II              1   1   1   0
+Wolfson II                  0   1   1   0
+Emmanuel IV                 0   0   1   0
+Newnham IV                  0   0   0   0
+Girton II                   0   0   0   0

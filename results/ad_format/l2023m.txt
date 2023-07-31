@@ -1,0 +1,63 @@
+LENTS 2023
+ 4  4  57   = NDay, NDiv, NCrew
+ 17  Men's Div I
+LMBC                        0   0   0   0
+Caius                       0   0   0   0
+Pembroke                   -1  -1   0  -1
+Downing                     1   0   0  -1
+Jesus                       0   1   0   1
+1st and 3rd                -1  -1   0  -1
+Magdalene                   1   0   0   1
+Trinity Hall                0   1   0   0
+King's                      0  -1   0  -1
+Robinson                   -1  -1   0  -1
+Clare                       1   1   0   1
+St Catharine's             -1  -1   0  -1
+Queens'                     1   1   0   1
+Peterhouse                 -1  -1   0   0
+Emmanuel                    1   1   0   1
+LMBC II                     0   1   0   1
+Christ's                    0   0   0  -1
+ 17  Men's Div II
+Fitzwilliam                 0   0   0  -1
+Selwyn                      0  -1   0  -1
+Churchill                  -1   0   0   1
+Caius II                    1   1   0   2
+Girton                      0   0   0   0
+Sidney Sussex              -3  -1   0  -1
+Homerton                   -1   0   0  -1
+Corpus Christi              1   1   0   0
+Hughes Hall                 3  -1   0   0
+1st and 3rd II             -3  -1   0  -1
+Darwin                     -1   0   0  -1
+Pembroke II                 1   0   0   1
+Wolfson                     3   1   0   1
+Emmanuel II                 0   1   0   1
+Jesus II                    0   0   0   1
+St Edmund's                -1  -1   0   0
+Clare II                    1   0   0  -1
+ 17  Men's Div III
+Magdalene II               -1  -1   0   0
+Downing II                  1   1   0   1
+Queens' II                  0   1   0   0
+Christ's II                -1  -1   0   0
+Trinity Hall II             1   0   0   0
+St Catharine's II          -1  -3   0   0
+Fitzwilliam II              1   1   0   0
+LMBC III                    0  -1   0   0
+Peterhouse II              -1   3   0   0
+Clare Hall II               1   1   0   0
+Churchill II                0  -1   0   0
+Selwyn II                  -1   0   0   0
+Lucy Cavendish              1   1   0   0
+Girton II                   0  -1   0   0
+Caius III                  -1   0   0   0
+Emmanuel III                1   1   0   0
+Sidney Sussex II           -1   0  -1   0
+ 6  Men's Div IV
+Wolfson II                  1   0   0   0
+Corpus Christi II           0   0   1   0
+Magdalene III               0  -1   1   0
+Jesus III                  -1   0   0   0
+Queens' III                 1   1  -1   0
+Trinity Hall III            0   0   0   0

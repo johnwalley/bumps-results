@@ -83,7 +83,7 @@ Emmanuel IV                 0   1   0   0
 Corpus Christi III         -1  -1  -1  -1
 Jesus V                     1   0  -1  -1
 Pembroke IV                -1  -1   0   1
-Fitzwilliam V               1   1   1   1
+Fitzwilliam III             1   1   1   1
 Queens' V                   0   1   1   1
 Trinity Hall IV            -1  -1  -1   0
 Downing IV                  1   0  -1  -1

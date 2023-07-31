@@ -1,0 +1,16 @@
+Set,May Bumps
+Short,Mays
+Gender,Women
+Year,2022
+
+Division,N,J,E,Ca,L,D,Pb,Cu,T,Cl,F,G,Cr,Q,SC,TH,H
+Division,K,Ph,Dw,M,N2,E2,J2,ME,LC,W,SS,S,D2,R,CC,Ca2,Pb2
+Division,Q2,L2,TH2,Cl2,SE,E3,HH,SC2,N3,H2,ME2,J3,Pb3,Dw2,CH,LC2,Cr2
+Division,Q3,Cl3,Ca3,K2,SC3,F2,SS2,L3,M2,TH3,Cl4,Ca4,CC2,E4,Cu2,T2,D3
+Division,G2,J4,Ph2,Ca5,HH2,Ph3
+
+Results
+ruur rrro5uuururur uururrrrrurrrr rruuruurrrurr rruruurrurrur
+rrrru uurururuuru ruururrruruu rrrurrruururu rrruruurruurr
+urur ruururruurur uuururururrr rruuuruurrur rruuruurruur
+rruu uuuruuuuru ruuruuurrrrrr ruuuuruurru uruururrrrrrrr
