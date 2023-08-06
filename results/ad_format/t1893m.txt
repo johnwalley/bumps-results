@@ -1,0 +1,33 @@
+TORPIDS 1893
+ 6  2  29   = NDay, NDiv, NCrew
+ 15  Men's Div I
+Brasenose                   0   0   0   0   0   0
+New College                 0   0   0   0   0   0
+Balliol                     0   0   0   0   0   0
+Christ Church               0  -1  -1  -1  -1  -1
+Queen's                     0   1   0  -1   0   0
+Merton                      0  -1   0   1   0   0
+Magdalen                    0   1   1   1   0   0
+Corpus Christi              0   0   0  -1  -1  -1
+St John's                   0   0   0   1   1   0
+Christ Church II           -1   0  -1  -1  -1  -1
+Exeter                      1   0   0  -1  -1   0
+Keble                       0  -1  -1  -1  -1   0
+New College II             -1  -1  -1  -1   0  -1
+Brasenose II                1   1   1   1   1   1
+Trinity                     0   1   1   1   1   1
+ 14  Men's Div II
+Hertford                    0   0   1   1   1   0
+Wadham                      0  -1   0   0   0   1
+Pembroke                    0   1   0   1   1   1
+Balliol II                 -1  -1  -1   0  -1   0
+Worcester                   1   0   0   0   0   0
+Jesus                       0   1   0   0   0   0
+Oriel                      -1  -1   0   0   0   0
+Lincoln                     1   0   1   0   0  -1
+University                  0   1   0   0   1   1
+Magdalen II                -1   0  -1  -1   0   0
+Keble II                    1   0   0  -1   0   0
+St Catherine's              0  -1   0   1   0   0
+Merton II                  -1   0   0   0   0   0
+Christ Church III           1   1   1   1   0   0

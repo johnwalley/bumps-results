@@ -1,0 +1,28 @@
+TORPIDS 1881
+ 6  2  24   = NDay, NDiv, NCrew
+ 12  Men's Div I
+Trinity                     0  -1  -1   0   0   0
+Keble                       0   1   0   0   0  -1
+Brasenose                   0   0   1   0   0   1
+New College                 0   0   0   0  -1   0
+Pembroke                    0   0   0   0   1   0
+Exeter                     -1   0   0  -1  -1  -1
+Magdalen                    1   0   0   0   0   0
+Worcester                   0   0  -1  -1  -1   0
+Balliol                     0   0   1   1   0  -1
+Oriel                      -1  -1  -1  -1  -1  -1
+Queen's                     1   0  -1   0   1   1
+Christ Church              -1   0   1   0   0   0
+ 12  Men's Div II
+Corpus Christi              1   1   1   1   1   1
+University                  0   0  -1   0   1   0
+New College II              0   0   1   1   0   0
+Keble II                   -1   0  -1  -1  -1  -1
+St John's                   1   0   0  -1   0   0
+Hertford                    0  -1   0   1   0   0
+Merton                     -1   0  -1   0  -1  -1
+Lincoln                     1   1   1   1   0   1
+Balliol II                  0  -1  -1   0   0   1
+Wadham                      0   1   1   0   1   0
+Christ Church II            0   0   1   0   1   1
+Jesus                       0   0   0   0   0   0
