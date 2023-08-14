@@ -1,0 +1,21 @@
+TOWN 1983
+ 4  1  18   = NDay, NDiv, NCrew
+ 18  Women's Div I
+Free Press 1               -1  -1   0  -1
+99 1                        1   0  -1   0
+City 1                      0   1   1   0
+Darwin 1                    0  -1   0   0
+Cantabs 1                  -1  -1   0   0
+99 2                        1   1   0   1
+City 2                     -1  -1   0   1
+99 3                        1   1   0   0
+Macdonalds 1                0   1   0  -1
+Darwin 2                    0  -1   0   0
+Pye 1                      -1  -1  -1   0
+City 3                      1   1   0   0
+Macdonalds 2               -1  -1   0  -1
+Cantabs 2                   1   1   0  -1
+99 4                        0   1   1   1
+Telephones 1                0  -1   1   1
+Rob Roy 1                   0   1  -1  -1
+City 4                      0   0   0   1

@@ -1,0 +1,12 @@
+Set,Town Bumps
+Short,Town
+Gender,Women
+Year,1985
+
+Division,99 1,City 1,Darwin 1,99 2,99 3,City 2,Rob Roy 1,City 3,Cantabs 1,Addenbrooke's 1,Cantabs 2,Cantabs 3,99 4,Coopers & Lybrand 1,City 4,99 5,Rob Roy 2,Cantabs 4,City 5,99 6,City 6,Addenbrooke's 2
+
+Results
+rruruuurrrrruuu
+ururuurrrrruurrr
+rurruururruuurr
+uurrurrruuuurrr

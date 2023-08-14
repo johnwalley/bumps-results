@@ -1,0 +1,12 @@
+Set,Town Bumps
+Short,Town
+Gender,Women
+Year,1987
+
+Division,City 1,99 1,99 2,City 2,99 3,Cantabs 1,99 4,City 3,Addenbrooke's 1,Cantabs 2,Cantabs 3,City 4,Cantabs 4,Free Press 1,Red Lion Toft 1,Cantabs 5,Coopers & Lybrand 1,Univ Sports 1,City 5
+
+Results
+ruuurruuurrrr
+rruuuuurrrrrrr
+rrruuurrrurrrrr
+rruuuurrrurru

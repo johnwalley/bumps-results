@@ -1,0 +1,25 @@
+TOWN 1985
+ 4  1  22   = NDay, NDiv, NCrew
+ 22  Women's Div I
+99 1                       -1   0   0   0
+City 1                      1   0   0   0
+Darwin 1                   -1  -1  -1  -1
+99 2                        1   0  -1  -1
+99 3                       -1  -1  -1  -1
+City 2                      1   1   1   0
+Rob Roy 1                   0   1   1   1
+City 3                      0   0   1   1
+Cantabs 1                   0   0   0   1
+Addenbrooke's 1             0   0   0  -1
+Cantabs 2                   0   0  -1   0
+Cantabs 3                  -1  -1  -1  -1
+99 4                        1   0   1   1
+Coopers & Lybrand 1        -1  -1  -1   0
+City 4                      1   1   0   0
+99 5                       -1   0   1   1
+Rob Roy 2                   1   1   1   0
+Cantabs 4                   0  -1   0  -1
+City 5                     -1   0  -1  -1
+99 6                        1   1   0   0
+City 6                      0  -1   0   1
+Addenbrooke's 2             0   1   1   1

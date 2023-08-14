@@ -1,0 +1,22 @@
+TOWN 1987
+ 4  1  19   = NDay, NDiv, NCrew
+ 19  Women's Div I
+City 1                      0   0   0  -1
+99 1                        0   0   0   1
+99 2                        0   0   0   0
+City 2                      0   0   0   0
+99 3                       -1   0  -1   0
+Cantabs 1                   1   0   0  -1
+99 4                       -1  -1   0   0
+City 3                      1   0   1   1
+Addenbrooke's 1            -1  -1  -1  -1
+Cantabs 2                   1   1   0   0
+Cantabs 3                   0   1   0  -1
+City 4                      0  -1  -1  -1
+Cantabs 4                  -1  -1  -1  -1
+Free Press 1                1   1   1   1
+Red Lion Toft 1            -1  -1   0   1
+Cantabs 5                   1   1   1   1
+Coopers & Lybrand 1        -1   0   0   0
+Univ Sports 1               1   1   1   1
+City 5                      0   0   0   0

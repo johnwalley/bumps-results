@@ -1,0 +1,26 @@
+TOWN 1984
+ 4  1  23   = NDay, NDiv, NCrew
+ 23  Women's Div I
+City 1                      0   0   0  -1
+99 1                        0   0   0   1
+99 2                       -1  -1   0   0
+Free Press 1                1   0   0   0
+Darwin 1                    0   1   0   0
+Cantabs 1                  -1  -3   0  -1
+99 3                        1   0   0   0
+City 2                      0  -1   1   1
+Macdonalds 1               -1   3   0  -1
+Rob Roy 1                   1   1  -1   0
+Cantabs 2                   0   0  -1  -1
+Addenbrooke's 1             0  -1   0   1
+City 3                      0   1   1   1
+Darwin 2                    0  -1  -1  -1
+99 4                       -1   0   1   0
+Cantabs 3                   1   1   0   0
+Rob Roy 2                  -1  -1   0   0
+Free Press 2                1   0  -1   0
+Telephones 1               -3   0  -1   0
+Macdonalds 2               -1   1   0   0
+City 4                      1  -1   0  -1
+99 5                        3   1   1   1
+Rob Roy 3                   0   0   1   1
