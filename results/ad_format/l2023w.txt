@@ -5,9 +5,9 @@ Newnham                     0  -1   0  -1
 Downing                    -1  -1   0  -1
 Jesus                       1   1   0   0
 Emmanuel                    0   1   0   1
-Caius                       0   0   0   1
+Caius                       0  -1   0   0
 Pembroke                   -1  -1   0   0
-LMBC                        1   0   0   0
+LMBC                        1   1   0   1
 Trinity Hall                0   1   0   0
 Clare                      -1  -1   0   0
 Churchill                   1   0   0  -1
