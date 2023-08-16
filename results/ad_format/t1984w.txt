@@ -1,42 +1,42 @@
 TORPIDS 1984
  4  3  37   = NDay, NDiv, NCrew
  12  Women's Div I
-Jesus                       0   0   0   0
-L.M.H.                      0   0   0   0
-Osler House                 0   0   0   0
-St Catherine's              0   0   0   0
-St Hilda's                  0   0   0   0
-Somerville                  0   0   0   0
-Worcester                   0   0   0   0
-St Anne's                   0   0   0   0
-St Hugh's                   0   0   0   0
-Pembroke                    0   0   0   0
-Brasenose                   0   0   0   0
-Wadham                      0   0   0   0
+Jesus                      -2  -1  -1  -1
+L.M.H.                      1  -1  -1   0
+Osler House                 1   1   0   0
+St Catherine's              0   1   1   0
+St Hilda's                  0   0   1   0
+Somerville                  0   0  -1  -1
+Worcester                   0  -1   0   1
+St Anne's                  -2  -1  -2   1
+St Hugh's                   1   1   1   1
+Pembroke                    1   0   0   0
+Brasenose                   0   1   0   0
+Wadham                      0   0   1  -2
  12  Women's Div II
-Exeter                      0   0   0   0
-Wolfson                     0   0   0   0
-University                  0   0   0   0
-Keble                       0   0   0   0
-Hertford                    0   0   0   0
-Balliol                     0   0   0   0
-Trinity                     0   0   0   0
-Lincoln                     0   0   0   0
-Corpus Christi              0   0   0   0
-L.M.H. II                   0   0   0   0
-St Hugh's II                0   0   0   0
-Magdalen                    0   0   0   0
+Exeter                      0  -1   0  -2
+Wolfson                    -1   0  -2  -1
+University                  1   1   1   1
+Keble                       0  -2  -1   0
+Hertford                   -3   0  -1  -3
+Balliol                     1   1   1   1
+Trinity                     0   0   1   1
+Lincoln                     2   1   1   1
+Corpus Christi              0  -1  -1   1
+L.M.H. II                  -1  -2  -1  -1
+St Hugh's II                1   1   1   0
+Magdalen                   -1  -4  -2  -3
  13  Women's Div III
-St Hilda's II               0   0   0   0
-New College II              0   0   0   0
-Queen's                     0   0   0   0
-Christ Church               0   0   0   0
-Brasenose II                0   0   0   0
-St Hugh's III               0   0   0   0
-S.E.H.                      0   0   0   0
-St Hugh's IV                0   0   0   0
-Mansfield                   0   0   0   0
-St Hilda's III              0   0   0   0
-St Catherine's II           0   0   0   0
-Somerville II               0   0   0   0
-Merton                      0   0   0   0
+St Hilda's II               1   1   1   1
+New College II              0   2   0   1
+Queen's                     0   1   1   0
+Christ Church               0   1  -1   0
+Brasenose II                0   1   1   1
+St Hugh's III               0  -1   1   0
+S.E.H.                     -1   0   0   1
+St Hugh's IV                1   1   1   0
+Mansfield                   0   0   0   1
+St Hilda's III             -1  -2   1   0
+St Catherine's II           1   0   0   1
+Somerville II               0   1   0   0
+Merton                      0   1  -1   0
