@@ -71,7 +71,7 @@ Oriel III                  -1  -1  -1  -1
 St Antony's II              1   1   1  -1
 St Hilda's II              -3  -1  -1  -1
 Exeter II                  -1   0  -1  -1
-Chirst Church III           1   0   1   1
+Christ Church III           1   0   1   1
 St Benet's Hall             3   1   1   2
 University III              0   1   1   1
 Merton II                   0  -1   0   1

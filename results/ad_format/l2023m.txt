@@ -46,7 +46,7 @@ St Catharine's II          -1  -3   0   0
 Fitzwilliam II              1   1   0   0
 LMBC III                    0  -1   0   0
 Peterhouse II              -1   3   0   0
-Clare Hall II               1   1   0   0
+Clare Hall                  1   1   0   0
 Churchill II                0  -1   0   0
 Selwyn II                  -1   0   0   0
 Lucy Cavendish              1   1   0   0
