@@ -72,7 +72,7 @@ Keble III                   0   1   1   1
 University III              0  -1  -1   0
 Christ Church III          -1  -1   0   0
 Oriel III                   1   1   1   1
-Mansfield III              -1   0   0   0
+Mansfield II               -1   0   0   0
 Balliol III                 1   1   1   1
 Somerville II               0  -1  -1  -1
 Wolfson IV                 -1  -1  -1   0

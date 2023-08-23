@@ -51,7 +51,7 @@ Exeter II                   1  -1   1  -1
 Magdalen II                -6  -2   0   0
 Wadham II                   1   2   2   2
 University III              1  -1  -1   0
-Merton III                 -1  -1   0   0
+Merton II                  -1  -1   0   0
 Jesus II                   -3   1  -1   0
 Osler House                 3   1   2   2
 Keble III                  -2   1   1   0
