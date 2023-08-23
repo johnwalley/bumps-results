@@ -5,7 +5,7 @@ Year,2023
 
 Division,L,Ca,Pb,D,J,T,M,TH,K,R,Cl,SC,Q,Ph,E,L2,Cr
 Division,F,S,Cu,Ca2,G,SS,H,CC,HH,T2,Dw,Pb2,W,E2,J2,SE,Cl2
-Division,M2,D2,Q2,Cr2,TH2,SC2,F2,L3,Ph2,CH2,Cu2,S2,LC,G2,Ca3,E3,SS2
+Division,M2,D2,Q2,Cr2,TH2,SC2,F2,L3,Ph2,CH,Cu2,S2,LC,G2,Ca3,E3,SS2
 Division,W2,CC2,M3,J3,Q3,TH3
 
 Results
