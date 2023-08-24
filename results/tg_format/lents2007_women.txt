@@ -5,7 +5,7 @@ Year,2007
 
 Division,Cl,Ca,E,T,D,J,N,L,TH,G,Cu,S,Pb,Q,NH,F,Cr
 Division,R,K,SC,J2,Ph,SS,L2,Dw,M,CT,W,Ca2,E2,N2,SE,Pb2,CC
-Division,Q2,H,SC2,NH2,LC,G2,Cl2,CH,T2,D2,TH2,AR2,S2,Pb3,E3,T3,Cr2,Pb4
+Division,Q2,H,SC2,NH2,LC,G2,Cl2,CH,T2,D2,TH2,CT2,S2,Pb3,E3,T3,Cr2,Pb4
 
 Results
 rurruuuuuru uurururuuur rrururuuuurr

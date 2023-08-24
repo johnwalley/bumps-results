@@ -48,7 +48,7 @@ Clare Hall                 -1  -1  -1  -1
 1st and 3rd II              1   1   1   1
 Downing II                 -1  -1  -1  -1
 Trinity Hall II             1   1   0  -1
-Anglia Ruskin II           -1  -1  -1   0
+CCAT II                    -1  -1  -1   0
 Selwyn II                   1   1   1   1
 Pembroke III                0   1   1   1
 Emmanuel III                0  -1   0   0

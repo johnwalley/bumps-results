@@ -5,8 +5,8 @@ Year,2014
 
 Division,Ca,D,Q,T,J,L,Ph,Pb,Cr,G,Cl,TH,SC,K,R,S,M
 Division,Ca2,E,F,Cu,D2,H,T2,J2,L2,Q2,SS,Cr2,W,Pb2,Dw,CC,AR
-Division,HH,E2,SE,Ph2,S2,Cl2,SC2,Cu2,M2,T3,Ca4,Q3,CH,R2,L3,CC2,Dw2
-Division,Cu3,M3,L4,Pb4,SE2,W2
+Division,HH,E2,SE,Ph2,S2,Cl2,SC2,Cu2,M2,T3,Ca3,Q3,CH,R2,L3,CC2,Dw2
+Division,Cu3,M3,L4,Pb3,SE2,W2
 
 Results
 uurr ruro3uruo3uur uruurrrurrrru urrrurrrururu

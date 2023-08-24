@@ -51,7 +51,7 @@ Jesus III                  -1  -1  -1  -1
 Hughes Hall                 1   1   1   1
 Robinson II                -1  -1  -1  -1
 St Catharine's II           1   1   1   1
-Caius IV                   -1  -1   0   1
+Caius III                  -1  -1   0   1
 Girton II                   1   1   1   1
 LMBC III                    0   1   1   1
  18  Men's Div IV

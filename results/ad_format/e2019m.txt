@@ -62,7 +62,7 @@ Queen's II                  2   1   0   0
 St Benet's Hall             0   1   0   1
 Exeter II                   0   3   1   0
 St John's II                0  -1  -1   0
-Pembroke IV                -1  -1   0  -1
+Pembroke III               -1  -1   0  -1
 Wolfson III                 1   1   1   1
 L.M.H. II                   0   1   1   1
 Keble III                   0   0  -1  -1
