@@ -5,7 +5,7 @@ Year,2012
 
 Division,Ca,D,T,L,Q,Pb,TH,J,Ph,Cl,M,E,G,K,Cr,F,R
 Division,Cu,SC,S,Ca2,T2,D2,SS,J2,L2,W,Pb2,H,Q2,E2,CC,Cr2,SE
-Division,AR,M2,Dw,Ph2,Cu2,S2,T3,TH2,Cl2,K2,J3,HH,R2,SC2,Ca4,G2,L3
+Division,AR,M2,Dw,Ph2,Cu2,S2,T3,TH2,Cl2,K2,J3,HH,R2,SC2,Ca3,G2,L3
 Division,A,CH,F2,Q3,W2,E3,Pb3,SS2,Cr3,H2,Q4,D3,HH2,AR2,CC2,L4,G3,S3
 
 Results

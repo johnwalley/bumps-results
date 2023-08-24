@@ -5,7 +5,7 @@ Year,2013
 
 Division,D,E,T,Pb,J,Cl,Cr,Ca,Q,N,SC,TH,L,K,M,Ph,S
 Division,ME,Cu,G,L2,E2,SS,R,F,H,HH,T2,J2,Cr2,Pb2,N2,Ca2,SE
-Division,D2,Cl2,TH2,Dw,W,Ph2,SS2,ME2,CH,SC2,E3,Cu2,H2,ME3,K2,D2,Q2,Q3
+Division,D2,Cl2,TH2,Dw,W,Ph2,SS2,ME2,CH,SC2,E3,Cu2,H2,ME3,K2,Dw2,Q2,Q3
 
 Results
 ruuo3uruuurr ruururo3ururr uurururuurrr
