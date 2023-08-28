@@ -49,7 +49,7 @@ Sidney Sussex II           -1  -1  -1  -1
 Christ's II                 1   1   0  -1
 Trinity Hall II            -1  -1  -1  -1
 Girton II                   1   1   1   1
-Girton II                   0   1   1   0
+Homerton II                 0   1   1   0
 QMABC II                   -1  -1  -1   0
 St Catharine's II           1   0   1   1
 Girton III                  0   1   0   1
