@@ -1,0 +1,52 @@
+LENTS 2024
+ 4  3  47   = NDay, NDiv, NCrew
+ 17  Men's Div I
+LMBC                        0   0   0   0
+Caius                       0   0   0  -1
+Jesus                      -1  -1   0   0
+Downing                     1   0  -1   0
+Magdalene                   0   1   1   1
+Pembroke                   -1   0  -1  -1
+Trinity Hall                1   0   0   0
+Clare                       0   0   1   0
+1st and 3rd                 0   0  -1   0
+Queens'                     0  -1  -1  -1
+King's                     -1  -1  -1  -1
+Emmanuel                    1   1   1   1
+Robinson                    0   1   1   0
+LMBC II                    -1  -1  -1  -1
+St Catharine's              1   0   1   1
+Peterhouse                  0   1   0   1
+Caius II                   -1   0  -1  -1
+ 17  Men's Div II
+Christ's                   -1  -1   0   1
+Fitzwilliam                 2   0   1   0
+Churchill                  -1  -1   1   0
+Selwyn                      1   1   1   1
+Girton                     -1  -1   0   0
+Corpus Christi              1   1  -1  -1
+Hughes Hall                -1   0  -1   0
+Wolfson                     1   1   0   1
+Homerton                    0   0   1   0
+Pembroke II                 0  -1   1  -1
+Sidney Sussex              -1  -1  -1   0
+Emmanuel II                 1   1  -1   1
+Darwin                     -1  -1  -1  -1
+Jesus II                    1   1   0  -1
+1st and 3rd II             -1   0   1   0
+Downing II                  1   1   1   1
+Clare II                   -1  -1  -1  -1
+ 13  Men's Div III
+St Edmund's                 1  -1   0  -1
+Queens' II                 -1  -1   0   1
+Magdalene II                1   2   0   1
+Trinity Hall II            -1  -1  -1  -1
+Fitzwilliam II              1   1   1   1
+Christ's II                -1   0   1   0
+Peterhouse II               1   1   0   0
+Clare Hall                  0   0  -1  -1
+LMBC III                    0  -1  -1   0
+St Catharine's II          -1  -1   0   0
+Lucy Cavendish              1   1   1   1
+Churchill II               -1   0   0   0
+Selwyn II                   1   1   1   1
