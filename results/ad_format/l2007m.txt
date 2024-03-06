@@ -70,6 +70,6 @@ Pembroke III               -1  -1  -1  -1
 CCAT II                     1   0  -1  -1
 1st and 3rd V              -1   0   1   1
 Churchill III               1   1   1   1
-Girton II                  -1  -1   0   0
+Girton III                 -1  -1   0   0
 Homerton II                 1   0   0   1
 Christ's IV                 0   1   0   0
