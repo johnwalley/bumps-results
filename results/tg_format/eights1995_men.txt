@@ -5,11 +5,11 @@ Year,1995
 
 Division,O,P,SE,Ch,Br,B,U,Wt,Mg,SJ,K,N
 Division,Lc,J,Wh,SP,SC,E,H,T,O2,Wf,Ch2,Mt
-Division,LM,SAn,Q,N2,SE2,U2,Co,P2,L,Osler House,B2,Wt2
-Division,Osler House 2,O3,Mf,SHu,Mg2,K2,Br2,E2,SJ2,Lc2,SP2,H2
+Division,LM,SAn,Q,N2,SE2,U2,Co,P2,L,OH,B2,Wt2
+Division,OH2,O3,Mf,SHu,Mg2,K2,Br2,E2,SJ2,Lc2,SP2,H2
 Division,Wf2,SC2,J2,U3,K3,Wh2,LM2,Q2,B3,N3,Ch3,Mt2
 Division,Wt3,O4,P3,T2,O5,R,SE3,SC3,Mg3,E3,U4,N4
-Division,Mg4,SAn2,SJ3,Osler House 3,L2,SE4,Lc3,SB,SE5,Co2,Mt3,SE6
+Division,Mg4,SAn2,SJ3,OH3,L2,SE4,Lc3,SB,SE5,Co2,Mt3,SE6
 Division,SAt,Wh3,Mf2,Wf3,SJ4,S,S2,P4,E4,J3,SJ5,Mt4,Mt5
 
 Results

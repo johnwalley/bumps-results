@@ -3,12 +3,12 @@ Short,Eights
 Gender,Women
 Year,2013
 
-Division,P,Wh,SJ,B,H,SE,Ch,Mg,U,Mt,Osler House,K,O
+Division,P,Wh,SJ,B,H,SE,Ch,Mg,U,Mt,OH,K,O
 Division,Wf,SC,N,S,SAn,Wt,J,E,Lc,L,Mf,SHu,T
 Division,SHi,Q,LM,Wh2,Co,SP,Br,Ch2,Wf2,SJ2,SAt,H2,Mt2
 Division,Wt2,P2,L2,U2,Mg2,SHi2,Lc2,SE2,LM2,T2,B2,Lc3,N2
-Division,Green Templeton,O2,R,SAn2,SC2,Wh3,E2,Q2,H3,Wt3,Br2,U3,SJ3
-Division,Green Templeton 2,J2,Osler House 2,S2,P3,SP2,J3,E3,O3,Mg3,Green Templeton 3,SHu2,SAt2,SJ4
+Division,GT,O2,R,SAn2,SC2,Wh3,E2,Q2,H3,Wt3,Br2,U3,SJ3
+Division,GT2,J2,OH2,S2,P3,SP2,J3,E3,O3,Mg3,GT3,SHu2,SAt2,SJ4
 
 Results
 uuurruurr rururuurrr uurrruuru urrruuruu rurrrrruurr rrurruurur

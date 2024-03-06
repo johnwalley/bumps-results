@@ -6,9 +6,9 @@ Year,2014
 Division,SJ,Wh,SE,P,Mg,B,Ch,U,H,Mt,K,O,Wf
 Division,S,Wt,SC,J,N,E,SAn,Lc,L,T,Mf,Wh2,Q
 Division,SHu,Co,SHi,Br,LM,SJ2,Wf2,SAt,SP,P2,Ch2,L2,Wt2
-Division,H2,U2,Mt2,Lc2,Green Templeton,Mg2,T2,LM2,O2,Lc3,N2,SE2,B2
-Division,SC2,R,Wt3,SAn2,Br2,SJ3,Q2,Green Templeton 2,J2,J3,U3,S2,P3
-Division,SHu2,O3,Green Templeton 3,K2,Ch3,N3,Mf2,Co2,U4,K3,SHu3,U5,SAn3,SP2
+Division,H2,U2,Mt2,Lc2,GT,Mg2,T2,LM2,O2,Lc3,N2,SE2,B2
+Division,SC2,R,Wt3,SAn2,Br2,SJ3,Q2,GT2,J2,J3,U3,S2,P3
+Division,SHu2,O3,GT3,K2,Ch3,N3,Mf2,Co2,U4,K3,SHu3,U5,SAn3,SP2
 
 Results
 urururrrur uurruuurr ruuurrruu uuruururr urrurururr ruurruurrr

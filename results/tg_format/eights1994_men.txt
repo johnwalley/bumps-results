@@ -5,12 +5,12 @@ Year,1994
 
 Division,O,P,U,Ch,SE,Wt,B,Br,SJ,Mg,K,N
 Division,Wh,Lc,J,H,SP,SC,O2,E,Wf,LM,Q,T
-Division,Ch2,N2,U2,Mt,SAn,Co,P2,Wt2,SE2,O3,Osler House,Osler House 2
+Division,Ch2,N2,U2,Mt,SAn,Co,P2,Wt2,SE2,O3,OH,OH2
 Division,L,B2,SHu,Mf,E2,H2,K2,Br2,Lc2,SJ2,Mg2,SC2
 Division,U3,Wf2,SP2,Wh2,J2,N3,Q2,K3,Wt3,LM2,B3,O4
 Division,Ch3,T2,O5,SE3,P3,Mt2,E3,H3,N4,R,SC3,SJ3
-Division,U4,Mg3,SAn2,Mg4,Osler House 3,SHu2,SE4,O6,Mg5,L2,Ch4,SB
-Division,Templeton,SE5,Osler House 4,N5,Lc3,SP3,SE6,Co2,Mt3,SAt,Br3,Wh3,L3
+Division,U4,Mg3,SAn2,Mg4,OH3,SHu2,SE4,O6,Mg5,L2,Ch4,SB
+Division,Templeton,SE5,OH4,N5,Lc3,SP3,SE6,Co2,Mt3,SAt,Br3,Wh3,L3
 
 Results
 uue1e1e-2ro3ur ruurrrrurr uruuo3urr urururrru rruuurrrrr uuurrrurr rurrurue1e1e-2 rrrrrurrurr

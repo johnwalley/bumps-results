@@ -5,11 +5,11 @@ Year,2023
 
 Division,O,Ch,K,P,Wf,Wh,B,SE,SC,Mg,U,T
 Division,J,LM,N,Q,Mt,H,Lc,SHu,E,Mf,O2,Wt
-Division,Br,Ch2,S,Co,SP,SJ,P2,K2,L,SAn,Green Templeton,SAt
+Division,Br,Ch2,S,Co,SP,SJ,P2,K2,L,SAn,GT,SAt
 Division,U2,Wh2,N2,SE2,B2,Wf2,J2,SHi,SC2,Mg2,Lc2,R
-Division,Mt2,Q2,Br2,SP2,E2,H2,N3,Wf3,K3,LM2,O3,Osler House
-Division,Wt2,U3,Mf2,L2,O4,Wf4,O5,SHu2,Green Templeton 2,SHi2,E3,U4
-Division,N4,SHu3,SE3,SAt2,P3,L3,Co2,Q3,P4,SJ2,Green Templeton 3,SHu4,SP3
+Division,Mt2,Q2,Br2,SP2,E2,H2,N3,Wf3,K3,LM2,O3,OH
+Division,Wt2,U3,Mf2,L2,O4,Wf4,O5,SHu2,GT2,SHi2,E3,U4
+Division,N4,SHu3,SE3,SAt2,P3,L3,Co2,Q3,P4,SJ2,GT3,SHu4,SP3
 
 Results
 ruo3uuurr rurrrururr rruruurur rrrre1e1e-2rrrur uuuro3urr rrurrrruru ururuurrr

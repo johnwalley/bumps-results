@@ -3,7 +3,7 @@ Short,Eights
 Gender,Women
 Year,1985
 
-Division,SHu,Osler House,LM,SHu2,SC,SHi,J,S,Wt,SAn,Co,P
+Division,SHu,OH,LM,SHu2,SC,SHi,J,S,Wt,SAn,Co,P
 Division,Wh,K,N,Br,Wf,LM2,L,Lc,H,B,U,T
 Division,Ch,S2,SHi2,SE,Q,SHu3,Br2,SC2,J2,T2,Mf,Mg
 Division,SHu4,Mt,SHi3,J3,K2,SJ,Wf2,N2,SP,SAn2,SHi4,Lc2

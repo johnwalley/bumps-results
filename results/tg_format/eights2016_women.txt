@@ -4,10 +4,10 @@ Gender,Women
 Year,2016
 
 Division,Wh,P,Mg,U,SJ,Ch,SE,K,B,Wf,N,H,S
-Division,Wt,O,J,Lc,Mt,T,SAn,SHu,Osler House,Mf,SC,L,E
-Division,Br,Co,Wh2,LM,SHi,Wf2,SP,Q,Wt2,SAt,Green Templeton,SJ2,U2
+Division,Wt,O,J,Lc,Mt,T,SAn,SHu,OH,Mf,SC,L,E
+Division,Br,Co,Wh2,LM,SHi,Wf2,SP,Q,Wt2,SAt,GT,SJ2,U2
 Division,L2,P2,Mg2,H2,T2,Ch2,O2,Lc2,N2,R,B2,SHi2,Lc3
-Division,Green Templeton 2,J2,LM2,S2,Br2,SHu2,SJ3,K2,Q2,Mf2,Wf3,SP2,SHu3
+Division,GT2,J2,LM2,S2,Br2,SHu2,SJ3,K2,Q2,Mf2,Wf3,SP2,SHu3
 Division,P3,O3,U3,L3,Wf4,E2,Mg3,Ch3,N3,SAn2,SAt2,P4,Wh3,B3
 
 Results

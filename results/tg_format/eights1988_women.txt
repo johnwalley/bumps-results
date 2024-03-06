@@ -3,11 +3,11 @@ Short,Eights
 Gender,Women
 Year,1988
 
-Division,S,SHu,Osler House,Wh,SHi,LM,SAn,P,SHu2,Co,Br,K
+Division,S,SHu,OH,Wh,SHi,LM,SAn,P,SHu2,Co,Br,K
 Division,Wf,N,SC,J,Wt,H,U,Lc,Ch,SE,Q,B
 Division,L,SHu3,S2,T,LM2,SJ,Mg,SP,Br2,SHi2,SHu4,SC2
 Division,N2,Mt,Mf,J2,Wh2,Wf2,O,H2,E,Co2,O2,U2
-Division,S3,Q2,Lc2,SJ2,Osler House 2,SAn2,SC3,U3,S4,Mg2,N3,O3,J3
+Division,S3,Q2,Lc2,SJ2,OH2,SAn2,SC3,U3,S4,Mg2,N3,O3,J3
 
 Results
 ururrruur ruruuuur urrururur ruruuruu uuruurur

@@ -4,15 +4,15 @@ Gender,Men
 Year,1980
 
 Division,O,SE,K,B,Ch,Lc,E,N,Mg,P,Mt,U
-Division,Wh,Wt,Q,Co,T,SJ,Ch2,Osler House,J,SC,SP,K2
+Division,Wh,Wt,Q,Co,T,SJ,Ch2,OH,J,SC,SP,K2
 Division,O2,SE2,Br,H,Mt2,U2,B2,Lc2,P2,Mf,Q2,Wf
 Division,E2,Wh2,N2,Wt2,Ch3,SJ2,SE3,Br2,SP2,O3,K3,B3
 Division,Mg2,J2,K4,H2,SC2,E3,O4,U3,Mt3,Ch4,P3,Co2
 Division,SE4,Lc3,SP3,T2,Wh3,U4,Q3,R,SC3,L,SJ3,N3
-Division,Mg3,P4,SJ4,Osler House 2,K5,Wt3,Q4,J3,Lc4,Wt4,L2,Br3
+Division,Mg3,P4,SJ4,OH2,K5,Wt3,Q4,J3,Lc4,Wt4,L2,Br3
 Division,O5,Lc5,Ch5,Q5,SC4,LM,Co3,J4,B4,Co4,P5,Wf2
 Division,SP4,Mf2,O6,Wt5,P6,SP5,B5,K6,Wf3,U5,SJ5,K7
-Division,K8,H3,T3,Osler House 3,Lc6,Wt6,Mt4,SC5,Q6,Wh4,LM2,E4,N4
+Division,K8,H3,T3,OH3,Lc6,Wt6,Mt4,SC5,Q6,Wh4,LM2,E4,N4
 
 Results
 ruuuuurr urruurrru urrurrurrr rurrrururr urururuu ruurrre1e1e1e-3r rrrurrrrurr rrrrururur rrurrrrrurr o3uurruur

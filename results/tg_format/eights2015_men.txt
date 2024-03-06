@@ -6,8 +6,8 @@ Year,2015
 Division,O,P,Ch,Mg,T,U,Wf,B,SC,K,Wt,SE,Wh
 Division,H,N,Lc,SJ,Br,LM,SAn,Mf,SP,J,O2,E,P2
 Division,Ch2,Co,S,Q,SHu,Mt,N2,Mg2,L,Wh2,SE2,U2,T2
-Division,B2,SAt,K2,J2,Wt2,Br2,SC2,Green Templeton,Wf2,Osler House,Mt2,H2,E2
-Division,Lc2,SJ2,SHi,SP2,R,Ch3,J3,SAn2,Wf3,P3,Wh3,Green Templeton 2,Q2
+Division,B2,SAt,K2,J2,Wt2,Br2,SC2,GT,Wf2,OH,Mt2,H2,E2
+Division,Lc2,SJ2,SHi,SP2,R,Ch3,J3,SAn2,Wf3,P3,Wh3,GT2,Q2
 Division,SB,U3,LM2,O3,T3,Wf4,SE3,SHu2,N3,P4,Mg3,SJ3,Mf2
 Division,L2,H3,K3,Mt3,K4,O4,K5,Q3,SAt2,B3,Mf3,N4,J4,Q4
 

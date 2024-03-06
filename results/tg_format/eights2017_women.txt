@@ -5,8 +5,8 @@ Year,2017
 
 Division,Wh,P,U,Mg,Ch,K,Wf,H,SJ,B,SE,N,O
 Division,Lc,J,S,SAn,Wt,Mf,T,SC,Mt,L,SHu,LM,E
-Division,Wf2,Co,SHi,Br,SAt,Wh2,Green Templeton,SP,Q,U2,P2,Wt2,Mg2
-Division,SJ2,Ch2,Lc2,L2,R,H2,N2,O2,Green Templeton 2,B2,Lc3,SHi2,Br2
+Division,Wf2,Co,SHi,Br,SAt,Wh2,GT,SP,Q,U2,P2,Wt2,Mg2
+Division,SJ2,Ch2,Lc2,L2,R,H2,N2,O2,GT2,B2,Lc3,SHi2,Br2
 Division,J2,SHu2,LM2,Wf3,Mf2,K2,S2,P3,SP2,Mg3,O3,SAt2,E2
 Division,Wh3,B3,SAn2,P4,SC2,Co2,LM3,Co3,K3,Wt3,J3,S3,SE2
 

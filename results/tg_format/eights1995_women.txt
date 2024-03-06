@@ -3,10 +3,10 @@ Short,Eights
 Gender,Women
 Year,1995
 
-Division,Osler House,N,P,S,SHi,Br,U,SC,J,Wh,SAn,O
+Division,OH,N,P,S,SHi,Br,U,SC,J,Wh,SAn,O
 Division,Ch,Wf,K,SE,LM,Mg,H,SHu,Wt,SJ,S2,L
-Division,Lc,Mt,B,T,N2,E,Q,Co,P2,SP,Osler House 2,SHu2
-Division,Mf,SHi2,LM2,Ch2,U2,Wh2,K2,R,SJ2,Osler House 3,Wt2,SE2
+Division,Lc,Mt,B,T,N2,E,Q,Co,P2,SP,OH2,SHu2
+Division,Mf,SHi2,LM2,Ch2,U2,Wh2,K2,R,SJ2,OH3,Wt2,SE2
 Division,SC2,L2,N3,Mt2,E2,Br2,SP2,SJ3,Wf2,Westminster,SHi3,SJ4,Wh3
 
 Results

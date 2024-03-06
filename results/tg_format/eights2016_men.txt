@@ -6,7 +6,7 @@ Year,2016
 Division,O,Ch,P,Mg,Wf,K,T,U,SE,B,Wh,N,H
 Division,Wt,SC,Br,LM,Mf,Lc,J,SJ,O2,P2,SAn,Q,SP
 Division,E,SHu,Ch2,Co,N2,Mt,S,SAt,L,U2,Wh2,Mg2,B2
-Division,T2,SE2,K2,J2,Osler House,Br2,Wf2,Wt2,H2,SC2,SJ2,Green Templeton,SHi
+Division,T2,SE2,K2,J2,OH,Br2,Wf2,Wt2,H2,SC2,SJ2,GT,SHi
 Division,Mt2,Lc2,E2,SP2,Wf3,R,P3,J3,Q2,SB,SAn2,U3,Wh3
 Division,S2,O3,LM2,SE3,Mf2,K3,P4,N3,L2,SJ3,SHu2,H3,Mt3
 Division,B3,K4,J4,Mf3,SAt2,U4,Co2,LM3,Lc3,SHi2,SC3,SAt3,B4,Co3

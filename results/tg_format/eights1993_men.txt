@@ -5,12 +5,12 @@ Year,1993
 
 Division,O,P,U,Ch,SE,B,SJ,N,Wt,Br,Mg,J
 Division,K,Wh,Lc,H,SC,O2,Wf,LM,SP,E,U2,Q
-Division,T,Ch2,N2,Co,SAn,Mt,O3,Osler House,Wt2,B2,P2,SE2
-Division,Mf,L,Osler House 2,Br2,SHu,H2,SJ2,E2,K2,Mg2,SC2,Wf2
+Division,T,Ch2,N2,Co,SAn,Mt,O3,OH,Wt2,B2,P2,SE2
+Division,Mf,L,OH2,Br2,SHu,H2,SJ2,E2,K2,Mg2,SC2,Wf2
 Division,U3,Lc2,J2,SP2,Wh2,Q2,K3,N3,Wt3,T2,Ch3,LM2
 Division,O4,B3,SE3,Mt2,O5,P3,E3,H3,SC3,N4,U4,R
-Division,SJ3,SAn2,K4,Mg3,Mg4,SHu2,Osler House 3,O6,Mg5,SE4,E4,J3
-Division,SAn3,L2,SC4,Ch4,LM3,U5,SE5,SB,SJ4,Templeton,Osler House 4,SE6,N5
+Division,SJ3,SAn2,K4,Mg3,Mg4,SHu2,OH3,O6,Mg5,SE4,E4,J3
+Division,SAn3,L2,SC4,Ch4,LM3,U5,SE5,SB,SJ4,Templeton,OH4,SE6,N5
 
 Results
 rrruurrrrrr ruurrrrrur ruurrruru o3ururruu urrrururu rruurrurrr rururrrrrrr urrurrrrrrr

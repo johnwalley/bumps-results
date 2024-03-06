@@ -4,10 +4,10 @@ Gender,Men
 Year,1988
 
 Division,O,N,U,Ch,Wt,SE,P,K,B,Lc,Wh,Mg
-Division,SJ,T,Q,H,E,SC,O2,Br,J,Osler House,N2,Wf
+Division,SJ,T,Q,H,E,SC,O2,Br,J,OH,N2,Wf
 Division,SP,Ch2,Co,U2,LM,Mt,O3,SE2,Lc2,Mf,K2,H2
 Division,E2,Wt2,SJ2,P2,SC2,Br2,B2,Mg2,SAn,Wh2,Q2,T2
-Division,L,K3,Wt3,Ch3,Osler House 2,Mt2,N3,J2,Mt3,B3,SP2,U3
+Division,L,K3,Wt3,Ch3,OH2,Mt2,N3,J2,Mt3,B3,SP2,U3
 Division,Lc3,Wf2,E3,O4,U4,SE3,K4,LM2,SJ3,O5,Ch4,P3
 Division,H3,Co2,N4,SC3,R,SC4,Q3,T3,SAn2,Wh3,Mf2,O6
 Division,Br3,Wt4,H4,SE4,Templeton,SJ4,E4,LM3,B4,Mg3,J3,U5
