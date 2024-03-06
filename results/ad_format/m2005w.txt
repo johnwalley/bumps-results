@@ -73,7 +73,7 @@ King's II                   0   1   0  -1
 Clare III                  -1  -1  -1  -1
 Fitzwilliam II              1   0   1   1
  9  Women's Div V
-Peterhouse III             -3  -1  -1  -1
+Peterhouse II              -3  -1  -1  -1
 St Catharine's III         -1   0  -1  -1
 Jesus IV                    1   2   0   1
 LMBC IV                     3  -1   1   0

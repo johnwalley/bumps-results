@@ -5,8 +5,8 @@ Year,2020
 
 Division,N,J,E,D,L,T,Pb,Cl,TH,Cr,Cu,ME,Ca,G,F,SC,Q
 Division,K,Dw,H,LC,Ph,SS,J2,S,E2,R,HH,M,W,Cl2,CC,N2,Q2
-Division,L2,SE,D2,SC2,Pb2,Cr2,Ca2,TH2,J3,Dw2,N3,E3,CH,H2,Cl3,Queen's 3,AR
-Division,M2,SS2,D3,CC2,TH,F2
+Division,L2,SE,D2,SC2,Pb2,Cr2,Ca2,TH2,J3,Dw2,N3,E3,CH,H2,Cl3,Q3,AR
+Division,M2,SS2,D3,CC2,TH3,F2
 
 Results
 ruru urururuuuur rrrururrururu ruuuurruruu
