@@ -5,12 +5,12 @@ Year,1992
 
 Division,U,O,Ch,P,SJ,N,SE,B,Wt,Br,J,K
 Division,Wh,H,Mg,Lc,Wf,SC,LM,O2,U2,SP,T,Q
-Division,N2,Ch2,E,Co,Mt,Osler House,B2,SAn,SE2,O3,Mf,Wt2
-Division,L,H2,P2,Br2,Osler House 2,SJ2,E2,K2,SHu,Lc2,Wf2,SC2
+Division,N2,Ch2,E,Co,Mt,OH,B2,SAn,SE2,O3,Mf,Wt2
+Division,L,H2,P2,Br2,OH2,SJ2,E2,K2,SHu,Lc2,Wf2,SC2
 Division,Mg2,J2,Wh2,Q2,U3,N3,T2,SP2,B3,K3,Ch3,LM2
 Division,Mt2,Wt3,SE3,SC3,E3,O4,Lc3,U4,O5,H3,P3,K4
 Division,R,N4,Wt4,SJ3,Wh3,SAn2,P4,Mg3,Mg4,J3,SE4,O6
-Division,SHu2,Osler House 3,Mg5,SP3,E4,SAn3,E5,Mf2,Br3,Lc4,SAt,K5,Mf3
+Division,SHu2,OH3,Mg5,SP3,E4,SAn3,E5,Mf2,Br3,Lc4,SAt,K5,Mf3
 
 Results
 rue1e1e-2urrrrr o3uruuuu uue4ue2e-1e-5ru uruururrr uuurruur rrruuurur rrurrrurur rrrururuu

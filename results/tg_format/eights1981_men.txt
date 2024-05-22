@@ -4,14 +4,14 @@ Gender,Men
 Year,1981
 
 Division,O,K,Ch,SE,B,Lc,Mg,E,Wh,N,P,U
-Division,Wt,Co,Mt,Q,T,SJ,Ch2,Osler House,SP,K2,J,O2
+Division,Wt,Co,Mt,Q,T,SJ,Ch2,OH,SP,K2,J,O2
 Division,SC,Br,H,SE2,U2,P2,B2,Mf,Mt2,Wf,Lc2,Q2
 Division,Wh2,Ch3,E2,Wt2,SJ2,O3,N2,SE3,K3,K4,Br2,SP2
 Division,H2,B3,SC2,Mg2,U3,E3,J2,Mt3,O4,Co2,Ch4,T2
-Division,P3,Lc3,Q3,SE4,U4,SP3,L,Wh3,SJ3,R,Mg3,Osler House 2
+Division,P3,Lc3,Q3,SE4,U4,SP3,L,Wh3,SJ3,R,Mg3,OH2
 Division,LM,Wt3,Br3,Wh4,Lc4,O5,SAn,LM2,H3,B4,Q4,Wt4
 Division,LM3,N3,Wt5,SJ4,SC3,SB,B5,U5,L2,P4,T3,Wt6
-Division,H4,SC4,O6,Wf2,SP4,SC5,Ch5,U6,J3,Osler House 3,Ch6,J4,O7
+Division,H4,SC4,O6,Wf2,SP4,SC5,Ch5,U6,J3,OH3,Ch6,J4,O7
 
 Results
 rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr urrure2e-1e-1ru rrururrurr uurrruurr uururrrru ruurrruur ure2e-1e-1rurrrr

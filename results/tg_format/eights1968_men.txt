@@ -10,7 +10,7 @@ Division,K3,Q2,P2,Mg2,Br2,T2,Lc3,Ch3,H2,SP2,SE4,U3
 Division,B3,K4,Wt3,SC2,Wh2,J2,O3,Br3,Mt3,Mg3,Q3,Ch4
 Division,SJ3,P3,Co2,SE5,SE6,U4,Mf,N3,E3,SJ4,Wt4,K5
 Division,SC3,P4,T3,Lc4,Co3,O4,K6,H3,SE7,U5,Wh3,Mg4
-Division,O5,B4,J3,Mf2,SP3,B5,J4,O6,Osler House,H4,Ch5,Ch6
+Division,O5,B4,J3,Mf2,SP3,B5,J4,O6,OH,H4,Ch5,Ch6
 
 Results
 ruo3uuur uuruuurr ruruurrur rurrurrurr urro3uuru o3urruuru uruuruur rrurrrrrrrrr

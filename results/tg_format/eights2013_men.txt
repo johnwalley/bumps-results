@@ -7,8 +7,8 @@ Division,O,P,Ch,Wf,U,B,Mg,H,SC,SE,Wh,T,SJ
 Division,K,Wt,Lc,N,LM,SAn,E,Ch2,J,Br,SP,Mf,Q
 Division,P2,O2,S,Mt,SHu,N2,Co,L,SE2,SAt,Wh2,Mg2,B2
 Division,U2,K2,T2,SC2,E2,Wt2,Wf2,J2,Mt2,Br2,SP2,Lc2,SJ2
-Division,Ch3,H2,Green Templeton,Osler House,R,Q2,SB,SHi,SAn2,J3,Wh3,P3,LM2
-Division,Wh4,SJ3,Wf3,Green Templeton 2,S2,T3,U3,SHu2,N3,SHi2,SAt2,Br3,SHu3
+Division,Ch3,H2,GT,OH,R,Q2,SB,SHi,SAn2,J3,Wh3,P3,LM2
+Division,Wh4,SJ3,Wf3,GT2,S2,T3,U3,SHu2,N3,SHi2,SAt2,Br3,SHu3
 Division,O3,Mg3,S3,Wf4,N4,SJ4,Mg4,O4,Wt3,SE3,P4,SAt3,Wt4,Co2
 
 Results

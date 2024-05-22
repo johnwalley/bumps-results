@@ -1,0 +1,51 @@
+LENTS 2024
+ 4  3  46   = NDay, NDiv, NCrew
+ 17  Women's Div I
+Jesus                       0   0   0   0
+Emmanuel                    0  -1  -1  -1
+Newnham                    -1  -1  -1  -1
+LMBC                        1   1   0  -1
+Downing                    -1   0   1   1
+Caius                       1   1   1   1
+Trinity Hall                0  -1   1   1
+Pembroke                   -1  -1  -1   0
+1st and 3rd                 1   1  -1  -1
+Churchill                  -1   0   1   0
+Clare                       1   1   0   1
+Fitzwilliam                 0  -1  -3  -1
+Christ's                   -1   0  -1   0
+Sidney Sussex               1   1   0   0
+Queens'                     0  -1   3  -1
+Peterhouse                 -1   0  -1   0
+St Catharine's              1   1   1   1
+ 17  Women's Div II
+Darwin                     -1  -1  -1   0
+King's                      1   0  -1  -1
+Homerton                    0   1   2   1
+Selwyn                      0   0   1   1
+Murray Edwards              0  -1  -1   0
+Magdalene                   0   1   0  -1
+Girton                     -1   0  -1  -1
+Corpus Christi              1   0   1   1
+Lucy Cavendish             -1   1   1   0
+Newnham II                  1  -1  -1  -1
+Robinson                   -1  -1  -1  -1
+Jesus II                    1   0   1   1
+Hughes Hall                -1   0   1   0
+Emmanuel II                 1   1   0   1
+LMBC II                     0  -1   0  -1
+Queens' II                 -1  -1  -1  -1
+Wolfson                     1   1   0   1
+ 12  Women's Div III
+Downing II                 -1  -1  -1  -1
+Pembroke II                 1   1  -1   0
+Caius II                    0   1   2   1
+Clare II                    0  -1  -1  -1
+Emmanuel III               -1  -1  -1  -1
+Christ's II                 1   1   1   1
+St Edmund's                -1  -1   0   1
+Trinity Hall II             1   1   1   1
+St Catharine's II          -1   0  -1  -1
+Clare Hall                  1   1   1   1
+Addenbrooke's               0   0   1   0
+Anglia Ruskin               0   0   0   1

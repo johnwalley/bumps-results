@@ -45,7 +45,7 @@ Clare II                    0   1   1   0
 Peterhouse II              -1  -1   1   0
 Trinity Hall II             1   0   1   1
 Sidney Sussex II            0   1  -1   0
-Clare Hall II              -1  -1  -1   0
+Clare Hall                 -1  -1  -1   0
 Girton II                   1   0   0   0
 Hughes Hall II              0   1   0  -1
 Murray Edwards II           0   0   1   1

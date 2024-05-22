@@ -79,7 +79,7 @@ Selwyn III                 -1  -1  -1  -1
 Christ's III                1  -3   1   0
 Jesus IV                    0   1  -3   1
 Pembroke IV                -1  -1   0  -1
-Caius V                     1   3   1   2
+Caius IV                    1   3   1   2
 Trinity Hall III            0   1   3   1
 LMBC IV                    -1   1  -1   0
 Clare IV                    1  -1   1   1

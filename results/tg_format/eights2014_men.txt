@@ -6,9 +6,9 @@ Year,2014
 Division,P,Ch,O,U,Wf,Mg,SC,T,B,Wt,H,SE,K
 Division,Wh,Lc,SJ,SAn,N,Br,LM,E,Mf,J,Ch2,S,SP
 Division,P2,O2,Co,Q,Mt,SHu,N2,SE2,L,U2,SAt,Mg2,T2
-Division,Wh2,B2,SC2,Wt2,K2,Wf2,Mt2,J2,Br2,Lc2,Green Templeton,H2,SP2
-Division,Osler House,SJ2,SHi,Ch3,P3,R,SAn2,J3,Wh3,Q2,SB,Wf3,S2
-Division,LM2,T3,U3,Green Templeton 2,SHu2,O3,N3,SHi2,Wf4,Br3,SHu3,Mg3,SE3
+Division,Wh2,B2,SC2,Wt2,K2,Wf2,Mt2,J2,Br2,Lc2,GT,H2,SP2
+Division,OH,SJ2,SHi,Ch3,P3,R,SAn2,J3,Wh3,Q2,SB,Wf3,S2
+Division,LM2,T3,U3,GT2,SHu2,O3,N3,SHi2,Wf4,Br3,SHu3,Mg3,SE3
 Division,SJ3,P4,Mg4,Co2,H3,Mf2,K3,L2,U4,T4,SAn3,K4,Mt3,S3
 
 Results

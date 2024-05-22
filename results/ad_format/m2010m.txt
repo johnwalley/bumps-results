@@ -87,11 +87,11 @@ Caius IV                    0   1   1   0
 Sidney Sussex III           0  -1  -1  -1
 King's III                 -1  -1  -1  -1
 Pembroke IV                 1   1   1   1
-LMBC VI                    -1  -1  -1   0
+LMBC V                     -1  -1  -1   0
 Hughes Hall II              1   1   1   1
 Fitzwilliam III             0   1   1   1
  18  Men's Div VI
-LMBC V                     -1   0   0  -1
+LMBC VI                    -1   0   0  -1
 Pembroke V                  1   0   1   1
 Queens' IV                  0   0  -1   0
 Christ's V                  0  -1   0   0

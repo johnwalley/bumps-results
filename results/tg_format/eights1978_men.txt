@@ -4,14 +4,14 @@ Gender,Men
 Year,1978
 
 Division,K,O,Ch,B,SE,U,N,Wh,Lc,Mg,Mt,SJ
-Division,E,Wt,Co,T,Ch2,P,Q,SC,J,Br,SP,Osler House
+Division,E,Wt,Co,T,Ch2,P,Q,SC,J,Br,SP,OH
 Division,O2,B2,U2,K2,SE2,P2,N2,H,E2,Q2,Lc2,Mt2
 Division,Wf,Wh2,SP2,Br2,SJ2,SE3,Mf,Wt2,Ch3,B3,Mg2,O3
 Division,U3,J2,SC2,H2,K3,E3,Co2,K4,P3,O4,SE4,Mt3
 Division,SP3,T2,Lc3,Ch4,Wh3,J3,Q3,SJ3,SC3,U4,SE5,N3
-Division,H3,O5,R,Br3,Wt3,Osler House 2,B4,Mg3,T3,K5,L,SE6
-Division,E4,Wf2,O6,SB,Q4,SC4,Co3,Ch5,Osler House 3,Q5,E5,Co4
-Division,Q6,Wt4,K6,Wf3,O7,Osler House 4,P4,Manchester,L2,H4,Wt5,E6
+Division,H3,O5,R,Br3,Wt3,OH2,B4,Mg3,T3,K5,L,SE6
+Division,E4,Wf2,O6,SB,Q4,SC4,Co3,Ch5,OH3,Q5,E5,Co4
+Division,Q6,Wt4,K6,Wf3,O7,OH4,P4,Manchester,L2,H4,Wt5,E6
 Division,P5,Q7,Mf2,Ch6,Mg4,U5,SJ4,L3,Lc4,Q8,Ch7,Wt6,P6
 
 Results

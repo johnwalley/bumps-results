@@ -82,7 +82,7 @@ Corpus Christi III         -1  -1  -1  -1
 Pembroke III                1   1   1   1
 Darwin III                 -1  -1  -1  -1
 Churchill III               1   1   1   1
-Clare V                    -1  -1  -1   0
+Clare IV                   -1  -1  -1   0
 Emmanuel IV                 1   1   1   1
 St Catharine's IV          -1  -1   0  -1
 Homerton III                1   1   1   1

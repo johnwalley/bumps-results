@@ -4,13 +4,13 @@ Gender,Men
 Year,1979
 
 Division,O,K,SE,N,B,Ch,Mt,Lc,U,E,Wh,Mg
-Division,Wt,P,SJ,Co,T,Q,Ch2,J,SC,SP,O2,Osler House
+Division,Wt,P,SJ,Co,T,Q,Ch2,J,SC,SP,O2,OH
 Division,Br,K2,SE2,U2,B2,P2,H,Mt2,E2,Q2,N2,Lc2
 Division,Wf,Mf,SJ2,Wh2,Ch3,SP2,Wt2,SE3,Br2,K3,Mg2,B3
 Division,O3,H2,E3,U3,J2,SC2,K4,Co2,O4,Mt3,SP3,Ch4
 Division,P3,SE4,Q3,T2,SC3,Lc3,SJ3,Wh3,U4,J3,R,N3
-Division,L,E4,Ch5,Wt3,Osler House 2,Lc4,U5,Ch6,O5,Q4,SC4,P4
-Division,E5,H3,B4,SC5,Co3,Osler House 3,Mf2,Lc5,Wt4,Q5,Co4,O6
+Division,L,E4,Ch5,Wt3,OH2,Lc4,U5,Ch6,O5,Q4,SC4,P4
+Division,E5,H3,B4,SC5,Co3,OH3,Mf2,Lc5,Wt4,Q5,Co4,O6
 Division,Q6,L2,Wh4,T3,P5,Wf2,H4,Lc6,SE5,Wt5,Wh5,SC6
 Division,SJ4,SP4,Mt4,K5,SE6,Wf3,P6,Mt5,SE7,L3,O7,Br3,K6
 

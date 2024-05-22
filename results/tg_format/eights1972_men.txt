@@ -9,9 +9,9 @@ Division,Co,N2,O2,SJ2,H,U2,B2,SE3,Q2,P2,Br2,SC2
 Division,Ch3,Mt2,Wh2,Lc2,E2,H2,K3,B3,SP2,Mt3,U3,T2
 Division,Wt2,Mg2,P3,Lc3,Ch4,Br3,Co2,Wt3,J2,K4,SE4,E3
 Division,O3,SJ3,Mf,K5,Mg3,U4,Wh3,O4,J3,SE5,SJ4,Q3
-Division,H3,Osler House,SE6,SC3,K6,SP3,Co3,P4,B4,Lc4,J4,U5
+Division,H3,OH,SE6,SC3,K6,SP3,Co3,P4,B4,Lc4,J4,U5
 Division,Wt4,T3,SP4,Ch5,Wh4,O5,L,H4,Wf,R,B5,SJ5
-Division,E4,P5,Mt4,Osler House 2,N3,U6,Ch6,K7,Mf2,N4,Q4,Lc5,Wh5,SJ6
+Division,E4,P5,Mt4,OH2,N3,U6,Ch6,K7,Mf2,N4,Q4,Lc5,Wh5,SJ6
 
 Results
 ruuurro3ur rurururur urrruuuu o3uurruru ruruue1e1e1e-3r uururuur urrururru uro3uruur uuururrrr

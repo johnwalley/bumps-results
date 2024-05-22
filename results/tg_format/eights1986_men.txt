@@ -4,13 +4,13 @@ Gender,Men
 Year,1986
 
 Division,Ch,N,O,U,SE,Mg,Lc,P,Wt,K,T,B
-Division,E,SJ,J,Wh,Osler House,Q,O2,Br,SC,K2,H,Co
+Division,E,SJ,J,Wh,OH,Q,O2,Br,SC,K2,H,Co
 Division,Wf,SP,Mt,U2,Ch2,N2,Lc2,SE2,P2,LM,Mf,E2
 Division,SJ2,O3,Wt2,B2,H2,SC2,Br2,Mg2,Wh2,Mt2,K3,Ch3
 Division,SAn,T2,B3,J2,U3,Q2,L,E3,Wt3,Mt3,Lc3,SE3
-Division,Osler House 2,SP2,P3,N3,Ch4,O4,K4,Co2,Wf2,U4,LM2,Lc4
+Division,OH2,SP2,P3,N3,Ch4,O4,K4,Co2,Wf2,U4,LM2,Lc4
 Division,K5,O5,Q3,Br3,SP3,SJ3,H3,SB,SC3,Co3,N4,SC4
-Division,SAn2,Wf3,Wh3,O6,Osler House 3,Mf2,SE4,Wh4,R,SJ4,T3,N5
+Division,SAn2,Wf3,Wh3,O6,OH3,Mf2,SE4,Wh4,R,SJ4,T3,N5
 Division,Q4,T4,B4,H4,N6,Mg3,Wt4,Templeton,O7,K6,SP4,N7,U5
 
 Results

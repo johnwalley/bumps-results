@@ -3,10 +3,10 @@ Short,Eights
 Gender,Women
 Year,1994
 
-Division,S,Osler House,P,Br,U,N,Wh,O,SHi,SC,Wf,J
+Division,S,OH,P,Br,U,N,Wh,O,SHi,SC,Wf,J
 Division,Ch,LM,SAn,K,SHu,Mg,SJ,SE,S2,Lc,H,T
-Division,Wt,Mt,Co,E,B,L,SP,SHu2,N2,Q,P2,Osler House 2
-Division,SHi2,LM2,O2,Mf,S3,Ch2,U2,Wh2,J2,SJ2,Osler House 3,K2
+Division,Wt,Mt,Co,E,B,L,SP,SHu2,N2,Q,P2,OH2
+Division,SHi2,LM2,O2,Mf,S3,Ch2,U2,Wh2,J2,SJ2,OH3,K2
 Division,SE2,SAt,Wt2,R,H2,B2,SC2,S4,L2,N3,Mt2,Mf2,SAn2
 
 Results

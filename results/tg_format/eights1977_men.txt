@@ -5,12 +5,12 @@ Year,1977
 
 Division,O,K,Ch,U,B,Mg,SE,SJ,Wh,Lc,N,Wt
 Division,Mt,Ch2,E,Q,Co,T,J,Br,O2,P,SP,SC
-Division,B2,U2,P2,Osler House,N2,K2,SE2,H,Q2,Mt2,Lc2,Wf
+Division,B2,U2,P2,OH,N2,K2,SE2,H,Q2,Mt2,Lc2,Wf
 Division,E2,Wh2,SE3,Br2,SP2,Ch3,Mg2,SJ2,U3,Mf,Wt2,SC2
 Division,H2,B3,J2,O3,P3,Co2,K3,E3,Mt3,O4,T2,K4
 Division,Ch4,SE4,J3,SJ3,SP3,Lc3,SE5,Wh3,Q3,H3,SC3,Br3
-Division,O5,Mg3,U4,Wt3,R,N3,K5,Osler House 2,SE6,P4,B4,Co3
-Division,Wh4,T3,L,Lc4,Wf2,Ch5,E4,J4,B5,H4,O6,Osler House 3
+Division,O5,Mg3,U4,Wt3,R,N3,K5,OH2,SE6,P4,B4,Co3
+Division,Wh4,T3,L,Lc4,Wf2,Ch5,E4,J4,B5,H4,O6,OH3
 Division,Q4,SP4,P5,Wt4,SJ4,Wf3,U5,SC4,U6,Mt4,Mf2,SJ5
 Division,Wt5,Mg4,Wt6,K6,Wh5,L2,K7,O7,U7,P6,H5,U8,SB
 

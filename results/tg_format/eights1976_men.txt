@@ -5,11 +5,11 @@ Year,1976
 
 Division,Ch,O,B,K,Mg,U,SE,SJ,Wh,N,Wt,Mt
 Division,Lc,Q,J,Ch2,Br,E,Co,P,O2,T,SP,SC
-Division,B2,N2,SE2,P2,Osler House,U2,K2,Q2,H,Lc2,Wh2,E2
+Division,B2,N2,SE2,P2,OH,U2,K2,Q2,H,Lc2,Wh2,E2
 Division,SE3,Ch3,Mt2,SJ2,Wf,Br2,U3,SP2,H2,Mg2,Wt2,J2
 Division,P3,Mf,SC2,Co2,B3,O3,K3,T2,Ch4,Mt3,K4,E3
 Division,SJ3,O4,J3,Lc3,SE4,Wh3,SP3,Br3,Q3,SE5,Mg3,H3
-Division,U4,Wt3,SC3,K5,O5,SE6,T3,R,B4,Wh4,Osler House 2,Lc4
+Division,U4,Wt3,SC3,K5,O5,SE6,T3,R,B4,Wh4,OH2,Lc4
 Division,P4,Co3,N3,L,Ch5,J4,H4,Mf2,Wf2,Mt4,E4,O6
 Division,B5,N4,U5,K6,SP4,Q4,Co4,U6,O7,K7,E5,H5,P5
 Division,U7,Wt4,B6,Ch6,Mt5,Wh5,Br4,H6,SE7,SC4,Mf3,SJ4,Wf3
