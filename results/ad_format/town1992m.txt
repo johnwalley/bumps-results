@@ -34,7 +34,7 @@ Leckhampton 1               1   1   1   1
 Barclays Bank 1             0   1   0  -3
 Cantabs 5                  -1   1  -1  -1
  15  Men's Div III
-Cavendish Lab 1            -1  -1  -1  -1
+Cavendish Lab 2            -1  -1  -1  -1
 Maximum Entropy 2           2  -1   1   1
 Rob Roy 5                   0   1   0   4
 Touche Ross 1               0   0   1   0

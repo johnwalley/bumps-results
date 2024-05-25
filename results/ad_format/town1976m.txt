@@ -29,7 +29,7 @@ Leckhampton 2              -1   0   1  -1
 Scouts 2                    1   0  -1   1
 99 5                        3   1   0   1
 Churchill 2                 0   1   0   0
-Cantabs 5                   0   0   1   0
+Cantabs 3                   0   0   1   0
 ACUA 2                      0  -1  -1  -1
 City 4                     -1   0   1   0
 Peterhouse 1                1   1   0   1
