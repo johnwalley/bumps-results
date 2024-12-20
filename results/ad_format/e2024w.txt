@@ -1,0 +1,83 @@
+EIGHTS 2024
+ 4  7  74   = NDay, NDiv, NCrew
+ 12  Women's Div I
+Christ Church               0   0   0   0
+S.E.H.                     -1   0  -1   0
+University                  1   0   0   0
+Oriel                      -1  -1  -1   0
+Wadham                      1   0   1   0
+Pembroke                    0   1   0   0
+Wolfson                     0   0   1   0
+Keble                       0   0  -1   0
+Magdalen                    0  -1   0   0
+Jesus                      -1   0  -1   0
+Balliol                     1   1   1   0
+St Anne's                  -1  -1   0   0
+ 12  Women's Div II
+St John's                  -1   2   1   0
+New College                 2  -1   0   0
+Green Templeton             0   0  -1   0
+Hertford                   -1  -1  -1   0
+Lincoln                     1   0   1   0
+Trinity                    -3  -1  -1   0
+St Catherine's             -1   0  -1   0
+Exeter                      1   0   1   0
+Linacre                     3   1   0   0
+Mansfield                   0   1   1   0
+L.M.H.                      0   0   1   0
+Somerville                  0   0  -1   0
+ 12  Women's Div III
+St Peter's                  0   0  -1   0
+Brasenose                   0  -1  -1   0
+Wolfson II                 -1  -1  -1   0
+Merton                      1   1   2   0
+Corpus Christi             -1  -1  -1   0
+Worcester                   1   1   1   0
+Queen's                     0   1   1   0
+St Hugh's                  -1  -1  -1   0
+St Antony's                 1   0   1   0
+Christ Church II           -1  -1   0   0
+University II               1   1   0   0
+St Hilda's                  0   1   1   0
+ 12  Women's Div IV
+Magdalen II                 0   0   0   0
+Lincoln II                 -1  -1  -1   0
+Linacre II                  1   0  -1   0
+Green Templeton II         -1  -1  -1   0
+Pembroke II                 1   1   1   0
+Oriel II                    0   1   1   0
+Wadham II                   0   0   1   0
+St John's II                0  -1  -1   0
+Brasenose II               -1   0   1   0
+Worcester II                1   1   0   0
+Wolfson III                 0   0   0   0
+St Hugh's II                0  -1  -1   0
+ 12  Women's Div V
+Hertford II                 0   1  -1   0
+New College II              0  -1  -1   0
+Jesus II                   -1   0   1   0
+Keble II                    1   1   2   0
+Balliol II                  0  -1  -1   0
+Somerville II              -1  -1  -1   0
+S.E.H. II                   1   1   0   0
+Mansfield II               -3   1   0   0
+St Antony's II             -1  -1  -1   0
+St Peter's II               1   0   1   0
+Reuben                      3   1   1   0
+Exeter II                   0  -1   0   0
+ 7  Women's Div VI
+Queen's II                  0  -1   0   0
+Oriel III                  -1  -1  -1  -1
+Merton II                   1   2   1   0
+St Hilda's II               0   1   0   0
+St Peter's III             -1   1   1   0
+S.E.H. III                  1  -1  -1   0
+L.M.H. II                   0   0   1   1
+ 7  Women's Div VII
+Pembroke III               -1   0   1   0
+Oriel IV                    1   0  -1  -1
+Worcester III               0  -1   0   0
+Exeter III                 -1   0  -1   0
+St Anne's II                1   1   0   1
+New College III            -1   0   0   0
+Brasenose III               1   0   1   0

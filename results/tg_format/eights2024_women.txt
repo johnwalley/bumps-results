@@ -1,0 +1,18 @@
+Set,Summer Eights
+Short,Eights
+Gender,Women
+Year,2024
+
+Division,Ch,SE,U,O,Wh,P,Wf,K,Mg,J,B,SAn
+Division,SJ,N,GT,H,Lc,T,SC,E,L,Mf,LM,S
+Division,SP,Br,Wf2,Mt,Co,Wt,Q,SHu,SAt,Ch2,U2,SHi
+Division,Mg2,Lc2,L2,GT2,P2,O2,Wh2,SJ2,Br2,Wt2,Wf3,SHu2
+Division,H2,N2,J2,K2,B2,S2,SE2,Mf2,SAt2,SP2,Reuben,E2
+Division,Q2,O3,Mt2,SHi2,SP3,SE3,LM2
+Division,P3,O4,Wt3,E3,SAn2,N3,Br3
+
+Results
+uuru rrurur rro3uururr rrrurrruur rruuruurr rrrro3uuru uurrrruur
+rrrurr rruuu uuruurur urruruurr ruuruuur rrrurrurru ururrurrrr
+rurru ruurrr ruruuruu ururuuur rruruuuu uuuururr ruruururr
+rrrrur rrurrrr 
