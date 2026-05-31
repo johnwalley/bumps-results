@@ -1,0 +1,18 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1986
+
+Division,O,K,P,O2,Ch,E,Br,Lc,Q,Wt,J,SC
+Division,SE,N,U,Wh,B,Mg,H,SJ,T,OH,Wf,K2
+Division,SP,E2,Ch2,Wt2,Lc2,O3,Co,LM,Mf,U2,Mt,P2
+Division,SAn,SE2,Br2,SC2,B2,N2,SJ2,Q2,H2,Wh2,Wt3,E3
+Division,SJ3,J2,O4,Wf2,R,J3,K3,O5,LM2,L,Wh3,SB
+Division,Q3,T2,Br3,O6,Ch3,SP2,SC3,Mg2,T3,Mt2,N3,H3
+Division,K4,LM3,H4,Lc3,N4,Wh4,N5,SE3,Mt3,U3,Ch4,R2,Mg3
+
+Results
+w2uw2uru w3rrrw3u uruw2w2u urruw2w2r rw3rrw2ur rw2uuruu w2ururrrrr
+rrrruw2urr rw6uur ruw2w2rw2 rurw2w2w2 uw2ruurrr rrrrruurru rururrurrr
+t t t t t t t
+e2e2e2e-2e1e1e-6urur e2re1e1e2e2e-6e-2w2u rw2w4uu urrw3w2u w2rw2uurr e1e1e1e2re1e1e1e2re1e-11r rrurrururr

@@ -1,0 +1,18 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,2003
+
+Division,O,P,E,Ch,N,SC,Mg,Wt,Lc,Wh,Br,LM
+Division,Q,SJ,SP,O2,T,U,J,SE,Mt,H,K,SAn
+Division,Mf,P2,B,S,Wf,Ch2,Br2,Lc2,Co,E2,B2,L
+Division,OG,Mg2,N2,Wh2,SHu,SJ2,SE2,SAn2,U2,SC2,H2,J2
+Division,K2,T2,P3,Wt2,Q2,Mt2,L2,SP2,SB,Wf2,U3,Mg3
+Division,S2,Lc3,L3,Lc4,Mf2,Mf3,T3,Wt3,Wh3,SE3,SHu2,SP3,SHu3
+
+Results
+ue2re1e1e1e1e1e1e-8u e1e2re1e-4ururrr rrrw2urrru e1e2re1e-4uruur rrw2e2re1e1e-4rrr e2re1e1e1e1e2re1e1e1e-11r
+rrurw2rurr w2ruururr w4e3ue1e1e1e-6r w2w2rrre2re1e-3 urw2re1e2re-3rr uruw2w2rr
+rrrrrrw6 w4e2re1e1e-4w2 e2e2e2e-2e1e-5ue1e2re-3r w3w3rrw2 e2re1e-3urruw2 rw2ururrrr
+t t t t t t
+

@@ -1,0 +1,14 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1929
+
+Division,B,Mg,U,Ch,Mt,B2,Lc,N,Wt,Br
+Division,Wh,Co,E,K,H,P,N2,SJ,Q,SC
+Division,O,U2,T,SE,Ch2,Wh2,Mg2,E2,Br2,O2,J,K2
+
+Results
+rrrruurrrr ruurrrrrr rrruurur
+rrrrrrrrrrrr uurrruu uuurrrrr
+rrurrrrrrrr rurrurur ruuurrrr
+rrrrurrrrrr rrrruurrr uuurrrrr

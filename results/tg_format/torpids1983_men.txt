@@ -1,0 +1,18 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1983
+
+Division,O,K,Wt,E,Ch,B,SE,Lc,P,Q,U,O2
+Division,N,H,Wh,Br,SC,J,Co,T,Mg,OH,Mt,SP
+Division,SJ,Ch2,K2,P2,Mf,Wh2,Lc2,E2,Wf,O3,Wt2,Q2
+Division,U2,J2,SE2,Br2,B2,SJ2,K3,R,N2,SC2,O4,SP2
+Division,Wf2,E3,Co2,Q3,SJ3,O5,OH2,H2,LM,SP3,K4,SAn
+Division,Wh3,Wt3,T2,U3,P3,N3,SE3,Mg2,U4,E4,O6,T3
+Division,SB,O7,L,SAn2,T4,LM2,SC3,Ch3,B3,SC4,K5,SE4
+
+Results
+rw2e2re-2urrr rw3w2w2u rrrre2re1e1e-4urr uw2rrw2rrr uw4rrw2r ururrrrrrrr rurrrurrrrr
+rrre2re-2ruru ruurre2re-2rrr e2e2e-1e2re1e1e-7uw2 w3uuw2rr e1e2re1e1e1e1e-7uur rururrrurr rruururrrr
+rw2rurrw2 w2uw2ruu e2re3ue-5w2urr w4uurur ururw2rw2 uw2urrrrrr rrre1e2re1e1e-5rrrr
+rrrure2re-2rrr e1e2re1e1e1e1e1e1e1e1e-11r e1e1e2re1e1e-6w2ur rrw2rruuu urrw2uuu e2re1e1e1e-5rrrrur rruw2rrrrrr

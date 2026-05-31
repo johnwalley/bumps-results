@@ -1,0 +1,17 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1912
+Days,6
+
+Division,B,N,Ch,T,Mg,U,O,SJ,Mg2,Br
+Division,B2,Co,P,Ch2,N2,H,K,Lc,Mt,E
+Division,Wt,SJ2,J,Q,U2,SE,Wh,Br2,Ch3,T2,K2
+
+Results
+ruuuurr rrrruruu rrrururrr
+urruuru urururrr uuururr
+rurrrrrrrr rrurrrrur rurrurur
+rrrrrrrrrrr ruurruu uurruru
+urrrrrrrrr uuuuru ruurrurr
+rrrrrrrrru ruurrrur uuurrur

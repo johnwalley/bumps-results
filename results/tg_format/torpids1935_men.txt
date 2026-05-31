@@ -1,0 +1,18 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1935
+Days,6
+
+Division,Mg,Ch,N,U,B,B2,SE,Wt,K,Co,Mt,O,E
+Division,Wh,Br,SJ,P,T,Mg2,SC,J,Lc,Q,SP,U2,N2
+Division,K2,Br2,H,SJ2,E2,Ch2,Wh2,Q2,O2,Mt2,N3,SP2,H2
+Division,B3,Wt2,Mg3,SE2,Co2,Mt3
+
+Results
+rruu uururrrrru ruurururu rrruuuuur
+rrrur rruuurrurr uurururur rrruruuuu
+rrrru ruuuurrur rururrrruu urrurrruur
+rrurr uurururru rrrurrrruur ruuurrrurr
+ruru rurrurruur urrrrrrurru uuuuurrrr
+rrrrrr uuuurrurr rrrrrrurrrrrr ruurrurrrrr

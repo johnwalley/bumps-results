@@ -1,0 +1,17 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1946
+Days,6
+
+Division,SE,P,N,Mg,T,SJ,B,E,U,Co,Ch,Wt
+Division,Mt,Br,H,J,O,Wh,K,SP,Lc,Q,SC,SJ2
+Division,B2,SE2,E2,Br2,Ch2,SP2,Q2,Mg2,K2,J2
+
+Results
+uurrurr rrurruuru uurrrurur
+ruuuur ruurururr ruurrrrurr
+rururru uurrrurrrr uuurrurrr
+rurrrrrrr rurrruurrr ruuuuurr
+rrrrrrrrrr rruruuurr rruuurrur
+rrrrrrrrrr rrrruuuur rrrrruurru

@@ -1,0 +1,17 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,2011
+
+Division,Ch,P,Mg,B,SC,O,H,SJ,Wh,Wt,LM,N
+Division,E,Wf,T,U,SE,SAn,J,Br,SP,P2,Lc,SHu
+Division,Q,K,Mt,S,Ch2,E2,Wh2,Mf,L,N2,T2,Co
+Division,Mg2,J2,B2,H2,SAt,LM2,SJ2,U2,Lc2,P3,SP2,Wt2
+Division,Wh3,SE2,O2,K2,R,SAn2,Wf2,SC2,T3,SB,Mt2,E3
+Division,Br2,SHu2,Wt3,SHi,Wh4,B3,GT,T4,Q2,Ch3,B4,Mt3,L2
+
+Results
+ue1e2re1e1e-5uw2 uw2uurur w3urrurrr e1e2re-3w2rrrrrr rrrrw2ruru urrrurrrrrr
+rue2re1e1e2re1e1e1e-9 e2o3e1e2e3o3re2e1e1e-12 urrrurre2re-2r e1e2re2re-5urrrrr e2re2e2e-1e1e1e1e-8rru re2re-2rrrrrrrrr
+rrurrrrrrru e2re1e-3w2rw3r re2re-2rruuru uruurrrrrr uurw2rurr rrrurrrrrrrr
+w2urrue2re1e-3 rrrue2e2e-1e-3w3 urrrrrrrrur rururrrrru rrrrrrrrurrr rrrruuurrr

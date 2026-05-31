@@ -1,0 +1,17 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1923
+Days,6
+
+Division,Wt,Mg,Ch,N,B,Br,N2,Mt,U,Co,Mg2
+Division,SJ,T,B2,Q,Wh,Ch2,P,K,Lc,O,E
+Division,SJ2,Br2,H,Wh2,Wt2,J,SC,Ch3,SE,Lc2,Mg3
+
+Results
+rrurruru rrrrrurrrrr urrurrrru
+rurrurur rrrrurrrru ruurrrrrrr
+rrrrrrruu rrrurruur uuurrrrrr
+rrrrrruur rrururuu rurrrurrrr
+urrrurru rurrrurur uuruurrr
+urrururr urrrrruru ruururur

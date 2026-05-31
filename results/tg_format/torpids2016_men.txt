@@ -1,0 +1,17 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,2016
+
+Division,P,O,Mg,Ch,Wf,Wh,H,T,SC,Wt,B,N
+Division,SJ,Lc,SAn,P2,SE,J,Br,U,LM,Q,Mt,Mf
+Division,S,Ch2,E,K,Co,O2,SP,B2,L,SHu,N2,SAt
+Division,Wh2,Wf2,SJ2,T2,J2,H2,GT,U2,K2,Wh3,SC2,Br2
+Division,Mg2,Wt2,Lc2,P3,T3,SE2,R,SHu2,SJ3,SHi,Mf2,Wf3
+Division,E2,Mt2,LM2,B3,Wf4,SJ4,K3,SAt2,O3,Ch3,SE3,Co2,B4
+
+Results
+rre2re-2uurru e2e2e-1e1e-4w4ur uw3uuru w2e1e1e1e2re1e1e1e-8r rw2rurrurr w3rrrrrrrrr
+w2ruue2re1e1e-4 uw3w4rr rurre2re1e-3uu rw2e2re1e-3uur uuuuuur rrw3rrurrr
+urrruurru w2w3uw2r ue2re2re1e1e1e-7ur uw2rurrru uw2rruuu urrrrrurrrr
+w2ruuuru rw2w3uw2 e2re2re-4rrre2e2e-1e1e-4 ruuuurrrr ruruuuur rurrrrrrrrrr

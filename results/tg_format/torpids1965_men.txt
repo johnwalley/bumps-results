@@ -1,0 +1,19 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1965
+
+Division,SE,Ch,B,SJ,Mg,Lc
+Division,O,K,N,Wt,U,E,Mt,Q,Wh
+Division,H,SP,P,Br,T,J,Ch2,Co,SC
+Division,K2,U2,B2,SJ2,SE2,N2,SE3,Lc2,Wt2
+Division,E2,H2,P2,SC2,Mg2,Mf,SJ3
+
+Results
+ue3e-1e2e-2e-2 ruurw3 rrrrurrrr rrruurrr rrrurr
+d(7.9.9.9.6)
+re2e-1e-1rr re2re-2rw2rr ruururr rrrrrurrr rurrrrr
+d(8.9.9.9.5)
+rrrrr re2e-1e-1rrrrrr rrrrrrrrrr rurw2ur rrrurrrr
+d(9.9.9.9.4)
+rrrr rrrrrrrrrr rrrrrrrrrr rrrrrrurr rrrrrrrrrr

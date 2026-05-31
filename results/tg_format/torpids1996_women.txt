@@ -1,0 +1,15 @@
+Set,Torpids
+Short,Torpids
+Gender,Women
+Year,1996
+
+Division,OG,N,S,Wh,SC,Ch,P,O,U,LM,SHi,Wt
+Division,T,SAn,Br,SJ,J,Wf,Lc,H,SE,S2,Q,Mt
+Division,Mg,B,L,E,OG2,SP,Wh2,N2,SHu,P2,LM2,Mf
+Division,Co,Ch2,H2,Mg2,SC2,R,Wf2,Mt2,SE2,B2,Lc2,SC3,O2
+
+Results
+w3e1e1e1e2re1e-6rr e1e2re1e1e-5re1e1e2re1e-5 w3rruw3r rrw2ruw2rr
+urure1e2re1e1e-5r rrruurruu rw3e2re1e-3rur urrrrrrrrrrr
+w2w3rrw3 urw2uuur rw4w3ru uruurrurr
+w3rrrruur re2re-2rurw2rr uw4rw3r re2re-2urrrrur

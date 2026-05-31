@@ -1,0 +1,14 @@
+Set,Torpids
+Short,Torpids
+Gender,Women
+Year,2001
+
+Division,N,SC,U,P,S,LM,Lc,Mt,Ch,Wf,SJ,O
+Division,SE,Q,T,B,J,SHi,Mg,SP,SAn,Br,H,Wt
+Division,E,L,SAt,Mt2,Wf2,S2
+
+Results
+t re2e-1e-1uw2uu w2re1e2e-2e-1e2re-2u
+rruu w4ue2re-2ur re1e2re-3rw2rrrr
+rrrur re2re1e1e-4uruu uuw2w2rrr
+rrrw2 e2re1e1e1e1e-6ruur rurrurrurr

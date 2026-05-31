@@ -1,0 +1,15 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1949
+
+Division,Ch,T,N,Br,B,Mg,SJ,SE,U,Co,P,Wt
+Division,O,Lc,Wh,E,SP,Mt,J,K,B2,N2,SC,Q
+Division,Br2,H,Ch2,SE2,E2,K2,P2,T2,SP2,Lc2,SJ2,Mt2
+Division,U2,O2,SC2,J2,Wh2,N3,Mg2,B3,Ch3,Wt2,Q2,Br3,J3,K3
+
+Results
+rruurrrrrrrr ruurruurr ururrrurrr rrurururrr
+rrruurrrrrrr uuuurrru rruruurrrr ruururrur
+rrurrurrrrrr ruuuruur rurrururrr uuururru
+rrrrururrrrr uuururrrr urrrruruu rrruururrr
