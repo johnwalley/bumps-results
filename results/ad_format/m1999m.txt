@@ -4,20 +4,20 @@ MAYS 1999
 Caius                       0   0   0   0
 Jesus                       0   0   0   0
 1st and 3rd                 0   0   0   0
-Downing                     0  -1   0   0
+Downing                     0  -1   0  -1
 LMBC                        0   1   0   0
-Queens'                    -1  -1  -1   0
-Pembroke                    1   0  -1   1
+Queens'                    -1  -1  -1  -1
+Pembroke                    1   0  -1   0
 Trinity Hall               -1   0   1   0
-Emmanuel                    1   1   1  -1
-Magdalene                  -1  -1  -1   1
-Churchill                   1   0  -1   1
-Robinson                   -1  -1  -1   1
-Fitzwilliam                 1   1   1  -1
-Christ's                    0   1   1  -1
+Emmanuel                    1   1   1   1
+Magdalene                  -1  -1  -1  -1
+Churchill                   1   0  -1  -1
+Robinson                   -1  -1  -1   0
+Fitzwilliam                 1   1   1   1
+Christ's                    0   1   1   1
 St Catharine's              0  -1   0   0
 Sidney Sussex              -1  -1  -1  -1
-Peterhouse                  1   1   1  -1
+Peterhouse                  1   1   1   1
  17  Men's Div II
 Clare                       0  -1   1   0
 LMBC II                    -1  -1  -1  -1
