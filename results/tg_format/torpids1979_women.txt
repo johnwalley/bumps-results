@@ -1,0 +1,16 @@
+Set,Torpids
+Short,Torpids
+Gender,Women
+Year,1979
+
+Division,H,J,Wh,LM,Br,SAn,S
+Division,SC,Wf,SHu,L,SC2,LM2,L2,SHi,H2,LM3
+
+Results
+rre1e2e-2e-1rw2 e2e2e-2e1e-3e2e-1e-1
+d(8.9)
+rro3rrrrr w2w2ur
+d(9.8)
+rrrre2re1e-3 e2e3e1e-2e-4urrr
+d(10.7)
+rrue2e-1e-1 w2re1e2e-2e-1rrr

@@ -1,0 +1,16 @@
+Set,Torpids
+Short,Torpids
+Gender,Women
+Year,1989
+
+Division,OH,S,LM,SHu,Wh,U,SC,SHu2,N,Br,P,K
+Division,SAn,J,Wt,SHi,Wf,B,Ch,T,Lc,Co,S2,H
+Division,Q,E,SJ,SE,SP,N2,Mg,SHu3,SHi2,O,OH2,H2
+Division,Wh2,L,Mf,T2,S3,Mt,LM2,Wf2,E2,Mg2,Wt2,SAn2
+Division,O2,SAn3,SHi3,SC2,K2,J2,Ch2,LM3,Q2,Wh3,B2,LM4,E3
+
+Results
+rw2ue2re-2rur e2e2e-1e1e-4ururrr e1e1e1e2re1e-6urur rw2e1e1e2re2re1e-7r w5rrurrr
+w2uruuw2 uuuruurr w4uuuu uw2e1e2re1e1e1e1e-7 rrurrrrrurr
+re1e1e1e2re-5ruur rurrrrrurrr rw2urw2e2re-2 w2w2urrru e2re1e-3uurrrrr
+rurrruruu e2re1e-3rruw4 w4e1e1e1e1e2re-6r rw2w2rrrrrr rruururrrr

@@ -1,0 +1,18 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1991
+
+Division,Ch,Br,N,O,O2,H,B,SC,U,Mg,P,SE
+Division,K,Lc,T,Wt,LM,Wf,J,SJ,SP,Wh,Q,E
+Division,Mt,U2,N2,Ch2,SC2,SAn,OH,O3,Br2,H2,Mf,Wt2
+Division,Lc2,Co,K2,B2,Wf2,P2,SE2,E2,Q2,Wt3,SJ2,L
+Division,J2,Wh2,LM2,Q3,O4,H3,SHu,N3,K3,R,Mg2,T2
+Division,O5,SAn2,SJ3,E3,SP2,Lc3,Co2,U3,Ch3,Br3,Templeton,N4
+Division,SHu2,O6,Wf3,B3,SE3,B4,Mt2,SHu3,Wt4,OH2,LM3,Ch4,SHu4
+
+Results
+rrw5ue2re-2 urw2rrrurr uruw2uw2 w3uruurr uuuw2urr urrrure2re-2rr rruurrrurr
+rrrrrrrw3u e1e2e2e-1e1e2re-7rw3 w5e2e2e-1e1e-4u uurrw3w2 w2uuurur ruurw2rur rrruurrrur
+rrruure1e2re1e-4 e2re-2e2re-2e2re2re1e1e-6 w4urw2rr w6rruu re2re1e1e-4urrru urrrrrrruu urruurrrrr
+e2e2e-1e1e-4re2re-2uu e2e2e-1e1e1e1e-6ruru rrw3urrur rruurrrrur uw2urrrrrr rrurururrr w6urrrr

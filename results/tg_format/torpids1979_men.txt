@@ -1,0 +1,21 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1979
+
+Division,O,K,B,Ch,U,Wt,N
+Division,Lc,T,E,SE,O2,Q,Wh,Mt,Mg,J
+Division,SJ,Br,SC,SP,Co,OH,P,Wf,Q2,H
+Division,K2,U2,Lc2,P2,J2,SP2,Ch2,SJ2,SE2,Q3
+Division,O3,E2,Mt2,Mf,SC2,R,O4,N2,Co2,O5
+Division,Wh2,Co3,L,T2,Br2,Wf2,B2,Wt2,E3,H2
+Division,K3,Mf2,E4,Wt3,Q4,OH2,Ch3,Lc3,Q5,L2,K4
+
+Results
+rrurw2rrr rre1e1e2re2e-5e1e-2r e1e2e-2e-1e1e2re2e-4e-1r e1e4re3e-1e-1e-6e1e2e-2e-1 e2e2e-2e-2e1e3e-2e-1e1e1e-3 re1e2e-2e-1e2re1e1e-4r rrw2ur
+d(8.10.10.10.10.10.10)
+urruw3 e1e2re-3e1e3e-2re-2u e2re2e-3e-1rrrrrr e2e-1e-1e1e4e-2re-2e-1u ruw2ruu ruuw2rrr e2e2e-1e-3urrr
+d(9.10.10.10.10.10.9)
+rrre2e-1e1e-2rr urrw3ru w2e2e-1e1e-2urr ure3e-1e2e-2e3ue-5 e2e-1e-1ure1e2e-2e-1r re2e-1e1e-2uuu rrrw2rrrr
+d(10.10.10.10.10.10.8)
+rrurrrr uw3uru e2e-1e1e1e-3rrurr e2e-1e1e1e-3urw2 ruurrrur e2e-1e-1rw2urr e1e2e2e-1e-4uurr

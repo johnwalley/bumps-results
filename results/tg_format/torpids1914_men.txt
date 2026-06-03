@@ -1,0 +1,17 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1914
+Days,6
+
+Division,Mg,SJ,Ch,B,Mg2,T,N,N2,Br,Ch2
+Division,P,Co,SJ2,U,Wt,O,K,E,Q,B2
+Division,Mt,H,Wh,Lc,J,SE,SC,Br2,K2,Ch3,T2
+
+Results
+uurruur ururruu rururrur
+rrrrurrru rurrruur rrrrrrrrrrr
+rrrurrrrrr rrrurruu uurrrrrrr
+rruururr rrrrrurur ruurrurr
+rurrurrrr rrrruuru uurrrrru
+rrrrurrur urrruuu ruururrr
