@@ -125,7 +125,7 @@ A value of -99 means the crew did not race that day and has dropped out of the e
 
 ## tg_format
 
-A format devised by Tim Granger. See his [Bumps Chart Generation](http://www.mcshane.org/bumps/create.html) page for the original description.
+A format devised by Tim Granger. See the [readme](https://github.com/mcshane-fire/bumps/blob/master/readme.txt) in his [bumps](https://github.com/mcshane-fire/bumps) repository for the original description.
 
 Here is an example
 
@@ -144,26 +144,62 @@ Here is an example
     rrruurruurr rruruuururur uruuuruuurr
     rrrruurrurrr rruuuuruuru rruuuurrrrrrrr
 
-The first four lines describe the event. Then comes the starting order for each division. Finally we have the results for each day.
+The file has three sections:
 
-Results start with the bottom crew in each division (the sandwich crew for all but the lowest division).
+1. Metadata about the racing
+1. The starting order for each division
+1. The results from racing
 
-| Entry | Explanation            |
-| ----- | ---------------------- |
-| r     | rowed over             |
-| u     | bumped up one place    |
-| o3    | overbumped up 3 places |
-| e-2   | moved down 2 places    |
+### Metadata
 
-A crew which has been (over)bumped down does not need an entry as it is implied by the entry for the crew which bumped up.
+A set of `<keyword>,<value>` pairs, one per line. Only `Days` is optional and defaults to 4 if omitted.
 
-Crews are typically represented by an [abbreviation](abbreviations.txt).
+| Keyword | Value                                          |
+| ------- | ---------------------------------------------- |
+| Set     | Name of the series of bumps racing             |
+| Short   | Short version of the name above                |
+| Gender  | `Men` or `Women`                               |
+| Year    | Year of racing                                 |
+| Days    | Number of days of racing (optional, default 4) |
+
+### Divisions
+
+One line per division, starting with `Division,` followed by a comma separated list of crew names.
+
+Crew names can be written out in full or given as short codes. A short code is the club [abbreviation](abbreviations.txt) followed by an optional number (if omitted it defaults to 1). Different sets of abbreviations apply depending on the `Set` name in the metadata.
+
+Crews from the same club must appear in the correct numerical order. A crew which does not follow this ordering can have a `*` after its number to suppress the numbering error.
+
+### Results
+
+This section starts with the keyword `Results`, followed by a set of result codes separated by commas or line breaks. Anything starting with a `#` character is treated as a comment and discarded, as is any unrecognised code.
+
+Results are given for each day in order. Within a day, divisions are given in reverse order, the lowest division first. Within a division, results start with the bottom crew and proceed towards the top. For every division apart from the bottom division, the first result code is for the sandwich crew.
+
+If there are not enough results for all days of racing then all subsequent divisions are assumed not to have been raced.
+
+| Code       | Explanation                                                                                                                      |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| `r`        | Crew remained level for the day, likely rowing over                                                                              |
+| `u`        | Crew bumped up one place, and the crew above went down one place                                                                 |
+| `o<num>`   | Crew overbumped up `<num>` places, exchanging positions with the crew starting `<num>` places above                              |
+| `t`        | Skips over all crews remaining in the current division, e.g. to indicate the division did not race                               |
+| `x`        | Crew withdraws from racing this and following days. Division size is reduced by one on following days                            |
+| `e<num>`   | Crew goes up `<num>` places. `<num>` can be negative for a crew going down                                                        |
+| `v<num>`   | As `e<num>`, but the crew is shown with a lighter line to indicate they did not race that day                                    |
+| `w<num>`   | The next `<num>` crews all went up by one, and the next crew went down `<num>` places                                            |
+| `d(1.2.3)` | The division sizes change for the next day. Inside the parentheses is a dot separated list of division sizes                     |
+| `p`        | The next crew with an `e` or `v` code receives a penalty bump after the `e`/`v` code has been applied                            |
+
+For codes `u`, `o` and `w`, which give the results for multiple crews, no codes are included for the other crews involved.
+
+For ease of reading, codes from each division are typically separated by a space, and results from each day are on a separate line.
 
 ## Acknowledgements
 
 Results based on charts produced by:
 
-* [Bumps Charts Archive](http://www.mcshane.org/bumps/)
+* [Tim Granger's Bumps Charts](https://github.com/mcshane-fire/bumps)
 * [Cambridgeshire Rowing Association](http://www.crarowing.co.uk/town-bumps/about-the-cra-town-bumps/results/historic-bumps-results)
 * [History of the Cantabrigian Rowing Club 1950-2010](http://www.cantabsrowing.org.uk/history-of-the-cantabrigian-rowing-club-1950-2010/)
 * [Oxford University Rowing Clubs](http://www.ourcs.co.uk/)
