@@ -1,0 +1,15 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1833 March
+Days,5
+Flags,skip_headship
+
+Division,1st Trinity (Black Prince),Cl,L,Q,J,Cr,St. John's 'Tally-Ho',2nd Trinity (Queen Bess),SC,L2,Ca,,
+
+Results
+v0v0ururrrrrr
+ruuruuur
+e1e1e1xurrurrr
+xrurururr
+rrrro3urrr

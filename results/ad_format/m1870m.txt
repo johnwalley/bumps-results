@@ -1,0 +1,45 @@
+MAYS 1870 May June
+ 6  3  40   = NDay, NDiv, NCrew
+ 14  Men's Div I
+1st Trinity                 0   0   0   0   0   0
+LMBC                        0   0   0   0   0   0
+3rd Trinity                 0   0   0   0   0   0
+Trinity Hall                0   0   0   0   0   0
+Christ's                   -1  -1  -1  -1   0  -1
+1st Trinity II              1   0   0   0  -1   0
+Sidney Sussex               0   1   0   0   1   0
+Corpus Christi              0   0   1   0   0   0
+Emmanuel                   -1   0   0   0   0   1
+Jesus                       1   0   0   1   0   0
+Trinity Hall II             0   0   0  -1   0   0
+Clare                       0   0  -1  -1   0   0
+King's                      0   0   1   1   0   0
+Magdalene                   0   0   0   1   0   0
+ 16  Men's Div II
+1st Trinity III            -1   1   0   0  -1  -1
+Caius                       1  -1   0   0   1   0
+2nd Trinity                 0   0   0   0  -1   0
+3rd Trinity II              0   0   0   0   1   1
+Pembroke                   -1   0   0  -1   0   0
+Peterhouse                  1   0   0   0  -1   0
+Corpus Christi II          -1  -1   0   0   0   0
+Sidney Sussex II            1   0  -1   0   0   0
+St Catharine's              0   1   1   1   1   0
+Christ's II                -1  -1  -1  -1  -1  -1
+Caius II                    1   0   0   0   0  -1
+LMBC II                     0   1   0  -1  -1   0
+1st Trinity IV              0   0   1   1   0   1
+Emmanuel II                -1  -1   0   0   0   1
+Trinity Hall III            1   0   0   1   1   0
+Queens'                     0   1   0   0   1   0
+ 10  Men's Div III
+Jesus II                    0   0   0   0   0   0
+Downing                     0   0   0   0   0   0
+Clare II                    0   0   0   0   0   0
+LMBC III                    0   0   0   0   0   0
+Pembroke II                 0   0   0   0   0   0
+1st Trinity V               0   0   0   0   0   0
+Emmanuel III                0   0   0   0   0   0
+2nd Trinity II              0   0   0   0   0   0
+1st Trinity VI              0   0   0   0   0   0
+Peterhouse II               0   0   0   0   0   0

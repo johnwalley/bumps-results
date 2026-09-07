@@ -1,0 +1,22 @@
+MAYS 1835 May
+ 6  1  19   = NDay, NDiv, NCrew
+ 19  Men's Div I
+3rd Trinity (Dolphin)      -1   0  -1   0  -1   0
+2nd Trinity (Queen Bess)    1   0   0   0   0   0
+1st Trinity (Black Prince)   0   0   1   0   0   0
+Clare                      -1  -1  -1  -1  -1   0
+Queens'                     1   0  -1  -1  -1   0
+Magdalene                   0   1   1   0   1   0
+Caius                      -1   0   0   1   1   0
+Trinity Hall                1   0   1   1   0   0
+Christ's                   -1  -1  -1   0  -1  -1
+Jesus                       1   0   0   0   1   0
+Corpus Christi             -1   0   1   1   0   0
+LMBC II                     1   1   0  -1   0  -1
+LMBC                        0   0   0   1  -1  -1
+3rd Trinity II              0  -1  -1   0   0   0
+1st Trinity II             -1  -1  -1   2   0   0
+Pembroke                    1   1   0   0   0   1
+St. John's Corsair         -1   0   1   2   0   0
+2nd Trinity II              1   1   1   2   1   1
+                            0   0   0   0   0   0

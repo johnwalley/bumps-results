@@ -1,0 +1,14 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1831
+Days,5
+
+Division,Ch,B,Wt,U,E
+
+Results
+urrr
+rurr
+rrur
+xrrrr
+rrrr

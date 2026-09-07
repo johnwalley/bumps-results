@@ -1,0 +1,17 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Men
+Year,1935
+
+Division,J,Cl,1st Trinity,Pb,S,SC,E,1st Trinity 2,L,Ca,Cr,Q,J2,Ph,Pb2
+Division,TH,Cr2,SS,L2,K,M,J3,TH2,D,CC,Ca2,3rd Trinity,Cl2,F,S2
+Division,1st Trinity 3,Q2,L3,SC2,Ph2,CC2,Pb3,E2,TH3,1st Trinity 4,J4,Ca3,SS2,D2,M2
+Division,E3,SC3,Cl3,Cr3,L4,F2,TH4,J5,Q3,S3,SC4,Ph3,E4,1st Trinity 5,D3
+Division,Cl4,L5,Cr4,SS3,1st Trinity 6,J6,SC5,M3,F3,K2,CC3,SS4,TH5
+
+Results
+rrrurrurur uuuuruuru ruuruuurur rurrrururrur rururrurrrur
+rruurrruu rurruruuurr uuruuururr rrruuuruurr uruuuururr
+ruuuruur rruuruurrur rurrruurrrur rruurrururu ruruuuruur
+urruurrru ururuuuurr uruuurrruu ururrrrururr rrrrruurrrurr
+

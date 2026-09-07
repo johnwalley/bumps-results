@@ -1,0 +1,17 @@
+EIGHTS 1842
+ 7  1  14   = NDay, NDiv, NCrew
+ 14  Men's Div I
+University                 -1   0  -1   0   0   0   0
+Trinity                     1   0   0   0  -1   0   0
+Brasenose                   0  -1  -1  -1   0   1   0
+Exeter                     -1   0   1   0   0   0   0
+Oriel                       1   1   1   0   1   0   0
+Balliol                     0   0   0   1   0  -1  -1
+St John's                   0   0  -1   0  -1  -1   0
+Worcester                   0  -1   0  -1   0   1   1
+Magdalen Hall              -1  -1   0   0   0  -1   1
+Christ Church               1   1   1   0   0  -1  -1
+Merton & Corpus            -1   0   0   0   0  -1   0
+Pembroke                    1   1   0   1   1   1   1
+Christ Church II            0   0   0   1   0  -1   0
+Wadham                      0   0   0   1   0   2  -1

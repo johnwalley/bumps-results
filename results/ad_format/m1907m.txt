@@ -1,0 +1,34 @@
+MAYS 1907
+ 4  2  30   = NDay, NDiv, NCrew
+ 14  Men's Div I
+3rd Trinity                -1  -1  -1  -1
+1st Trinity                 1   0  -1   0
+Trinity Hall                0   1   1   0
+Jesus                       0   0   1   0
+Christ's                    0  -1   0   0
+1st Trinity II             -1  -1  -1   0
+LMBC                        1   1   0   1
+Caius                      -1  -1   0   0
+Pembroke                    1   1   0   0
+Emmanuel                    0   1   1   0
+King's                      0   0   0  -1
+Trinity Hall II            -1  -1  -1  -1
+Selwyn                      1   0  -1  -1
+LMBC II                    -1   0  -1   1
+ 16  Men's Div II
+Corpus Christi              1   1   1   1
+Sidney Sussex               0  -1  -1   0
+Clare                      -1  -1  -1   0
+Jesus II                    1   1   2   1
+Pembroke II                 0   1   1   0
+Magdalene                   0   0   1   0
+Emmanuel II                -1   0  -1   0
+St Catharine's              1   0   0  -1
+Caius II                   -1  -1  -1  -1
+Queens'                     1   0   1   1
+Peterhouse                 -1  -1  -1  -1
+Christ's II                 1   1   0   0
+Trinity Hall III           -1  -1   0   1
+1st Trinity III             1   1   1   0
+Downing                    -1   0   0   0
+Jesus III                   1   1   1   1

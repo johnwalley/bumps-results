@@ -3,9 +3,9 @@ Short,Town
 Gender,Men
 Year,1976
 
-Division,City 1,Rob Roy 1,99 1,Scouts 1,Cantabs 1,99 2,99 3,Churchill 1,Rob Roy 2,City 2,Rob Roy 3,ACUA 1,Cantabs 2,Telephones 1,Leckhampton 1,99 4
-Division,Rob Roy 4,Cantabs College 1,City 3,MacDonalds 1,King's 1,Cam Veterans 1,St Cats 1,Leckhampton 2,Scouts 2,99 5,Churchill 2,Cantabs 3,ACUA 2,City 4,Peterhouse 1,Clare 1
-Division,Cantabs 4,Soham Village College 1,Eleans 1,City 5,Darwin 1,Churchill 3,99 6,MacDonalds 2,Telephones 2,99 7,Churchill 4,Rob Roy 5,Cantabs 5,Rob Roy 6,Cantabs 6,99 8,ACUA 3,City 6
+Division,Ci,R,N,Scouts,Ca,N2,N3,Churchill,R2,Ci2,R3,ACUA,Ca2,Telephones,Leckhampton,N4
+Division,R4,Cantabs College 1,Ci3,MacDonalds,King's,Cam Veterans,St Cats,Leckhampton 2,Scouts 2,N5,Churchill 2,Ca3,ACUA 2,Ci4,Peterhouse,Clare
+Division,Ca4,Soham Village College,Eleans,Ci5,Darwin,Churchill 3,N6,MacDonalds 2,Telephones 2,N7,Churchill 4,R5,Ca5,R6,Ca6,N8,ACUA 3,Ci6
 
 Results
 rruuuuuruur rrurrro3uuo3u urrrururruru

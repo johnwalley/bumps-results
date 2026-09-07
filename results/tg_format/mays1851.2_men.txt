@@ -1,0 +1,16 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1851 May
+Days,5
+
+Division,L,1st Trinity,3rd Trinity,E,2nd Trinity,M,Cr,J,Ph,L2,1st Trinity 2,Ca,TH,Ca2,SS,2nd Trinity 2,2nd St. John's,J2,Q,1st Trinity 3,CC,Cr2,L3
+Division,E2,2nd Trinity 3,Ca3
+
+Results
+ru ruuuurrrrrurrrurrr
+ru uue2e-1e-1re2e-1e-1rruururru
+ru ruurrururururrrrrr
+xu rruuuururrrrurrrrr
+u rurrrruruurrrrurrrr
+

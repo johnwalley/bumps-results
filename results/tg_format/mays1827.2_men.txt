@@ -1,0 +1,28 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1827 April May November
+Days,17
+
+Division,Trinity King Edward,L,J,Trinity Westminster,Ca,Trinity Eton
+
+Results
+re2e-1e-1rr
+#XXX ambiguous results bottom crew
+rrrrrr
+urrrr
+rurrr
+rrurr
+rrrru
+rrrru
+v0rrrrr
+v0urrr
+v0urrr
+rruu
+xxrru
+rrrr
+#XXX ambiguous result bottom crew
+urr
+rrrr
+rrrr
+rrrr

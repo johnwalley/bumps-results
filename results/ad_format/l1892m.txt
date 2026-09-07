@@ -1,0 +1,35 @@
+LENTS 1892
+ 4  2  31   = NDay, NDiv, NCrew
+ 15  Men's Div I
+Corpus Christi             -1   0   0  -1
+1st Trinity                 1   0   0   0
+LMBC                        0   0  -1   0
+3rd Trinity                 0  -1   0  -1
+Trinity Hall               -1  -1   0   0
+Pembroke                    1   1   1   1
+Jesus                       0   1   0   1
+Pembroke II                 0   0   0   0
+Caius                       0   0   0   0
+Caius II                   -1   0  -1  -1
+Jesus II                    1   0   0  -1
+Trinity Hall II             0  -1   0   1
+Peterhouse                 -1   0   0   0
+1st Trinity II              1   1   1   1
+King's                      0   0   0   0
+ 16  Men's Div II
+LMBC II                     0   0   0   0
+Emmanuel                    0  -1   0   0
+St Catharine's             -1   0   0   0
+Clare                       1   1   0   0
+Emmanuel II                -1  -1   0  -1
+Selwyn                      1   0   0   0
+1st Trinity III             0   1   0   0
+Magdalene                  -1  -1  -1  -1
+Christ's                    1   0  -1   0
+Trinity Hall III            0   1   1   1
+Pembroke III                0   0   1   0
+Downing                     0  -1  -1   0
+Fitzwilliam                -3   0   0   0
+Queens'                    -1   0   0   0
+Sidney Sussex               1   0   1   0
+1st Trinity IV              3   1   0   1

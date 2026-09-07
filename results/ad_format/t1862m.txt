@@ -1,0 +1,14 @@
+TORPIDS 1862
+ 6  1  11   = NDay, NDiv, NCrew
+ 11  Men's Div I
+Brasenose                   0   0   0   0   0   0
+Christ Church              -1   0   0   0   0   0
+Corpus Christi              1   0   0   0   0   0
+Exeter                      0   0   0   0   0   0
+Trinity                    -1  -1  -1   0  -1   0
+Wadham                      1   0   0  -1  -1   0
+Magdalen                    0   1   0   1   0   0
+Balliol                     0  -1   0   0   1   0
+Pembroke                   -1   0   0   0   0   0
+University                  1   1   1   0   1   0
+Oriel                       0   0   0   0   0   0

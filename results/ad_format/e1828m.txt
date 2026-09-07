@@ -1,0 +1,9 @@
+EIGHTS 1828
+ 6  1  6   = NDay, NDiv, NCrew
+ 6  Men's Div I
+Brasenose                   0  -1  -1   0   0   1
+Balliol                     0   1   0   0  -1  -1
+University                 -1   0   0   0   0   0
+Christ Church               1   0   1   0   1   0
+Trinity                    -1   0   0   0   0   0
+Oriel                       1   0   0   0   0   0

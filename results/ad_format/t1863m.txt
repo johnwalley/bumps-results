@@ -1,0 +1,19 @@
+TORPIDS 1863
+ 6  1  16   = NDay, NDiv, NCrew
+ 16  Men's Div I
+Brasenose                   0   0   0   0  -1   0
+Corpus Christi              0  -1  -1  -1  -1   0
+Christ Church               0   1   0  -1   0   0
+Exeter                      0   0   1   1   1   0
+Magdalen                    0  -1   0  -1   0  -1
+University                  0   1   0   1   0   0
+Wadham                      0  -1   0  -1  -1   0
+Balliol                     0   1   0   1   1   0
+Trinity                     0   0  -1   0   1   0
+Pembroke                    0  -1   0   0   0   0
+Oriel                      -1   0   0   0   0   0
+Queen's                     1   1   1   1   0   1
+Jesus                       0   1   0   0   0   0
+Worcester                   0   1  -1   0   0   0
+St John's                  -1   1   0   0   0   0
+University II               1   1   1   0   0   0

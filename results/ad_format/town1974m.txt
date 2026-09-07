@@ -29,7 +29,7 @@ ACUA 2                     -1  -1  -1  -1
 Clare 1                     1   1   0   1
 Cantabs 3                   0   1   1   0
 Consultant Owls 1           0  -1  -1  -2
-CU Medics                  -1  -1   0   0
+CU Medics 1                -1  -1   0   0
 City 3                      1   1   1   1
 Cantabs 4                  -1  -1  -1   0
  10  Men's Div III

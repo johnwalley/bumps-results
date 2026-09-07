@@ -3,8 +3,8 @@ Short,Town
 Gender,Men
 Year,1959
 
-Division,City 1,Rob Roy 1,99 1,Cantabs 1,Pye 1,Rob Roy 2,City 2,99 2,Cantabs 2,Scouts 1,ACUA 1,Central Old Boys 1,Instrument Co 1,Cantabs 3,Beehives 1,Rob Roy 3,City 3
-Division,ACUA 2,Central Old Boys 2,Scouts 2,Cantabs 4,99 3,Scouts 3,99 4,City 4,City 5,Cantabs 5
+Division,Ci,R,N,Ca,P,R2,Ci2,N2,Ca2,Scouts,ACUA,Central Old Boys,Instrument Co,Ca3,Beehives,R3,Ci3
+Division,ACUA 2,Central Old Boys 2,Scouts 2,Ca4,N3,Scouts 3,N4,Ci4,Ci5,Ca5
 
 Results
 ururrur rururrururrrrr

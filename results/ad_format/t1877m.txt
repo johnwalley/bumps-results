@@ -1,0 +1,24 @@
+TORPIDS 1877
+ 6  2  20   = NDay, NDiv, NCrew
+ 10  Men's Div I
+Trinity                     0  -1  -1   0   0   0
+Balliol                     0   1   0  -1   0   0
+Pembroke                    0   0   1   1   0   0
+Brasenose                   0   0  -1  -1  -1  -1
+Exeter                      0   0   1   0   0   0
+Queen's                     0  -1   0  -1  -1  -1
+University                  0   1   0   1   0  -1
+Christ Church               0   0   0   1   1   1
+Keble                       0   0   0   0   1   1
+Keble II                    0   0   0   0   0   1
+ 10  Men's Div II
+St John's                   0   0  -1   0   0   0
+Lincoln                     0   0   1   0   0   0
+Magdalen                    0   0   0  -1  -1  -1
+Wadham                     -1  -1  -1  -1   0   0
+Worcester                   1   0  -1  -1   0   1
+Oriel                      -1  -1  -1   0   0   0
+New College                 1   1   1   1   0  -1
+Corpus Christi             -1  -1   0   0   0   0
+Merton                      1   1   1   1   1   1
+Trinity II                  0   1   1   1   0   0

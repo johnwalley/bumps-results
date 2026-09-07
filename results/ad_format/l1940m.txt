@@ -1,0 +1,58 @@
+LENTS 1940
+ 3  4  52   = NDay, NDiv, NCrew
+ 15  Men's Div I
+Clare                      -1   0   0
+Jesus                       1   0   0
+Trinity Hall               -1   0  -1
+Pembroke                    1   0   0
+LMBC                        0  -1  -1
+Selwyn                     -1  -1  -1
+Jesus II                    1   1   1
+1st Trinity                 0   1   1
+St Catharine's              0  -1   0
+Christ's                   -1  -1   0
+Magdalene                   1   1   1
+Corpus Christi             -1  -1  -1
+Queens'                     1   1   0
+Emmanuel                    0   1   0
+King's                      0  -1   0
+ 15  Men's Div II
+Caius                       0  -1  -1
+Peterhouse                 -1  -1  -1
+1st Trinity II              1   2   1
+Sidney Sussex               0   1   1
+Pembroke II                -1  -1  -1
+Trinity Hall II             1   0   1
+LMBC II                     0   1   0
+3rd Trinity                -1   0  -1
+Jesus III                   1   0   1
+Downing                     0   0   1
+Caius II                   -1  -1  -1
+Clare II                    1   0  -1
+St Catharine's II          -1  -1  -1
+Christ's II                 1   1   1
+Selwyn II                   0   1   1
+ 15  Men's Div III
+1st Trinity III            -1   0   0
+Emmanuel II                 1   0   1
+Trinity Hall III            0  -1  -1
+Queens' II                 -1  -1  -1
+Sidney Sussex II            1   1   0
+Corpus Christi II          -1  -1  -1
+Magdalene II                1   1   1
+Jesus IV                    0   1   1
+Pembroke III               -1  -1   0
+LMBC III                    1   0   1
+Emmanuel III               -1   0   0
+Downing II                  1   1   0
+Jesus V                     0   0  -1
+Sidney Sussex III           0  -1  -1
+Clare III                  -1   0  -1
+ 7  Men's Div IV
+Christ's III               -1  -1  -1
+Queen Mary                  2   1   1
+Royal Air Force            -3   1   0
+Queen Mary II              -1  -1   0
+St. Batholemew's            1   0   1
+London School of Economics   3   1   2
+Christ's IV                 0   0   0

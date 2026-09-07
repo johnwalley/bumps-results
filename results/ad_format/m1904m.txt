@@ -1,0 +1,34 @@
+MAYS 1904
+ 4  2  30   = NDay, NDiv, NCrew
+ 14  Men's Div I
+3rd Trinity                 0   0   0   0
+Trinity Hall               -1   0   0   0
+1st Trinity                 1   0   0   0
+LMBC                        0   0   0   0
+Christ's                   -1  -1  -1  -1
+Caius                       1   0   0   0
+Jesus                       0   1   0  -1
+Selwyn                     -1   0  -1  -1
+Emmanuel                    1   0   1   1
+King's                      0   0   1   1
+1st Trinity II              0   0   0   1
+Pembroke                    0   0   0   0
+LMBC II                     0  -1   0   0
+Peterhouse                 -1   0  -1  -1
+ 16  Men's Div II
+Trinity Hall II             1   1   0   0
+Sidney Sussex               0  -1  -1   0
+Caius II                   -1  -1   0   0
+Emmanuel II                 1   1   1   0
+Clare                       0   1   1   1
+Pembroke II                 0   0   0   0
+Jesus II                    0   0   0   0
+1st Trinity III            -1   1  -1   0
+Corpus Christi              1  -1   1   0
+Clare II                    0   0   0  -1
+3rd Trinity II             -1  -1  -1  -1
+St Catharine's              1   0  -1  -1
+Queens'                    -1   0   1   1
+Magdalene                   1   1   1   1
+Downing                    -1   0   0   0
+Selwyn II                   1   0   0   1

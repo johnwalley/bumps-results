@@ -1,0 +1,17 @@
+EIGHTS 1840
+ 9  1  14   = NDay, NDiv, NCrew
+ 14  Men's Div I
+Brasenose                   0   0   0   0   0   0   0   0   0
+Balliol                     0   0  -1  -9   2   0   1   1   0
+Christ Church              -1   0  -1  -8   2   0   0   0   0
+Wadham                      1   0   1   0   0   0  -1   0   0
+Exeter                      0   0   1   1  -1   0   0   0   0
+St John's                  -1  -1  -1   2   0   1   0   0   0
+Oriel                       1   0  -1   1   0  -1   0   0   0
+University                  0   1   1   2   1   0   1   0   0
+Magdalen Hall              -1   0   0   2   0   0   0  -1   0
+Trinity                     1   0   1   3   0   0   0   0   0
+Queen's                    -1  -1   0   0   2   0   0   0   0
+Corpus Christi              1   0   0   2   0   0  -1   0   0
+Lincoln                     0   1   0   2   1   0  -1   0   0
+New College                 0   0   0   3   0   0   0   0   0

@@ -1,0 +1,8 @@
+TORPIDS 1839
+ 4  1  5   = NDay, NDiv, NCrew
+ 5  Men's Div I
+Christ Church              -1   0   0   0
+Exeter                     -1  -1   0   0
+Brasenose                   2   0  -1   0
+Balliol                     0  -1   0   0
+Oriel                       0   2   2   0

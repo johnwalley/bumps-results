@@ -43,8 +43,8 @@ Darwin                      0  -1  -1   0
 Magdalene II               -1  -1   0  -1
 Fitzwilliam II              1   1   0   1
 Queens' II                 -1   0  -1  -1
-LMBC V                      1   1   1   0
-LMBC IV                     0  -1  -1  -1
+LMBC IV                     1   1   1   0
+LMBC V                      0  -1  -1  -1
 Churchill III              -1  -1   0   1
 Peterhouse II               1   1   1   1
 Clare III                   0   1   1   1

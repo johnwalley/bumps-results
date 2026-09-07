@@ -2,13 +2,13 @@ Set,Town Bumps
 Short,Town
 Gender,Women
 Year,2022
-Days,3
 
-Division,Cantabs 1,City 1,Cantabs 2,Cantabs 3,X-Press 1,99 1,Cantabs 4,Chesterton 1,St Neots 1,Champs 1,City 2,99 2,Rob Roy 1,Isle of Ely 1,99 3,Champs 2,Rob Roy 2
-Division,Champs 3,City 3,City 4,Cantabs 5,City 5,99 4,X-Press 2,Chesterton 2,City 6,99 5,Cantabs 6,Cantabs 7,City 7,St Neots 2,X-Press 3,Champs 4,Chesterton 3
-Division,Cantabs 8,99 6,City 8,Cantabs 9,Isle of Ely 2,Cantabs 10,99 7,Cantabs 11,X-Press 4,City 9,City 10,Cantabs 12,St Neots 3,City 11,X-Press 5,Cantabs 13,City 12,Cantabs 14
+Division,Ca,Ci,Ca2,Ca3,X,N,Ca4,Ct,SN,Ch,Ci2,N2,R,IE,N3,Ch2,R2
+Division,Ch3,Ci3,Ci4,Ca5,Ci5,N4,X2,Ct2,Ci6,N5,Ca6,Ca7,Ci7,SN2,X3,Ch4,Ct3
+Division,Ca8,N6,Ci8,Ca9,IE2,Ca10,N7,Ca11,X4,Ci9,Ci10,Ca12,SN3,Ci11,X5,Ca13,Ci12,Ca14
 
 Results
+t t t
 uruuruuuurr urrrrrrruuruu uurrruururrrr
 rrururruuuru rururruurrrur rurrruuruurrr
 rururruuurur ururruurrrurr uuruururrrrrr

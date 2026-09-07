@@ -1,0 +1,14 @@
+Set,May Bumps
+Short,Mays
+Gender,Women
+Year,1978
+
+Division,NH,Cu,QM,N,N2,Cl,N3,NH2,S,W,Dw,QM2,Cl2,G,G2,A
+Division,T,NH3,SS,H,TH,S2,N4,Cl3,N5,G3,Dw2,QM3,Cu2,G4,G5,SS2
+
+Results
+uruo3urrrrur ruo3urruuuu
+rruruurrruu rrurruuururr
+rururruruur rrrurrurrrrurr
+uruurrruuu rrrrurrruruur
+

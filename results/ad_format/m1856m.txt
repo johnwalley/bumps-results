@@ -1,0 +1,36 @@
+MAYS 1856 April
+ 8  2  32   = NDay, NDiv, NCrew
+ 15  Men's Div I
+LMBC                        0   0   0   0   0   0   0   0
+Trinity Hall                0   0   0   0   0   0   0   0
+Emmanuel                   -1   0   0   0   0  -1  -1  -1
+1st Trinity                 1   0   0   0   0   0  -1   0
+Christ's                    0   0   0   0  -1  -1  -1  -1
+Caius                       0  -1  -1  -1  -1  -1  -1  -1
+Queens'                    -1  -1  -1  -1  -1  -1  -1  -1
+Sidney Sussex               1   1   0  -1  -1  -1   0   1
+Corpus Christi             -1  -1  -1  -1  -1  -1  -1   0
+2nd Trinity                 1   1   1   1   1   1   1   0
+3rd Trinity                 0   1   1   1   1   1   1   0
+St Catharine's             -1   0   0   1   1   1   0   0
+1st Trinity II              1   0   1   1   1   1   1   1
+King's                     -1  -1  -1  -1   0   0   0   0
+Emmanuel II                 1   0   0  -1  -1   0   1   1
+ 17  Men's Div II
+3rd Trinity II              0   1   0   1   1   1   1   0
+Trinity Hall II             0  -1  -1   0   0   0   0   0
+Emmanuel III               -3   1   0  -1   0   0   0   0
+LMBC II                    -1  -1  -1  -1   0   0   0   0
+Magdalene                   1   0   1   1   0   0   0   0
+Clare                       3   1   1   0   1   1   1   1
+Peterhouse                  0   0   1   1   2   0   0   0
+Christ's II                 0   0  -1   0   2   0   0   0
+1st Trinity III             0  -1   0   0   0   0   0   0
+Jesus                      -1   0   0  -1   0   0   0   0
+2nd Trinity II              1   1   1   1   2   0   0   0
+LMBC III                    0   0  -1   0   2   0   0   0
+LMBC IV                     0  -1   0   0   1   0   0   0
+Caius II                   -1   0  -1   1   1   0   0   0
+Pembroke                    1   1   1   1   2   0   0   0
+                            0   0   1  -1   1   0   0   0
+                            0   2  -1   1   1   0   0   0

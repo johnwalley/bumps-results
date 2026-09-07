@@ -1,0 +1,17 @@
+TORPIDS 1850
+ 8  1  14   = NDay, NDiv, NCrew
+ 14  Men's Div I
+Wadham                      0  -1   0   0   0   0  -1   0
+Lincoln                    -1   0   0   0   0  -1   0  -1
+Brasenose                   1   1   0   0   0   0   0   0
+Exeter                      0   0  -1  -1  -1  -1   0   1
+Christ Church               0  -1  -1  -1   0   1   1   0
+University                  0   1   1   0  -1  -1  -1  -1
+Worcester                  -1  -1   0  -1   0  -1  -1   0
+St John's                   1  -1   0   1   1   1   0   1
+Pembroke                   -1   0  -1   0   0   1   0   1
+Balliol                     1   2   1   1   1   1   1   0
+Queen's                     0   0   1   1   1   1   1   0
+Jesus                      -1   1   0   0   3   0   0  -1
+Magdalen Hall               1  -1   0   0   2   1   0   1
+Oriel                       0   0   0   0   2   0   1   0

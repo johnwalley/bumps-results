@@ -1,0 +1,15 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1856
+Days,6
+
+Division,E,U,Ch,Br,P,B,Wt,Wh,SJ,T
+
+Results
+rrrrruur
+urrurrrr
+rrurrrrrr
+urrrrrrrr
+rurrrrrrr
+e1xrururr

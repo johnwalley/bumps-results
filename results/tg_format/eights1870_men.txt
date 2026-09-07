@@ -1,0 +1,17 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1870
+Days,8
+
+Division,U,E,SJ,Br,Ch,B,Co,Lc,Mt,Wt,P,Q,Wh,SE,T,O,Mg,N,St Mary Hall,J
+
+Results
+rrruurrrurrurrrr
+rruurrrurrrrrrur
+rrrurrruurrrrrrrr
+rrrrururrurrurrr
+xrururrrrrrrrrrrrr
+rrrrrurrrrrrrrrrrr
+rrrrrrrrurrrrrrrrr
+rrrrrrrrrrrrrrrrrrr

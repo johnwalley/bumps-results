@@ -3,9 +3,9 @@ Short,Town
 Gender,Men
 Year,1986
 
-Division,Rob Roy 1,99 1,City 1,City 2,99 2,Cantabs 1,Univ Sports 1,City 3,99 3,Rob Roy 2,Free Press 1,Clare 1,Free Press 2,99 4,Lady Somerset 1,Cantabs 2,Churchill 1
-Division,Wolfson 1,Pye 1,99 5,Free Press 3,Metallurgy 1,Cantabs 3,Macdonalds 1,Rob Roy 3,Red Lion Toft 1,99 6,King's 1,Leckhampton 1,Cantabs 4,Free Press 4
-Division,Univ Sports 2,Free Press 5,St Neots 1,Darwin 1,Chemical Eng 1,Deloittes 1,NatWest Bank 1,Free Press 6,99 7,Cantabs 5,Univ Sports 3,Barclays Bank 1,Red Lion Toft 2,Applied Biology 1,Pye 2,Cantabs 6,City 4
+Division,R,N,Ci,Ci2,N2,Ca,Univ Sports,Ci3,N3,R2,F,Clare,F2,N4,Lady Somerset,Ca2,Churchill
+Division,Wolfson,P,N5,F3,Metallurgy,Ca3,Macdonalds,R3,Red Lion Toft,N6,King's,Leckhampton,Ca4,F4
+Division,Univ Sports 2,F5,SN,Darwin,Chemical Eng,Deloitte,NatWest Bank,F6,N7,Ca5,Univ Sports 3,Barclays Bank,Red Lion Toft 2,Applied Biology,P2,Ca6,Ci4
 
 Results
 uruuuruuur uurrruurrrr ururururruru

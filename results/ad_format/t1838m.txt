@@ -1,0 +1,8 @@
+TORPIDS 1838
+ 3  1  5   = NDay, NDiv, NCrew
+ 5  Men's Div I
+Exeter                      0  -1  -1
+Trinity                    -1   0  -1
+Worcester                   1   1   0
+Balliol                     0   1  -1
+Christ Church               0   1   2

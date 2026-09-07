@@ -6,7 +6,7 @@ Year,1984
 Division,SHu,LM,OH,J,SC,S,Wt,SHu2,SHi,Wh,SAn,K
 Division,Wf,Co,L,P,H,N,Br,Lc,B,LM2,T,S2
 Division,U,SHu3,SHi2,Ch,Q,SE,T2,J2,SC2,Mf,Br2,SHu4
-Division,Mg,K2,Mt,Wf2,SHi3,J3,N3,SHi4,SJ,SP,SAn2,H2,Lc2
+Division,Mg,K2,Mt,Wf2,SHi3,J3,N3*,SHi4,SJ,SP,SAn2,H2,Lc2
 
 Results
 urrurrurrr rruururur ururruuu uururuur

@@ -1,0 +1,17 @@
+EIGHTS 1858
+ 8  1  14   = NDay, NDiv, NCrew
+ 14  Men's Div I
+Exeter                      0   0   0   0   0   0   0   0
+Balliol                     0   0   0   0   0   0   0   0
+Oriel                       0   0   0   0   0   0   0   0
+Brasenose                  -1  -1  -1   0   0  -1  -1   0
+Pembroke                    1   0   0   0   0   0   0   0
+Wadham                     -1  -1   0   0   0   1   0  -1
+University                  1   1   0   0   0   0   0   0
+Trinity                     0   1   1   0   0   0   0   0
+Christ Church               0   0   0   0   0   0   1   1
+Christ Church II           -1   0   0   0   0   0   0   0
+St John's                   1   0   0   0   0   0   0   0
+Lincoln                    -1  -1   0   0   0   0   0   0
+Worcester                   1   0   0   0   0   0   0   0
+Corpus Christi              0   1   0   0   0   0   0   0

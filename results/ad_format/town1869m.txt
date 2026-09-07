@@ -1,0 +1,16 @@
+TOWN 1869
+ 5  1  13   = NDay, NDiv, NCrew
+ 13  Men's Div I
+Town Rowing Club 1         -1   0   0   0   0
+Albert Institute 1          1   0   0   0   0
+College Servants 1         -1   0   0   0   0
+Church of England 1         1   0   0   0   0
+Town Rowing Club 2          0   0   0   0   0
+College Servants 2         -1  -1   0  -1  -1
+Pitt Press 1                1   0   0   0   0
+Albert Institute 2          0   1   0   0  -1
+Town Rowing Club 3         -1  -1  -1   0   1
+Church of England 2         1   0  -1  -1  -1
+Hero (Junior Conservatives) 1  -1   0   1   1   1
+Leander (Junior Liberals) 1   1   1   1   1   1
+Pitt Press 2                0   0   0   0   0

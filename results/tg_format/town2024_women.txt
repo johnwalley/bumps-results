@@ -1,0 +1,14 @@
+Set,Town Bumps
+Short,Town
+Gender,Women
+Year,2024
+
+Division,Cantabs 1,City 1,Cantabs 2,99 1,Cantabs 3,City 2,Cantabs 4,99 2,Rob Roy 1,St Neots 1,City 3,X-Press 1,Rob Roy 2,Chesterton 1,Champs 1,Cantabs 5,Isle of Ely 1
+Division,Champs 2,Camb Vets 1,City 4,X-Press 2,99 3,City 5,99 4,Cantabs 6,Champs 3,Cantabs 7,City 6,St Radegund 1,Cantabs 8,99 5,Cantabs 9,Chesterton 2,St Neots 2
+Division,Cantabs 10,City 7,99 6,Cantabs 11,Champs 4,City 8,Chesterton 3,Cantabs 12,Isle of Ely 2,Cantabs 13,City 9,St Radegund 2,City 10,City 11
+
+Results
+rro3urruuu uruuruuurur rruurrrururrrr
+o3uuruuur rururuuuuru rurruruururrr
+rrurruuur ruurruuurrrur uuuruurrrrrrr
+rrruuuuur urrruuuruuu ruurrrrruurrrr

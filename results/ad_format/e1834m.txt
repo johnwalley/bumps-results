@@ -1,0 +1,10 @@
+EIGHTS 1834
+ 5  1  7   = NDay, NDiv, NCrew
+ 7  Men's Div I
+Queen's                    -1   0   0  -1   0
+Christ Church               1   0   0   0   0
+Jesus                       0   0  -1   0   0
+Exeter                     -1   0   0   0   0
+Worcester                   1   0   1   1   0
+Trinity                     0   0   0   0  -1
+Corpus Christi              0   0   0   0   1

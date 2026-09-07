@@ -1,0 +1,17 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1857
+Days,8
+
+Division,Wh,E,B,Ch,U,T,O,Br,Ch2,Q,Lc,P,SJ,J,Wt
+
+Results
+urue1v-1ruuru
+rrrre2v-1e-1uurur
+rrrrrruue2v-1e-1rr
+rrurrruurrrr
+rrrruuurrrrr
+rrrurrrrrrrrrr
+rrrrrrrrrrurrr
+e1e1e1xrrrrrurrrr

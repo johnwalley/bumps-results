@@ -1,0 +1,43 @@
+MAYS 1865 May
+ 6  2  39   = NDay, NDiv, NCrew
+ 20  Men's Div I
+Trinity Hall                0  -1   0   0   0   0
+3rd Trinity                 0   1   0   0   0   0
+1st Trinity                 0   0   0   0   0   0
+LMBC                        0   0   0   0   0   0
+Emmanuel                    0   0   0   0   0   0
+1st Trinity II              0   0   0   0   0   0
+Corpus Christi              0   0   0   0   0   0
+Trinity Hall II             0   0  -1  -1  -1   0
+Christ's                    0  -1  -1   0   1   0
+Caius                       0   1   1   0   0   0
+1st Trinity III            -1  -1  -1  -1  -1  -1
+Pembroke                    1   0   1   1   0   0
+LMBC II                    -1  -1  -1  -1  -1  -1
+Clare                       1   1   0  -1   1  -1
+Magdalene                   0   1   1   1  -1   1
+Jesus                       0   0   1   1   0   0
+2nd Trinity                 0   0   0   1   1   0
+Emmanuel II                -1  -1   0   0  -1   0
+Peterhouse                  1   0   0  -1   0   1
+King's                      0  -1   0   0   1   0
+ 19  Men's Div II
+1st Trinity IV             -1  -1   0  -1  -1   0
+Sidney Sussex               1   2   0   1   1   1
+St Catharine's              0   1   0   0   0   0
+Caius II                    0   0  -1  -1  -1   0
+LMBC III                    0  -1  -1  -1   0   0
+Christ's II                -1  -1   0   1   1   0
+Corpus Christi II           1   1   1   1   0   0
+Trinity Hall III           -1   0  -1  -1   0   0
+Queens'                     1   1   1   1   1   0
+Clare II                    0   0   1   0  -1   0
+Emmanuel III                0  -1   0   0   0   0
+Jesus II                   -1  -1   0  -1  -1   0
+3rd Trinity II              1   1   0   1   1   0
+1st Trinity V               0   1   0   0  -1   0
+LMBC IV                     0   0  -1  -1   0   0
+1st Trinity VI              0  -1  -1  -1   1   0
+2nd Trinity II             -1   0   1   1   1   0
+Pembroke II                 1   1   1   1   1   0
+Downing                     0   0   0   1  -1   0

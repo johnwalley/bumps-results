@@ -3,8 +3,8 @@ Short,Town
 Gender,Men
 Year,1956
 
-Division,City 1,99 1,Pye 1,Old Cantabs 1,99 2,Old Cantabs 2,Rob Roy 1,City 2,Scouts 1,Beehives 1,Old YM 1,New Museums 1,Rob Roy 2,99 3,Old Cantabs 3,Pye 2,Instrument Co 1
-Division,City 3,Scouts 2,Central Old Boys 1,New Museums 2,Rob Roy 3,Old Cantabs 4,Pye 3,New Museums 3,Old Cantabs 5,City 4
+Division,Ci,N,P,OC,N2,OC2,R,Ci2,Scouts,Beehives,Old YM,New Museums,R2,N3,OC3,P2,Instrument Co
+Division,Ci3,Scouts 2,Central Old Boys,New Museums 2,R3,OC4,P3,New Museums 3,OC5,Ci4
 
 Results
 urrurur ruuurrrrrurrrr

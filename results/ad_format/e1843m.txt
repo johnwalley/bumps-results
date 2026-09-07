@@ -1,0 +1,18 @@
+EIGHTS 1843
+ 8  1  15   = NDay, NDiv, NCrew
+ 15  Men's Div I
+Oriel                       0  -1   0   0   0   0   0   0
+Trinity                    -1   0   0   0  -1   1   0  -1
+University                  1   1   0   0   0   0   0   0
+Exeter                      0  -1  -1   0  -1  -1  -1  -1
+Brasenose                  -1  -1   0   0  -1   1   0  -1
+Pembroke                    1   1   0   0   1  -1  -1   0
+Balliol                     0   1   1   0   0  -1   0   0
+Worcester                  -1  -1   0   0   0  -1   0   0
+Christ Church               1   0  -1   1   2   1   1   1
+St John's                   0   1   1  -1   0   0   1   1
+Wadham                     -1   0   0   0   0   0   0   0
+Merton                      1   0   0   0   0   1   0   1
+Corpus Christi              0   0   0   2   0   1   0   1
+Lincoln                    -1   0   0   1   0   0   0   0
+Queen's                     1   0   0   1   0   0   0   0

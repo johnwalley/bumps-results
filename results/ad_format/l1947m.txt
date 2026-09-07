@@ -1,0 +1,63 @@
+LENTS 1947
+ 4  4  57   = NDay, NDiv, NCrew
+ 15  Men's Div I
+Jesus                       0   0   0   0
+Christ's                   -1  -1   0  -1
+1st and 3rd                 1   0   0   0
+Trinity Hall                0   1   0   0
+LMBC                        0   0  -1   0
+Pembroke                    0   0   1   1
+Clare                       0   0   0   0
+St Catharine's              0   0   0   0
+Jesus II                   -1   0  -1   0
+Caius                       1   0   0  -1
+Selwyn                     -1   0   0   0
+Queens'                     1   0   1   1
+Peterhouse                  0   0   0  -1
+LMBC II                    -1  -1  -1  -1
+1st and 3rd II              1   0  -1  -1
+ 15  Men's Div II
+Sidney Sussex              -1  -1  -1  -1
+Magdalene                   1   1   1   1
+Downing                     0   1   1   1
+Corpus Christi              0   0   1   1
+King's                      0  -1   0   0
+Emmanuel                    0   1   0   1
+Jesus III                   0   0   0  -1
+Christ's II                 0   0  -1   0
+St Catharine's II          -1   1   1   1
+Trinity Hall II             1  -1   0  -1
+Clare II                   -1  -1   0  -1
+Pembroke II                 1   0  -1   0
+Queens' II                 -1   0  -1  -1
+1st and 3rd III             1   1   1   1
+Caius II                    0  -1  -1  -1
+ 15  Men's Div III
+Emmanuel II                 0   1   1   1
+Downing II                  0  -1  -1   0
+LMBC III                   -1  -1  -1   0
+Christ's III                1   1   1   1
+Selwyn II                  -1   0   1   0
+Magdalene II                1   1   1   1
+Peterhouse II              -1   1   0   0
+1st and 3rd IV              1  -1  -1  -1
+Trinity Hall III            0  -1  -1  -1
+Corpus Christi II          -1  -1  -1  -1
+Downing III                 1   1   1   0
+Jesus IV                   -1  -1  -1  -1
+King's II                   1   1   1   1
+1st and 3rd V              -1  -1  -1   0
+Emmanuel III                1   1   1   1
+ 12  Men's Div IV
+Pembroke III                0   1   1   1
+St Catharine's III         -1  -1  -1  -1
+Fitzwilliam                 1   0   1   1
+Corpus Christi III         -1  -1  -1  -1
+Magdalene III               1   1   0  -1
+King's III                 -1  -1  -1  -1
+Fitzwilliam II              1   1   1   1
+Selwyn III                  0   1   1   1
+Fitzwilliam III            -1  -1  -1   0
+Christ's IV                 1   0   1   1
+Trinity Hall IV             0   1   0   1
+Jesus V                     0   0   1   0

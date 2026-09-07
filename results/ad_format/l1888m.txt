@@ -1,0 +1,35 @@
+LENTS 1888
+ 4  2  31   = NDay, NDiv, NCrew
+ 15  Men's Div I
+Corpus Christi             -1  -1   0   0
+Jesus                       1   0   0   0
+LMBC                       -1   0   0   0
+1st Trinity                 1   1   0   0
+Caius                       0   0   0   0
+1st Trinity II              0   0   0   0
+Trinity Hall                0   0   0   0
+Peterhouse                  0   0   0   0
+Pembroke                    0   0   0   0
+Magdalene                  -1  -1   0   0
+3rd Trinity                 1   0   0   0
+Pembroke II                 0   1   0   0
+St Catharine's             -1  -1   0   0
+Cavendish                   1   0   0   0
+Downing                    -1  -1  -1   0
+ 16  Men's Div II
+1st Trinity III            -1   1   0   0
+Trinity Hall II             2   1   0   0
+Caius II                    0   0   1   0
+Jesus II                    0   0   0   0
+King's                      0  -1   0   0
+Queens'                    -1  -1  -1   0
+LMBC II                     1   1   0   0
+1st Trinity IV              0   1   0   0
+Trinity Hall III            0  -1  -1   0
+Selwyn                     -1  -1  -1   0
+Clare                       1   1   1   0
+Emmanuel                    0   1   1   0
+Sidney Sussex              -1   0   0   0
+Selwyn II                   1   0   1   0
+Christ's                    0   0   0   0
+Fitzwilliam                 0   0   0   0

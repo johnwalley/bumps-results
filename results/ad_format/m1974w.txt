@@ -1,0 +1,15 @@
+MAYS 1974
+ 4  1  12   = NDay, NDiv, NCrew
+ 12  Women's Div I
+Clare                       0   0   0   0
+New Hall                   -1  -1  -1  -1
+Newnham                     1   0   0   0
+Newnham II                  0   1   0   0
+Girton                     -1  -1   0   0
+Churchill                   1   0   1   0
+Girton II                  -1  -1  -1  -1
+Wolfson                     1   1   0   1
+New Hall II                 0   1   0  -1
+Girton III                 -1  -1   0   0
+Newnham III                 1   0   1   1
+Newnham IV                  0   1   0   1

@@ -35,7 +35,7 @@ Cantabs 6                   0  -1   0  -1
 Free Press 7               -1  -1  -1  -1
 Rob Roy 6                   1   1   1   0
 Maximum Entropy 2           0   1   0   1
-Mott Macdonald 1           -1   0  -1  -1
+Mott MacDonald 1           -1   0  -1  -1
  18  Men's Div III
 Champs 1                   -1   0   1   1
 Marshalls 1                 2   0   1   0

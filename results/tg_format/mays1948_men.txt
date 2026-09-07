@@ -1,0 +1,17 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1948
+
+Division,J,TH,T,Q,SC,S,Cr,Cl,Ca,J2,L,T2,Pb,K,E
+Division,D,TH2,L2,M,Ph,Pb2,CC,SC2,Cl2,Q2,T3,S2,SS,L3,D2
+Division,TH3,J3,M2,F,Cr2,Ca2,T4,E2,K2,Pb3,TH4,J4,D3,Ph2,L4
+Division,T5,Cr3,Ca3,SC3,Cl3,Q3,Cl4,E3,TH5,CC2,J5,S3,M3,T6,SC4
+Division,F2,E4,K3,L5,TH6,J6,Ph3,SS2,Q4,Ca4,S4,J7,Cr4,Q5,SS3
+Division,SC5,TH7,D4,L6,Q6,Pb4,E5,SS4,Ph4,Pb5,M4,D5,Ph5,SC6,Q7
+
+Results
+rrururrrrrur rrurrrrururu rrruurrruuu rruuuuurrrr urrurrrrurrrr ruuruurrrrrr
+rrurrurrruu ururruo5uur rruuurrruur rurrurrro3uu ruururururr uururrurrrrr
+uuruurrrur rururo3uuru rurrrrrurruu urruururrur uurrrruurru ruruurrurrrr
+ruruurruru urro3urrurur uruuurruru ruurruruuu ruurrurruur rrruuurrurrr

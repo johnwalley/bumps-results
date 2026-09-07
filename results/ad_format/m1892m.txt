@@ -1,0 +1,34 @@
+MAYS 1892
+ 4  2  30   = NDay, NDiv, NCrew
+ 14  Men's Div I
+Trinity Hall                0   0   0   0
+1st Trinity                 0   0   0   0
+3rd Trinity                 0   0   0   0
+Pembroke                    0   0   0  -1
+Emmanuel                    0  -1  -1  -1
+Caius                      -1  -1  -1  -1
+Trinity Hall II             1   1   0   1
+LMBC                        0   1   1   0
+Jesus                       0   0   1   1
+Corpus Christi              0   0  -1   0
+Clare                       0  -1  -1   0
+Christ's                   -1  -1  -1   1
+1st Trinity II              1   1   1   1
+Trinity Hall III            0   1   1   0
+ 16  Men's Div II
+LMBC II                     0  -1  -1  -1
+Caius II                   -1   0   1   0
+King's                      1   1   1  -1
+Selwyn                     -1  -1  -1  -1
+Jesus II                    1   0  -1  -1
+1st Trinity III             0   1   1   1
+Pembroke II                 0   0   1   1
+Peterhouse                  0   0  -1  -1
+Emmanuel II                 0  -1   0   1
+Downing                    -1  -1  -1   0
+St Catharine's              1   1   1   1
+Queens'                     0   1   0   0
+Sidney Sussex               0   0   1   0
+Non-Collegiate              0  -1   0  -1
+Magdalene                   0   1   0   0
+Ayerst Hall                 0   0   0   1

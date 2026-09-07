@@ -1,0 +1,20 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1850 May
+Days,7
+
+Division,1st Trinity,3rd Trinity,L,Cr,2nd Trinity,E,Ca,J,M,2nd Trinity 2,1st Trinity 2,Ph,3rd Trinity 2,L2,Ca2,SC,L3,2nd Trinity 3,Q,TH,1st Trinity 3,Cl,E2
+Division,SS,J2,Ph2,CC,Ca3,,Cl2,
+
+Results
+urrrrrr uururuururrrrurrr
+e1e1e1e1e1e1e3r rre1e1e2re1e2re1xrurururrrr
+#XXX no crew shown at the top of the 2nd division
+e6e4xe1e3xx re3rre1xrururrurrrurrr
+rrrrr uuuurrrurrrrrrrrr
+#XXX missing crews above the bottom two crews
+e1xv0rr rruruurrrrurrrrrrr
+xv0rr ruurrrruuurrrrrrr
+#XXX unclear if Cl2 had been racing earlier or just did the last day
+rrr rrurrrrrrrrurrrrrrrr

@@ -1,0 +1,35 @@
+LENTS 1898
+ 4  2  31   = NDay, NDiv, NCrew
+ 15  Men's Div I
+LMBC                       -1  -1  -1   0
+1st Trinity                 1   0   0   0
+Trinity Hall                0   1   0   0
+King's                      0  -1   0  -1
+Pembroke                   -1   0   0   1
+Caius                       1   1   1   0
+Jesus                      -1  -1   0   0
+Pembroke II                 1   0  -1   0
+1st Trinity II             -1   0   0   0
+Emmanuel                    1   1   1   0
+Trinity Hall II             0   0   0   0
+3rd Trinity                 0  -1  -1  -1
+Corpus Christi              0   1   0  -1
+Peterhouse                 -1   0   0   1
+Christ's                    1   0   1   1
+ 16  Men's Div II
+Clare                       0   0   0   0
+Jesus II                   -1  -1  -1  -1
+Caius II                    1   0   0   0
+Pembroke III               -1  -1  -1  -1
+LMBC II                     1   1   0  -1
+1st Trinity III             0   1   1   1
+Emmanuel II                -1   0  -1   0
+1st Trinity IV              1   0   1   1
+Selwyn                      0  -1   0   0
+Sidney Sussex               0   1   1   1
+Trinity Hall III           -1   0  -1  -1
+St Catharine's              1   0   0  -1
+Downing                     0  -1  -1  -1
+Magdalene                  -1  -1   0   1
+Queens'                     1   1   1   1
+Clare II                    0   1   1   1

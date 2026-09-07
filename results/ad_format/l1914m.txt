@@ -1,0 +1,51 @@
+LENTS 1914
+ 4  3  46   = NDay, NDiv, NCrew
+ 15  Men's Div I
+1st Trinity                 0  -1   0   0
+Jesus                       0   1   0   0
+Pembroke                    0   0   0   0
+LMBC                        0   0   0   0
+3rd Trinity                 0   0  -1  -1
+Sidney Sussex               0  -1  -1  -1
+Trinity Hall               -1  -1  -1  -1
+Emmanuel                    1   1   1   0
+Christ's                    0   1   1   1
+Caius                      -1  -1  -1  -1
+Queens'                     1   0   1   1
+Jesus II                    0   1   0   1
+1st Trinity II              0   0   1   0
+Pembroke II                -1  -1  -1  -1
+Corpus Christi              1   0   0   1
+ 15  Men's Div II
+Clare                       0   1   0   0
+1st Trinity III            -1  -1   0  -1
+Pembroke III                1   0   1   0
+LMBC II                     0   1   0   1
+King's                      0  -1   1   1
+Trinity Hall II            -1  -1  -1  -1
+St Catharine's              1   1  -1   0
+Magdalene                   0   1   0   0
+Clare II                   -1  -1  -1  -1
+Caius II                    1   0   1   0
+Emmanuel II                -1  -1  -1   0
+Selwyn                      1   1   0   1
+Christ's II                 0   1   1   0
+LMBC III                    0  -1   0  -1
+1st Trinity IV             -1  -1   1   1
+ 16  Men's Div III
+1st Trinity V              -1   1  -1  -1
+Downing                     2   1   1   1
+Pembroke IV                 0   0  -1   0
+Queens' II                  0  -1   0   0
+King's II                  -1  -1  -1   0
+Jesus III                   1   1   1   1
+Peterhouse                  0   1   0   0
+Pembroke V                 -1  -1  -1  -1
+Selwyn II                   1   0   1   0
+Sidney Sussex II           -1  -1  -1  -1
+Caius III                   1   1   0  -1
+LMBC IV                     0   1   1   1
+Emmanuel III                0  -1  -1  -1
+Fitzwilliam                 0   1   1   1
+Trinity Hall III           -1   1   1   1
+Corpus Christi II           1  -1   0   1

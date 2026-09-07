@@ -1,0 +1,16 @@
+Set,Torpids
+Short,Torpids
+Gender,Women
+Year,2018
+
+Division,O,Wh,Ch,H,P,SJ,K,U,Wf,Lc,J,Mg
+Division,N,S,GT,B,T,SE,SAn,LM,L,Mf,Wf2,Wt
+Division,Br,Wh2,SC,E,SHu,Q,SHi,Mt,SAt,O2,SP,P2
+Division,SJ2,Co,R,S2,Wf3,Lc2,B2,L2,N2,J2,T2,Wt2
+Division,SAn2,Mf2,H2,Mg2,Ch2,SHi2,Mt2,SHu2,Ch3,Co2,Br2,SC2,GT2
+
+Results
+uw2ue1e1e1e2re-5 w2e1e3e1e2e-2e-5uu ue2re-2w2w3r uurw6r e2e2e-1e-3uuurrr
+t t t t t
+t t t t t
+t t v0v0v0v0v0v0w2rru ruure1e2re-3ru uw2uuurr

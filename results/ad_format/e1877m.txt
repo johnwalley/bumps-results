@@ -1,0 +1,26 @@
+EIGHTS 1877
+ 8  2  22   = NDay, NDiv, NCrew
+ 11  Men's Div I
+Brasenose                   0  -1   0  -1   0   0   0   0
+University                  0   1   0   0   0   0   0   0
+Pembroke                    0   0   0   1   0   0   0   0
+Exeter                      0   0  -1  -1   0   0  -1   0
+Corpus Christi              0  -1  -1  -1  -1   0   0   0
+St John's                  -1  -1  -1  -1   0   0   0   0
+Balliol                     1   1   1   0   0   0   0   0
+Christ Church              -1   0   1   1   0  -1   0   0
+Magdalen                    1   1   1   1   0   0   0   0
+Trinity                    -1   0   0   0   0   0   0   0
+Lincoln                    -1   0   0   0   0   0   0  -1
+ 11  Men's Div II
+Keble                       2   0   0   1   1   1   1   0
+Oriel                       0   0   0   0   0   0  -1   0
+Worcester                   0   0   0   0   0  -1   0   0
+Queen's                     0   0   0  -1  -1   0   0   0
+Hertford                    0   0  -1  -1   0  -1   0   0
+Wadham                      0  -1  -1  -1   0   0   0   0
+Merton                     -1   0   1   1   1   0   0   0
+New College                 1   1   1   1   0   1   1   1
+Jesus                      -1   0   0   0   1   0   0   0
+St Catherine's              1   0   0   1   0   1   0   0
+S.E.H.                      0   0   0   0   1   0   0   0

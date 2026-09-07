@@ -1,0 +1,16 @@
+Set,Torpids
+Short,Torpids
+Gender,Women
+Year,2013
+
+Division,Mg,Wh,N,SE,Ch,P,H,O,Wt,SJ,U,Q
+Division,SC,E,Wf,K,Mt,B,LM,Lc,Mf,S,J,SHi
+Division,SAn,SHu,Co,T,Wh2,SJ2,L,N2,Br,U2,Wt2,SAt
+Division,GT,SP,Wf2,H2,T2,SAn2,P2,E2,Mt2,Lc2,J2,LM2
+Division,GT2,O2,Br2,S2,SJ3,SAt2,SC2,SHu2,SP2,Wh3,SHi2,Co2,R
+
+Results
+w2ruurrrrr w4rw2rrrr w2re2re1e-3rw2r ue2re-2w3rur uruuurrrr
+rw2w2uw3 w5rruw2 w3rruuw2 e2re-2w2e1e1e2re-4u e1e2re1e1e-5urrrrr
+rrw3rrw4 re2e2e-1e1e1e-5uurr ue2e2e-1e-3e1e2re1e-4u e2re1e-3w2w2e2re-2 uruuuurr
+ruw2e3ue1e-4rr urrrw2uru rw5rrw2r rw3w2rurr re2re-2uuurrr

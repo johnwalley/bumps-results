@@ -3,8 +3,8 @@ Short,Town
 Gender,Women
 Year,2012
 
-Division,City 1,99 1,City 2,Camb Veterans 1,City 3,St Neots 1,Cantabs 1,Cantabs 2,Rob Roy 1,X-Press 1,Champs 1,99 2,City 4,Champs 2,City 5,Chesterton 1,99 3
-Division,Champs 3,Champs 4,Champs 5,Cantabs 3,St Radegund 1,Isle of Ely 1,Champs 6,City 6,X-Press 2,St Radegund 2,Champs 7,Cantabs 4,City 7,Chesterton 2,City 8,St Neots 2,Cantabs 5,Cantabs 6,99 4
+Division,Ci,N,Ci2,CV,Ci3,SN,Ca,Ca2,R,X,Ch,N2,Ci4,Ch2,Ci5,Ct,N3
+Division,Ch3,Ch4,Ch5,Ca3,SR,IE,Ch6,Ci6,X2,SR2,Ch7,Ca4,Ci7,Ct2,Ci8,SN2,Ca5,Ca6,N4
 
 Results
 ruruo3urrururr uurrrrruurrrrr

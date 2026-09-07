@@ -1,0 +1,33 @@
+MAYS 1899
+ 4  2  29   = NDay, NDiv, NCrew
+ 14  Men's Div I
+1st Trinity                 0   0   0   0
+Trinity Hall               -1   0   0   0
+3rd Trinity                 1   0   0   0
+Emmanuel                    0  -1  -1   0
+LMBC                        0   1   0  -1
+Trinity Hall II             0  -1  -1   0
+Caius                      -1  -1   0  -1
+Pembroke                    1   1   1   1
+Jesus                       0   1   1   0
+Emmanuel II                -1  -1  -1  -1
+King's                      1   0  -1  -1
+1st Trinity II              0   1   1   1
+Christ's                    0   0   1   1
+LMBC II                    -1  -1  -1  -1
+ 15  Men's Div II
+Caius II                    1   0   0   1
+Trinity Hall III           -1  -1  -1  -1
+Clare                       1   1   0   0
+Peterhouse                  0   1   1   0
+Corpus Christi             -1  -1  -1   0
+Pembroke II                 1   0   1   1
+Jesus II                    0   1   0   1
+Selwyn                      0   0   1   0
+Sidney Sussex               0   0   0   0
+Magdalene                   0   0   0  -1
+St Catharine's              0   0  -1   0
+Queens'                     0  -1   0  -1
+Downing                    -1   0  -1   0
+3rd Trinity II              1   1   1   1
+Clare II                    0   0   1   1

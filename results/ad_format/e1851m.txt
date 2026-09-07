@@ -1,0 +1,20 @@
+EIGHTS 1851
+ 8  1  17   = NDay, NDiv, NCrew
+ 17  Men's Div I
+Wadham                     -1  -1  -1  -1  -1  -1   0   0
+Balliol                     1   0   0   0   0   0   0   0
+Brasenose                   0   1   0   0   0   0   0   0
+Worcester                   0   0   1   0   0   0   0  -1
+Oriel                      -1  -1  -1   0   0  -1  -1   0
+Lincoln                     1   0   0   1   0  -1   0   0
+Exeter                      0   1   0   0   1   1   0   1
+Christ Church               0   0   1   0   0   1   0   0
+St John's                   0   0   0   0   0   1   0   0
+University                  0   0   0   0   0   0   1   0
+Pembroke                    0   0   0  -1   0   0   0   0
+Merton                      0   0  -1   0   0   0   0   0
+Queen's                    -1  -1   0   2   0   0   0   0
+Jesus                       1   0   1   1   0   0   0   0
+Trinity                     0   1   0  -1   0   0   1   0
+Exeter II                   0   0   1   2   0   0   0   0
+Magdalen Hall               0   0   1   2   0   0  -1   0

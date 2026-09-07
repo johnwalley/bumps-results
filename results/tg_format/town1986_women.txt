@@ -3,10 +3,11 @@ Short,Town
 Gender,Women
 Year,1986
 
-Division,City 1,99 1,City 2,99 2,City 3,Cantabs 1,99 3,99 4,Addenbrooke's 1,Cantabs 2,City 4,99 5,Cantabs 3,Coopers & Lybrand 1,Univ Sports 1,Lady Somerset 1,Leckhampton 1,City 5,Addenbrooke's 2,Cantabs 4,City 6
+Division,Ci,N,Ci2,N2,Ci3,Ca,N3,N4,Addenbrooke's,Ca2,Ci4,N5,Ca3,Coopers & Lybrand,Univ Sports,Lady Somerset,Leckhampton,Ci5,Addenbrooke's 2,Ca4,Ci6
 
 Results
 ro3uurruruururr
 rrrrrrrrrrrrrrrurur
 ruruuuuuurrur
 rrruurruuurrrrrr
+

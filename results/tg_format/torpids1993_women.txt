@@ -1,0 +1,14 @@
+Set,Torpids
+Short,Torpids
+Gender,Women
+Year,1993
+
+Division,S,N,Wh,OH,Wf,U,SC,P,SHi,LM,Br,Wt
+Division,SAn,Ch,T,K,O,SJ,H,B,SHu,E,J,S2
+Division,SE,Lc,L,Mt,Q,Mg,SP,N2,O2,OH2,P2,Wh2,Mf
+
+Results
+ruurrrw2u e2re2re-4rrruru e2re-2rrw3urr
+rre2re1e-3ruw3 e2re1e-3urrre2re-2r rre2re-2rrrurrr
+rw2rrw3w2 rrw2uurw2 uuururrrr
+rre2re1e1e-4rruu w2ruuruu e1e2re1e-4rrrurrr

@@ -1,0 +1,22 @@
+EIGHTS 1864
+ 8  1  19   = NDay, NDiv, NCrew
+ 19  Men's Div I
+Trinity                     0   0   0   0   0   0   0   0
+Brasenose                   0   0   0   0   0   0   0   0
+Balliol                    -1   0  -1  -1   0   0   0   0
+University                  1   0   0   0   0   0   0   0
+Magdalen                    0  -1  -1   0   0   0   0   0
+Exeter                      0   1   1   0   0  -1   0   0
+Christ Church               0   0   1   1   0   1   0   0
+Pembroke                    0   0   0   0   0   0   0   0
+Merton                     -1  -1  -1   0  -1  -1   0  -1
+Corpus Christi              1   0   0   0   0   0   0   0
+Wadham                      0   1   0   0   0   0   0   0
+Queen's                     0   0   1   0   0   0   0   0
+S.E.H.                     -1  -1  -1   0  -1  -1   0   0
+Lincoln                     1   0   0  -1  -1   0   0   1
+Jesus                      -1  -1  -1   0  -1   0   0   0
+Oriel                       1   1   0   1   1   0   0   0
+Worcester                  -1   0   1   0   1   0   0   0
+St John's                   1   1   1   0   1   1   0   0
+New College                 0   0   0   0   1   1   0   0

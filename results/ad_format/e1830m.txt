@@ -1,0 +1,9 @@
+EIGHTS 1830
+ 5  1  6   = NDay, NDiv, NCrew
+ 6  Men's Div I
+Christ Church               0   0   0   0   0
+Brasenose                  -1   0   0   0   0
+Balliol                     1   0   0   0   0
+University                  0   0  -1   0   0
+St John's                   0   0   1   0   0
+Worcester                   0   0   0   2   0

@@ -1,0 +1,14 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1861 February
+Days,3
+Flags,skip_headship
+
+Division,1st Trinity,L,3rd Trinity,Ca,TH,E,2nd Trinity,Cr,1st Trinity 2,TH2,M,CC,Ph,Lady Somerset,SS,1st Trinity 3,J,Cl,L2
+Division,Ca2,2nd Trinity 2,1st Trinity 4,E2,Q,3rd Trinity 2,Pb,K,CC2,Cr2,E3,SC,Lady Somerset 2,L3,Ca3,2nd Trinity 3,TH3,Cr3,CC3,J2,Cl2,Ca4,Q2,Lady Somerset 3,L4,1st Trinity 5,SS2,Pb2,Cr4,1st Trinity 6
+
+Results
+o3uuruurruruuuro3uur t
+urruuuurruruuo3uuur t
+rurruuuuuruuurrrrrur t

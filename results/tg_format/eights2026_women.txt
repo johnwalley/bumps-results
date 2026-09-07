@@ -1,0 +1,18 @@
+Set,Summer Eights
+Short,Eights
+Gender,Women
+Year,2026
+
+Division,P,Wh,U,Wf,B,Ch,K,Mg,SE,Lc,O,N
+Division,SJ,L,J,GT,E,H,SAn,Mt,S,LM,Mf,Q
+Division,SP,SC,Br,T,Wt,SAt,U2,Wf2,SHu,SHi,P2,Ch2
+Division,Co,Wh2,O2,Mg2,L2,GT2,K2,Wt2,Lc2,Reuben,Br2,SJ2
+Division,Wf3,SE2,H2,N2,S2,SHu2,Mt2,R,E2,J2,B2,SHi2
+Division,SP2,Q2,SC2,Mf2,LM2,U3,SAn2,Wh3,O3,P3,Wt3,SJ3
+Division,E3,U4,SE3,S3,SHi3,Br3,LM3,Wh4,Mg3,SAn3,Mg4,GT3,Wt4
+
+Results
+o3uururru o3uuro5uu ruururuu rro3ururru ruruuuru urruuuru rrrrrrrrrrrrr
+rrrururuu rruro3uurr uuurruur uuuuuur uruuurur rurruurur rrururuur
+urruuruu uro3uruur ruuuuuu rurururru rruuuruu urruururr rrrruururr
+urrruruur uurrrurrrr uuuuuur uuuururr ruuuruur rrrurrrurrr rrruuurru

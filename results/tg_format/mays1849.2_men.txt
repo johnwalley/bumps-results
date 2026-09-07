@@ -1,0 +1,19 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1849 May
+Days,7
+
+Division,3rd Trinity,2nd Trinity,L,1st Trinity,Ca,E,1st Trinity 2,Cr,2nd Trinity 2,Ca2,J,Cl,L2,Ph,M,2nd Trinity 3,Q,J2,3rd Trinity 2,1st Trinity 3,SC,TH,Ca3
+Division,L3,Ph2,Cl2
+
+Results
+#XXX no crew listed at foot of first division - I guessed Ca3
+rrr uuruurruururruu
+rrv0 rrrururruurrrrurrrr
+v1xr rrrruruuurruurrrrr
+#XXX gap in data for bottom crew - marked as v0 for Cl2
+u rre2e-1e-1ruuuurrrrrrrrrr
+xr rurruuuururrrrrrrr
+r rruuuuurrrrrrrrrur
+r rrrurruuurrrrrrurrr

@@ -1,0 +1,19 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1831 April May
+Days,9
+
+Division,L,Trinity Monarch,St. John's Corsair,Cr,J,Ph,,SC,E,Cl,Ca,Trinty Nautilus,Q
+
+Results
+v0rrrururru
+v0ruruurrrr
+v0uururrru
+v0ruururrrr
+#XXX ambiguous results with bottom 4 crews
+v1e1e2rxruuur
+v0re2e-1e-1rurur
+ruuuuru
+rrro5uuru
+e1e1e2xe-1urrru

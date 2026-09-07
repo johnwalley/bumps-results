@@ -1,0 +1,33 @@
+MAYS 1900
+ 4  2  29   = NDay, NDiv, NCrew
+ 14  Men's Div I
+1st Trinity                 0   0   0   0
+3rd Trinity                 0   0   0   0
+Trinity Hall                0   0   0   0
+Pembroke                    0   0   0   0
+LMBC                       -1   1  -1   0
+Emmanuel                    1  -1   1   0
+Jesus                       0   0   0  -1
+Trinity Hall II            -1  -1  -1  -1
+1st Trinity II              1   0  -1   0
+Caius                      -1   0   1   0
+Christ's                    1   1   1   1
+King's                      0   0  -1  -1
+Caius II                    0  -1  -1  -1
+Emmanuel II                -1  -1  -1  -1
+ 15  Men's Div II
+Clare                      -1   1   1   1
+Peterhouse                  2   1   1   1
+Pembroke II                 0   0   1   1
+LMBC II                     0  -1   0  -1
+Jesus II                    0   1   0   1
+Trinity Hall III            0   0  -1  -1
+Selwyn                      0   0   1   1
+Corpus Christi              0  -1   0   0
+Sidney Sussex              -1   0   0   0
+3rd Trinity II              1   1   0   1
+Magdalene                   0   0   0   0
+St Catharine's              0  -1  -1   0
+Clare II                   -1  -1   0   0
+Queens'                     1   1   0   0
+Downing                     0   1   1   0

@@ -1,0 +1,18 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1984
+
+Division,O,K,Wt,E,Ch,B,P,O2,Lc,Q,SE,U
+Division,N,Br,H,Wh,SC,J,OH,Mg,SJ,T,K2,P2
+Division,Co,Mt,Mf,SP,Wf,E2,O3,U2,Ch2,Wt2,Lc2,B2
+Division,Wh2,Q2,SJ2,J2,SE2,K3,SC2,Br2,Wf2,E3,N2,O4
+Division,R,O5,Q3,LM,H2,SP2,Wt3,SAn,Wh3,SJ3,K4,Co2
+Division,L,J3,K5,Br3,LM2,SB,SAn2,T2,SC3,K6,SC4,Ch3
+Division,O6,B3,L2,Mg2,Mf2,Mt2,SE3,O7,T3,LM3,T4,Lc3,E4
+
+Results
+ururuuur w3rururu w2uw2w3r w7urrr uuw2rw3r uurrre1e1e2re1e-5 uurruurrr
+re1e2re-3urrurr rururrruu rrue1e1e1e1e1e1e2re-8 e2re2e2e-1e1e1e1e-8e2re-2r rrrrrue2e2e2e2e-3e-5 rrrrrrrre2re-2rr ruw3rrurr
+uw3rurru e1pe-1w2w3rur w2w3w2ur rruruw2ru re1e2e2e2e-4e2re1e1e-7rr w3ruurrrr e1e2e2e-3e1e-3rruur
+ruw3w2ur rrruurrrru rw2w3w2u urruuw2rr w3rw2urrr w3rw2rre2re-2 rurrurrrrrr

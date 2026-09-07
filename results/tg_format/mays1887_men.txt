@@ -1,0 +1,13 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1887
+
+Division,TH,3rd Trinity,Pb,J,Cl,1st Trinity,Ca,L,TH2,TH3,Cr,E,1st Trinity 2,S,J2
+Division,1st Trinity 3,CC,Ph,L2,Ca2,M,Pb2,Cavendish,D,Pb3,SC,K,Q,SS,Non-Collegiate
+
+Results
+rrruurrrrurr urrrrrururrrr
+rruurrrrrrru ruruururrrrr
+ruuurrrrrur urrrrrrurrrrrr
+rruuurrruu rrrrrrruurrrrr

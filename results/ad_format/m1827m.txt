@@ -1,0 +1,9 @@
+MAYS 1827 April May November
+ 17  1  6   = NDay, NDiv, NCrew
+ 6  Men's Div I
+Trinity King Edward         0   0   0   0   0  -1   1   0   0   0  -1   1   0   0   0   0   0
+LMBC                        0   0   0   0   0   1  -1   0   0   0   1  -1   0   0   0   0   0
+Jesus                      -1   0   0  -1   0   0   0   0   1  -1   0   0   0   0   0   0   0
+Trinity Westminster        -1   0  -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+Caius                       2   0   0   0  -1   0   0   0  -1   1   1   0   0  -1   0   0   0
+Trinity Eton                0   0   1   1   1   0   0   0   0   0  -1   0   0   1   0   0   0

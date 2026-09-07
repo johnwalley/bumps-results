@@ -73,7 +73,7 @@ Jesus III                   1   1   4   1
 Brasenose III              -1  -1  -1   0
 Regent's Park               1  -5  -1  -1
 Wadham III                 -1  -1   0  -1
-Christ Church IV            1   1   0  -1
+Christ Church III           1   1   0  -1
 University III              0   1   1   1
 S.E.H. III                 -1  -1  -1  -1
 Queen's III                 1   5   1   4
@@ -89,6 +89,6 @@ St Peter's III              1   1   1   1
 St John's III              -3  -1  -1   0
 New College III            -1   0  -1  -1
 Lincoln III                 1   0   1   1
-Christ Church III           3   1   1   1
+Christ Church IV            3   1   1   1
 University V               -1   0   1   1
 L.M.H. II                   1   1   1   1

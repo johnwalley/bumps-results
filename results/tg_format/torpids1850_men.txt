@@ -1,0 +1,17 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1850
+Days,8
+
+Division,Wh,Lc,Br,E,Ch,U,Wt,SJ,P,B,Q,J,MH,O
+
+Results
+v0uruurrrur
+v0urre2e-1e-1urru
+v0rrurruurrr
+v0rrruuurrrr
+e2e2e3xre1xuurrr
+ruruuurr
+urrrurrur
+rruururrr

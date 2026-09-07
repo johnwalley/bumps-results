@@ -3,9 +3,9 @@ Short,Town
 Gender,Women
 Year,2021
 
-Division,Cantabs 1,City 1,Cantabs 2,Cantabs 3,X-Press 1,99 1,Cantabs 4,Chesterton 1,St Neots 1,Champs 1,City 2,99 2,Rob Roy 1,Isle of Ely 1,99 3,Champs 2,Rob Roy 2
-Division,Champs 3,City 3,City 4,Cantabs 5,City 5,99 4,X-Press 2,Chesterton 2,City 6,99 5,Cantabs 6,Cantabs 7,City 7,X-Press 3,St Neots 2,Champs 4,Chesterton 3
-Division,Cantabs 8,99 6,City 8,Cantabs 9,Isle of Ely 2,Cantabs 10,Cantabs 11,City 9,Cantabs 12
+Division,Ca,Ci,Ca2,Ca3,X,N,Ca4,Ct,SN,Ch,Ci2,N2,R,IE,N3,Ch2,R2
+Division,Ch3,Ci3,Ci4,Ca5,Ci5,N4,X2,Ct2,Ci6,N5,Ca6,Ca7,Ci7,X3,SN2,Ch4,Ct3
+Division,Ca8,N6,Ci8,Ca9,IE2,Ca10,Ca11,Ci9,Ca12
 
 Results
 uruurr uurrruuuruu o3urrrrurrurrrr

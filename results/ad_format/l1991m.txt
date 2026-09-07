@@ -45,14 +45,14 @@ Queens' II                  1   1   0   0
 Fitzwilliam II              0   1   0   0
 Clare III                   0   0   1   0
 Darwin                     -1   1   0  -1
-LMBC V                      1  -1  -1  -1
+LMBC IV                     1  -1  -1  -1
 Corpus Christi II           0   0   1   1
 1st and 3rd III            -1  -1  -1  -1
 Churchill III               1   0  -1  -1
 Girton II                   0   1   1   1
 Magdalene III               0  -1   0  -1
  16  Men's Div IV
-LMBC IV                     0  -1  -1  -1
+LMBC V                      0  -1  -1  -1
 St Catharine's II          -1  -1  -1  -1
 Vet School                  1   2   1   1
 Trinity Hall III            0   1   1   2

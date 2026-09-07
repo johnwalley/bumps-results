@@ -1,0 +1,22 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1829 February March April
+Days,11
+Flags,skip_headship
+
+Division,L,Ph,CC,2nd Trinity,Trinity Monarch,J,,,,L2
+
+Results
+v0v0v0v0v0v0uu
+v0v0v0v0v0v0rrrr
+v0v0v0v0v0urrr
+v1v1v1v1v1e1e2re1x
+v0v0v0v0rrrrr
+#XXX ambiguous results at bottom of division
+v0v0v0v0uur
+v0v0ururr
+v0uuurr
+v0ururrr
+v0rruurr
+uurrur

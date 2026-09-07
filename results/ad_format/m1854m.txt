@@ -1,0 +1,35 @@
+MAYS 1854 May
+ 6  2  31   = NDay, NDiv, NCrew
+ 16  Men's Div I
+1st Trinity                -1   0   0   0   0   0
+LMBC                        1   0   0   0   0   0
+Trinity Hall                0   0   0   0   0   0
+3rd Trinity                 0  -1   0   0  -1   0
+Christ's                   -1  -1  -1  -1  -1   0
+Emmanuel                    1   1   0   0   0   0
+Caius                       0   1   0  -1  -1   0
+1st Trinity II             -1   0   0   1   1   0
+Corpus Christi              1   0   1   1   1   0
+Sidney Sussex               0   0   0  -1  -1   0
+LMBC II                     0  -1  -1   0   0   0
+King's                     -1  -1   0   0   0  -1
+Emmanuel II                 1   1   0   1   1   0
+Jesus                      -1   0   0   0  -1  -1
+Queens'                     1   1   1   0   1   0
+Peterhouse                  0  -1  -1  -1  -1   0
+ 15  Men's Div II
+Trinity Hall II             0   1   0  -1   0   1
+Magdalene                   0  -1   0   1   0  -1
+LMBC III                   -3  -1   0  -1  -1  -1
+Clare                      -1   0  -1   0   1   0
+1st Trinity III             1   0   0  -1  -1  -1
+2nd Trinity                 3   1   1   1   1   1
+Caius II                   -1   0  -1  -1  -1  -1
+St Catharine's              1   1   1   1   1   1
+Emmanuel III               -1  -1   0   2   1   0
+3rd Trinity II              1   0   1   1   0   1
+Jesus II                   -1  -1   0   0   0   0
+2nd Trinity II              1   1   0  -1   1   1
+1st Trinity IV             -1   0   1   0   0   0
+Christ's II                 1   1   0   0   0   1
+                            0   0   1   0   0   0

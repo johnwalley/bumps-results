@@ -1,0 +1,15 @@
+EIGHTS 1854
+ 8  1  12   = NDay, NDiv, NCrew
+ 12  Men's Div I
+Brasenose                   0   0   0   0   0   0   0   0
+Balliol                     0   0   0   0   0   0   0   0
+Worcester                   0   0   0  -1   0   0   0   0
+Christ Church               0   0   0   1   0   0   0   0
+Pembroke                    0   0   0   0   0  -1  -1   0
+Exeter                      0   0   0   0  -1  -1   0  -1
+Lincoln                     0  -1  -1   0   0   0   0   1
+St John's                   0   1   0  -1   0   1   1   0
+Wadham                      0   0   1   1   1   1   0   0
+Trinity                     0   0   0   1   0   0   0   1
+Jesus                      -1   0   0   2   0   0   2  -1
+Christ Church II            1   0   0   0   0   0   0   0

@@ -1,0 +1,14 @@
+Set,Town Bumps
+Short,Town
+Gender,Men
+Year,1868
+Days,5
+
+Division,Church of England Young Men's Society,United College Servants,Albert Institute,Cambridge Town Rowing Club,Young Men's Christian Association,Pitt Press,Albert Institute 2,Cambridge Town Rowing Club 3,Cambridge Town Rowing Club 2,United College Servants 2
+
+Results
+ruuruu
+uurrrur
+ruuruu
+rruurur
+ruurrrrr

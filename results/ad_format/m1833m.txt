@@ -1,0 +1,20 @@
+MAYS 1833 May
+ 9  1  17   = NDay, NDiv, NCrew
+ 17  Men's Div I
+1st Trinity (Black Prince)   0   0  -1   1  -1   1  -1  -1   0
+LMBC                       -1  -1  -1   1  -1  -1  -1  -1  -1
+Queens'                     1   0   1  -1   1  -1   1   0  -1
+2nd Trinity (Queen Bess)    0   1   0   0   0  -1   0   0  -1
+Christ's                    0   0   1  -1   1   1   0   1   1
+Jesus                       0   0   0  -1  -1  -1  -1  -1   1
+Clare                       0  -2  -1   1   0   0  -1  -1   1
+Caius                      -1   1   1   1   0   1   0   0   1
+Emmanuel                    1   1  -1   0   1   0   1   0  -1
+St. John's 'Tally-Ho'       0   0   1  -1  -1   1   1   0   1
+LMBC II                     0   0   0   0  -3   2   0   0  -1
+1st Trinity II              0  -4   0  -1   0   1   1   0   1
+3rd Trinity (Dolphin)       0  -1   1   1  -1   0   2   1  -1
+Magdalene                   0  -1   3  -1   3   2   0   1   1
+2nd Trinity (Queen Bess) II   0   2  -1  -1  -1   2  -2   0   0
+St. John's Corsair          0   4  -3   1   2   1  -2  -1  -1
+St Catharine's              0   0   0   1   1   0   1   1   1

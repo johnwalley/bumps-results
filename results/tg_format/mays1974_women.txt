@@ -1,0 +1,12 @@
+Set,May Bumps
+Short,Mays
+Gender,Women
+Year,1974
+
+Division,Cl,NH,N,N2,G,Cu,G2,W,NH2,G3,N3,N4
+
+Results
+ruruurur
+uruururr
+rrurrrurrr
+ruururrrr

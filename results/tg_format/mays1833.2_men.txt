@@ -1,0 +1,18 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1833 May
+Days,9
+
+Division,1st Trinity (Black Prince),L,Q,2nd Trinity (Queen Bess),Cr,J,Cl,Ca,E,St. John's 'Tally-Ho',L2,1st Trinity 2,3rd Trinity (Dolphin),M,2nd Trinity (Queen Bess) 2,St. John's Corsair,SC
+
+Results
+v0v0rrrrrrurrrrur
+v0e4e2e-1e-1e-4rrw2rrurr
+v0ro3uruururu
+uuururuuru
+rue2e3e-1e-3e-1rururu
+e1e2re2re1e1e2xe-1ruuu
+w2e2re-2ururrru
+rrurururrrur
+ruuuuuuru

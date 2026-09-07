@@ -55,7 +55,7 @@ Oriel IV                    1   2   0   1
  12  Men's Div V
 Regent's Park               1   0   0  -1
 Oriel V                    -3   1  -2  -3
-Queen's IV                  1   0  -1  -2
+Queen's III                 1   0  -1  -2
 L.M.H.                      1   4   1   0
 Hertford II                 1   1   1   2
 St Peter's II              -2   1  -3  -2

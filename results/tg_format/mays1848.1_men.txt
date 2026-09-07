@@ -1,0 +1,19 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1848 March
+Days,5
+Flags,skip_headship
+
+Division,1st Trinity,L,3rd Trinity,M,1st Trinity 2,2nd Trinity,CC,L2,Ph,SS,2nd Trinity 2,Ca,E,Cr,2nd Trinity 3,Q,Ca2,1st Trinity 3,Cl,TH,3rd Trinity 2,L3,2nd Trinity 4
+Division,J,L4,Ph2,Cr2,J2,M2,Ca3
+
+Results
+rrre2re-2v0 ruuuurrruurrurur
+#XXX Jesus appears at the top of the 2nd division - I've added them to the start order
+xxe4e-1e-1e-1v-1 e1pe-1uue2e-1e-1urruuuurrr
+#XXX Two crews going up a division
+e2e2e4e1e4 rrxre1e1xrrrrruuuuuu
+xurr uuurrrurruuurrr
+xrrr ruuruuurruurrrr
+#XXX Jesus 2 turns into Emma 2 between March & May races

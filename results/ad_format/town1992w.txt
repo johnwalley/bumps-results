@@ -13,7 +13,7 @@ City 4                      1  -1  -1  -1
 99 4                       -1   0  -1  -1
 Leckhampton 1               1   0   1   1
 Cantabs 2                   0  -1   0   1
-Mott Macdonald 1           -1  -1  -1  -1
+Mott MacDonald 1           -1  -1  -1  -1
 Rob Roy 1                   1   1   1   1
 99 5                        0   1   0  -1
 Coopers & Lybrand 1         0  -1   0   1

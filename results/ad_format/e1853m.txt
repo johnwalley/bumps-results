@@ -1,0 +1,18 @@
+EIGHTS 1853
+ 8  1  15   = NDay, NDiv, NCrew
+ 15  Men's Div I
+Brasenose                   0   0   0   0   0   0   0   0
+Balliol                     0   0   0   0   0   0   0   0
+Worcester                   0   0   0   0   0   0   0   0
+Christ Church               0   0   0   0   0   0   0   0
+St John's                   0   0  -1   0  -1  -1   0  -1
+University                  0  -1  -1  -1  -1  -1  -1  -1
+Exeter                     -1   0   1  -1   0   1   0   0
+Pembroke                    1   1   1   0   0   0   0   0
+Queen's                     0   0   0   2   1   0   0   0
+Lincoln                     0   0   0   0   1   0   0   1
+Jesus                      -1  -1  -1   0   0   0   0   0
+New College                 1   0   0   0   0   1   0  -1
+Trinity                     0   1   0  -1   0   0   0   1
+Wadham                      0   0   1   1   0   0   1   1
+Oriel                       0   0   0   0   0   0   0   0

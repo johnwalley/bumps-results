@@ -1,0 +1,15 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Men
+Year,1941
+Days,3
+
+Division,J,Cl,Pb,J2,TH,T,L,M,S,SC,Q,Cr,E,T2,CC
+Division,SS,Ca,TH2,Ph,L2,J3,Pb2,D,Cr2,Cl2,Ca2,E2,SC2,T3,M2
+Division,J4,D2,Queen Mary,London School of Economics,St. Batholemew's,Ph2,T4,SC3,London Hospital,London School of Economics 2
+
+Results
+rurrrrru ururuurrrru uuururruur
+uurro3uuuuruurrur ruuurrururr
+ruururr ruururruurr rurrrurrurrrr
+

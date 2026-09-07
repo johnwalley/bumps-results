@@ -1,0 +1,4 @@
+EIGHTS 1819
+ 1  1  1   = NDay, NDiv, NCrew
+ 1  Men's Div I
+Christ Church               0

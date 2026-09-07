@@ -1,0 +1,7 @@
+EIGHTS 1835
+ 3  1  4   = NDay, NDiv, NCrew
+ 4  Men's Div I
+Christ Church               0   0   0
+Worcester                  -1   0   0
+Exeter                      1   0   0
+Brasenose                   0   0   1

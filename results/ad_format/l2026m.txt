@@ -1,0 +1,63 @@
+LENTS 2026
+ 4  4  57   = NDay, NDiv, NCrew
+ 17  Men's Div I
+LMBC                        0   0  -1   0
+Downing                     0  -1   0  -1
+Clare                      -1  -1  -1  -1
+Caius                       1   1   1   0
+Jesus                       0   1   0   1
+Magdalene                  -1  -1  -1  -1
+Emmanuel                    1   0   1   0
+Pembroke                    0   1   0   1
+St Catharine's             -1  -1   0   0
+Trinity Hall                1   0   1   0
+Peterhouse                 -1  -1  -1  -1
+1st and 3rd                 1   1   0   1
+Queens'                    -1  -1   0   1
+Selwyn                      1   1   0   0
+Robinson                    0   1   1   0
+King's                      0  -1   0   0
+Christ's                   -1   0   0   0
+ 17  Men's Div II
+Fitzwilliam                 1   1   0   0
+LMBC II                     0   0  -1  -1
+Churchill                   0  -1  -1  -1
+Wolfson                     0   1   1   0
+Girton                      0  -1  -1   0
+Homerton                   -1  -1  -1  -1
+Caius II                    1   1   1   1
+Hughes Hall                -1  -1  -1  -1
+Corpus Christi              1   1   1   1
+Jesus II                    0   1   1   0
+Sidney Sussex               0  -1  -1   0
+1st and 3rd II              0   1   1   1
+Emmanuel II                -1   0  -1   0
+Darwin                      1   0   1   1
+Downing II                  0  -1  -1   0
+Clare II                   -1  -1  -1  -1
+Pembroke II                 1   1   1   0
+ 17  Men's Div III
+St Edmund's                -1   0   1   0
+Christ's II                 1   1   1   0
+Magdalene II               -1  -1  -1  -1
+Queens' II                  1   0   0   1
+Fitzwilliam II              0   1   0  -1
+Trinity Hall II             0   0   1   1
+Peterhouse II               0   0   0   1
+Lucy Cavendish              0   0   0   0
+Selwyn II                  -1  -1  -1  -1
+St Catharine's II           1   0  -1   0
+Clare Hall                 -1   0   1   0
+Sidney Sussex II            1   1   1   0
+LMBC III                    0   0  -1  -1
+Jesus III                   0  -1  -1   0
+Anglia Ruskin               0   1   1   1
+1st and 3rd III             0  -1   0   0
+Pembroke III               -1   0   0   0
+ 6  Men's Div IV
+Emmanuel III                1   1   1   1
+Robinson II                 0   0   0  -1
+Lucy Cavendish II          -1  -1  -1   1
+Sidney Sussex III           1   0  -1   0
+Trinity Hall III            0   1   1   1
+Darwin II                   0   0   1  -1

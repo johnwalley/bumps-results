@@ -9,7 +9,7 @@ Division,E,Co,U,SJ,H2,N,Q,Mg,SP,T,Br2,SHi2
 Division,SHu3,Q2,B,S3,U2,K2,SE,SAn2,B2
 
 Results
-rrrrrrrrr rrrrrrrrrrrrr uuurrurrr rurrruurrr
-rrrrrrrrr rrrrrrrrrrrrr ruuuuurr uurrururr
+t t uuurrurrr rurrruurrr
+t t ruuuuurr uurrururr
 urruur urururrru urruuuur rurruruur
 rrrurru uuururur ro3uuuuu uurrruurr

@@ -1,0 +1,36 @@
+MAYS 1855
+ 6  2  32   = NDay, NDiv, NCrew
+ 15  Men's Div I
+LMBC                        0   0   0   0   0   0
+1st Trinity                -1   0  -1   0   0   0
+Trinity Hall                1   0   0   0   0   0
+Emmanuel                   -1   1   1   0   0   0
+Corpus Christi              1  -1  -1  -1  -1  -1
+3rd Trinity                 0  -1  -1  -1  -1  -1
+1st Trinity II             -1  -1  -1  -1  -1  -1
+Caius                       1   1   1   0   0  -1
+Emmanuel II                -1  -1  -1  -1  -1  -1
+Christ's                    1   1   1   1   0   1
+Queens'                     0   1   1   1   1   0
+Sidney Sussex               0   0   1   1   1   1
+LMBC II                    -1   0  -1  -1  -1  -1
+2nd Trinity                 1   0   0   1   1   1
+King's                      0  -1   0   1   0   1
+ 17  Men's Div II
+Trinity Hall II             0  -1   0   0   1   0
+Jesus                      -1  -1  -1  -1  -1  -1
+St Catharine's              1   2   1   0   1   1
+Magdalene                   0   1   0  -1  -1  -1
+Peterhouse                  0  -1  -1   0   1   1
+Clare                      -1  -1   0   0   0   1
+3rd Trinity II              1   1   1   1   0   1
+1st Trinity III            -1   0   0   0  -1  -1
+Emmanuel III                1   1   1   1   1   0
+2nd Trinity II              0   0  -1  -1  -1   1
+LMBC III                   -1   1   1   0   1   0
+Christ's II                 1  -1   0   1   0   1
+Caius II                    0   0   0   0   1  -1
+Jesus II                    0  -1   0   0   0   0
+LMBC IV                     0   0   0   0   0   0
+Christ's III               -1   1   0   0   0   0
+Trinity Hall III            1   2   0   0   0   0

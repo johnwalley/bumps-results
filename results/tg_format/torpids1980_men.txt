@@ -1,0 +1,18 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1980
+
+Division,O,B,Wt,K,E,Lc,Ch,Q,N,SE,U,Mg
+Division,J,T,Br,OH,O2,Wh,P,Mt,SC,H,SP,SJ
+Division,Lc2,Q2,Q3,Co,P2,Wf,Ch2,SE2,U2,Mf,SJ2,K2
+Division,O3,E2,R,SP2,J2,O4,Wh2,SC2,Br2,Mt2,N2,Wt2
+Division,B2,O5,Co2,L,E3,K3,Wf2,H2,Q4,Co3,OH2,T2
+Division,Ch3,Q5,Mf2,Lc3,Wt3,K4,L2,B3,SJ3,H3,U3,O6
+Division,SP3,SE3,SC3,K5,B4,SJ4,SC4,Lc4,SJ5,Wh3,LM,T3
+
+Results
+w5rw2u e2re1e1e1e2re1e-8e2re1e-3 rruuw4rr w3rw2w2rr w2w4w2rr rre1e2re-3w2w2r uurw2rrrrr
+rrrrurrw2r rre2re-2urrrrrr w2uuw2w2 w3rrruw3 w3w4rur ruuuw2w2 rrrurrrrurr
+rrruuuru rururw3u re2re-2uuruu urw2w3w2 w4rre2re1e-3u urrrruw2rr rururrrrur
+rrrrw3w2r urrre2re-2w3r urrruw2w2 re1e2re1e-4ruuu rrre1e1e1e2re2e-6e-1u rre1e2re1e-4ue2re-2r rurrrrrrrrrr

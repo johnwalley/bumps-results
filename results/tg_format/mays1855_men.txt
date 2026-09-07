@@ -1,0 +1,17 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1855
+Days,6
+
+Division,L,1st Trinity,TH,E,CC,3rd Trinity,1st Trinity 2,Ca,E2,Cr,Q,SS,L2,2nd Trinity,K
+Division,TH2,J,SC,M,Ph,Cl,3rd Trinity 2,1st Trinity 3,E3,2nd Trinity 2,L3,Cr2,Ca2,J2,L4,Cr3,TH3
+
+Results
+urrruruurrur rrurruuruur
+e1e2xe-1rurruuuu urrruuuurrr
+xxrrrurruurrr ruruuuuurr
+rrurrrruurr uruuuurrrrr
+rururuuru rruuuurrrrrr
+xuuruurur ruuuururrrr
+

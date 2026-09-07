@@ -1,0 +1,8 @@
+EIGHTS 1833
+ 4  1  5   = NDay, NDiv, NCrew
+ 5  Men's Div I
+Christ Church              -1   0   1  -1
+Queen's                     1   0  -1   1
+Exeter                     -1   0   0   0
+Jesus                       1   0   0   0
+Brasenose                   0   1   0   0

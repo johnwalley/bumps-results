@@ -1,0 +1,19 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1861 May
+Days,8
+
+Division,1st Trinity,L,3rd Trinity,Ca,TH,E,2nd Trinity,Cr,1st Trinity 2,TH2,M,CC,Ph,Lady Somerset,SS,1st Trinity 3,J,Cl,L2
+Division,Ca2,1st Trinity 4,2nd Trinity 2,3rd Trinity 2,Pb,Cr2,K,E2,SC,Q,L3,CC2,Lady Somerset 2,E3,TH3,2nd Trinity 3,Ca3,Cl2,Cr3,Q2,CC3,L4,1st Trinity 5,1st Trinity 6,SS2,
+
+Results
+rrururuurrruuurrur rrurururuuurrr
+rruuuruuruuururrr rurururuurrrur
+ruuuuruurrruururr urururuuurrrrr
+e2re1xuuururrrururrur rruruuruuurrrr
+uuuuurrrrurruruu rrrruuurrrrrrrrrr
+t rrruurrrurrrruu
+t rruuuuruurrrrr
+t ruuuurrurrruu
+

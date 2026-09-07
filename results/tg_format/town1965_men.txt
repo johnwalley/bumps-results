@@ -3,8 +3,8 @@ Short,Town
 Gender,Men
 Year,1965
 
-Division,City 1,99 1,City 2,Rob Roy 1,99 2,Cantabs 1,Scouts 1,Pye 1,City 3,Rob Roy 2,Leys Sch 1,ACUA 1,Bridge 1,99 3,Cambs High School 1,Scouts 2,Cantabs 2
-Division,Rob Roy 3,Scouts 3,Beehives 1,ACUA 2,Leys Sch 2,Cam Grammar School 1,City 4,Pye 2,Cantabs 3,Leys Sch 3,Beehives 2,Cam Grammar Sch 2,Bridge 2,Leys Sch 4
+Division,Ci,N,Ci2,R,N2,Ca,Scouts,P,Ci3,R2,Leys School,ACUA,Bridge,N3,Cambs High School,Scouts 2,Ca2
+Division,R3,Scouts 3,Beehives,ACUA 2,Leys School 2,Cam Grammar School,Ci4,P2,Ca3,Leys School 3,Beehives 2,Cam Grammar School 2,Bridge 2,Leys School 4
 
 Results
 rurruuuur ruurrurrruuu

@@ -1,0 +1,18 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1997
+
+Division,O,P,Mg,Ch,Br,N,U,Wt,Lc,SE,Wh,O2
+Division,E,SC,SJ,Q,B,SP,LM,T,J,K,OG,H
+Division,Mt,Wf,L,SHu,B2,SAn,P2,Mf,SE2,O3,Co,N2
+Division,U2,Br2,K2,Mg2,Wt2,E2,SJ2,S,Lc2,LM2,Wh2,SC2
+Division,Q2,SP2,Wf2,O4,SAn2,SB,J2,U3,H2,K3,OG2,R
+Division,Mg3,Mt2,LM3,Wf3,L2,O5,SAt,T2,S2,B3,Lc3,Co2
+Division,U4,P3,Br3,Q3,Wh3,SC3,SHu2,SAn3,Mt3,Mf2,Co3,H3,Mt4
+
+Results
+urrw6rr re3re2e-1e-4uw2rr w3ue2re2re2re-6 uw4uw2r e1e2re1e-4e2re1e-3rrrr urrw2rrurr w2ruw3rrr
+w2ue1e1e2re1e1e-6r re3rre1e1e-5urw2 uruuw2ur rw2e2e2e-1e-3e2re1e1e-4 rre2re1e-3w3rrr rw2rw2rrur rrururrrrrr
+rrrrurrrrw2 ure2re1e1e-4ruu e1e2re1e-4ruw2u re1e2re-3uurrrr e1e2re-3w2rrurr uw2rw2rru rurrrrrrrrrr
+ruurrrrw3 w3re2re-2w4 rue2re1e1e-4rw2r urrrw2urrr e2e2e2e-2e-4urrrur ruurrw2rrr uw2rrrrrrrr

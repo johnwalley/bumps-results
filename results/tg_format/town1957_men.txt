@@ -3,8 +3,8 @@ Short,Town
 Gender,Men
 Year,1957
 
-Division,City 1,99 1,Pye 1,Old Cantabs 1,Old Cantabs 2,Rob Roy 1,99 2,Scouts 1,City 2,New Museums 1,Rob Roy 2,Instrument Co 1,Old YM 1,Central Old Boys 1,Old Cantabs 3,Pye 2,99 3,City 3
-Division,Old Cantabs 4,New Museums 2,Scouts 2,City 4,Rob Roy 3,New Museums 3,Instrument Co 2,Central Old Boys 2,Rob Roy 4
+Division,Ci,N,P,OC,OC2,R,N2,Scouts,Ci2,New Museums,R2,Instrument Co,Old YM,Central Old Boys,OC3,P2,N3,Ci3
+Division,OC4,New Museums 2,Scouts 2,Ci4,R3,New Museums 3,Instrument Co 2,Central Old Boys 2,R4
 
 Results
 rruuur rurruruururrrr

@@ -68,12 +68,12 @@ Osler House                 0  -1  -1   0
  12  Men's Div VI
 Worcester II                0   1   1   0
 University III              0  -1   0   0
-Mansfield II               -1   0  -1   0
+Mansfield II               -1   0  -1  -1
 Linacre II                  1   1   1   1
 Oriel IV                    0  -1  -1   0
 Wolfson IV                 -1  -1  -1   0
 Oriel V                     1   1   1   0
-St Hugh's II                0   1   1   0
+St Hugh's II                0   1   1   1
 Green Templeton II          0   0   1   0
 St Hilda's II               0  -1  -1   0
 Exeter III                 -1  -1  -1   0

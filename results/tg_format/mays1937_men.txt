@@ -1,0 +1,15 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1937
+
+Division,J,Pb,1st Trinity,S,TH,3rd Trinity,Q,L,Ca,Cl,J2,Pb2,Cr,1st Trinity 2,J3
+Division,Ph,SS,SC,S2,CC,E,K,Cl2,M,L2,Cr2,Ca2,TH2,Q2,1st Trinity 3
+Division,D,Pb3,TH3,F,J4,1st Trinity 4,L3,SC2,E2,SS2,Ph2,Cr3,CC2,Cl3,Q3
+Division,J5,M2,E3,SC3,L4,Ca3,J6,D2,TH4,K2,SS3,SC4,L5,3rd Trinity 2,S3,D3
+
+Results
+rruururuurr urururuurrr rurruurruur ruuruuruur
+ruurrrururu urrurruurrrr urrrrrrrrrruu rrurrrurrrurr
+uuuruuro3u ruuuuuuru rrurrrrrrruur rurrruuurur
+ruuurrruurr uuuurrurur rurrrurruuu urrrurrurrrrr

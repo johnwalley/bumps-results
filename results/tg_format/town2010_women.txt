@@ -3,8 +3,8 @@ Short,Town
 Gender,Women
 Year,2010
 
-Division,City 1,99 1,Camb Veterans 1,Rob Roy 1,City 2,99 2,Cantabs 1,City 3,Champs 1,Cantabs 2,99 3,City 4,St Neots 1,Champs 2,Chesterton 1,X-Press 1,Max Entropy 1
-Division,Champs 3,Champs 4,City 5,Cantabs 3,X-Press 2,Champs 5,Champs 6,St Radegund 1,City 6,St Radegund 2,Champs 7,99 4,Cantabs 4,Champs 8,Cantabs 5,City 7,City 8,Chesterton 2,Cantabs 6
+Division,Ci,N,CV,R,Ci2,N2,Ca,Ci3,Ch,Ca2,N3,Ci4,SN,Ch2,Ct,X,ME
+Division,Ch3,Ch4,Ci5,Ca3,X2,Ch5,Ch6,SR,Ci6,SR2,Ch7,N4,Ca4,Ch8,Ca5,Ci7,Ci8,Ct2,Ca6
 
 Results
 ruururruurrru urro3uruurrrrr

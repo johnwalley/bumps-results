@@ -1,0 +1,14 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Men
+Year,1909
+
+Division,J,L,1st Trinity,TH,Ca,E,Cl,Pb,Cr,CC,J2,1st Trinity 2,L2,SS,TH2
+Division,3rd Trinity,E2,Q,Pb2,K,1st Trinity 3,Ca2,M,SC,L3,S,Ca3,Pb3,1st Trinity 4,S2
+Division,K2,Cl2,E3,Ph,Cr2,Pb4,TH3,Pb5,D,Q2,J3,Cr3,M2,1st Trinity 5,1st Trinity 6,Cl3
+
+Results
+urururrurru urrrurrurrur rrrrrurrrrrrrrr
+rruruuuurrr ruurruruuu urrurrrrrrrrrr
+ruuruuuurr rruurrruuru rruruurrrrrrr
+rruuruurrur ruurrruurur rrruruurrrur

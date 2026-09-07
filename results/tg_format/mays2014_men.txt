@@ -7,8 +7,8 @@ Division,Ca,D,L,J,SC,T,Pb,Q,Cl,K,Cr,E,F,G,Ph,H,Cu
 Division,M,S,TH,R,Ca2,L2,SE,D2,Cr2,T2,Q2,J2,SS,HH,Pb2,Dw,W
 Division,CC,SC2,Cl2,E2,S2,Ph2,T3,G2,TH2,L3,Q3,E3,R2,Cu2,M2,Cl3,F2
 Division,CH,K2,Ca3,J3,D3,SC3,Dw2,S3,W2,CC2,H2,Cr3,SE2,TH3,HH2,T4,J4
-Division,Q4,M3,SS2,K3,J5,Cl5,Dw3,E4,CC3,E5,H3,Cu3,HH3,SC4,Pb3,SC5,CH2
-Division,Pb4,Cu4,L4,Pb6,L5,SC6
+Division,Q4,M3,SS2,K3,J5,Cl4,Dw3,E4,CC3,E5,H3,Cu3,HH3,SC4,Pb3,SC5,CH2
+Division,Pb4,Cu4,L4,Pb6*,L5,SC6
 
 Results
 ruur urururuuuru uruurruruurr urrrurruruurr rruuurrrururr rurrrrrrrrurrrrr

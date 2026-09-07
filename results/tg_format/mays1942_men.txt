@@ -1,0 +1,15 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1942
+Days,3
+
+Division,Cl,TH,J,L,S,T,Pb,J2,Ca,Cr,Q,M,K,E,CC
+Division,T2,SC,J3,S2,Cl2,Ph,Pb2,TH2,D,L2,Ca2,Rob Nines,London Hospital,St. Batholemew's,London School of Economics
+Division,Pb3,SC2,Royal Air Force,L3,TH3,Q2,T3,J4,E2,D2,Ph2,TH4,Cl3,Ca3,K2
+Division,Royal Air Force 2,D3,Cl4,K3,Cr2,T4,London Hospital 2,J5,L4,CC2,K4,T5,Cr3,D4,TH5,CC3,T6
+
+Results
+rruurrruuuu rurrrruuruu rrrurrrurrurr rruurrrurrrrr
+ruuuruuurrr urrruurruur urrrrruuurrr ururrrrrurrrr
+rurrrurrruurr rrrrururuuu ruruuuurrrr rrururrrrurrr

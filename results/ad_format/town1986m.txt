@@ -39,7 +39,7 @@ Free Press 5               -1  -1   0   1
 St Neots 1                  1   1   1   1
 Darwin 1                   -1   0  -1   0
 Chemical Eng 1              1   1   1   1
-Deloittes 1                -1  -1  -3  -1
+Deloitte 1                 -1  -1  -3  -1
 NatWest Bank 1              1  -3  -1   0
 Free Press 6                0   1   0   0
 99 7                       -1  -1   3  -1

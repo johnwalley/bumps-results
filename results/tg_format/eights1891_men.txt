@@ -1,0 +1,16 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1891
+Days,6
+
+Division,Br,N,Mg,Ch,SJ,B,H,K,Co,T,Q
+Division,Mt,P,E,Wt,U,O,SC,Wh,Lc,J,SE,St Mary Hall
+
+Results
+rrrrrrruru urrrrrrrrrr
+urrrurrru rurrrrrrrrr
+rururrrur uurrrrrrrr
+xrrrrrrrrru ruurrrrrrr
+rrrrrrrrur e2e-1e-1rrrrrrrrr
+rrrrrrrurr rrrrrrrrrrrr

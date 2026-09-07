@@ -3,10 +3,10 @@ Short,Town
 Gender,Men
 Year,2002
 
-Division,Rob Roy 1,99 1,Rob Roy 2,Cantabs 1,City 1,Rob Roy 3,Rob Roy 4,99 2,Hornets 1,X-Press 1,99 3,Cantabs 2,City 2,Cantabs 3,99 4,Rob Roy 5,Simoco 1
-Division,City 3,Max Entropy 1,Cantabs 4,X-Press 2,Cantabs 5,St Neots 1,99 5,X-Press 3,Rob Roy 6,X-Press 4,St Ives 1,99 6,Champs 1,Cantabs 6,City 4,Rob Roy 7,Camb Veterans 1
-Division,X-Press 5,Cantabs 7,Rob Roy 8,St Radegund 1,Cantabs 8,Rob Roy 9,Champs 2,Simoco 2,99 7,99 8,Rob Roy 10,Champs 3,Cantabs 9,Champs 4,Rob Roy 11,Cantabs 10,St Ives 2
-Division,Rob Roy 12,Cantabs 11,Champs 5,St Radegund 2,Champs 6,Cantabs 12
+Division,R,N,R2,Ca,Ci,R3,R4,N2,Hornets,X,N3,Ca2,Ci2,Ca3,N4,R5,S
+Division,Ci3,ME,Ca4,X2,Ca5,SN,N5,X3,R6,X4,SI,N6,Ch,Ca6,Ci4,R7,CV
+Division,X5,Ca7,R8,SR,Ca8,R9,Ch2,S2,N7,N8,R10,Ch3,Ca9,Ch4,R11,Ca10,SI2
+Division,R12,Ca11,Ch5,SR2,Ch6,Ca12
 
 Results
 urur ruruo3urro3uu rrururuuruur rruruurrrrrrrrr

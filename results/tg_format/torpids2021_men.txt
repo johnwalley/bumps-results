@@ -1,0 +1,18 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,2021
+
+Division,O,P,SC,Wf,Ch,SE,B,T,H
+Division,K,J,Mg,U,N,Mt,LM,Co,Br
+Division,Lc,Mf,Q,P2,SAn,SHu,S,L,Wt
+Division,GT,Wf2,O2,SP,Ch2,SAt,K2,SC2,SE2
+Division,SHi,Lc2,B2,T2,Br2,R,N2,U2,Mt2
+Division,Wf3,Mg2,SB,SHu2,SE3,H2,Lc3,P3,Co2
+Division,SAt2,Q2,L2,SP2,U3,N3,Ch3,Mf2,Ch4,L3
+
+Results
+re2re1e-3uw2 rre2re-2rre2re-2 e3ue1e-4w2rr w2rrw2rr rrw3re2re-2 e2re1e1e1e-5w2r urrrurrr
+ruw2uu e2re1e-3uurr rre1e2re-3rur uuue2e2e-1e-3 w2rw2rrr uuruw2 rrrw2rrrr
+urre1e2re1e1e-5 e2e-1e1e-2w2rrr ruw3ru w2uuru ruuruu rue2re1e1e-4rr rurrrrrrr
+uw2uur urururr rruw3u rre2e2e-1e-3urr rw2rrrur uururrr rrrrrrrrrr

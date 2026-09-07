@@ -1,0 +1,22 @@
+EIGHTS 1872
+ 8  1  19   = NDay, NDiv, NCrew
+ 19  Men's Div I
+University                  0   0  -1   0  -1  -1  -1   0
+Balliol                     0  -1   0   0   1   0   0   0
+Christ Church              -1  -1   0   0   0   0   1   0
+Pembroke                    1   1   1   0   0   0   0   0
+Brasenose                   0   1   0   0   0   1   0   0
+Exeter                     -1   0  -1  -1  -1   0  -1   0
+St John's                   1   0   0   0   0   0   0   0
+Lincoln                     0   0   1   0   0  -1  -1  -1
+New College                 0   0   0   1   0   1   0   0
+Corpus Christi              0  -1  -1   0   0   0   0   0
+Trinity                     0   1   0   0   1   0   1   0
+Magdalen                    0   0   1   0   0   0   1   1
+Queen's                     0   0   0   0  -1  -1   0   0
+Worcester                   0   0  -1  -1  -1  -1   0   0
+Wadham                      0  -1   0   1   0   1   0   0
+Merton                     -1  -1   0   0   0   1   0   1
+Magdalen Hall               1   1   1   0   1   0   0   0
+Oriel                       0   1   0   0   1   0   0  -1
+Keble                       0   0   0   0   0   0   0   0

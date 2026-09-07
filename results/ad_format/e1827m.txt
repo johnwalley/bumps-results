@@ -1,0 +1,7 @@
+EIGHTS 1827
+ 6  1  4   = NDay, NDiv, NCrew
+ 4  Men's Div I
+Christ Church               0  -1   1  -1  -1  -1
+Brasenose                   0   1  -1   1   0   0
+Balliol                     0   0   0   0   1   0
+University                  0   0   0   0   0   1

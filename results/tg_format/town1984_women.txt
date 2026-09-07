@@ -3,10 +3,12 @@ Short,Town
 Gender,Women
 Year,1984
 
-Division,City 1,99 1,99 2,Free Press 1,Darwin 1,Cantabs 1,99 3,City 2,Macdonalds 1,Rob Roy 1,Cantabs 2,Addenbrooke's 1,City 3,Darwin 2,99 4,Cantabs 3,Rob Roy 2,Free Press 2,Telephones 1,Macdonalds 2,City 4,99 5,Rob Roy 3
+Division,Ci,N,N2,F,Darwin,Ca,N3,Ci2,Macdonalds,R,Ca2,Addenbrooke's,Ci3,Darwin 2,N4,Ca3,R2,F2,Telephones,Macdonalds 2,Ci4,N5,R3
 
 Results
 ro3uuurrrrurururr
 rruurruuro3ururrr
 urrruurrururrrrrrr
 rurrrurruururrrru
+
+

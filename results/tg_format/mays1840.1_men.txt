@@ -1,0 +1,14 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1840 March
+Flags,skip_headship
+
+Division,1st Trinity (Black Prince),3rd Trinity (Dolphin),Ca,M,L,J,Ph,1st Trinity 2,K,L2,TH,Ca2,SC,3rd Trinity 2,1st Trinity 3,Cl,Q,Cr,M2,2nd Trinity,2nd Trinity 2,Pb,E,CC
+
+Results
+v0v0v0ruuo3urrrrrrrrurr
+v0rruururuurrrrrrur
+rruuo3uuue2e-1e-1ururr
+rrrurrrruurrrrrrrrrrr
+

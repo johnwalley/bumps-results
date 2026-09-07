@@ -1,0 +1,7 @@
+EIGHTS 1825
+ 3  1  4   = NDay, NDiv, NCrew
+ 4  Men's Div I
+Exeter                     -1  -1   1
+Christ Church               1   0   0
+Worcester                   0   1  -1
+Balliol                     0   0   0

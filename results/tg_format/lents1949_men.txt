@@ -1,0 +1,16 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Men
+Year,1949
+
+Division,TH,Pb,L,J,Cl,T,SC,Cr,Q,M,J2,S,Ca,D,Ph
+Division,E,CC,L2,J3,T2,SS,K,Cr2,TH2,Cl2,SC2,Q2,T3,Pb2,E2
+Division,Ca2,M2,L3,Cr3,Ph2,TH3,D2,S2,K2,T4,CC2,D3,F,J4,E3
+Division,M3,Pb3,SC3,F2,TH4,T5,K3,S3,Q3,Cr4,SS2,CC3,L4,J5,Ph3
+Division,F3,Ca3,Q4,Cl3,L5,T6,TH5,J6,SC4,Q5,S4,L6,T7,TH6,Pb4,Ca4,SS3
+
+Results
+ruuruurrrrru rurruruuo3u ururrrruuur urrurruurur urrruururur
+rrrruruurrrur ururruuuru uuurruuurr rurruuuruu ruururrrruu
+rruuuuuruu urruuuuurr rurruuurrur uuurrurrrur urrrrrruruur
+rruruuuruur rruruuuuur rrururuurru urrruurrruu ruurrrrruurr

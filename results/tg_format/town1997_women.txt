@@ -3,7 +3,7 @@ Short,Town
 Gender,Women
 Year,1997
 
-Division,City 1,Rob Roy 1,City 2,City 3,99 1,Free Press 1,Rob Roy 2,City 4,Free Press 2,Free Press 3,Cantabs 1,Rob Roy 3,City 5,Cantabs 2,Simoco 1,Free Press 4,Rob Roy 4,Mott MacDonald 1,Cantabs 3,City 6,Cantabs 4,Rob Roy 5,99 2,Ionica 1,Cantabs 5
+Division,Ci,R,Ci2,Ci3,N,F,R2,Ci4,F2,F3,Ca,R3,Ci5,Ca2,S,F4,R4,Mott MacDonald,Ca3,Ci6,Ca4,R5,N2,Ionica,Ca5
 
 Results
 o3uuuurruuururur

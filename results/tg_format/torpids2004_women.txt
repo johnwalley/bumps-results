@@ -1,0 +1,16 @@
+Set,Torpids
+Short,Torpids
+Gender,Women
+Year,2004
+
+Division,Mt,SC,S,N,P,O,Ch,LM,Q,U,Lc,Wf
+Division,OG,B,SHi,Wh,Mg,Wt,SJ,H,SE,Br,E,Mt2
+Division,SHu,L,J,K,Co,SAn,Mf,T,SP,SC2,O2,N2
+Division,Wh2,Lc2,SAt,SHi2,Wf2,K2,LM2,H2,SHi3,P2,Wt2,Ch2
+Division,Q2,Br2,Lc3,SE2,Co2,SJ2,E2,H3,SP2,E3,B2,L2,Mf2
+
+Results
+e1e1e2e-3e1e1e2re1e1e1e-8r w4rrruw2 w2ruuruu uw9r e1e2re-3uw2w2r
+w3rrue2re1e-3r ruw2e1e2re1e-4u w3e2e2e-1e1e-4rw2 rurrurruu re2re1e-3rrw2ur
+w2ue2re1e-3rur ruruw3w2 rrrrrrw4u urre1e1e2re1e1e1e-7r rrrrrw2w2rr
+rrw3ue2re-2u w5rrrurr re1e2re1e-4rrruu re2re1e-3urw2u urw2rrrrrrr

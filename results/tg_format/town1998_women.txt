@@ -3,7 +3,7 @@ Short,Town
 Gender,Women
 Year,1998
 
-Division,City 1,Free Press 1,Rob Roy 1,City 2,Free Press 2,99 1,City 3,Rob Roy 2,Cantabs 1,Free Press 3,City 4,City 5,Rob Roy 3,Cantabs 2,Cantabs 3,Rob Roy 4,Free Press 4,Rob Roy 5,City 6,99 2,City 7,Free Press 5,Champs 1,Domino 1
+Division,Ci,F,R,Ci2,F2,N,Ci3,R2,Ca,F3,Ci4,Ci5,R3,Ca2,Ca3,R4,F4,R5,Ci6,N2,Ci7,F5,Ch,Domino
 
 Results
 urrrrrruurruuurru

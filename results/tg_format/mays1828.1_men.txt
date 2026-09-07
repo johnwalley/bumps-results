@@ -1,0 +1,21 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1828 February March
+Days,9
+Flags,skip_headship
+
+Division,Trinity Monarch,L,Ca,J,CC
+
+Results
+v0rru
+v0rrrr
+v0rru
+v0urr
+v0rrrr
+rrru
+rrru
+rrrrr
+rrrrr
+
+

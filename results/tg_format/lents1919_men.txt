@@ -1,0 +1,13 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Men
+Year,1919
+
+Division,J2*,1st Trinity 2*,Pb2*,L2*,E2*,Cr2*,Q2*,TH2*,1st Trinity 3,Ca2*,Pb3
+Division,SC,M2*,Ca3,E3,D,K2*,D2*,E4
+
+Results
+rrurur ruuuuru
+rrrurrr uuurrrrrr
+rruuu ruuurrrrr
+rrrrurr uuuurur

@@ -1,0 +1,13 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Men
+Year,1888
+
+Division,CC,J,L,1st Trinity,Ca,1st Trinity 2,TH,Ph,Pb,M,3rd Trinity,Pb2,SC,Cavendish,D
+Division,1st Trinity 3,TH2,Ca2,J2,K,Q,L2,1st Trinity 4,TH3,S,Cl,E,SS,S2,Cr,F
+
+Results
+rrururrurrru uururrrrruu
+rrrruuuurru rururrrrrrrur
+rrruuurrrrur t
+t t

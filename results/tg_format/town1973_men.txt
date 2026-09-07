@@ -3,9 +3,9 @@ Short,Town
 Gender,Men
 Year,1973
 
-Division,Rob Roy 1,99 1,Rob Roy 2,Scouts 1,Cantabs 1,City 1,99 2,ACUA 1,Churchill 1,99 3,Rob Roy 3,City 2,Cantabs 2,99 4,Leckhampton 1
-Division,Grammarians 1,Cambs High School 1,Churchill 2,Rob Roy 4,ACUA 2,King's 1,Fitzwilliam 1,Cantabs 3,Scouts 2,Telephones 1,Cantabs 4,Lady Somerset 1,Magdalene 1,Scouts 3,Consultant Owls 1
-Division,City 3,ACUA 3,Grammarians 2,Telephones 2,Goldilocks 1,Bean Group 1,Rob Roy 5,Cantabs 5
+Division,R,N,R2,Scouts,Ca,Ci,N2,ACUA,Churchill,N3,R3,Ci2,Ca2,N4,Leckhampton
+Division,Grammarians,Cambs High School,Churchill 2,R4,ACUA 2,King's,Fitzwilliam,Ca3,Scouts 2,Telephones,Ca4,Lady Somerset,Magdalene,Scouts 3,Consultant Owls
+Division,Ci3,ACUA 3,Grammarians 2,Telephones 2,Goldilocks,Bean Group,R5,Ca5
 
 Results
 rrrurrr rururururrrr rrruuuruurr

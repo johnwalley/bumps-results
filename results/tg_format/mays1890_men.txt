@@ -1,0 +1,14 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1890
+
+Division,3rd Trinity,1st Trinity,TH,Pb,Ca,J,L,E,Cl,TH2,Cr,L2,1st Trinity 2,S,Ca2
+Division,TH3,CC,1st Trinity 3,Ph,J2,Pb2,SS,K,M,Q,E2,D,Ayerst Hall,Cavendish,SC
+
+Results
+rrrrruurrrru rrurrururrur
+#XXX are the division sizes incorrect?
+rrrruuurrrrr e2e-1e-1rrrrrurrrru
+ruuurrrrrru rrurrruurrrrr
+rrurrrrruurr rrrurrrurrurr

@@ -3,9 +3,9 @@ Short,Town
 Gender,Men
 Year,1996
 
-Division,Rob Roy 1,99 1,Rob Roy 2,City 1,99 2,City 2,Free Press 1,Rob Roy 3,99 3,Cantabs 1,City 3,Free Press 2,Trinity Hall 1,Rob Roy 4,Maximum Entropy 1,Rob Roy 5,Cantabs 2
-Division,99 4,Cantabs 3,Free Press 3,99 5,Cantabs 4,99 6,Free Press 4,Cantabs 5,Free Press 5,Rob Roy 6,Free Press 6,Maximum Entropy 2,Cantabs 6,Marshalls 1,Champs 1,Free Press 7,Pye 1
-Division,City 5,Mott Macdonald 1,Cantabs 7,Free Press 8,99 7,Cantabs 8,Cam Consultants 1,Rob Roy 7,Pye 2,Cantabs 9,Bullard Lab 1,Free Press 9,Pye 3,Free Press 10,Cantabs 10,Cantabs 11,Rob Roy 9
+Division,R,N,R2,Ci,N2,Ci2,F,R3,N3,Ca,Ci3,F2,Trinity Hall,R4,Maximum Entropy,R5,Ca2
+Division,N4,Ca3,F3,N5,Ca4,N6,F4,Ca5,F5,R6,F6,Maximum Entropy 2,Ca6,Marshalls,Ch,F7,P
+Division,Ci5*,Mott MacDonald,Ca7,F8,N7,Ca8,Cam Consultants,R7,P2,Ca9,Bullard Lab,F9,P3,F10,Ca10,Ca11,R9*
 
 Results
 rrururruurur rurrrurururrrr rrrrrurrrrurrru

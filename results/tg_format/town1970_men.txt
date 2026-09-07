@@ -3,8 +3,8 @@ Short,Town
 Gender,Men
 Year,1970
 
-Division,Rob Roy 1,City 1,99 1,ACUA 1,Cantabs 1,Rob Roy 2,City 2,99 2,99 3,Scouts 1,Rob Roy 3,Cam Grammar Sch 1,Cantabs 2,ACUA 2,Cambs High School 1
-Division,City 3,ACUA 3,Police 1,99 4,Selwyn 1,Rob Roy 4,Rob Roy 5,Cam Grammar Sch 2,Churchill 1,King's 1,Cambs High Sch 2,Cantabs 3,City 4,ACUA 4,99 5
+Division,R,Ci,N,ACUA,Ca,R2,Ci2,N2,N3,Scouts,R3,Cam Grammar School,Ca2,ACUA 2,Cambs High School
+Division,Ci3,ACUA 3,Police,N4,Selwyn,R4,R5,Cam Grammar School 2,Churchill,King's,Cambs High School 2,Ca3,Ci4,ACUA 4,N5
 
 Results
 rrurrurro3ur rrrrrruuurur

@@ -1,0 +1,50 @@
+MAYS 1886 June
+ 6  3  45   = NDay, NDiv, NCrew
+ 14  Men's Div I
+Jesus                       0  -1  -1  -1   0   0
+Trinity Hall                0   1   0   0   0   0
+3rd Trinity                 0   0   1   0   0   0
+Pembroke                    0   0   0   1   0   0
+1st Trinity                 0   0   0   0   0  -1
+Caius                       0   0   0   0  -1   0
+LMBC                        0   0   0  -1   0   0
+1st Trinity II             -1  -1  -1  -1   0  -1
+Clare                       1   0   0   1   1   1
+Trinity Hall II             0   1   0   0   0   0
+Christ's                    0   0   1   0  -1   0
+Trinity Hall III            0   0   0   1   1   0
+Jesus II                    0   0   0   0  -1  -1
+Selwyn                      0   0   0  -1   0   1
+ 15  Men's Div II
+LMBC II                    -1  -1  -1  -1   0   0
+Emmanuel                    1   0   0   1   1   1
+1st Trinity III             0   1   0   0   0   0
+Corpus Christi              0   0   1   0   0   0
+Peterhouse                  0   0   0   1   0   0
+1st Trinity IV             -1  -1   0   0   0   0
+Magdalene                   1   0  -1   0   0   0
+Pembroke II                -1   0   0  -1   0   0
+Caius II                    1   1   1   0   0   0
+Downing                     0   0  -1  -1   0   0
+3rd Trinity II             -1  -1  -1  -1   0   0
+Trinity Hall IV             1   0   1   1   0   0
+Cavendish                   0   1   0   1   0   0
+Pembroke III                0   0   1   0   0   0
+King's                      0   0  -1   0   0   0
+ 16  Men's Div III
+St Catharine's              0   0   1   1   0   0
+Trinity Hall V              0   0   0   0   0   0
+Queens'                     0   0   0   0   0   0
+1st Trinity V               0   0   0   0   0   0
+LMBC III                    0   0   0   0   0   0
+1st Trinity VI              0   0   0   0   0   0
+Jesus III                   0   0   0   0   0   0
+Sidney Sussex               0   0   0   0   0   0
+Jesus IV                    0   0   0   0   0   0
+Clare II                    0   0   0   0   0   0
+Caius III                   0   0   0   0   0   0
+Pembroke IV                 0   0   0   0   0   0
+Christ's II                 0   0   0   0   0   0
+Trinity Hall VI             0   0   0   0   0   0
+LMBC IV                     0   0   0   0   0   0
+Non-Collegiate              0   0   0   0   0   0

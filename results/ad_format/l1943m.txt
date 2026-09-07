@@ -1,0 +1,52 @@
+LENTS 1943
+ 3  3  47   = NDay, NDiv, NCrew
+ 15  Men's Div I
+Pembroke                    0  -1   0
+Jesus                      -1   0   0
+LMBC                        1   1   0
+Trinity Hall                0   0  -1
+1st and 3rd                -1   0   0
+Clare                       1   0   1
+Jesus II                   -1  -1  -1
+Selwyn                      1   0   0
+Christ's                    0   1   0
+St Catharine's              0   0   1
+1st and 3rd II              0   0   0
+Caius                       0   0  -1
+Magdalene                   0  -1   0
+Emmanuel                   -1   0  -1
+Queens'                     1   1   1
+ 15  Men's Div II
+Corpus Christi              0   0  -1
+Trinity Hall II             0  -1  -1
+King's                     -1  -1  -1
+Peterhouse                  1   1   2
+Downing                    -1  -1   0
+LMBC II                     1   1   1
+Sidney Sussex              -1   0   0
+Queen Mary                  1   1   1
+St. Batholemew's            0  -1  -1
+Royal Air Force            -1  -1  -1
+Clare II                    1   1   0
+St Catharine's II          -1   0   1
+Christ's II                 1   1   1
+Caius II                    0   0   0
+Queens' II                  0   0  -1
+ 17  Men's Div III
+London School of Economics   0  -1  -1
+1st and 3rd III            -1  -1  -1
+London Hospital             1   1   1
+Emmanuel II                 0   1   1
+Queen Mary II               0   0   1
+St. Batholemew's II         0   0  -1
+Royal Air Force II          0  -1   0
+LMBC III                   -1   0   0
+Peterhouse II               1   1   1
+Downing II                  0  -1  -1
+Christ's III               -1  -1   0
+Queens' III                 1   1   0
+Sidney Sussex II            0   1   1
+Queen Mary III              0   0   0
+Downing III                 0  -1   1
+Caius III                  -1   0   0
+1st and 3rd IV              1   1  -1

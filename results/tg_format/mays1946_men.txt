@@ -1,0 +1,15 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1946
+
+Division,T,TH,Cr,Cl,L,J,Q,Ca,SC,Pb,S,T2,E,J2,M
+Division,L2,Ph,K,TH2,CC,D,Cl2,SS,T3,Rob Nines,Pb2,S2,L3,Cr2,SC2
+Division,J3,Ca2,Q2,E2,TH3,TH4,D2,J4,M2,Ca3,T4,Pb3,Ph2,L4,K2
+Division,Cl3,Cr3,T5,D3,TH5,J5,E3,SC3,SS2,F,M3,Q3,Cl4,T6,CC2,F2,K3
+
+Results
+rrrrrurrurrrur rruruuuuur rurrrurrurrrr uuruururru
+urrurruruuu ruruuuuurr urrrrurrruur rrrruuururrr
+rrruuurrurur ururruuuru rrurrrrrruuu rurrurrururr
+rrrrrrurrurrru uururuuurr rurrrrrrrrrrur rrrurrrrrrrrur

@@ -3,9 +3,9 @@ Short,Town
 Gender,Men
 Year,1979
 
-Division,Rob Roy 1,99 1,City 1,City 2,Rob Roy 2,MacDonalds 1,Churchill 1,TTFNTT 1,99 2,Rob Roy 3,99 3,Scouts 1,Cantabs 1,Leckhampton 1,Lady Somerset 1,Univ Sports 1
-Division,Telephones 1,City 3,St Ives 1,99 4,Free Press 1,Eleans 1,99 5,99 6,Clare Crabs 1,Telephones 2,City 4,Fitzwilliam 1,Leckhampton 2,Darwin 1,Univ Sports 2
-Division,Cardinals 1,Cam RUFC 1,Cavendish Lab 1,Churchill 2,99 7,Free Press 2,City 5,99 8,Telephones 3,Univ Sports 3,Darwin 2,Addenbrooke's 1,Telephones 4,Univ Sports 4,City 6,99 9
+Division,R,N,Ci,Ci2,R2,MacDonalds,Churchill,TTFNTT,N2,R3,N3,Scouts,Ca,Leckhampton,Lady Somerset,Univ Sports
+Division,Telephones,Ci3,SI,N4,F,Eleans,N5,N6,Clare Crabs,Telephones 2,Ci4,Fitzwilliam,Leckhampton 2,Darwin,Univ Sports 2
+Division,Cardinals,Cam RUFC,Cavendish Lab,Churchill 2,N7,F2,Ci5,N8,Telephones 3,Univ Sports 3,Darwin 2,Addenbrooke's,Telephones 4,Univ Sports 4,Ci6,N9
 
 Results
 rururrrrurrrr uurrrururru urrurrro3urrrr

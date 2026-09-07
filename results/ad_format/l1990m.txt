@@ -40,14 +40,14 @@ Churchill II               -1   0   1   1
 Corpus Christi              1   1   1   1
 Fitzwilliam II             -1  -1  -1  -1
 Christ's II                 1   0  -1   0
-LMBC V                     -3  -1  -1   0
+LMBC IV                    -3  -1  -1   0
 Darwin                     -1   0  -1  -1
 Peterhouse II               1   0   1   0
 Magdalene II                3   1   1   1
 Clare III                  -1   0   1   1
 Queens' II                  1   1   1   1
 Churchill III               0  -1  -1   0
-LMBC IV                    -1  -1  -1  -1
+LMBC V                     -1  -1  -1  -1
 1st and 3rd III             1   1   0  -1
 Corpus Christi II           0   1   1   1
 Magdalene III              -1   0   0   1

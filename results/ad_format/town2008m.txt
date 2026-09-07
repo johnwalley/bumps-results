@@ -7,7 +7,7 @@ Rob Roy 1                   0   0   0  -4
 Rob Roy 2                  -1  -1  -1   0
 99 2                        1   0  -1   1
 City 1                      0   1   1   2
-Simoco 1                    0  -1   0   0
+Chesterton 1                0  -1   0   0
 Cantabs 2                  -1  -1  -1  -1
 X-Press 1                   1   1   1   1
 Rob Roy 3                   0   1   0   0

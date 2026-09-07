@@ -20,7 +20,7 @@ Pye 3                      -1   0  -1  -1
 Emmanuel 1                  1   1   1   0
 99 5                        0  -1  -1  -1
 Coopers & Lybrand 1        -1  -1  -1   0
-Mott Macdonald 1            1   1   1   0
+Mott MacDonald 1            1   1   1   0
 Rob Roy 1                  -1   0   1   1
 Pye 4                       1   1   1   1
 City 6                      0   0   0   0

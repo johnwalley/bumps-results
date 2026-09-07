@@ -1,0 +1,20 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1972
+
+Division,B,O,Ch,U,Q,SJ
+Division,SC,Wh,N,J,SE,Wt,K,Mg,Lc
+Division,U2,T,H,Br,Co,E,SP,OH,SJ2
+Division,O2,P,Mt,SE2,P2,Q2,Ch2,SC2,B2
+Division,SP2,Lc2,SJ3,Wh2,K2,P3,U3,Lc3,Br2
+Division,Wf,L,N2,J2,Wt2,Co2,O3,SE3,O4
+
+Results
+re1e1e2e-3e1e2e-3e-1 rw4rrrr re1e2e-2e-1rrrrr re1e1e1e4e-4e1e-2e1e-3 rrw3e2e-1e-1r rrw2rr
+d(7.9.9.9.9.8)
+uw2w2 re2e-1e1e-2rrrrr ruo3e1e2e-3rr re2e-1e-1e1e2e-2e-1rr rurrre2e-1e-1r rrrrrru
+d(8.9.9.9.9.7)
+e2e-1e-1rrrr re3rre1e1e2e-6e-1r rue2e-1e-1rrrr re1e1e1e2e-4e1e-2u re2e-1e1e-2re2e-1e-1r rw2urrr
+d(9.9.9.9.9.6)
+rrrrrr re1e2e-2e-1rrrrr ruuruu re1e1e2e-3e-1rru rrrrw2rrr rurrrrrrr

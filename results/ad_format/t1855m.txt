@@ -1,0 +1,10 @@
+TORPIDS 1855
+ 6  1  7   = NDay, NDiv, NCrew
+ 7  Men's Div I
+Exeter                      0   0   0   0   0   0
+Brasenose                  -1   0   0  -1   0   0
+University                  1   0   0   0   0   0
+Balliol                     0   0  -1   0   0  -1
+Pembroke                    0  -1   0   0   0   1
+Worcester                  -1   0   0   0   0   0
+Christ Church               1   1   1   1   0   0

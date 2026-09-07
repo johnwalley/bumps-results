@@ -3,8 +3,8 @@ Short,Town
 Gender,Men
 Year,1950
 
-Division,99 1,Rob Roy 1,99 2,Town 1,Pye 1,Scouts 1,New Museums 1,Rob Roy 2,Beehives 1,Pye 2,99 3,Scouts 2,Town 2,Beehives 2,Scouts 3
-Division,New Museums 2,Old YM 1,Rob Roy 3,99 4,New Museums 3,Town 3,Old YM 2,Rob Roy 4,99 5,Pye 3,Scouts 4,Town 4,Old Cantabs 1,Old Cantabs 2,Old Cantabs 3,Old Cantabs 4
+Division,N,R,N2,Town,P,Scouts,New Museums,R2,Beehives,P2,N3,Scouts 2,Town 2,Beehives 2,Scouts 3
+Division,New Museums 2,Old YM,R3,N4,New Museums 3,Town 3,Old YM 2,R4,N5,P3,Scouts 4,Town 4,OC,OC2,OC3,OC4
 
 Results
 uo3ururuuu urrrrruruurr

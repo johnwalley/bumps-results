@@ -3,8 +3,8 @@ Short,Town
 Gender,Women
 Year,2003
 
-Division,Rob Roy 1,X-Press 1,City 1,99 1,Cantabs 1,Rob Roy 2,City 2,Simoco 1,Rob Roy 3,Cantabs 2,Champs 1,City 3,X-Press 2,Champs 2,X-Press 3,St Ives 1,Champs 3
-Division,City 4,99 2,Rob Roy 4,Champs 4,St Radegund 1,Cantabs 3,Rob Roy 5,99 3,Rob Roy 6,99 4
+Division,R,X,Ci,N,Ca,R2,Ci2,S,R3,Ca2,Ch,Ci3,X2,Ch2,X3,SI,Ch3
+Division,Ci4,N2,R4,Ch4,SR,Ca3,R5,N3,R6,N4
 
 Results
 rrururu uuuruuurrur

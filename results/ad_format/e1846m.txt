@@ -1,0 +1,18 @@
+EIGHTS 1846
+ 8  1  15   = NDay, NDiv, NCrew
+ 15  Men's Div I
+Brasenose                   0   0   0   0   0   0   0   0
+Christ Church               0   0   0   0   0   0   0   0
+Merton                      0   0   0   0   0   0   0   0
+Trinity                    -1  -1  -1  -1  -1   0   0   0
+St John's                   1   0   0   0   0   0   0   0
+Pembroke                    0   1   0   0   0   0   0   0
+Oriel                       0   0   1   0   0   0   0   0
+Wadham                     -1   0  -1  -1  -1  -1   0   0
+Worcester                   1   1   1   0   0   0   0   0
+Lincoln                     0   2   0   1   0   0   0   0
+Queen's                    -1   1   0   1   0   0   0   0
+Exeter                      1   1   1   0   1   0   0   0
+Magdalen Hall               0   1  -1   0   0   1   1   0
+University                  0   1   1   0   1   0  -1   0
+Magdalen                    0   1   0   0   0   0   0   0

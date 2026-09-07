@@ -1,0 +1,16 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Men
+Year,1940
+Days,3
+
+Division,Cl,J,TH,Pb,L,S,J2,1st Trinity,SC,Cr,M,CC,Q,E,K
+Division,Ca,Ph,1st Trinity 2,SS,Pb2,TH2,L2,3rd Trinity,J3,D,Ca2,Cl2,SC2,Cr2,S2
+Division,1st Trinity 3,E2,TH3,Q2,SS2,CC2,M2,J4,Pb3,L3,E3,D2,J5,SS3,Cl3
+Division,Cr3,Queen Mary,Royal Air Force,Queen Mary 2,St. Batholemew's,London School of Economics,Cr4
+
+Results
+ro3uu urruuruuru rruurururur rrruurruruu
+rurur rurruruuurr ruurrrruruu uuuuuurrrr
+rrruu uurrruuurrr uuuuuruur rurrrruuurrr
+

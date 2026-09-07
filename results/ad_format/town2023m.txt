@@ -64,4 +64,4 @@ Chesterton 4                0   0  -1   0
 City 14                     0   1   1   1
 99 13                       0   0   0   0
 Champs 6                   -1   0   0   1
-Camb Vets 1                 1   0   0  -1
+Camb Veterans 1             1   0   0  -1

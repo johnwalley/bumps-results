@@ -1,0 +1,15 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1865 March
+Days,3
+Flags,skip_headship
+
+Division,TH,3rd Trinity,1st Trinity,L,E,1st Trinity 2,CC,TH2,Cr,Ca,1st Trinity 3,Pb,L2,Cl,M,J,2nd Trinity,E2,Ph,K
+Division,1st Trinity 4,Ca2,Cr2,SS,SC,L3,CC2,Q,J2,TH3,1st Trinity 5,Cl2,E3,L4,3rd Trinity 2,2nd Trinity 2,M2,Pb2,1st Trinity 6,D
+
+Results
+ro3uuruurururr t
+#XXX J2 & Cl2 occupy the same position after race 2
+rurrrruurruuur t
+e1xurruururuurr t

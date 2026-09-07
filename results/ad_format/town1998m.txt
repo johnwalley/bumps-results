@@ -34,7 +34,7 @@ Simoco 1                    1   1   1   1
 Cantabs 5                   0   1   1   1
 Cantabs 6                  -1   0   0   1
 St Neots 1                  1   0   1   1
-Ionica                      0  -1   0  -1
+Ionica 1                    0  -1   0  -1
 Free Press 7               -1  -1  -1   0
 Cantabs 7                   1   1   0   0
  18  Men's Div III

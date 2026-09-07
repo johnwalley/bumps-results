@@ -1,0 +1,69 @@
+LENTS 2026
+ 4  4  63   = NDay, NDiv, NCrew
+ 17  Women's Div I
+Jesus                       0   0   0   0
+LMBC                        0  -1  -1  -1
+Downing                    -1  -1  -1   0
+Trinity Hall                1   1   0   0
+Newnham                     0   1   1   0
+Caius                      -1   0   0  -1
+Pembroke                    1   0   1   1
+Emmanuel                    0   0  -1  -1
+1st and 3rd                 0  -1  -1  -1
+Clare                      -1  -1  -1  -1
+St Catharine's              1   1   1   1
+Churchill                   0   1   1   1
+Homerton                    0   0   1   1
+Sidney Sussex              -1   0   0   0
+Selwyn                      1   0   0   1
+Queens'                     0  -1  -1   0
+Christ's                    0   1   0   0
+ 17  Women's Div II
+Peterhouse                  0   0   1   0
+Fitzwilliam                 0   0  -1   1
+Corpus Christi              0  -1  -1  -1
+Magdalene                  -1  -1  -1  -1
+Murray Edwards              1   1   1  -1
+King's                     -1  -1  -1  -1
+Jesus II                    1   1   1   0
+Darwin                     -1  -1  -1   0
+Lucy Cavendish              1   1   1   1
+Newnham II                 -1   0   1   1
+Wolfson                     1   1   1   1
+Emmanuel II                -1  -1  -1  -1
+Girton                      1   0   0  -1
+Hughes Hall                 0   1   0   1
+Pembroke II                 0   0   1   0
+Robinson                    0   0   0   1
+LMBC II                    -1   0   1  -1
+ 17  Women's Div III
+Caius II                    1   0  -1  -1
+Trinity Hall II             0   0  -1   0
+Clare Hall                  0  -1   0   0
+Queens' II                 -1   0  -1  -1
+St Edmund's                 1   1   1   2
+Christ's II                 0  -1  -1  -1
+Clare II                   -1  -1  -1   0
+Downing II                  1   1   1   0
+1st and 3rd II             -1  -1   0   0
+Emmanuel III                1   1   1   1
+Churchill II                0   1   1   1
+Lucy Cavendish II          -1   1   0  -1
+Newnham III                 1  -1  -1  -1
+Anglia Ruskin               0  -1  -1  -1
+Hughes Hall II             -1  -1  -1  -1
+Wolfson II                  1   1   1   1
+St Catharine's II          -1   0  -1   1
+ 12  Women's Div IV
+Magdalene II                1   1   1   1
+Selwyn II                   0  -1   0   0
+Churchill III              -1   0   0   0
+Jesus III                   1   1   2   1
+Homerton II                 0   0  -1   1
+Murray Edwards II           0  -1   0  -1
+Peterhouse II               0   1   1  -1
+St Edmund's II              0   0  -1   0
+Emmanuel IV                -1  -1   0  -1
+Corpus Christi II           1   0   1   1
+Jesus IV                   -1   0   0   1
+King's II                   1   1   0   0

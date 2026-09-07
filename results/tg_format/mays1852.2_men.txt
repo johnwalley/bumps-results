@@ -1,0 +1,17 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1852 May
+Days,7
+
+Division,1st Trinity,L,3rd Trinity,E,M,Cr,Ph,L2,TH,2nd Trinity,2nd St. John's,J,1st Trinity 2,CC,SS,Ca,Q,1st Trinity 3,2nd Trinity 2,Ca2,3rd Trinity 2,L3,J2
+Division,E2,TH2,Cl,CC2,E3,Ca3,SC2*,1st Trinity 4
+
+Results
+ururrr urrururruuururrrr
+e1e2rxrru ure2e-1e-1uuuuururrrrr
+e1e1e1e1e2re1 re2rxrruruuuruurur
+rurrr rurrrruruuururrrrr
+rurrr rrrururrrurrrrrurrrr
+e3xe-1e-1ru rrrrururrurrrrrrrrrr
+rrrru rrruruurrrrrrrrrrrrr

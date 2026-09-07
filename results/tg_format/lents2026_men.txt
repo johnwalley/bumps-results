@@ -1,0 +1,15 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Men
+Year,2026
+
+Division,L,D,Cl,Ca,J,M,E,Pb,SC,TH,Ph,T,Q,S,R,K,Cr
+Division,F,L2,Cu,W,G,H,Ca2,HH,CC,J2,SS,T2,E2,Dw,D2,Cl2,Pb2
+Division,SE,Cr2,M2,Q2,F2,TH2,Ph2,LC,S2,SC2,CH,SS2,L3,J3,AR,T3,Pb3
+Division,E3,R2,LC2,SS3,TH3,Dw2
+
+Results
+rrurr urrrruurrrruu rururrruurrrrr urruuurururr
+rurrr ruurrurrrrurrr uurruuuuurr ruuuururuur
+uurr rruuuurrurru ruuuuuuuur rrrrurrrururru
+urur rrruurrrruuur rrrrrruurruurr rrrurrrurururr

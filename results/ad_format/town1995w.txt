@@ -9,7 +9,7 @@ City 3                      0  -1  -1   1
 City 4                     -1  -1  -1  -1
 Free Press 1                1   1   1   1
 Rob Roy 2                   0   1   1  -1
-Cam Consultants            -1   0  -1  -1
+Cam Consultants 1          -1   0  -1  -1
 Cantabs 1                   1   0   1   0
 City 5                      0  -1  -1  -1
 Pye 1                      -1  -1  -1   0

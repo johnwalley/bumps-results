@@ -1,0 +1,14 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Men
+Year,1887
+
+Division,J,1st Trinity,CC,Ph,L,Ca,M,1st Trinity 2,TH,Pb,Cavendish,D,Pb2,SC,3rd Trinity
+Division,K,TH2,Q,1st Trinity 3,L2,1st Trinity 4,J2,SS,Ca2,Cl,TH3,1st Trinity 5,Cr,E,S,Non-Collegiate
+
+Results
+rruruuuruu ruurrruruur
+ruuruuurur rruururuuu
+rrrrrurruruu ruurururrrrr
+rrrrurrrro3urr rruurrurrrrrr
+

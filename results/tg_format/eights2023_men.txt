@@ -12,7 +12,7 @@ Division,Wt2,U3,Mf2,L2,O4,Wf4,O5,SHu2,GT2,SHi2,E3,U4
 Division,N4,SHu3,SE3,SAt2,P3,L3,Co2,Q3,P4,SJ2,GT3,SHu4,SP3
 
 Results
-ruo3uuurr rurrrururr rruruurur rrrre1e1e-2rrrur uuuro3urr rrurrrruru ururuurrr
-rrurrrrurrr uuruurur urrrrrruru ruurrre1e1e-2rr ruururrur rurrrrurru rrururrrrrr
+ruo3uuurr rurrrururr rruruurur rrrrw2rrrur uuuro3urr rrurrrruru ururuurrr
+rrurrrrurrr uuruurur urrrrrruru ruurrrw2rr ruururrur rurrrrurru rrururrrrrr
 rrruruuru ruruuuru ruurrrrurr uurrrurru uururrurr urrrruuur rururrrrrrr
-rrruuurrrr rrrrrrrrrrrrr ururrrrrur rurrruruu rurururru rrrrrrruurr rrrurrrrrrrr
+rrruuurrrr rrrrrrrurrrr ururrrrrur rurrruruu rurururru rrrrrrruurr rrrurrrrrrrr

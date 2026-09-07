@@ -1,0 +1,73 @@
+TORPIDS 2021
+ 4  7  64   = NDay, NDiv, NCrew
+ 9  Women's Div I
+Pembroke                    0  -1  -2   2
+Hertford                    0   1   0  -5
+Keble                       0  -2  -1  -1
+Oriel                      -2   0   1   2
+Wolfson                     1   1   1   1
+Christ Church               1   1   1  -2
+Balliol                    -1  -2   0  -1
+New College                 1   0  -1   0
+Magdalen                   -1  -1  -1  -1
+ 9  Women's Div II
+University                  1   1   1   3
+Jesus                       0   2   0  -1
+St Anne's                   0  -1   0   1
+L.M.H.                     -1  -1   0   0
+Trinity                     1   1   1   2
+St John's                  -2   0   0  -1
+Somerville                  1   1   0   0
+Lincoln                     1   0   0   0
+Brasenose                   0   0   0   1
+ 9  Women's Div III
+St Catherine's              0   0   0   0
+Mansfield                   0   0   0  -2
+Wolfson II                  0   0   0   0
+St Hilda's                 -1  -1   0  -2
+Linacre                     1   0  -1   0
+Worcester                  -3  -1  -2  -2
+St Hugh's                   0   0  -2  -1
+S.E.H.                      2   1   1   2
+St Peter's                  1   0   1   1
+ 9  Women's Div IV
+Exeter                     -2  -1  -1   1
+Queen's                     1  -1   1  -1
+Corpus Christi              1   2   1   1
+St Antony's                -1   0   1   1
+Merton                      1   1   1   2
+Oriel II                   -3  -1   0  -1
+Somerville II               1   0  -1  -1
+Regent's Park               1  -1  -1  -1
+New College II              1   1   1   0
+ 9  Women's Div V
+Pembroke II                 0  -1  -2  -4
+Wolfson III                 0   2   1   1
+Christ Church II           -7   1   1   2
+Mansfield II                1  -2   0   1
+St Hugh's II                1   0   1   0
+University II               1   2   1   2
+Linacre II                  1  -1   1  -1
+Balliol II                  1   1  -3  -1
+Worcester II                1  -2   0  -1
+ 9  Women's Div VI
+Corpus Christi II           1   1   1   2
+Hertford II                -1  -1   1  -1
+St Catherine's II           1   0  -6  -1
+University III             -1   0   0   0
+L.M.H. II                   1   1   1   2
+St Peter's II               0  -1   1  -1
+St Benet's Hall            -1  -2  -5  -1
+Magdalen II                 1   1   2   1
+Brasenose II               -1  -2   1  -2
+ 10  Women's Div VII
+Christ Church III           1   1  -1   1
+Wolfson IV                 -1   1   1   0
+S.E.H. II                   1   2   2   1
+Trinity II                  0   0  -1  -5
+Wolfson V                   0  -2  -1   2
+St Catherine's III         -3  -1   0   1
+Osler House                 1   1   2   1
+Osler House II              1   1   2   1
+St Antony's II              1   0   1   2
+S.E.H. III                  0   1   0   1

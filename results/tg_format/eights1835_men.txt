@@ -1,0 +1,12 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1835
+Days,3
+
+Division,Ch,Wt,E,Br
+
+Results
+v0ur
+v0rrr
+e1xrr

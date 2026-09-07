@@ -1,0 +1,21 @@
+TORPIDS 1871
+ 6  1  18   = NDay, NDiv, NCrew
+ 18  Men's Div I
+University                  0   0   0   0   0   0
+Christ Church               0   0   0   0   0   0
+Exeter                      0   0   0   0   0  -1
+Balliol                     0  -1  -1   0   0   0
+Wadham                     -1  -1   0   0   0   0
+Brasenose                   1   1   0   0  -1   0
+Queen's                    -1   0   0   0   0   0
+Trinity                     1   1   1   0   1   1
+Oriel                       0   0   0   0   0  -1
+Pembroke                    0   0   0  -1   0   0
+Lincoln                     0   0   0   1   0   1
+Worcester                  -1  -1  -1  -1   0   0
+Corpus Christi              1   0   0   0   0  -1
+St John's                   0   1   0  -1  -1   1
+New College                -1   0   0   1   1  -1
+Magdalen                    1   0   1   1   0   1
+Merton                     -1   0   0   0   0   0
+Keble                       1   0   0   0   0   0

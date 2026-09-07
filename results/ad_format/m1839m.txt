@@ -1,0 +1,21 @@
+MAYS 1839 April May
+ 7  1  18   = NDay, NDiv, NCrew
+ 18  Men's Div I
+1st Trinity (Black Prince)   0   0   0   0   0   0   0
+3rd Trinity (Dolphin)       0   0   0   0  -1   0   1
+Caius                       0   0   0   0   1   0  -1
+LMBC                        0   0   0   0   0  -1   0
+Jesus                       0   0   0  -1   0   0   0
+1st Trinity II             -1  -1  -1   0   1   0   0
+LMBC II                     1   0  -1  -1  -1  -1   0
+King's                     -1  -1   0   0   0   1   0
+Magdalene                   1   1   1   1   0   1   0
+Peterhouse                  0   1   1   1   0   0   0
+St Catharine's             -1   0   0   0   0   0  -1
+Trinity Hall                1   0   0   0   0   0   0
+Christ's                    0   0   0  -1   0   0  -1
+Caius II                    0   0   0   1   0   0   1
+3rd Trinity II              0   0   0   0   0   0   1
+1st Trinity III             0   0   0   0   0   0   0
+Queens'                     0   0  -1   0   0   0   0
+Clare                       0   0   1   0   0   0   0

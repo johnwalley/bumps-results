@@ -28,7 +28,7 @@ St Hugh's II                1   1   1   0
 Magdalen                   -1  -4  -2  -3
  13  Women's Div III
 St Hilda's II               1   1   1   1
-New College II              0   2   0   1
+New College                 0   2   0   1
 Queen's                     0   1   1   0
 Christ Church               0   1  -1   0
 Brasenose II                0   1   1   1

@@ -1,0 +1,16 @@
+MAYS 1831 April May
+ 9  1  13   = NDay, NDiv, NCrew
+ 13  Men's Div I
+LMBC                       -1   0   1   0   0   0  -1   1  -1
+Trinity Monarch             1   0  -1   0  -1   1   1  -1   1
+St. John's Corsair          0   0   0   0   1  -1   0   0   0
+Christ's                    0   0   0   0  -1  -1  -1  -1  -1
+Jesus                      -1   1   0  -1  -1   0   1   1   0
+Peterhouse                  1  -1  -1   0   1   1   1  -5   0
+                            0  -1   0  -1   0  -1  -1   0   1
+St Catharine's             -1   0  -1  -1   2  -1  -1   0   1
+Emmanuel                    1   1   1   1   1   0  -1  -1  -1
+Clare                       0  -1  -1   0   1   0   1   0   2
+Caius                       0   1   1   1   0  -1   1   1   1
+Trinty Nautilus             0   0   1   1   0   2  -1   5   0
+Queens'                     0   0   0   0   1   0   0   0   1

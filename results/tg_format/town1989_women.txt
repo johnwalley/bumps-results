@@ -3,7 +3,7 @@ Short,Town
 Gender,Women
 Year,1989
 
-Division,City 1,City 2,Cantabs 1,99 1,99 2,99 3,99 4,City 3,City 4,Free Press 1,Cantabs 2,Cantabs 3,99 5,Leckhampton 1,City 5,Coopers & Lybrand 1,Rob Roy 1,Darwin 1,99 6,Rob Roy 2,Macdonalds 1,Rob Roy 3,Pye 1,City 6,City 7,Rob Roy 4
+Division,Ci,Ci2,Ca,N,N2,N3,N4,Ci3,Ci4,F,Ca2,Ca3,N5,Leckhampton,Ci5,Coopers & Lybrand,R,Darwin,N6,R2,Macdonalds,R3,P,Ci6,Ci7,R4
 
 Results
 ruurruuurururrrrur

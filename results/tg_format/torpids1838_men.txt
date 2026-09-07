@@ -1,0 +1,12 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1838
+Days,3
+
+Division,E,T,Wt,B,Ch
+
+Results
+v0v0ur
+v1e1xu
+e2e-1e-1r

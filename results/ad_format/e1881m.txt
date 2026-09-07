@@ -1,0 +1,26 @@
+EIGHTS 1881
+ 6  2  22   = NDay, NDiv, NCrew
+ 10  Men's Div I
+Magdalen                    0   0   0  -1   0   0
+Brasenose                   0   0  -1   0   0   0
+University                  0  -1  -1   0   0  -1
+New College                -1  -1   0   0  -1   0
+Hertford                    1   1   1   1   0   0
+Exeter                      0   1   1   0   0   0
+Balliol                     0   0   0  -1   0  -1
+Trinity                     0  -1   0   0  -1  -1
+Pembroke                   -1   0  -1  -1  -1  -1
+St John's                   1   1   0   1   1   1
+ 12  Men's Div II
+Corpus Christi              0   0   1   0   1   1
+Worcester                   0   0   0   1   0   1
+Christ Church              -1  -1  -1  -1   0   0
+St Mary Hall                1   0  -1  -1  -1   0
+Keble                       0   1   1   0   1   0
+Lincoln                     0   0   1   1   0   1
+Queen's                    -1  -1  -1   0   0   1
+Oriel                       1   0   0   1   1   0
+Jesus                      -1  -1   0   0  -1   1
+Merton                      1   1   0   0   0   0
+S.E.H.                     -1   0   0   0   1  -1
+Wadham                      1   1   1   0   0  -1

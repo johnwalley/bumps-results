@@ -3,8 +3,8 @@ Short,Town
 Gender,Men
 Year,1972
 
-Division,Rob Roy 1,99 1,Rob Roy 2,99 2,ACUA 1,Cantabs 1,City 1,Scouts 1,Selwyn 1,99 3,Grammar Sch 1,City 2,Churchill 1,Rob Roy 3,99 4
-Division,Cantabs 2,Cambs High School 1,Rob Roy 4,Leckhampton 1,King's 1,Churchill 2,RAF Brampton 1,Rob Roy 5,Cantabs 3,Scouts 2,Cantabs 4,Telephones 1,Rob Roy 6
+Division,R,N,R2,N2,ACUA,Ca,Ci,Scouts,Selwyn,N3,Grammar School,Ci2,Churchill,R3,N4
+Division,Ca2,Cambs High School,R4,Leckhampton,King's,Churchill 2,RAF Brampton,R5,Ca3,Scouts 2,Ca4,Telephones,R6
 
 Results
 ruurruurr rro3urruurrrr

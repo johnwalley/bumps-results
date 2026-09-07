@@ -1,6 +1,6 @@
 TORPIDS 1882
  6  2  24   = NDay, NDiv, NCrew
- 12  Men's Div I
+ 11  Men's Div I
 Brasenose                   0  -1   0  -1   0   0
 Keble                       0   1   0   0  -1   0
 Trinity                     0   0  -1   0   0   0
@@ -12,8 +12,8 @@ Balliol                    -1  -1   0  -1  -1  -1
 Queen's                     1   0  -1   0  -1  -1
 Exeter                      0   1   1   1   0   1
 Worcester                   0   0  -1   0   1   1
+ 13  Men's Div II
 Christ Church               0   0  -1   0   0   1
- 12  Men's Div II
 New College II              0  -1  -1  -1  -1  -1
 University                 -1   0   1   0   0   0
 Lincoln                     1   1   2   1   1   1

@@ -1,0 +1,14 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Men
+Year,1898
+
+Division,L,1st Trinity,TH,K,Pb,Ca,J,Pb2,1st Trinity 2,E,TH2,3rd Trinity,CC,Ph,Cr
+Division,Cl,J2,Ca2,Pb3,L2,1st Trinity 3,E2,1st Trinity 4,S,SS,TH3,SC,D,M,Q,Cl2
+
+Results
+rururruruur rurrruuurru
+uurrurruurr rrrurrurruur
+ruurruuurrr rrurrrrurrurr
+uuurruuurr ruurrrrrurrrr
+

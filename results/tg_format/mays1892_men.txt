@@ -1,0 +1,13 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1892
+
+Division,TH,1st Trinity,3rd Trinity,Pb,E,Ca,TH2,L,J,CC,Cl,Cr,1st Trinity 2,TH3
+Division,L2,Ca2,K,S,J2,1st Trinity 3,Pb2,Ph,E2,D,SC,Q,SS,Non-Collegiate,M,Ayerst Hall
+
+Results
+rrrrrurrrruur rrurrrrurrrrr
+ruruurrurru ruurruurrrr
+rrrurruuuur uuuuurrrrr
+urrrruuuurr urrruururrr

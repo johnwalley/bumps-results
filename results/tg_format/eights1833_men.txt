@@ -1,0 +1,12 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1833
+
+Division,Ch,Q,E,J,Br
+
+Results
+ruu
+e1xrrr
+rru
+rru

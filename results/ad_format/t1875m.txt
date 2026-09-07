@@ -1,0 +1,22 @@
+TORPIDS 1875
+ 6  2  18   = NDay, NDiv, NCrew
+ 9  Men's Div I
+Brasenose                   0   0   0   0   0   0
+Queen's                     0   0  -1   0   0   0
+Balliol                     0   0   1   0   0   0
+University                  0  -1  -1  -1  -1   0
+Wadham                     -1  -1  -1  -1   0   0
+Christ Church               1   1   0   0   0   0
+Trinity                     0   1   1   0   0   0
+Oriel                       0  -1  -1   0   0   0
+Lincoln                    -1  -1   0   0   0   0
+ 9  Men's Div II
+Pembroke                    1   1   1   1   0   0
+Exeter                      0   1   1   1   1   0
+Worcester                   0   0  -1  -1  -1  -1
+Corpus Christi             -1   0  -1  -1  -1   0
+Magdalen                    1   0   1   0   0   0
+Keble                       0   0   1   1  -1   0
+St John's                   0   0  -1   0   1   1
+New College                -1   0   0   0   0   0
+Keble II                    1   0   1   1   2   0

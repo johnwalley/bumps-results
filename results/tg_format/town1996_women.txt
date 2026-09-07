@@ -3,7 +3,7 @@ Short,Town
 Gender,Women
 Year,1996
 
-Division,Rob Roy 1,City 1,Free Press 1,City 2,99 1,City 3,Rob Roy 2,Cantabs 1,Free Press 2,City 4,Rob Roy 3,Cam Consultants,Free Press 3,City 5,Pye 1,Free Press 4,Cantabs 2,Free Press 5,Rob Roy 4,City 6,Mott MacDonald 1,PA Consultants 1,Cantabs 3,Rob Roy 5,Cantabs 4
+Division,R,Ci,F,Ci2,N,Ci3,R2,Ca,F2,Ci4,R3,Cam Consultants,F3,Ci5,P,F4,Ca2,F5,R4,Ci6,Mott MacDonald,PA Consultants,Ca3,R5,Ca4
 
 Results
 uuuururuuururrrr

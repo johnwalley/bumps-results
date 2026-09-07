@@ -1,0 +1,15 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1884 February March
+Flags,skip_headship
+
+Division,J,TH,1st Trinity,3rd Trinity,L,Pb,Ca,TH2,1st Trinity 2,Cl,L2,D,Cr,TH3
+Division,Ca2,J2,CC,3rd Trinity 2,Cavendish,1st Trinity 3,SC,Ph,K,M,E,Q,S,L3,1st Trinity 4
+Division,SS,J3,1st Trinity 5,Pb2,L4,Pb3,TH4,Ca3,1st Trinity 6,TH5,3rd Trinity 3,Cr2,Cl2,J4,Cl3,Non-Collegiate
+
+Results
+rruuururrru rrrruuuurrrr t
+rrrurrururur rrruuuururr t
+rruurrruruu rruurrururrr t
+rurrrrruruur ruuuuruurr t

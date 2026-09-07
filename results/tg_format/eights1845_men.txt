@@ -1,0 +1,17 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1845
+Days,8
+
+Division,Ch,Mt,Br,O,Wh,T,B,U,P,E,Lc,MH,SJ,Wt,Q,Corpus & Magdalen
+
+Results
+v0rruurrrrrrur
+v1e1e1e1e2re1e1xrurru
+urrrurrrrrrrr
+rrrrrruuurrr
+e1e1e1xrrrurrrrrr
+e1e1e1xrururrrr
+e1xrrrrurrrrr
+rure1v-1urrrr

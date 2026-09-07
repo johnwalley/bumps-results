@@ -1,0 +1,20 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1976
+
+Division,O,B,Ch,U,Wt,N,K
+Division,SE,J,Lc,Mg,O2,T,Wh,Q,Br,SJ
+Division,E,P,SC,SP,Mt,OH,Co,U2,SE2,Ch2
+Division,Lc2,SP2,H,Wf,P2,Q2,Wh2,O3,K2,J2
+Division,Mf,SJ2,SC2,N2,B2,Mg2,E2,Mt2,T2,Q3
+Division,Co2,O4,Co3,Br2,SE3,K3,U3,P3,O5,Co4
+
+Results
+rure2e-1e1e1e-3r re2e2e2e2e-3e2e2e-1e-8r rrw2e1e1e1e2e-4e-1 rrrruurrr rrrrrre2re1e-3r rrurrrr
+d(8.10.10.10.10.9)
+rre2e-1e-1e2e-1e-1r re2re-2e2e-1e2e-2e-1u rw2w2re2e-1e-1 re2e-1e-1rruur rurrrurrr rw2rrrrr
+d(9.10.10.10.10.8)
+rrrrurr re2e-1e-1e2e-1e-1uu re2e-1e1e1e-3rrrrr re2e-1e-1urrrrr ruuw2rrr rrrrrrrrrr
+d(10.10.10.10.10.7)
+rurru re2e-1e-1e2e-1e-1urr re2e-1e-1e2e-1e-1rrrr rurrrurrr rrrrw2rrrr rw2rrrrrrr

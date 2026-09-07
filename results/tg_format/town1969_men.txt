@@ -3,8 +3,8 @@ Short,Town
 Gender,Men
 Year,1969
 
-Division,Rob Roy 1,Leys Sch 1,99 1,Cantabs 1,99 2,Rob Roy 2,ACUA 1,Leys Sch 2,Scouts 1,99 3,Cambs High School 1,Cantabs 2,Rob Roy 3,Scouts 2,99 4
-Division,Cam Grammar Sch 1,Rob Roy 4,ACUA 2,Rob Roy 5,ACUA 3,Cam Grammar Sch 2,Police 1,Selwyn 1
+Division,R,Leys School,N,Ca,N2,R2,ACUA,Leys School 2,Scouts,N3,Cambs High School,Ca2,R3,Scouts 2,N4
+Division,Cam Grammar School,R4,ACUA 2,R5,ACUA 3,Cam Grammar School 2,Police,Selwyn
 
 Results
 ruuur urruurrurrrr

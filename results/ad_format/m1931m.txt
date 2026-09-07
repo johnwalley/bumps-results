@@ -1,0 +1,51 @@
+MAYS 1931
+ 4  3  46   = NDay, NDiv, NCrew
+ 15  Men's Div I
+Jesus                      -1   0   0   0
+Pembroke                    1   0   0   0
+LMBC                       -1   0   0   0
+Selwyn                      1   0   0   0
+3rd Trinity                 0   0   0   0
+Christ's                    0   0   0   0
+1st Trinity                 0   0   0   0
+Trinity Hall                0   0   0   0
+1st Trinity II              0  -1  -1  -1
+Pembroke II                 0   1   0   0
+Jesus II                   -1   0   0   1
+Caius                       1   0   1   0
+Queens'                     0  -1   0   0
+Sidney Sussex              -1  -1  -1   0
+Emmanuel                    1   1   0   0
+ 15  Men's Div II
+King's                     -1  -1   0   0
+Peterhouse                  1   1   0   0
+Clare                       0   1   1   0
+St Catharine's              0   0   0   0
+Corpus Christi              0  -1  -1  -1
+Trinity Hall II            -1  -1  -1  -1
+Caius II                    1   1   0  -1
+Christ's II                -1  -1  -1  -1
+LMBC II                     1   1   1   1
+Downing                    -1  -1  -1   0
+Clare II                    1   1   1   1
+Queens' II                 -1  -1   0  -1
+Selwyn II                   1   1   1   1
+Caius III                  -1  -1  -1  -1
+Jesus III                   1   1   1   1
+ 16  Men's Div III
+1st Trinity III            -1  -1   0   1
+Emmanuel II                 1   1  -1   0
+Trinity Hall III           -1  -1  -1  -1
+Magdalene                   1   1   2   1
+1st Trinity IV             -1  -1  -1   0
+LMBC III                    1   1   0   0
+Fitzwilliam                 0   1   1   0
+Pembroke III                0   0   1   1
+Christ's III                0   0   0   0
+Emmanuel III               -1  -1  -1  -1
+St Catharine's II           1   0  -1  -1
+Sidney Sussex II            0   1   1   0
+Peterhouse II               0  -1   0   1
+Jesus IV                   -1  -1   0   0
+King's II                   1   1   1   1
+Corpus Christi II           0   1   0   0

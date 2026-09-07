@@ -1,0 +1,13 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1898
+
+Division,TH,E,3rd Trinity,1st Trinity,L,Ca,TH2,K,Pb,1st Trinity 2,J,L2,TH3,E2
+Division,Ca2,Cl,CC,Cr,J2,SS,S,Ph,Pb2,SC,Q,M,D
+
+Results
+rrrrrurrurr ruruuururr
+ruruurrur rrururrrrrur
+uuruurru ururrrrrrrru
+urruuuru rururrrrrurr

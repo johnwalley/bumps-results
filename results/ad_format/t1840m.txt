@@ -1,0 +1,9 @@
+TORPIDS 1840
+ 4  1  6   = NDay, NDiv, NCrew
+ 6  Men's Div I
+Oriel                       0   0   0   0
+Brasenose                  -1  -1   1   0
+Exeter                      1   0   1   0
+Trinity                    -1   0   0   0
+Wadham                      1   1   1   1
+St John's                   0   0   2   0

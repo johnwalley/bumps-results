@@ -1,0 +1,17 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1872 May
+Days,6
+
+Division,1st Trinity,L,3rd Trinity,TH,CC,1st Trinity 2,J,E,K,SS,Ca,1st Trinity 3,2nd Trinity,Cr
+Division,SC,Cl,TH2,CC2,3rd Trinity 2,M,Pb,Q,Ph,Ca2,L2,J2,1st Trinity 4,SS2,TH3
+Division,D,L3,1st Trinity 5,2nd Trinity 2,Cl2,Cr2,St. John's,E2,TH4,1st Trinity 6,Pb2
+
+Results
+t ururururrrrr rrrurrrrrrrrrr
+t rurrururrrrrr rrurrrrurrrrr
+t urruruurrrrrr rrurrrrurrrr
+t rrrruurrurrrr rrrrrrrruurrr
+t t rrrrrrrrruuu
+t t urrrrrrurrur

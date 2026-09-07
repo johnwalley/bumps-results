@@ -1,0 +1,13 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1888
+
+Division,TH,3rd Trinity,Pb,J,1st Trinity,TH2,Ca,TH3,Cl,L,E,Cr,1st Trinity 2,1st Trinity 3,CC
+Division,L2,S,Ph,J2,Ca2,M,Pb2,K,Cavendish,Q,SS,D,SC,Ayerst Hall
+
+Results
+ururrurrrrr rrrurruuurrr
+rruurrrurrr urruuuurrrr
+ruurrrurrrr urrruurrrrrrr
+rrurrrrrrurr urruuurrrrrr

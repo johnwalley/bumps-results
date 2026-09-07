@@ -1,0 +1,13 @@
+TORPIDS 1844
+ 6  1  10   = NDay, NDiv, NCrew
+ 10  Men's Div I
+Oriel                       0   0   0   0  -1   1
+Christ Church               0  -1   0   0   0  -1
+Pembroke                   -1   0   0   0  -1   0
+Wadham                      1   1   0   0   1  -1
+St John's                  -1   0   1   2   0  -1
+Exeter                      1   1   0   0  -1   0
+Brasenose                  -1   1  -1   2  -1   1
+Balliol                     1   2  -1   1   1   1
+Worcester                   0   3   1   2   0  -1
+Trinity                     0   2   1   0   1  -1

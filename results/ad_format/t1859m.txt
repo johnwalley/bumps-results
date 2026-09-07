@@ -1,0 +1,13 @@
+TORPIDS 1859
+ 6  1  10   = NDay, NDiv, NCrew
+ 10  Men's Div I
+Pembroke                   -1  -1   0   0   0   0
+Brasenose                   1   0  -1   0   0   0
+Exeter                      0   1   1   0   0   0
+University                 -1  -1  -1  -1   0   0
+Christ Church               1   0   0   0   0   0
+Trinity                     0   1   0   0   0   0
+Balliol                     0   0   1   0   0   0
+Corpus Christi              0   0   0   1   0   0
+Oriel                       0   0   0  -1   0   1
+Wadham                      0   0   0   1   0  -1

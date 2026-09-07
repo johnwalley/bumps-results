@@ -1,0 +1,18 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1950
+
+Division,Cl,TH,T,J,L,Pb,Q,Cr,SC,E,S,J2,Ca,D,L2
+Division,TH2,M,K,T2,SC2,CC,Q2,Pb2,Ph,Cl2,S2,J3,SS,Cr2,L3
+Division,TH3,D2,E2,T3,T4,Ca2,J4,M2,K2,F,Ph2,SC3,TH4,Q3,L4,Pb3
+Division,Cr3,Ca3,J5,D3,Cl3,E3,T5,CC2,Cl4,SS2,TH5,S3,M3,Ph3,T6,SC4
+Division,Q4,TH6,F2,E4,J6,S4,L5,K3,L6,Q5,Cr4,Ca4,TH7,J7,D4,Pb4
+Division,SS3,Pb5,SC5,E5,Q6,M4,T7,Ph4,Ca5,Ph5,Cl5,SS4,SC6,CC3,L7,S5
+Division,M5,D5,L8,Cl6,Ca6,Pb6,S6,F3,F4,E6,T8,K4,K5,CC4,L9,D6,Q7
+
+Results
+rrruuuuurur rrurruururur ro3uuruuuur ruuurrurruu ruurruuurrrr ruuuruuurr rurrrrurrurrr
+rruuuuuuru ururrurururr urruuruurru urruurruuur rruurruuurrr rruururruur rrrururururr
+rrruuuuurrrr rururro3uuru ruuuruuuur ruuuuuuuu ruururuurur rrrrrruurrrru rrurururrrur
+rruuuuuurrr rrruurururur uuuuruuuu rrurruuuuur rrururrruurrr rrruuuurrur rrrurrurrrrru

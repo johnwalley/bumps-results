@@ -1,0 +1,20 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1966
+
+Division,T,Pb,Q,J,L,SC,E,Cl,F,TH,Cr,D,S,J2,SC2,L2
+Division,M,CC,T2,Pb2,Ph,K,Ca,E2,J3,TH2,L3,S2,SS,D2,Cu,M2
+Division,Cr2,Q2,SC3,Cl2,F2,L4,E3,J4,T3,Ph2,CC2,TH3,Cr3,L5,Cu2,Ca2
+Division,Pb3,S3,T4,SS2,Ca3,M3,Cl3,K2,D3,Q3,Cl4,T5,J5,L6,TH4,F3
+Division,E4,Cr4,Q4,SC4,L7,CC3,Pb4,L8,Cu3,S4,TH5,Ph3,Q5,T6,E5,SS3
+Division,Pb5,M4,Q6,K3,L9,SC5,Ca4,D4,Cl5,M5,S5,F4,Cr5,CC4,Ca5,L10
+Division,SS4,Cu4,L11,Cu5,T7,F5,E6,SC6,F6,J6,SC7,CC5,Cu6,SC8,Pb6
+Division,E7,SS5,J7,Q7,CUWBC,Cl6,Cr6,D5,K4,SC9,S6,T8,T9,K5,Q8,Cl7,SC10
+
+Results
+ururrrro3uo3u rurrrrrrrurru uuo3uuruuu o5o3urruruuu rruurrrrururr rruuurururu uuururruurr rrrrrrururrurr
+d(16.16.16.16.16.16.16.16)
+rrurrrruro3u rrurrrruuro3ur o3uurrrruuru uro3urrruuur ruuurruurur ruuururrro3u urururrrrrrrrr rrururuuuur
+ruurrurrrrru uro3uurrurru uo3ururrurur rurrruruuuu rrrruuuuurrr rruuruururu uuruururrrrr ruurrrrrrrrurr
+urrrurrrurru rurrruuuuur rruo3ururruu urrruruuuur uurururruru ruuurrrururr ruruurrrrurrr rruururrrrrur

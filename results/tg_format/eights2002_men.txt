@@ -12,7 +12,7 @@ Division,L2,N3,R,Lc3,Wf2,J3,B3,SAt,S2,Mf2,P4,Ch3
 Division,Wt3,SE3,Co2,Ch4,J4,Mt3,H3,Br3,Wh3,U3,U4,Br4,N4
 
 Results
-rrrrrurrrur rruruuurr urururrrrr rrrre1e1e-2uurr rrrruurrrrr rururrurrr rruurrurrr
-urruururr ururuuur o3uruuurr rrruurrrur e1e1e-2uurrrrrr rrrrrrrurrrr ruuurrrrrr
+rrrrrurrrur rruruuurr urururrrrr rrrrw2uurr rrrruurrrrr rururrurrr rruurrurrr
+urruururr ururuuur o3uruuurr rrruurrrur w2uurrrrrr rrrrrrrurrrr ruuurrrrrr
 rurruruur o3uuruuu urruuurrr rruuro3uu rrrrurruru ruuururrr rururrrrrrr
 rrrruruuu rrurururu ruuurrrrrr ruuo3urrrr ruurrrrurr urruururr rrrururrrrr

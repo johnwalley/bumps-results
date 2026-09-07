@@ -1,0 +1,18 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1952
+Days,6
+
+Division,N,Wt,Lc,SE,Ch,Mg,U,SP,O,Mt,P,T
+Division,SC,B,J,Q,Br,E,SJ,Co,Wh,K,N2,H
+Division,Mt2,SP2,SE2,P2,Lc2,Ch2,U2,Br2,O2,K2,Mg2,B2
+Division,Wt2,SC2,E2,T2,J2,N3,O3,Q2,Wh2,Ch3,SP3,J3,K3
+
+Results
+rruruuurr rrruuuurr rrurrrrruu ruururrrrr
+ruuruuur rrruruurrr rurrruuur uuuruurr
+rruuruuu uuuruurr uuurrruu rurrururrr
+rrrrrrrruur rrruruuur rrrurrrrrur rrrruurrrrr
+rrrrrrrrrurr rurururru uuurrrurr rrrurruurr
+rrrrrrrrrrur rrururrrur ruurrrurrr rrurruurrr

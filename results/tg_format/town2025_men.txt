@@ -1,0 +1,15 @@
+Set,Town Bumps
+Short,Town
+Gender,Men
+Year,2025
+
+Division,Ci,N,Ca,Ci2,Ci3,N2,Ca2,X,Ct,N3,Ci4,Ca3,Ca4,N4,SN,Ci5,Ci6
+Division,Ca5,SR,Ci7,X2,Ci8,Ch,Ca6,X3,Ct2,Ca7,N5,Ci9,Ca8,N6,SN2,Ci10,Ch2
+Division,N7,Ca9,X4,Ci11,X5,N8,Ch3,Ci12,Ch4,Ct3,N9,SR2,N10,Ci13,Ca10,Ci14,Ct4
+Division,N11,Ch5,Ch6,Ca11,Ch7,Ci15,Ci16,Ch8,N12,Ci17,Camb Vets,Ca12
+
+Results
+uurururrr rruuururrrru uururrurrurrr urururururur
+rurrurrur uurruruuuru ruurro3uruuu urrrururrrrrrrr
+rrurrurru urrrururruur ruuuurrrururr rururuurrrrrrr
+rrrurrrrur rurrrururruur rrrurrrrrururrr rrrrrruurrrrrrrr

@@ -1,0 +1,4 @@
+EIGHTS 1816
+ 1  1  1   = NDay, NDiv, NCrew
+ 1  Men's Div I
+Brasenose                   0

@@ -1,0 +1,16 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1839
+Days,7
+
+Division,E,B,Mt,SJ,T,Br,J,Ch,Wh,O,U,New Inn Hall,MH
+
+Results
+v0rrrruurru
+v0rrrrrurrur
+v2e2e2e2e2xxruru
+v0rrrrrrurr
+v0rrrrurur
+v0rrruuru
+rrrrrurur

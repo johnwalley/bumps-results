@@ -1,0 +1,67 @@
+MAYS 1932
+ 4  4  61   = NDay, NDiv, NCrew
+ 15  Men's Div I
+Pembroke                    0   0   0   0
+Jesus                       0   0   0   0
+Selwyn                      0  -1   0   1
+LMBC                        0   1   0  -1
+3rd Trinity                 0   0   0   0
+Christ's                   -1   0   0   0
+1st Trinity                 1   0   0   0
+Trinity Hall                0   0   0  -1
+Pembroke II                 0  -1   0   0
+Caius                      -1   0   0  -1
+Jesus II                    1   1   0   1
+1st Trinity II              0   0   0   1
+Emmanuel                   -1  -1   0   0
+Queens'                     1   0  -1   0
+Peterhouse                 -1   0   0   0
+ 15  Men's Div II
+Clare                       1   1   1   0
+Sidney Sussex               0   0   0  -1
+King's                     -1  -1   0  -1
+St Catharine's              1   0   0   1
+LMBC II                     0   1   0   0
+Caius II                    0   0  -1  -1
+Clare II                    0  -1  -1   0
+Corpus Christi             -1  -1   0  -1
+Selwyn II                   1   1   1   1
+Trinity Hall II            -1   0  -1   0
+Jesus III                   1   1   1   1
+Christ's II                 0  -1   0  -1
+Downing                    -1   0  -1   0
+Magdalene                   1   1   1   1
+Queens' II                  0  -1   0   0
+ 15  Men's Div III
+Emmanuel II                -1  -1  -1  -1
+1st Trinity III             1   1   1   1
+Caius III                  -1  -1  -1  -1
+LMBC III                    1   1   0  -1
+Fitzwilliam                 0   1   1   1
+Pembroke III                0   0   1   1
+Trinity Hall III            0   0   0   1
+1st Trinity IV              0  -1   0  -1
+Christ's III               -1   0   0   1
+Sidney Sussex II            1   1   0   0
+King's II                  -1  -1  -1  -1
+St Catharine's II           1   0  -1  -1
+Peterhouse II               0   1   1   0
+Emmanuel III               -1  -1   0   0
+Corpus Christi II           1   0   1   1
+ 16  Men's Div IV
+Jesus IV                    0   1   0   1
+LMBC IV                    -1   0   1   0
+Jesus V                     1   0  -1  -1
+Christ's IV                -1  -1  -1  -1
+Trinity Hall IV             1   0  -1  -1
+Caius IV                   -1  -1  -1  -1
+Queens' III                 1   1   1   1
+Peterhouse III             -1  -1  -1   0
+Clare III                   1   1   1   1
+Sidney Sussex III          -1  -1  -1  -1
+St Catharine's III          1   1   1   1
+Downing II                  0   1   1   1
+Magdalene II                0   0   1   0
+Fitzwilliam II              0   0  -1   0
+Jesus VI                    0  -1   0   0
+LMBC V                      0   1   1   1

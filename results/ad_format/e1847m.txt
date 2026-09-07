@@ -1,0 +1,18 @@
+EIGHTS 1847
+ 8  1  15   = NDay, NDiv, NCrew
+ 15  Men's Div I
+Brasenose                   0   0   0   0   0   0  -1   0
+Christ Church               0   0   0   0   0   0   1   0
+St John's                   0   0  -1  -1  -1   0   0   0
+Pembroke                    0   0   1   0   0   0   0   0
+Worcester                   0   0   0   1   0   0   0   0
+Lincoln                     0   0  -1  -1  -1  -1  -1   1
+Exeter                      0  -1  -1  -1   0   2   0   1
+Queen's                    -3   0   0  -1   0   1   2   0
+University                 -1  -1   0  -1   0   1   2   0
+Wadham                      1   0   1   2   1   0   0   0
+Oriel                       3   1   1  -1   0   0   0  -1
+Balliol                     0   2   0   1   1   2   0   0
+Jesus                       0   0   1   1   1   2   0   1
+Christ Church II            0   2  -1   0   2   2  -1   1
+Brasenose II                0   1   0   0   2   1   2   0

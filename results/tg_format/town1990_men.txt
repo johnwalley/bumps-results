@@ -3,9 +3,9 @@ Short,Town
 Gender,Men
 Year,1990
 
-Division,99 1,Rob Roy 1,Rob Roy 2,City 1,Cantabs 1,City 2,99 2,Free Press 1,99 3,Pye 1,Cantabs 2,Lady Somerset 1,Cantabs 3,Rob Roy 3,Free Press 2,King's 1
-Division,99 4,Free Press 3,City 3,St Ives 1,99 5,99 6,Free Press 4,Cantabs 4,Red Lion Toft 1,Wolfson 1,Pye 2,Macdonalds 1,Rob Roy 4,Metallurgy 1,City 4,Free Press 5,Old Spring 1
-Division,Christ's 1,Macdonalds 2,Rob Roy 5,City 5,Cavendish Lab 1,Maximum Entropy 1,Leckhampton 1,99 7,Cantabs 5,St Ives 2,Red Lion Toft 2,Rob Roy 6,Barclays Bank 1,99 8,Cantabs 6,City 6,City 7
+Division,N,R,R2,Ci,Ca,Ci2,N2,F,N3,P,Ca2,Lady Somerset,Ca3,R3,F2,King's
+Division,N4,F3,Ci3,SI,N5,N6,F4,Ca4,Red Lion Toft,Wolfson,P2,Macdonalds,R4,Metallurgy,Ci4,F5,Old Spring
+Division,Christ's,Macdonalds 2,R5,Ci5,Cavendish Lab,Maximum Entropy,Leckhampton,N7,Ca5,SI2,Red Lion Toft 2,R6,Barclays Bank,N8,Ca6,Ci6,Ci7
 
 Results
 rruuruuruur rurrrrrrururrrr uuururrrrrrrr

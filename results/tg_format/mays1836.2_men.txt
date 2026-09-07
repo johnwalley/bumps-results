@@ -1,0 +1,16 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1836 April May
+Days,7
+
+Division,1st Trinity (Black Prince),2nd Trinity (Queen Bess),Ca,TH,J,M,L,CC,Q,Pb,Cr,L2,1st Trinity 2,,Ca2,E,,CC2,3rd Trinity (Dolphin)
+
+Results
+v0uo3ururro3uur
+v0rurrurrre2e-1e-1rurr
+v2xe1e3rre1e2re1e3rre1xrrrr
+v0urw2rrrrrurrr
+v1xrrrurrrrrruu
+e1e2rxrrrrrurrur
+uururrrrrru

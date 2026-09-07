@@ -1,0 +1,18 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1981
+
+Division,O,K,B,Wt,E,Ch,Q,U,Lc,N,SE,J
+Division,Br,P,Wh,OH,H,Mg,O2,SC,SP,SJ,T,Co
+Division,Lc2,Mt,Ch2,P2,U2,Q2,Mf,K2,O3,SE2,E2,SP2
+Division,J2,Q3,Wh2,Wf,SC2,R,SJ2,Wt2,B2,O4,L,Br2
+Division,N2,K3,O5,Wf2,Q4,Mt2,E3,Co2,Q5,T2,Lc3,H2
+Division,SJ3,K4,B3,U3,SC3,Mf2,SP3,LM,SP4,O6,LM2,E4
+Division,Br3,H3,B4,SJ4,SAn,O7,B5,N3,SJ5,SE3,K5,LM3
+
+Results
+e2re-2ure2re-2ur rrrrw3urrr w7w2u w2rrw2rw2r urrre2re1e-3rru rw2rruurrr urw2rrrrrrr
+rrrrw2rrru rrruruw2u rw2uw2rw2 rw2uw2rw2 ururw3rrr ururruuu uurrrrrrrrr
+e2re1e1e1e1e-6rrur e2re-2rrurrw2r e3e-1e2e-1e-3ue2e2e-1e-3rr uw2ue1e2e-2e-1u rw3rrruur rrue2re-2ruur w2w2w4rr
+uurw3rrr uurruuw2 uw3uruu rue2e2e-1e1e-4uur rruurrrurr rurrruruu ururrrrrrrr

@@ -1,0 +1,25 @@
+EIGHTS 1876
+ 8  2  21   = NDay, NDiv, NCrew
+ 10  Men's Div I
+University                 -1   0   0   0   0   0   0   0
+Brasenose                   1   0   0   0   0   0   0   0
+Pembroke                    0   0   0   0   0   0   0   0
+Corpus Christi              0   0   0   0   0  -1   0   0
+Oriel                      -1  -1  -1  -1  -1  -1  -1  -1
+Christ Church               1   0   0  -1   0  -1  -1   0
+Exeter                      0   1   0   1   0   1   0   0
+St John's                   0   0   1   0   0   1   0   0
+Balliol                     0   0   0   1   0   0   1   0
+Queen's                     0  -1  -1  -1   0  -1  -1   0
+ 11  Men's Div II
+Lincoln                     0  -1   1   0  -1   0   1   0
+Trinity                    -1   0   0   1   1   1   0   0
+Magdalen                    1   2   0   0   1   0   0   0
+Worcester                   0   0  -1   0   0   0   1   0
+Keble                       0   0   1   0   0   1   0   1
+New College                 0   0   0   0   0  -1  -1  -1
+Wadham                      0   0  -1   0   0   0   1   0
+Merton                      0  -1   0   0   0   0   0   1
+Jesus                      -1   0   0   0   0   0   0   0
+Hertford                    1   1   1   0   0   1   0   0
+St Catherine's              0   0   0   0   0   0   0   0

@@ -1,0 +1,34 @@
+MAYS 1894
+ 4  2  30   = NDay, NDiv, NCrew
+ 14  Men's Div I
+Trinity Hall                0   0   0   0
+1st Trinity                 0   0   0   0
+3rd Trinity                 0   0   0   0
+LMBC                        0   0   0  -1
+1st Trinity II              0   0   0   1
+Trinity Hall II            -1  -1   0  -1
+Pembroke                    1   0  -1   0
+Jesus                      -1   0   0   1
+Emmanuel                    1   1   1   0
+Caius                      -1   0   0  -1
+Trinity Hall III            1   0   0   0
+Corpus Christi             -1  -1  -1  -1
+Clare                       1   0  -1  -1
+King's                      0   1   1   1
+ 16  Men's Div II
+1st Trinity III             0   0   1   1
+LMBC II                     0   0   0   1
+Caius II                    0   0   0  -1
+Christ's                    0   0  -1   0
+Pembroke II                 0  -1   0  -1
+St Catharine's             -1  -1  -1  -1
+Jesus II                    1   1   1   1
+Selwyn                      0   1   0   1
+Sidney Sussex               0  -1   0   1
+Emmanuel II                 0   1   1   0
+Peterhouse                  0   0  -1   1
+Queens'                     0   0   1  -1
+Downing                     0   0  -1   0
+Fitzwilliam                 0  -1   0   0
+Magdalene                  -1   0   0   0
+2nd Trinity                 1   1   1   0

@@ -1,0 +1,13 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1909
+
+Division,TH,J,1st Trinity,L,Pb,E,Ca,3rd Trinity,J2,Cr,CC,1st Trinity 2,S,M,K
+Division,L2,Cl,TH2,SC,Pb2,Q,SS,1st Trinity 3,J3,Cr2,K2,E2,Ca2,Ph,D
+
+Results
+uuurrrruru rrrrrurrrruru
+rrrurrrrrrurr rrrruuurrrur
+uuurrrrrrur rrrrrrrrrurrrrr
+rrrrrrurrrrrrr rrrrrrrrrrurrrr

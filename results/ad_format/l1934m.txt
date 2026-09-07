@@ -1,0 +1,78 @@
+LENTS 1934
+ 4  5  71   = NDay, NDiv, NCrew
+ 15  Men's Div I
+Pembroke                    0  -1  -1  -1
+Selwyn                     -1  -1  -1   0
+Jesus                       1   1   0   0
+1st Trinity                -1   0   1   1
+Clare                       1   1   1   0
+St Catharine's              0   0   0   0
+Emmanuel                    0   0   0   0
+LMBC                        0   0   0  -1
+Christ's                   -1   0   0  -1
+1st Trinity II              1   0   0   1
+Caius                       0   0   0   1
+Jesus II                    0   0   0  -1
+Pembroke II                -1  -1   0   0
+Peterhouse                  1   0  -1   0
+Trinity Hall               -1   0   0   0
+ 15  Men's Div II
+LMBC II                    -1   0  -1  -1
+Queens'                     2   1   1   1
+King's                      0  -1  -1   0
+Christ's II                 0   1   1   0
+Trinity Hall II             0  -1  -1  -1
+Corpus Christi             -1  -1  -1  -1
+Sidney Sussex               1   1   1   1
+Caius II                   -1  -1  -1   0
+Magdalene                   1   1   1   0
+Fitzwilliam                -1  -1  -1  -1
+Jesus III                   1   1   1   1
+Downing                     0   1   1   1
+3rd Trinity                 0   0   1   0
+Clare II                    0   0   0   1
+1st Trinity III             0   0  -1   0
+ 15  Men's Div III
+Peterhouse II              -1  -1  -1  -1
+LMBC III                    1   0  -1  -1
+Selwyn II                   0   1   2   0
+Queens' II                  0   0   1   1
+Emmanuel II                 0  -1  -1  -1
+Corpus Christi II          -1   0   1   0
+St Catharine's II           1   1   0   1
+Caius III                  -1  -1  -1  -1
+1st Trinity IV              1   0  -1  -1
+Pembroke III                0   1   1   1
+Downing II                 -1  -1  -1   0
+Trinity Hall III            1   0   1   1
+Sidney Sussex II           -1   0   1   0
+Jesus IV                    1   1   0   1
+Emmanuel III                0   0   0  -1
+ 15  Men's Div IV
+Christ's III                0  -1  -1  -1
+St Catharine's III          0   1   0  -1
+Pembroke IV                -3  -1  -1  -1
+LMBC IV                    -1   0  -1   1
+Magdalene II                1   1   1   2
+Clare III                   3  -1   0   1
+Fitzwilliam II              0   1   1  -1
+Trinity Hall IV             0   0   1   0
+Peterhouse III             -1  -1  -1  -1
+Selwyn III                  1   0  -1  -1
+1st Trinity V              -1  -1  -1  -1
+Jesus V                     1   1   1   1
+Queens' III                 0   1   1   1
+Emmanuel IV                 0  -1   0   1
+Clare IV                   -1   0  -1   0
+ 11  Men's Div V
+Sidney Sussex III          -1  -1  -1  -1
+St Catharine's IV           2   1   1   1
+LMBC V                     -1   0   1   0
+Downing III                 1   1   1   0
+Christ's IV                 0   0   0   1
+1st Trinity VI              0   0  -1   0
+Magdalene III               0  -1  -1  -1
+Fitzwilliam III            -1  -1  -1   0
+Emmanuel V                  1   1   1   0
+Jesus VI                    0   1   1   0
+St Catharine's V            0   0   1   1

@@ -3,9 +3,9 @@ Short,Town
 Gender,Men
 Year,1985
 
-Division,Rob Roy 1,City 1,99 1,City 2,99 2,99 3,Cantabs 1,Free Press 1,City 3,Univ Sports 1,Addenbrooke's 1,Free Press 2,Lady Somerset 1,Ditton Dodgers 1,Rob Roy 2,99 4,Cantabs 2
-Division,Fitzwilliam 1,Clare 1,Churchill 1,Wolfson 1,City 5,99 5,Macdonalds 1,Metallurgy 1,Pye 1,Free Press 3,King's 1,Red Lion Toft 1,Cantabs 3,Univ Sports 2,Free Press 4,Leckhampton 1
-Division,Rob Roy 3,Free Press 5,Univ Sports 3,Cantabs 4,99 6,The Mohos 1,Rob Roy 4,Barclays Bank 1,Lady Somerset 2,Cantabs 5,Univ Sports 4,Leckhampton 2,Cantabs 6,Applied Biology 1,Red Lion Toft 2,99 7,Pye 2,City 6
+Division,R,Ci,N,Ci2,N2,N3,Ca,F,Ci3,Univ Sports,Addenbrooke's,F2,Lady Somerset,Ditton Dodgers,R2,N4,Ca2
+Division,Fitzwilliam,Clare,Churchill,Wolfson,Ci5*,N5,Macdonalds,Metallurgy,P,F3,King's,Red Lion Toft,Ca3,Univ Sports 2,F4,Leckhampton
+Division,R3,F5,Univ Sports 3,Ca4,N6,The Mohos,R4,Barclays Bank,Lady Somerset 2,Ca5,Univ Sports 4,Leckhampton 2,Ca6,Applied Biology,Red Lion Toft 2,N7,P2,Ci6
 
 Results
 rrro3ururrro3ur o3ururruurru ururuurrruur

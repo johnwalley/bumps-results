@@ -1,0 +1,15 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1831 February March
+Days,5
+Flags,skip_headship
+
+Division,Trinity Monarch,L,St. John's Corsair,J,L2,Ph,,Cr,,SC,E,,Cl
+
+Results
+v0v0v0v0v0v0v0rrrrrr
+v0v0v0v0v0uurrrr
+v1v1v1v1v1xuruu
+v0v0v0ruuuu
+urrrrruru

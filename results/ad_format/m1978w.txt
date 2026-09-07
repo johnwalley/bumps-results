@@ -1,0 +1,36 @@
+MAYS 1978
+ 4  2  32   = NDay, NDiv, NCrew
+ 16  Women's Div I
+New Hall                   -1   0   0  -1
+Churchill                   1   0   0   0
+QMABC                      -1   1  -1  -1
+Newnham                     1  -1   1   1
+Newnham II                 -1  -1   0  -1
+Clare                       1   0   0   1
+Newnham III                -1  -1  -1   0
+New Hall II                 1   1   0   0
+Selwyn                      0   1   0   1
+Wolfson                     0  -1   0   0
+Darwin                     -3  -1   0   0
+QMABC II                   -1   0  -1   0
+Clare II                    1   0   0  -1
+Girton                      3   1   1   0
+Girton II                  -1   0   0   0
+Addenbrooke's               1   1   1   1
+ 16  Women's Div II
+1st and 3rd                 0  -1  -1  -1
+New Hall III               -1  -1  -1  -1
+Sidney Sussex               1   1   0  -1
+Homerton                    0   1   1   1
+Trinity Hall                0   0   1   1
+Selwyn II                   0   0   0   1
+Newnham IV                  0   0  -1   0
+Clare III                  -3   1   0  -1
+Newnham V                  -1  -1  -1  -1
+Girton III                  1   1   1   0
+Darwin II                   3  -1   0   0
+QMABC III                  -1  -1  -1  -1
+Churchill II                1   0   1   1
+Girton IV                   0   1   0   1
+Girton V                   -1   0   0   1
+Sidney Sussex II            1   0   1   0

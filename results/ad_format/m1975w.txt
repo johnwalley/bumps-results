@@ -1,0 +1,22 @@
+MAYS 1975
+ 4  2  18   = NDay, NDiv, NCrew
+ 10  Women's Div I
+Clare                      -1   0   0   0
+Newnham                     1   0   0   0
+Newnham II                  0   0   0   0
+Churchill                   0   0   0   0
+Wolfson                    -1  -1  -1  -1
+New Hall                    1   0   0   0
+QMABC                       0   1   0   0
+Girton                      0  -1  -1  -1
+Girton II                   0   1   1   0
+QMABC II                   -1  -1  -1  -1
+ 8  Women's Div II
+Newnham III                 1   0   1   1
+New Hall II                -1   0   1   0
+Newnham IV                  1   1   0   1
+Newnham V                   0   0  -1   0
+Churchill II                0  -1  -1  -1
+Girton III                 -1  -1   0   1
+Clare II                    1   1   1   1
+Churchill III               0   1   1   0

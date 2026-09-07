@@ -1,0 +1,15 @@
+TORPIDS 1853
+ 6  1  12   = NDay, NDiv, NCrew
+ 12  Men's Div I
+Brasenose                   0   0   0   0   0   0
+Lincoln                     0  -1  -1  -1  -1  -1
+Oriel                      -1   0   1   0  -1  -1
+Balliol                     1   1   0   0   0   0
+Pembroke                    0   0  -1  -1  -1  -1
+Christ Church              -1   0  -1   0   1   1
+Wadham                      1  -1  -1   0   1   1
+Exeter                      0   2   1   1   1   0
+Worcester                  -1   1   0   0   0   1
+St John's                   1   1   1   1   1   1
+Trinity                    -1   1   0   0   0   0
+University                  1   1   0   0   0   0

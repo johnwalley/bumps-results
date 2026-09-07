@@ -1,0 +1,15 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1869
+Days,6
+
+Division,E,U,B,Ch,Br,P,Q,Wt,Wh,T,E2,O,Co,Lc,SJ,N,St Mary Hall
+
+Results
+rurrurrrrrruu
+rruuuuuuur
+ruurrurrrrrrrr
+rrurrrruruurr
+rrrrurrrruurrr
+rrrrrurrrrrrrrrr

@@ -3,9 +3,9 @@ Short,Town
 Gender,Men
 Year,1975
 
-Division,Rob Roy 1,City 1,99 1,Scouts 1,Churchill 1,99 2,Cantabs 1,Rob Roy 2,ACUA 1,99 3,Leckhampton 1,City 2,Rob Roy 3,Cantabs 2,99 4
-Division,County Boys 1,Telephones 1,Rob Roy 4,Clare Crabs 1,St Cats 1,Churchill 2,Leckhampton 2,Cantabs 3,City 3,Scouts 2,ACUA 2,99 5,CCL Owls 1,Clare Crabs 2
-Division,Cantabs 4,Scouts 3,Telephones 2,ACUA 3,City 4,Rob Roy 5,City 5,99 6,Rob Roy 6,City 6,99 7,ACUA 4,City 7,99 8
+Division,R,Ci,N,Scouts,Churchill,N2,Ca,R2,ACUA,N3,Leckhampton,Ci2,R3,Ca2,N4
+Division,County Boys,Telephones,R4,Clare Crabs,St Cats,Churchill 2,Leckhampton 2,Ca3,Ci3,Scouts 2,ACUA 2,N5,CCL Owls,Clare Crabs 2
+Division,Ca4,Scouts 3,Telephones 2,ACUA 3,Ci4,R5,Ci5,N6,R6,Ci6,N7,ACUA 4,Ci7,N8
 
 Results
 ruurruuru ururuuruu urruururrru

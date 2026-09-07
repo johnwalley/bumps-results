@@ -1,0 +1,25 @@
+EIGHTS 1875
+ 8  2  21   = NDay, NDiv, NCrew
+ 10  Men's Div I
+University                  0   0   0   0   0   0   0   0
+Brasenose                   0   0   0   0   0   0   0   0
+Pembroke                    0   0   0   0   0   0   0   0
+Oriel                       0   0   0  -1   0   0   0   0
+Lincoln                     0  -1  -1  -1   0  -1  -1  -1
+Balliol                    -1  -1  -1   0   0   1   0  -1
+Corpus Christi              1   1   0   1   0   0   0   0
+Christ Church               0   1   1   0   0   0   0   0
+St John's                   0  -1   0   0   0   0   1   1
+Worcester                   0  -1  -1   0  -1   0   0  -1
+ 11  Men's Div II
+Trinity                    -1   0   1   0   0  -1   0   0
+Exeter                      1   2   1   1   0   0   0   0
+Magdalen                    0   0  -1   0   0   0   0   1
+Wadham                     -1   0  -1   0   0   0   0  -1
+Queen's                     1   0   1   0   1   1   0   1
+New College                 0  -1   0   0   0   0   0   1
+Merton                     -1   0   0   0   0   0   0   0
+Keble                       1   1   1   0   0   0   0   0
+St Mary Hall                0   0   0   0   0   0   0   0
+S.E.H.                     -1   0   0   0   0   0   0   0
+Jesus                       1   0   0   0   0   0   0   0

@@ -1,0 +1,51 @@
+MAYS 1925
+ 4  3  46   = NDay, NDiv, NCrew
+ 15  Men's Div I
+Jesus                       0   0   0   0
+Pembroke                    0   0  -1   0
+3rd Trinity                 0  -1   0  -1
+1st Trinity                 0   1   1   0
+Jesus II                    0   0  -1   0
+Trinity Hall                0  -1   0  -1
+Pembroke II                -1   0   0   1
+LMBC                        1   1   1   1
+King's                      0   0  -1   0
+Queens'                     0   0   1   0
+Caius                      -1   0  -1  -1
+Sidney Sussex               1   0   0  -1
+Christ's                    0  -1   0   1
+Emmanuel                   -1  -1   0  -1
+1st Trinity II              1   1   1   1
+ 15  Men's Div II
+Selwyn                      0   1   0   0
+Caius II                    0   0   0   1
+Corpus Christi              0   0  -1   0
+St Catharine's              0  -1   0   0
+Christ's II                -1   0   0   0
+Clare                       1   1   1   0
+Trinity Hall II             0   0   0   0
+3rd Trinity II             -1  -1  -1  -1
+Downing                     1   0   0  -1
+LMBC II                     0   1   0   1
+Emmanuel II                -1  -1  -1  -1
+1st Trinity III             1   0   1   0
+Pembroke III                0   1   0   1
+Magdalene                   0  -1  -1   0
+Clare II                   -1  -1   0  -1
+ 16  Men's Div III
+Caius III                   1   1   1   0
+Jesus III                   0   1   1   1
+King's II                   0  -1  -1   0
+Fitzwilliam                 0   1   0   1
+Sidney Sussex II            0  -1   0   0
+St Catharine's II          -1  -1  -1  -1
+Peterhouse                  1   1   1   0
+Downing II                 -1  -1  -1  -1
+LMBC III                    1   1   0   0
+1st Trinity IV             -1  -1   0   1
+Jesus IV                    1   1   1   0
+Christ's III               -1   0  -1  -1
+Queens' II                  1   1   1   1
+Selwyn II                   0  -1  -1   0
+Trinity Hall III           -1   0   1   1
+Corpus Christi II           1   1   1   0

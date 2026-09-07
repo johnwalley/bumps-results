@@ -3,7 +3,7 @@ Short,Town
 Gender,Women
 Year,1988
 
-Division,99 1,City 1,99 2,City 2,City 3,Cantabs 1,99 3,Cantabs 2,99 4,Free Press 1,Cantabs 3,Cantabs 4,Leckhampton 1,City 4,Macdonalds 1,99 5,City 5,Pye 1,City 6,Cantabs 5,Coopers & Lybrand 1,City 7,Rob Roy 1
+Division,N,Ci,N2,Ci2,Ci3,Ca,N3,Ca2,N4,F,Ca3,Ca4,Leckhampton,Ci4,Macdonalds,N5,Ci5,P,Ci6,Ca5,Coopers & Lybrand,Ci7,R
 
 Results
 uuuruo3ururuuu

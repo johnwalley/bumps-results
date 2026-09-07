@@ -3,9 +3,9 @@ Short,Town
 Gender,Women
 Year,2017
 
-Division,City 1,Cantabs 1,X-Press 1,99 1,Cantabs 2,City 2,St Neots 1,Rob Roy 1,Camb Veterans 1,Chesterton 1,Cantabs 3,City 3,99 2,Champs 1,99 3,City 4,St Radegund 1
-Division,City 5,Champs 2,Rob Roy 2,Cantabs 4,Champs 3,City 6,City 7,Rob Roy 3,Isle of Ely 1,Champs 4,X-Press 2,Champs 5,St Neots 2,99 4,Cantabs 5,Cantabs 6,Chesterton 2
-Division,Champs 6,Chesterton 3,City 8,Cantabs 7,99 5,X-Press 3,Cantabs 8,Cantabs 9,Cantabs 10,99 6,Cantabs 11,99 7,Cantabs 12,Isle of Ely 2
+Division,Ci,Ca,X,N,Ca2,Ci2,SN,R,CV,Ct,Ca3,Ci3,N2,Ch,N3,Ci4,SR
+Division,Ci5,Ch2,R2,Ca4,Ch3,Ci6,Ci7,R3,IE,Ch4,X2,Ch5,SN2,N4,Ca5,Ca6,Ct2
+Division,Ch6,Ct3,Ci8,Ca7,N5,X3,Ca8,Ca9,Ca10,N6,Ca11,N7,Ca12,IE2
 
 Results
 rrrurruuur rrruurruuro3u urrruurrrruru

@@ -1,0 +1,34 @@
+MAYS 1909
+ 4  2  30   = NDay, NDiv, NCrew
+ 15  Men's Div I
+Trinity Hall               -1  -1   0   0
+Jesus                       1   0   0   0
+1st Trinity                 0   1   0   0
+LMBC                       -1   0   0  -1
+Pembroke                    1   0   0   0
+Emmanuel                    0   0  -1   0
+Caius                       0  -1   0   0
+3rd Trinity                 0   1   1   1
+Jesus II                    0  -1   0   0
+Christ's                   -1  -1   0   0
+Corpus Christi              1   1   0   0
+1st Trinity II              0   1   0   0
+Selwyn                      0   0   0   0
+Magdalene                   0   0   0   0
+King's                      0   0   0   0
+ 15  Men's Div II
+LMBC II                    -1   0  -1   0
+Clare                       1   0   0   0
+Trinity Hall II             0  -1   0   0
+St Catharine's             -1   0   0   0
+Pembroke II                 1   1   1   0
+Queens'                     0   0   0   0
+Sidney Sussex               0   0   0   0
+1st Trinity III             0   0   0  -1
+Jesus III                   0   0   0   1
+Christ's II                -1  -1  -1   0
+King's II                   1   0  -1   0
+Emmanuel II                -1   0   1   0
+Caius II                    1   1   1   0
+Peterhouse                 -1   0   1   0
+Downing                     1   0  -1   0

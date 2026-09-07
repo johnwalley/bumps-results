@@ -3,9 +3,9 @@ Short,Town
 Gender,Men
 Year,1991
 
-Division,99 1,Rob Roy 1,City 1,Cantabs 1,City 2,Rob Roy 2,99 2,Free Press 1,99 3,Free Press 2,Cantabs 2,99 4,Cantabs 3,Lady Somerset 1,City 3,Rob Roy 3
-Division,Free Press 3,St Ives 1,99 5,99 6,Red Lion Toft 1,Mott Madcondald 1,Cantabs 4,Rob Roy 4,Univ Sports 1,Christ's 1,City 4,Cavendish Lab 1,Maximum Entropy 1,99 7,Barclays Bank 1,Leckhampton 1,Cantabs 5
-Division,Univ Sports 2,Cantabs 6,Trinity Hall 1,Cantabs 7,Marshalls 1,Cam Consultants 1,Cantabs 8,OTIB 1,Coopers & Lybrand 1,Cantabs 9,Pineapple (Eng Lab) 1,Bullard Lab 1,Cantabs 10,Red Lion Toft 2,99 8,City 5
+Division,N,R,Ci,Ca,Ci2,R2,N2,F,N3,F2,Ca2,N4,Ca3,Lady Somerset,Ci3,R3
+Division,F3,SI,N5,N6,Red Lion Toft,Mott Madcondald,Ca4,R4,Univ Sports,Christ's,Ci4,Cavendish Lab,Maximum Entropy,N7,Barclays Bank,Leckhampton,Ca5
+Division,Univ Sports 2,Ca6,Trinity Hall,Ca7,Marshalls,Cam Consultants,Ca8,OTIB,Coopers & Lybrand,Ca9,Pineapple (Eng Lab),Bullard Lab,Ca10,Red Lion Toft 2,N8,Ci5
 
 Results
 rruurrrruo3u rrrrrururuuru urururo3urru

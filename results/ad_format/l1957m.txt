@@ -54,8 +54,8 @@ St Catharine's III         -1  -1  -1   0
  16  Men's Div IV
 Queens' III                 1   0   1   1
 Sidney Sussex II            0   1   0   1
-LMBC V                      0  -1   0   0
-LMBC IV                    -1   0   0   0
+LMBC IV                     0  -1   0   0
+LMBC V                     -1   0   0   0
 Caius III                   1   1   1   0
 Corpus Christi III          0  -1   0   0
 1st and 3rd V              -1  -1  -1  -1

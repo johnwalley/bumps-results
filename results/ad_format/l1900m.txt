@@ -1,0 +1,48 @@
+LENTS 1900
+ 4  3  43   = NDay, NDiv, NCrew
+ 14  Men's Div I
+1st Trinity                 0   0   0   0
+Trinity Hall                0   0   0   0
+Pembroke                   -1  -1  -1  -1
+Caius                       1   0   0   0
+Emmanuel                    0   1   0  -1
+LMBC                       -3   0  -1  -1
+Trinity Hall II            -1   0   0  -1
+King's                      1   0   0   1
+3rd Trinity                 3   0   1   1
+Jesus                       0  -1   0   1
+Christ's                   -1  -1   0   0
+1st Trinity II              1   1   1   1
+Peterhouse                  0   1   0   0
+Pembroke II                -1  -1  -1  -1
+ 14  Men's Div II
+Caius II                    1   0   0  -1
+Corpus Christi             -1  -1  -1  -1
+Clare                       1   1   0  -1
+LMBC II                    -1  -1   0   1
+Sidney Sussex               1   1   1   2
+1st Trinity III            -1  -1   0  -1
+Selwyn                      1   1   1   1
+1st Trinity IV             -1   0  -1  -1
+Queens'                     1   1   0   0
+Jesus II                    0  -1  -1  -1
+Pembroke III                0   1   1   1
+Clare II                    0  -1  -1   0
+Emmanuel II                 0   1   1   1
+1st Trinity V              -1   0   0  -1
+ 15  Men's Div III
+St Catharine's              1   0   1   1
+Trinity Hall III            0  -1   0  -1
+3rd Trinity II             -1  -1  -1  -1
+Magdalene                   1   1   0   1
+LMBC III                    0   1   0   1
+Downing                     0  -1   0   1
+Caius III                  -1  -1  -1  -1
+King's II                   1   1   1   0
+Trinity Hall IV            -1   0   1   0
+Pembroke IV                 1   1   0   0
+Emmanuel III                0   0  -1  -1
+Christ's II                 0  -1  -1   0
+Clare III                  -1  -1   0   0
+Selwyn II                   1   1   1   1
+1st Trinity VI              0   1   1   1

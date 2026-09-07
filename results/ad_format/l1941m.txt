@@ -1,0 +1,45 @@
+LENTS 1941
+ 3  3  40   = NDay, NDiv, NCrew
+ 15  Men's Div I
+Jesus                       0   0   0
+Clare                      -1  -1   0
+Pembroke                    1   0   0
+Jesus II                   -1   0  -1
+Trinity Hall                1   1   0
+1st and 3rd                 0  -1   0
+LMBC                        0   1   1
+Magdalene                  -1   0  -1
+Selwyn                      1   0   0
+St Catharine's              0  -1   0
+Queens'                    -1  -1   0
+Christ's                    1   1   1
+Emmanuel                   -1  -1   1
+1st and 3rd II              1   1   0
+Corpus Christi             -1   0   0
+ 15  Men's Div II
+Sidney Sussex              -1  -1  -1
+Caius                       2   1  -1
+Trinity Hall II             0   1   0
+Peterhouse                  0   0   1
+LMBC II                     0   0  -1
+Jesus III                   0  -1   0
+Pembroke II                -1  -1  -1
+Downing                     1   1   1
+Christ's II                -1   0   1
+Clare II                    1   1   0
+Caius II                    0  -1  -1
+Emmanuel II                -1  -1  -1
+St Catharine's II           1   1   0
+1st and 3rd III             0   1   1
+Magdalene II               -1  -3   1
+ 10  Men's Div III
+Jesus IV                   -1  -1  -1
+Downing II                  2  -1   0
+Queen Mary                  0   1   0
+London School of Economics   0   4   1
+St. Batholemew's            0   0   0
+Peterhouse II               0   0  -1
+1st and 3rd IV              0  -1  -1
+St Catharine's III         -1  -1   0
+London Hospital             1   1   1
+London School of Economics II   0   1   1

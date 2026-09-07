@@ -1,0 +1,17 @@
+TORPIDS 1860
+ 6  1  14   = NDay, NDiv, NCrew
+ 14  Men's Div I
+Exeter                      0   0   0   0   0   0
+Brasenose                   0   0   0   0   0   0
+Pembroke                    0   0  -1   0  -1   0
+Christ Church               0  -1   0  -1   0  -1
+Trinity                    -1  -1   0   0   0   1
+Balliol                     1   1   1   0   0   0
+Corpus Christi              0   1   0   1   1   0
+University                  0   0   0   0   0   0
+Oriel                       0   0   0   0  -1  -1
+Wadham                      0   0   0   0   1   0
+Lincoln                     0   0  -1  -1   0   0
+Exeter II                  -1  -1   0   0   1   0
+Queen's                     1   0   1   0  -1   0
+Magdalen                    0   1   0   1   1   1

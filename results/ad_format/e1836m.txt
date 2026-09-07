@@ -1,0 +1,10 @@
+EIGHTS 1836
+ 5  1  7   = NDay, NDiv, NCrew
+ 7  Men's Div I
+Christ Church               0   0   0   0   0
+Exeter                      0  -1  -1   0   0
+Brasenose                  -1  -1  -1   0   0
+Jesus                       1   1   0  -1   0
+Balliol                     0   1  -1   0   0
+Oriel                       0   0   3   1   0
+Christ Church II            0   0   0   0   0

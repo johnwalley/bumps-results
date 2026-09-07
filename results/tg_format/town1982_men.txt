@@ -3,10 +3,10 @@ Short,Town
 Gender,Men
 Year,1982
 
-Division,City 1,99 1,City 2,St Ives 1,99 2,Rob Roy 1,99 3,Addenbrooke's 1,Churchill 1,Univ Sports 1,99 4,Lady Somerset 1,Cantabs 1,Free Press 1,City 4
-Division,99 5,Telephones 1,Univ Sports 2,Macdonalds 1,Leckhampton 1,99 6,Darwin 1,99 7,City 5,Rob Roy 2,Free Press 2,Chemical Lab 1,Cantabs 2,Telephones 2,99 8,Univ Sports 3
-Division,Police 1,Darwin 2,Red Lion Toft 1,Free Press 3,99 9,City 6,Pye 1,Univ Sports 4,Rob Roy 3,Chemical Eng 1,City 7,99 10,Macdonalds 2,King's 1
-Division,Geography Department 1,Selwyn 1,Free Press 4,Telephones 3,City 8,99 11,Macdonalds 3,Rob Roy 4,Free Press 5,City 9,99 12,Rob Roy 5
+Division,Ci,N,Ci2,SI,N2,R,N3,Addenbrooke's,Churchill,Univ Sports,N4,Lady Somerset,Ca,F,Ci4*
+Division,N5,Telephones,Univ Sports 2,Macdonalds,Leckhampton,N6,Darwin,N7,Ci5,R2,F2,Chemical Lab,Ca2,Telephones 2,N8,Univ Sports 3
+Division,Police,Darwin 2,Red Lion Toft,F3,N9,Ci6,P,Univ Sports 4,R3,Chemical Eng,Ci7,N10,Macdonalds 2,King's
+Division,Geography Department,Selwyn,F4,Telephones 3,Ci8,N11,Macdonalds 3,R4,F5,Ci9,N12,R5
 
 Results
 urrururu ruururrro3u ro3uurrrurrur uruo3urrurrr

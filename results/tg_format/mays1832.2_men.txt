@@ -1,0 +1,16 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1832 April May
+Days,6
+
+Division,1st Trinity (Black Prince),2nd Trinity (Queen Bess),J,St. John's Corsair,L,Cl,SC,Ca,Cr,St. John's 'Tally-Ho',,Q,Trinity Tobacco Pipes and Punch Bowls,L2,Cr2
+
+Results
+v0v0ruruo3uur
+v0v0uurrrrurrr
+v0v0rrrurruurr
+v0e2e-1e-1ue1e1e-2ruur
+#XXX ambigous results with L2/Ca 
+e3xe2e2xe2xe3ue-4urr
+urw2rurrr

@@ -1,0 +1,81 @@
+TORPIDS 2026
+ 4  6  73   = NDay, NDiv, NCrew
+ 12  Women's Div I
+Pembroke                    0   0   0   0
+Christ Church               0   0   0   0
+University                  0   0   0   0
+Oriel                       0   0   0   0
+Wadham                      0   0   0   0
+Wolfson                     0   0   0   0
+Keble                       0   0   0   0
+Green Templeton             0   0   0   0
+Lincoln                     0   0   0   0
+New College                 0   0   0   0
+Jesus                       0   0   0   0
+Hertford                    0   0   0   0
+ 12  Women's Div II
+Magdalen                    0   0   0   0
+Balliol                     0   0   0   0
+Trinity                     0   0   0   0
+Exeter                      0   0   0   0
+Somerville                  0   0   0   0
+L.M.H.                      0   0   0   0
+S.E.H.                      0   0   0   0
+Brasenose                   0   0   0   0
+St Antony's                 0   0   0   0
+Mansfield                   0   0   0   0
+St Hugh's                   0   0   0   0
+Worcester                   0   0   0   0
+ 12  Women's Div III
+St Peter's                  0   0   0   0
+Merton                      0   0   0   0
+St Hilda's                  0   0   0   0
+St Catherine's              0   0   0   0
+St John's                   0   0   0   0
+Linacre                     0   0   0   0
+Wolfson II                  0   0   0   0
+Queen's                     0   0   0   0
+St Anne's                   0   0   0   0
+University II               0   0   0   0
+Worcester II                0   0   0   0
+Corpus Christi              0   0   0   0
+ 12  Women's Div IV
+Wolfson III                 0   0   0   0
+Oriel II                    0   0   0   0
+Lincoln II                  0   0   0   0
+Linacre II                  0   0   0   0
+New College II              0   0   0   0
+Somerville II               0   0   0   0
+Wolfson IV                  0   0   0   0
+St Hugh's II                0   0   0   0
+S.E.H. II                   0   0   0   0
+Wadham II                   0   0   0   0
+Magdalen II                 0   0   0   0
+Keble II                    0   0   0   0
+ 12  Women's Div V
+Green Templeton II          0   0   0   0
+St Hilda's II               0   0   0   0
+Brasenose II                0   0   0   0
+St John's II                0   0   0   0
+Pembroke II                 0   0   0   0
+St Peter's II               0   0   0   0
+Merton II                   0   0   0   0
+Mansfield II                0   0   0   0
+Balliol II                  0   0   0   0
+St Catherine's II           0   0   0   0
+Hertford II                 0   0   0   0
+Queen's II                  0   0   0   0
+ 13  Women's Div VI
+Lincoln III                 0   0   0   0
+Exeter II                   0   0   0   0
+St Peter's III              0   0   0   0
+University III              0   0   0   0
+Wadham III                  0   0   0   0
+Hertford III                0   0   0   0
+Reuben                      0   0   0   0
+Worcester III               0   0   0   0
+Trinity II                  0   0   0   0
+Brasenose III               0   0   0   0
+Somerville III              0   0   0   0
+New College III             0   0   0   0
+St Hilda's III              0   0   0   0

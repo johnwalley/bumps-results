@@ -3,9 +3,9 @@ Short,Town
 Gender,Women
 Year,2014
 
-Division,City 1,Cantabs 1,99 1,City 2,Camb Veterans 1,Rob Roy 1,City 3,Cantabs 2,X-Press 1,Champs 1,City 4,St Neots 1,Chesterton 1,Champs 2,St Radegund 1,99 2,Champs 3
-Division,Rob Roy 2,Cantabs 3,City 5,Champs 4,City 6,Champs 5,99 3,Cantabs 4,Champs 6,City 7,Isle of Ely 1,X-Press 2,City 8,St Neots 2,Cantabs 5,Rob Roy 3,Chesterton 2
-Division,99 4,Champs 7,St Radegund 2,Cantabs 6,99 5,Cantabs 7,99 6,Chesterton 3,99 7,X-Press 3,99 8
+Division,Ci,Ca,N,Ci2,CV,R,Ci3,Ca2,X,Ch,Ci4,SN,Ct,Ch2,SR,N2,Ch3
+Division,R2,Ca3,Ci5,Ch4,Ci6,Ch5,N3,Ca4,Ch6,Ci7,IE,X2,Ci8,SN2,Ca5,R3,Ct2
+Division,N4,Ch7,SR2,Ca6,N5,Ca7,N6,Ct3,N7,X3,N8
 
 Results
 ururrrur uuurruruurrr uurrrurrrurrrr

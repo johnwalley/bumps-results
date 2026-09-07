@@ -1,0 +1,20 @@
+EIGHTS 1866
+ 8  1  17   = NDay, NDiv, NCrew
+ 17  Men's Div I
+Brasenose                   0   0  -1   1   0   0   0   0
+Exeter                      0  -1  -1   0  -1  -1   0   0
+Trinity                    -1  -1  -1  -1  -1  -1   0   0
+Corpus Christi              1   1   1  -1   0   0   0   0
+University                  0   1   1   0   0   0   0   0
+Christ Church               0  -1  -1   0   1   0   0   0
+Wadham                      0   1   1   0   1   0   0   0
+Merton                      0   0   1   1   0   1   0   0
+Balliol                    -1  -1  -1  -1   0   1   1   0
+Pembroke                    1   0   0   0   0   1   0   0
+Lincoln                     0   1   0   0   0   0   0   0
+Queen's                     0   0   1   0   0   0  -1   0
+Oriel                       0   0   0   1   0  -1   0  -1
+St John's                   0   0   0   0   1   1   1   0
+New College                 0   0   0   0   1   0   0   1
+Worcester                   0  -1   0   0   1   0   0   1
+S.E.H.                      0   1   0   0   1   0   0  -1

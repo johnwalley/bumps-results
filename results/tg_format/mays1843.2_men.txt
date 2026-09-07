@@ -1,0 +1,17 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1843 May
+Days,7
+
+Division,1st Trinity,Ph,L,Ca,M,3rd Trinity,J,2nd Trinity,CC,1st Trinity 2,L2,E,Pb,Cr,2nd Trinity 2,SS,2nd Trinity 3,1st Trinity 3,TH,Ca2,Cr2,Q,L3,SC,3rd Trinity 2,M2,Ph2,,CC2,Cl
+#XXX start order M2/3rd Trinity 2 conflicts with finish order and joining chart info
+
+Results
+v0v0ruro3uuruuururrrrurr
+v0v0uo3urrrurrruurrrrrurrr
+v1v1e1e1e1xrurrruruurrrrrrrrrrr
+v1e1e1xuruue1e2e-2e-1rrurrrrrrrrrr
+urrrrruuuurrurrrrrrrrr
+rururrururrrrrrrrrrrrrrr
+rruurrre4e2e-2e-1e-3rrurrrrrrrrrr

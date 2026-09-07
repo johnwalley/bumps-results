@@ -3,8 +3,8 @@ Short,Town
 Gender,Women
 Year,2006
 
-Division,99 1,City 1,Rob Roy 1,Cantabs 1,City 2,99 2,Camb Veterans 1,City 3,Champs 1,X-Press 1,Simoco 1,Cantabs 2,Champs 2,99 3,Max Entropy 1,St Ives 1,St Radegund 1
-Division,X-Press 2,City 4,Champs 3,Champs 4,City 5,Cantabs 3,Champs 5,Simoco 2,Isle of Ely 1,Cantabs 4,99 4,Simoco 3,City 6,99 5,St Radegund 2,City 7,Champs 6
+Division,N,Ci,R,Ca,Ci2,N2,CV,Ci3,Ch,X,S,Ca2,Ch2,N3,ME,SI,SR
+Division,X2,Ci4,Ch3,Ch4,Ci5,Ca3,Ch5,S2,IE,Ca4,N4,S3,Ci6,N5,SR2,Ci7,Ch6
 
 Results
 uruo3ururrur urruurururrrr

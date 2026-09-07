@@ -3,9 +3,9 @@ Short,Town
 Gender,Men
 Year,1983
 
-Division,City 1,99 1,99 2,Rob Roy 1,City 2,99 3,Univ Sports 1,99 4,Cantabs 1,Free Press 1,City 3,Churchill 1,Addenbrooke's 1,Lady Somerset 1,99 5,Univ Sports 2,Telephones 1
-Division,Darwin 1,City 4,99 6,Macdonalds 1,Rob Roy 2,Leckhampton 1,Free Press 2,City 5,99 7,Univ Sports 3,Chemical Lab 1,99 8,Cantabs 2,Free Press 3,City 6,Red Lion Toft 1,Rob Roy 3
-Division,Metallurgy 1,Pye 1,King's 1,Univ Sports 4,City/Netherhall 1,Macdonalds 2,Free Press 4,Rob Roy 4,Vaughan Cornish 1,Rob Roy 5,Free Press 5,Addenbrooke's 2,Hole in the Wall 1,Cantabs 3,Barclays Bank 1,Red Lion Toft 2,Pye 2,Cantabs 4
+Division,Ci,N,N2,R,Ci2,N3,Univ Sports,N4,Ca,F,Ci3,Churchill,Addenbrooke's,Lady Somerset,N5,Univ Sports 2,Telephones
+Division,Darwin,Ci4,N6,Macdonalds,R2,Leckhampton,F2,Ci5,N7,Univ Sports 3,Chemical Lab,N8,Ca2,F3,Ci6,Red Lion Toft,R3
+Division,Metallurgy,P,King's,Univ Sports 4,City/Netherhall 1,Macdonalds 2,F4,R4,Vaughan Cornish,R5,F5,Addenbrooke's 2,Hole in the Wall,Ca3,Barclays Bank,Red Lion Toft 2,P2,Ca4
 
 Results
 uruururrurrrr uuruurrrruru urrrurruururr

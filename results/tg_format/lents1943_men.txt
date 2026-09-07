@@ -1,0 +1,15 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Men
+Year,1943
+Days,3
+
+Division,Pb,J,L,TH,T,Cl,J2,S,Cr,SC,T2,Ca,M,E,Q
+Division,CC,TH2,K,Ph,D,L2,SS,Queen Mary,St. Batholemew's,Royal Air Force,Cl2,SC2,Cr2,Ca2,Q2
+Division,London School of Economics,T3,London Hospital,E2,Queen Mary 2,St. Batholemew's 2,Royal Air Force 2,L3,Ph2,D2,Cr3,Q3,SS2,Queen Mary 3,D3,Ca3,T4
+
+Results
+urrrururrrrur rrruuruuurr rurrrrruurur
+ruruururruu rrrruuruuur rrurrrurrrrru
+rurrurrruuur uruurrruuu urururrrurrr
+

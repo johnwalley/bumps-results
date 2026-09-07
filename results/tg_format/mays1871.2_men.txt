@@ -1,0 +1,17 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1871 May
+Days,6
+
+Division,1st Trinity,L,3rd Trinity,TH,SS,1st Trinity 2,CC,J,E,Cr,K,TH2,M,Cl
+Division,1st Trinity 3,Ca,2nd Trinity,3rd Trinity 2,SC,Ph,Pb,CC2,Ca2,1st Trinity 4,SS2,L2,TH3,Q,J2
+Division,D,Cl2,L3,Cr2,1st Trinity 5,E2,TH4,2nd Trinity 2,1st Trinity 6,Pb2,E3
+
+Results
+t rrrrurrrrruru urrurrrurrrr
+t rrruururrrru rurrrrrurrrrr
+t rruurrrrurur uurrrurrrrrr
+t ruurrrruruu ruurrrrrrrrrr
+t t uurrururrrr
+t t rurrurrrrrrrr

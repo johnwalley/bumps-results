@@ -1,0 +1,23 @@
+EIGHTS 1870
+ 8  1  20   = NDay, NDiv, NCrew
+ 20  Men's Div I
+University                  0   0   0   0   0   0   0   0
+Exeter                      0  -1   0   0   0   0   0   0
+St John's                   0   1   0   0   0   0   0   0
+Brasenose                   0   0   0  -1   0   0   0   0
+Christ Church              -1   0   0   0   0   0   0   0
+Balliol                     1   0   0   1   0   0   0   0
+Corpus Christi              0   0   0   0   0   0   0   0
+Lincoln                     0   0   0  -1   0   0   0   0
+Merton                     -1  -1  -1  -1   0  -1   0   0
+Worcester                   1   0  -1   0   0   0  -1   0
+Pembroke                    0   1   1   1   0   0   0   0
+Queen's                     0   0   1   0   0   0   1   0
+Wadham                      0   0   0   1   0   0   0   0
+S.E.H.                     -1  -1  -1   0  -1   0   0   0
+Trinity                     1   0   0   0  -1   0   0   0
+Oriel                      -1  -1   0   0   1   0   0   0
+Magdalen                    1   1   0  -1   0   0   0   0
+New College                 0   1   1   1   1   1   0   0
+St Mary Hall                0   0   0   0   0   0   0   0
+Jesus                       0   0   0   0   0   0   0   0

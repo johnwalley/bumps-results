@@ -38,7 +38,7 @@ Free Press 7               -1   0   1   0
 Pye 1                       1   1   1   1
  17  Men's Div III
 City 5                      0   0   0   1
-Mott Macdonald 1           -1  -1   0  -1
+Mott MacDonald 1           -1  -1   0  -1
 Cantabs 7                   1   0  -1   1
 Free Press 8                0   1   1  -1
 99 7                       -1  -1  -1  -1

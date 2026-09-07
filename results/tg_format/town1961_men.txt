@@ -3,8 +3,8 @@ Short,Town
 Gender,Men
 Year,1961
 
-Division,City 1,99 1,City 2,Rob Roy 1,Cantabs 1,Scouts 1,Pye 1,ACUA 1,Cantabs 2,99 2,City 3,Rob Roy 2,Cambs High School 1,Scouts 2,Instrument Co 1,99 3,Beehives 1
-Division,Cantabs 3,City 4,ACUA 2,99 4,Scouts 3,Rob Roy 3,Cambs High School 2,Scouts 4,Rob Roy 4,City 5,99 5,Cam Grammar School 1
+Division,Ci,N,Ci2,R,Ca,Scouts,P,ACUA,Ca2,N2,Ci3,R2,Cambs High School,Scouts 2,Instrument Co,N3,Beehives
+Division,Ca3,Ci4,ACUA 2,N4,Scouts 3,R3,Cambs High School 2,Scouts 4,R4,Ci5,N5,Cam Grammar School
 
 Results
 uo3uruur rurrrurrrrrrurr

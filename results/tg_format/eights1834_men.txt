@@ -1,0 +1,14 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1834
+Days,5
+
+Division,Q,Ch,J,E,Wt,T,Co
+
+Results
+v0ruru
+v0rrrrrr
+v0rrurr
+v0rrrur
+urrrrr

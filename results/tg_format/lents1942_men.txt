@@ -1,0 +1,15 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Men
+Year,1942
+Days,3
+
+Division,J,Pb,TH,Cl,L,J2,T,S,Cr,M,SC,T2,Queens' and Corpus Christi,E,Ca
+Division,K,TH2,Ph,SS,D,L2,J3,Cl2,Cr2,Pb2,SC2,T3,Ca2,London School of Economics,E2
+Division,D2,Queen Mary,J4,London Hospital,L3,Queen Mary 2,London Hospital 2,T4,D3,T5,J5,CC2*,T6
+
+Results
+rrururruu urururrrurrr rurrurruurrr
+ruuruuur rurrrrururrrr rruurrrruurr
+rurruuuu rrururrurrru ruurrrrrrrrru
+

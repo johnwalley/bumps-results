@@ -1,0 +1,30 @@
+MAYS 1851 May
+ 5  2  26   = NDay, NDiv, NCrew
+ 23  Men's Div I
+LMBC                        0  -1   0   0   0
+1st Trinity                 0   1   0   0   0
+3rd Trinity                 0   0   0   0   0
+Emmanuel                   -1  -1   0  -1   0
+2nd Trinity                 1   0   0   0   0
+Magdalene                   0   1   0   0  -1
+Christ's                    0   0  -1   0   0
+Jesus                       0  -1   0   0   0
+Peterhouse                 -1  -1   1   0   0
+LMBC II                     1   1   1   1   1
+1st Trinity II              0   1  -1   0  -1
+Caius                       0   0   0  -1  -1
+Trinity Hall                0   0  -1   0   1
+Caius II                    0  -1   0  -1  -1
+Sidney Sussex               0  -1  -1  -1   0
+2nd Trinity II             -1   0   1   1   0
+2nd St. John's              1   2   1   1   1
+Jesus II                   -1  -1  -1  -1  -1
+Queens'                     1  -1   0  -1   0
+1st Trinity III            -1  -1  -1   0   1
+Corpus Christi              1   2   0   1   1
+Christ's II                -1  -1  -1   1  -1
+LMBC III                    1   1   1   1   0
+ 3  Men's Div II
+Emmanuel II                -1   2   1   1   0
+2nd Trinity III             1  -1   1  -1   1
+Caius III                   0   0   0   0   0

@@ -1,0 +1,25 @@
+EIGHTS 1878
+ 6  2  21   = NDay, NDiv, NCrew
+ 10  Men's Div I
+University                  0   0   0   0   0   0
+Pembroke                   -1   0   0   0   0   0
+Brasenose                   1   0   0   0   0   0
+Balliol                    -1  -1   0   1   0   0
+Magdalen                    1   0  -1  -1   0   0
+Keble                       0   1   1   0   0   0
+Exeter                     -1  -1  -1  -1   0  -1
+Christ Church               1   0   0   0  -1   0
+Corpus Christi              0   1   0   0   1   0
+St John's                   0   0   1   0   0  -1
+ 11  Men's Div II
+Trinity                    -1   0   0   0  -1  -1
+New College                 1   0   0   1   0   1
+Lincoln                    -1   0  -1  -1   0  -1
+Oriel                       1   0   0  -1  -1   0
+Worcester                   0  -1  -1   0   0   1
+Merton                     -1  -1  -1   0   0   0
+Queen's                     1   1   1   1   1   1
+St Catherine's             -1   0   1   0   0   0
+Hertford                    1   1   1   1   1   1
+S.E.H.                      0  -1   0   0   0   0
+St Mary Hall                0   1   0   0   0   0

@@ -10,5 +10,5 @@ Division,TH2,Q2,HH,Cu2,SC2,Cl2,CT2,Pb2,Ca2,L3,D2,R2,G2,Ph2,Cr2,Pb3,F2,H2
 Results
 urrrrrururuur rrurururrruru uururrro3uuu
 rurrruruururr ruurrrruruurr rurrrrro3uruur
-rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr
-rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr
+t t t
+t t t

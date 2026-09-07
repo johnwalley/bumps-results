@@ -1,0 +1,61 @@
+MAYS 1941
+ 3  4  55   = NDay, NDiv, NCrew
+ 15  Men's Div I
+Jesus                       0  -1  -1
+Clare                       0   1   0
+Trinity Hall                0   0   1
+LMBC                        0   0   0
+Pembroke                    0  -1  -1
+Selwyn                      0   1   0
+Jesus II                   -1   0   0
+1st and 3rd                 1   0   1
+Caius                       0   0   0
+Queens'                     0   0  -1
+Christ's                   -1   1   1
+King's                      1  -1  -1
+Corpus Christi             -1   0  -1
+Magdalene                   1   0   1
+1st and 3rd II              0  -1   0
+ 15  Men's Div II
+Jesus III                   0  -1  -1
+Pembroke II                -3  -1  -1
+Selwyn II                  -1   0   0
+St Catharine's              1   0   1
+Emmanuel                    3   2   1
+Clare II                    0   1   0
+Peterhouse                  0   0   1
+Trinity Hall II             0   0   0
+LMBC II                     0  -1   0
+Caius II                   -1   0   0
+Downing                     1   1   0
+Pembroke III               -1  -1  -1
+St. Batholemew's            1   0  -1
+Rob Nines                   0   1   1
+London Hospital             0   0   1
+ 15  Men's Div III
+Royal Air Force             0   0  -1
+Pembroke IV                 0  -1  -1
+Queens' II                 -1  -1  -1
+St Catharine's II           1   1   1
+Jesus IV                   -3  -1  -1
+Magdalene II               -1   0  -1
+Trinity Hall III            1   0   1
+LMBC III                    3   1   1
+1st and 3rd III             0   1   1
+Emmanuel II                 0  -1   0
+Emmanuel III                0   1   1
+Peterhouse II               0   0  -1
+Trinity Hall IV             0  -1   0
+Caius III                  -1   0  -1
+Downing II                  1   1   1
+ 10  Men's Div IV
+Clare III                   0   0   1
+Pembroke V                 -1  -1   0
+King's II                   1   0   0
+St Catharine's III          0   1   0
+Royal Air Force II          0   0   0
+London Hospital II          0   0   0
+Downing III                 0   0   0
+Clare IV                    0   0   0
+Pembroke VI                -1   0   0
+Royal Air Force III         1   0   0

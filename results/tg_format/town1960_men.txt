@@ -3,8 +3,8 @@ Short,Town
 Gender,Men
 Year,1960
 
-Division,City 1,Rob Roy 1,99 1,City 2,Cantabs 1,Scouts 1,Pye 1,Rob Roy 2,ACUA 1,99 2,Cantabs 2,Central Old Boys 1,Cantabs 3,City 3,Instrument Co 1,Beehives 1,Scouts 2
-Division,99 3,Cantabs 4,Rob Roy 3,ACUA 2,City 4,Pye 2,99 4,Scouts 3,Cantabs 5,Instrument Co 2,Scouts 4,Cantabs 6
+Division,Ci,R,N,Ci2,Ca,Scouts,P,R2,ACUA,N2,Ca2,Central Old Boys,Ca3,Ci3,Instrument Co,Beehives,Scouts 2
+Division,N3,Ca4,R3,ACUA 2,Ci4,P2,N4,Scouts 3,Ca5,Instrument Co 2,Scouts 4,Ca6
 
 Results
 rrrrrururr rurrurrurrrrur

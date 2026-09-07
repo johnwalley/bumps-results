@@ -1,0 +1,16 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,2001
+
+Division,P,O,N,E,Ch,Wt,Mg,Br,Q,SC,Lc,Mt
+Division,O2,Wh,LM,SP,T,SE,SJ,K,B,U,J,H
+Division,Mf,Wf,Co,Ch2,SAn,Mg2,P2,S,K2,B2,Lc2,SJ2
+Division,Br2,N2,E2,SE2,U2,Wh2,SAn2,Q2,Mg3,H2,T2,Mt2
+Division,Wt2,P3,L2*,Mf2,Ch3
+
+Results
+t t uw2ruuur rw3re1e2e-2e-1ru ururrrruu
+rrrrr w4rrure2re-2 w2uuue2re-2r urw6w2 rruuuurrr
+uw2 e3ue1e1e-5ue2re1e1e-4 re2e2e-1e1e-4ue2re-2u urw3w3u ruuurrrrrr
+rrrrr urrrw3rur rrrre2re1e2re-5ur rruw3re2re-2r uurrurrrrr

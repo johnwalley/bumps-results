@@ -1,6 +1,6 @@
 TORPIDS 1896
  6  3  30   = NDay, NDiv, NCrew
- 10  Men's Div I
+ 9  Men's Div I
 Brasenose                  -1  -1   0   0   0   0
 New College                 1   0   0   0   0   0
 Balliol                     0   1   0   0   0   0
@@ -10,8 +10,8 @@ Hertford                    0   0  -1  -1   0  -1
 Christ Church               0   0   1   0   0   0
 Trinity                     0   0   0   1   0   0
 Queen's                     0   0   0   0   0   1
-Exeter                      0   0   0   0  -1   0
  10  Men's Div II
+Exeter                      0   0   0   0  -1   0
 Merton                      0   0   0  -1   0   0
 Brasenose II                0  -1   0   0   0   0
 Pembroke                   -1   0   0   0   0   0
@@ -21,8 +21,8 @@ Christ Church II            1   0   0   0   0   0
 Jesus                       0   1   0  -1   0   0
 University                  0   0   1   1   0   0
 Keble                       0   0   0   0   0   0
+ 11  Men's Div III
 Oriel                       0   0   0   0  -1   0
- 10  Men's Div III
 Wadham                      0   0   0   0   1   0
 Worcester                  -1   0  -1  -1  -1  -1
 Lincoln                     1   0   0   0   0  -1

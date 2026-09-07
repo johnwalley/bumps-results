@@ -1,0 +1,15 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1943
+Days,3
+
+Division,Cl,TH,J,Pb,L,S,T,J2,Ca,M,Cr,E,K,Q,T2
+Division,CC,SC,S2,Cl2,TH2,J3,D,Ph,L2,Pb2,SS,Ca2,Rob Nines,SC2,St. Batholemew's,L3
+Division,London School of Economics,TH3,Pb3,T3,Royal Air Force,Q2,E2,J4,Ph2,TH4,D2,Cl3,K2,M2,D3
+Division,Ca3,T4,K3,J5,Cl4,Cr2,L4,Cr3,CC2,SS2,TH5,T5,CC3,T6,St. Batholemew's 2,Cr4,E3
+
+Results
+rrurrrrruuurr uurrrrruruu rururro3uruu uuruuururr
+ruuruuuuru rrrurrrrrurur uurrrurrruur ruururrrurrr
+uuuruuuurr rrrrrrruro3uu ururuuruurr uururuuurr

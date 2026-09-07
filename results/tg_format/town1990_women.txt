@@ -3,7 +3,7 @@ Short,Town
 Gender,Women
 Year,1990
 
-Division,City 1,99 1,City 2,Cantabs 1,99 2,City 3,99 3,Cantabs 2,99 4,City 4,City 5,Rob Roy 1,Coopers & Lybrand 1,Rob Roy 2,Pye 1,Macdonalds 1,Rob Roy 3,City 6,Pye 2,City 7
+Division,Ci,N,Ci2,Ca,N2,Ci3,N3,Ca2,N4,Ci4,Ci5,R,Coopers & Lybrand,R2,P,Macdonalds,R3,Ci6,P2,Ci7
 
 Results
 uuruurrurrruu

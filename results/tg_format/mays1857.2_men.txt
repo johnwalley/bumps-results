@@ -1,0 +1,15 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1857 May
+Days,5
+
+Division,L,1st Trinity,2nd Trinity,TH,3rd Trinity,E,1st Trinity 2,SS,SC,Ca,Cr,E2,3rd Trinity 2,M,Cl,Ph
+Division,2nd Trinity 2,TH2,CC,Cr2,J,E3,L3*,L2*,Pb,Lady Somerset,1st Trinity 3,TH3,Ancient Mariner,Ca2,2nd Trinity 3,1st Trinity 4,E4,Lady Somerset 2,2nd Trinity 4,Ca3,Cr3,J2,Cl2
+
+Results
+v0uuurrrurrrurruu rrrurrrrrrurrrr
+e3e1e3e1e3e1e3e1e2e3e1xe2re2re2re2xe-1rr rruururrrrrrrr
+e1e2re1xururruurrrrr rurrurrrrrrrrrr
+urururruurrrrrr urrrrururrrrrr
+rurruuuururru rrrrururrrrrrrr

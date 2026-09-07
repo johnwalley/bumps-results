@@ -3,13 +3,13 @@ Short,Town
 Gender,Men
 Year,2004
 
-Division,Rob Roy 1,99 1,Cantabs 1,Rob Roy 2,Rob Roy 3,City 1,99 2,City 2,Rob Roy 4,99 3,Cantabs 2,Rob Roy 5,Cantabs 3,X-Press 1,Simoco 1,St Neots 1,99 4
-Division,City 3,X-Press 2,Cantabs 4,Rob Roy 6,Max Entropy 1,Cantabs 5,X-Press 3,X-Press 4,St Ives 1,Champs 1,Cantabs 6,99 5,Rob Roy 7,Rob Roy 8,Champs 2,Camb Veterans 1,Isle of Ely 1
-Division,Cantabs 7,99 6,Simoco 2,Champs 3,Cantabs 8,City 4,St Radegund 1,Rob Roy 9,X-Press 5,St Ives 2,Champs 4,Champs 5,Cantabs 9,City 5,Rob Roy 10,Cantabs 11
-Division,Champs 6,99 7,St Radegund 2,Champs 7,Cantabs 12,St Ives 3,X-Press 6,Champs 8,Cantabs 13
+Division,R,N,Ca,R2,R3,Ci,N2,Ci2,R4,N3,Ca2,R5,Ca3,X,S,SN,N4
+Division,Ci3,X2,Ca4,R6,ME,Ca5,X3,X4,SI,Ch,Ca6,N5,R7,R8,Ch2,CV,IE
+Division,Ca7,N6,S2,Ch3,Ca8,Ci4,SR,R9,X5,SI2,Ch4,Ch5,Ca9,Ci5,R10,Ca10,Ca11
+Division,Ch6,N7,SR2,Ch7,Ca12,SI3,X6,Ch8,Ca13
 
 Results
-ururur e2re-2uuurrurur ruuurruurrru rrrurrurrrrrurr
-rurruu uuuuuuruu uuuuuuurur rrrrrrrrrrururrr
+ururur o3uuuurrurur ruuurruurrru rrrurrurrrrrurr
+e1e2re1e1e2re3r rxe-1uuuuuruu uuuuuuurur rrrrrrrrrrururrr
 uurrru ruuurruruur ruuuuuuruu rrrrrruruururr
 rrrurur rruuurro3uru uuuuurrrurrr rrrrrrrrrrrrrrrrrr

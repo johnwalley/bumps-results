@@ -1,0 +1,16 @@
+Set,May Bumps
+Short,Mays
+Gender,Women
+Year,2024
+
+Division,J,Ca,L,N,E,Cu,Pb,TH,D,SC,F,Q,Cr,T,Cl,K,M
+Division,Ph,G,SS,H,J2,N2,S,LC,W,Dw,E2,ME,Pb2,CC,R,Ca2,L2
+Division,TH2,D2,HH,Cl2,Q2,E3,N3,SE,SC2,Q3,H2,Ca3,Pb3,ME2,LC2,Cl3,SS2
+Division,J3,Cr2,M2,Dw2,CH,Cu2,E4,L3,F2,K2,T2,SC3,Vet School,Ca4,Cl4,Ph2,CC2
+Division,J4,G2,Cu3,W2,H3,M3,S2,CH2,N4
+
+Results
+rruuruu urrrururuurr ururururrrur uuururrurrur ruruuurrruur
+rurro3u o3urruurruuu uurruruurrru urururrurruu uruurrruurrrr
+uuuru uruurruuuru ruuuruuurrrr rurruuurruur rruuuruurrur
+rrruuu rruurruurrrur o3uuruurrurrr rruuuurruuu ruuuuruurru

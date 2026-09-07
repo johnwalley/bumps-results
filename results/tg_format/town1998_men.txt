@@ -3,9 +3,9 @@ Short,Town
 Gender,Men
 Year,1998
 
-Division,99 1,Rob Roy 1,Rob Roy 2,Free Press 1,99 2,City 1,Cantabs 1,Rob Roy 3,99 3,City 2,Free Press 2,City 3,Max Entropy 1,Rob Roy 4,Cantabs 2,99 4,99 5
-Division,Cantabs 3,Rob Roy 5,Free Press 3,City 4,99 6,Max Entropy 2,Free Press 4,Cantabs 4,Free Press 5,Free Press 6,Rob Roy 6,Simoco 1,Cantabs 5,Cantabs 6,St Neots 1,Ionica,Free Press 7,Cantabs 7
-Division,Mott MacDonald 1,Champs 1,Cantabs 8,City 5,Free Press 8,Rob Roy 7,99 7,Simoco 2,Free Press 9,Cantabs 9,Free Press 10,Cantabs 10,Rob Roy 8,Cantabs 11,Cantabs 12,Free Press 11,St Radegund 1,Rob Roy 9
+Division,N,R,R2,F,N2,Ci,Ca,R3,N3,Ci2,F2,Ci3,ME,R4,Ca2,N4,N5
+Division,Ca3,R5,F3,Ci4,N6,ME2,F4,Ca4,F5,F6,R6,S,Ca5,Ca6,SN,Ionica,F7,Ca7
+Division,Mott MacDonald,Ch,Ca8,Ci5,F8,R7,N7,S2,F9,Ca9,F10,Ca10,R8,Ca11,Ca12,F11,SR,R9
 
 Results
 ruuuuurruru rurururrro3urrr urrruurruuru

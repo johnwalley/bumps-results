@@ -1,0 +1,51 @@
+LENTS 1906
+ 4  3  46   = NDay, NDiv, NCrew
+ 15  Men's Div I
+Jesus                       0   0   0  -1
+LMBC                        0  -1  -1  -1
+Trinity Hall               -1   0   1   0
+1st Trinity                 1   1   0   1
+1st Trinity II              0  -1   0   0
+3rd Trinity                -1  -1  -1  -1
+Emmanuel                    1   1   0   1
+Pembroke                    0   1   0  -1
+Clare                      -1  -1  -1  -1
+Caius                       1   0   1   1
+Christ's                    0   1   0   1
+King's                      0  -1   0   1
+Sidney Sussex               0   1   1   0
+Corpus Christi              0   0   0   0
+Trinity Hall II            -1   0  -1  -1
+ 15  Men's Div II
+St Catharine's             -1  -1   0   1
+LMBC II                     2   0   0   0
+1st Trinity III            -1  -1  -1  -1
+Caius II                    1   1   1   0
+Emmanuel II                -1  -1   0   1
+Pembroke II                 1   1   0  -1
+Jesus II                    0   1   1   1
+Peterhouse                  0  -1  -1  -1
+Queens'                    -1  -1   0   1
+Selwyn                      1   1   0   0
+King's II                  -1   0   0  -1
+Clare II                    1   1   1   0
+Trinity Hall III            0  -1  -1  -1
+1st Trinity IV             -1  -1  -1  -1
+LMBC III                    1   1   0   1
+ 16  Men's Div III
+Magdalene                   0  -1   1   1
+Pembroke III                0   2   1   0
+Pembroke IV                -1  -1  -3   1
+Caius III                   1   0  -1   0
+1st Trinity V              -3  -1  -1  -1
+1st Trinity VI             -1   1  -1  -1
+Downing                     1  -1   1  -3
+Selwyn II                   3   1   1   1
+Emmanuel III                0   1   3   0
+Clare III                  -1  -1   0  -1
+Pembroke V                  1   0   1   3
+Fitzwilliam                -1  -3   1   0
+Christ's II                 1   1   0   1
+Trinity Hall IV             0  -1  -1   0
+Jesus III                   0   1   1   1
+Christ's III                0   3  -1   0

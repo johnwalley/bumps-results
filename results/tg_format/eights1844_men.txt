@@ -1,0 +1,19 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1844
+Days,10
+
+Division,U,O,Ch,T,P,B,SJ,Br,E,Wt,Wh,Lc,Mt,Ch2,Br2,Wt2,MH,J
+
+Results
+v0v0v0rre2v-1e-1rruurru
+v1v1v1e1xrrurruuur
+v0v0uruurre2v-1e-1ru
+v2v2xe1e1xue2v-1e-1rrurr
+e1e1xrrururrrrr
+e1e1e1e1xe2v-1e-1urrrr
+rrrrrruurrr
+rrrrrrruurr
+e1xrrre2rv-2rrur
+xrrrrrrre1v-1rr

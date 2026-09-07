@@ -1,5 +1,5 @@
 TOWN 2004
- 4  4  59   = NDay, NDiv, NCrew
+ 4  4  60   = NDay, NDiv, NCrew
  17  Men's Div I
 Rob Roy 1                   0   0   0   0
 99 1                        0   0   0   0
@@ -36,7 +36,7 @@ Rob Roy 8                  -1  -1  -1  -1
 Champs 2                    1   1   1   1
 Camb Veterans 1            -1  -1   0  -1
 Isle of Ely 1               1   1   1   1
- 16  Men's Div III
+ 17  Men's Div III
 Cantabs 7                   0  -1  -1   0
 99 6                       -1  -1  -1  -1
 Simoco 2                    1   2   1   1
@@ -51,15 +51,16 @@ Champs 4                   -1  -1  -1  -1
 Champs 5                    1   1   0  -1
 Cantabs 9                  -1  -1  -1   0
 City 5                      1   1   1   1
-Rob Roy 10                 -2  -1   1   0
-Cantabs 11                  0  -1  -1  -1
+Rob Roy 10                 -3   0   1   0
+Cantabs 10                 -1   0  -1  -1
+Cantabs 11                  1  -1  -1  -1
  9  Men's Div IV
-Champs 6                    2   1   1   1
-99 7                       -1  -1   0   0
-St Radegund 2               1   2   1   1
-Champs 7                    0   1   0   1
-Cantabs 12                 -1   0  -1   0
-St Ives 3                   1   0   0  -1
-X-Press 6                   0  -1  -1   0
-Champs 8                   -1   0   1   0
-Cantabs 13                  1   1   1   1
+Champs 6                    3   1   1   1
+99 7                       -1   0   0   0
+St Radegund 2               1   3   1   1
+Champs 7                    0   2   0   1
+Cantabs 12                 -1   1  -1   0
+St Ives 3                   1   1   0  -1
+X-Press 6                   0   0  -1   0
+Champs 8                   -1   1   1   0
+Cantabs 13                  1   2   1   1

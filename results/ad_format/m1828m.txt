@@ -1,0 +1,12 @@
+MAYS 1828 April May November
+ 14  1  9   = NDay, NDiv, NCrew
+ 9  Men's Div I
+Trinity Monarch            -1   1  -1   0   0  -1  -1   0   2   0   0  -1   1   0
+LMBC                        1  -1   1   0   0   0   0   0   0   0   0   0   0   0
+Jesus                       0   0   0  -1   1   1   0  -1  -1  -1  -1  -1   0   0
+                            0  -1  -1  -1   0  -1   0   0   0   0   0   0   0   0
+                            0   1   0   1  -1  -1  -1   0   0   0   1   1  -1  -1
+Caius                       0  -1   0   1   1   1   1   1  -1  -1   0  -1   1   1
+Trinity Hall                0   1   1   0  -1   0   1   0   0   2   0   1  -1  -1
+Corpus Christi              0   0   0   0   0   1   0   0   1   0   1   1  -1  -1
+Peterhouse                  0   0   0   0   0   0   0   0   2   0   0   1   0   1

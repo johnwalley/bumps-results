@@ -1,0 +1,14 @@
+Set,Town Bumps
+Short,Town
+Gender,Women
+Year,2026
+
+Division,Ci,Ca,Ci2,Ca2,N,Ca3,N2,Ci3,Ci4,Ca4,SN,Ct,Ci5,IE,Ca5,X,Ca6
+Division,Ci6,Ca7,Ch,N3,Ch2,Ca8,X2,Peregrines,N4,Ci7,Ct2,Ca9,N5,Ch3,SR,Ca10,Ci8
+Division,Ci9,Ca11,X3,Ct3,SN2,N6,Ci10,SR2,Ch4,N7,Ci11,X4,Ci12,X5,Ci13,X6,Peregrines2,X7
+
+Results
+rurrrruuuuur rururruuurur urrrurro3urrrrr
+rrurruurruurr uruurruuruu rurrrruururrrr
+rurruuururru uuurrrruo3urr uurrrruruurrr
+rrrruuuururrr ruuururo3urrr rurrrurrrrrrurr

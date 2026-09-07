@@ -1,0 +1,13 @@
+EIGHTS 1848
+ 8  1  10   = NDay, NDiv, NCrew
+ 10  Men's Div I
+Christ Church               0   0   0   0   0   0   0   0
+Brasenose                   0  -1   0   0  -1   0  -1   0
+Pembroke                   -1   0   0   0   1   0   0   0
+Worcester                   1   1   0   0   0   0   0   0
+Wadham                      0   0   0   0   0   0   1   0
+Balliol                     0   0   0   0   0   0   0   0
+Jesus                       0   0   0   0   0   0   0   0
+Christ Church II            0  -1   0   0   0   0   0   0
+Linacre                    -1   0   0   0   0   0   0   0
+Trinity                     1   1   0   0   0   0   0   0

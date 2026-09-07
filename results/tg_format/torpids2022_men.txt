@@ -1,0 +1,17 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,2022
+
+Division,O,P,SC,Ch,SE,B,Wf,K,Wh,T,Mg,U
+Division,Mt,Q,SJ,LM,N,J,H,Mf,Co,SHu,E,Br
+Division,Lc,S,L,SP,Wt,P2,Ch2,SAn,SAt,Wf2,O2,SC2
+Division,Wh2,SE2,GT,T2,J2,SHi,K2,SB,N2,Mt2,Lc2,U2
+Division,Br2,B2,R,Mg2,SHu2,SE3,L2,Wh3,Wf3,E2,Q2,H2
+Division,SJ2,T3,Ch3,U3,Ch4,SP2,N3,SP3,Mg3,Wf4,O3,GT2,SE4
+
+Results
+rw2urw3u uw3urrru w2ruw2rur re1e1e2re-4urrrrr uw2rrw3rr rurrrw2w2r
+uw2w2uur w2w3rre1e2re-3 e2re1e-3rurw2u uw2urrw2r w2w2ururr rruurw2rrr
+urw2w2uu e2re1e-3w3rrur ruw2w2e2re1e-3 w2rurre1e2re1e-4 uuw2ruur urrruruur
+rurw2e2re-2e2re-2 e2re1e1e1e1e1e-7ruu rruw2w2w2 uw2o3re2e-2ru w2urruuu ruururrrrr

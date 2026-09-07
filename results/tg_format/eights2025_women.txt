@@ -1,0 +1,18 @@
+Set,Summer Eights
+Short,Eights
+Gender,Women
+Year,2025
+
+Division,Ch,Wh,U,P,SE,Wf,B,O,K,SJ,Mg,J
+Division,N,Lc,SAn,GT,L,E,H,Mf,LM,SC,Mt,T
+Division,S,SP,Wt,Q,Br,SAt,Wf2,SHi,Co,U2,SHu,P2
+Division,Ch2,Mg2,O2,L2,Wh2,Lc2,GT2,Br2,Wt2,SJ2,K2,Wf3
+Division,H2,J2,SHu2,SE2,R,N2,Reuben,B2,S2,SP2,Mt2,T2
+Division,Mf2,E2,SAt2,SC2,Q2,U3,SHi2,SP3,Wf4,LM2,O3,P3
+Division,SAn2,Wt3,E3,Wh3,N3,Q3,SJ3,U4,SHi3,K3,J3,Reuben2,S3
+
+Results
+uurrururr urruuruu uuuo5uur uuuuuur rrrurrrrurr uuuruuu uuurure2re-2
+ruuuurur rrruuo3uu ruuururu uruurruu rruurruru ruurrrururuururuu
+uuo3uuru rururuo3u rruuurrru rururrrrru ruuurrrur uuuruurr uururuur
+uruuurrrr urrrruuru uruuurur rrururrrur urrrrrrruu urururrur rrrrururru

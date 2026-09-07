@@ -1,0 +1,18 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1988
+
+Division,O,K,P,Ch,Wt,O2,N,Br,SC,Lc,H,SE
+Division,E,B,Q,T,Mg,Wh,Wf,U,SJ,J,SP,K2
+Division,OH,Ch2,LM,O3,Mt,Lc2,SC2,Wt2,U2,P2,H2,Br2
+Division,N2,Mf,SAn,Co,Q2,B2,E2,J2,Wf2,Wt3,Wh2,SE2
+Division,SJ2,R,L,O4,LM2,J3,SJ3,Wh3,T2,O5,E3,Q3
+Division,K3,SP2,O6,H3,Ch3,Mg2,N3,T3,SJ4,Br3,Mt2,SP3
+Division,Br4,SAn2,SAn3,Lc3,E4,Wh4,Wf3,Co2,K4,K5,U3,Co3,B3
+
+Results
+w3rrruuu uue2re1e1e-4w2r w3uuuur w2e2e2e-1e1e1e-5rrrr e2e2e-1e-3urre2re1e1e-4 uuw3w2u rrurw3urr
+rre2re2re1e1e2e2e-1e1e-10 e2e2e-1e2e-4e-1w3w2 e2re2re-4rre1e1e2re1e-5 uurw2uw2 uw2e2re1e-3rw2 e2e2e-1e-3rrw2w2r e1e2re1e1e-5rw2rrr
+w2rrrrrruu urw3w3u e2re2re1e1e-6urrrr ruuruw2u w2w2ruurr re1e2re1e2re1e1e-8w2 ruruurrur
+ururrrrrru e2re2re1e1e1e-7e2e2e-1e-3r rw2w2rurrr uuururur rw2e2re1e-3uru uuw2rw2u uruurrurr

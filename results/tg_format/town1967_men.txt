@@ -3,8 +3,8 @@ Short,Town
 Gender,Men
 Year,1967
 
-Division,99 1,Rob Roy 1,Leys Sch 1,Cantabs 1,Rob Roy 2,99 2,Scouts 1,ACUA 1,99 3,Cambs High School 1,Leys Sch 2,Cantabs 2,Rob Roy 3,Scouts 2,Leys Sch 3
-Division,Cam Grammar Sch 1,Leys Sch 4,Cambs High Sch 2,Cam Grammar Sch 2,99 4,Cantabs 3,Rob Roy 4,Cambs High Sch 3,99 5,Cantabs 4,Rob Roy 5,99 6,Rob Roy 6
+Division,N,R,Leys School,Ca,R2,N2,Scouts,ACUA,N3,Cambs High School,Leys School 2,Ca2,R3,Scouts 2,Leys School 3
+Division,Cam Grammar School,Leys School 4,Cambs High School 2,Cam Grammar School 2,N4,Ca3,R4,Cambs High School 3,N5,Ca4,R5,N6,R6
 
 Results
 rrruruuur ruururrrrrru

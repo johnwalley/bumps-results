@@ -1,0 +1,13 @@
+TORPIDS 1849
+ 7  1  10   = NDay, NDiv, NCrew
+ 10  Men's Div I
+Brasenose                   0   0   0  -1   0  -1  -1
+Worcester                  -1  -1   0  -1  -1   0   1
+Wadham                      1   0   0   1   0   0   0
+Christ Church               0   1   0   0  -1  -1  -1
+Exeter                     -1  -1  -1   0   1   1   1
+Pembroke                    1   0  -1  -1   0   1   1
+Lincoln                     0   1   1   1   1   1   0
+University                 -1   0   0   0   1   1   0
+Oriel                       1   0   1   1   1   1   1
+St John's                   0   0   0   0   1   0   0

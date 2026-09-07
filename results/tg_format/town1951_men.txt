@@ -3,8 +3,8 @@ Short,Town
 Gender,Men
 Year,1951
 
-Division,99 1,Rob Roy 1,City 1,99 2,Scouts 1,New Museums 1,Beehives 1,Pye 1,Rob Roy 2,Scouts 2,Pye 2,99 3,City 2,Old YM 1,New Museums 2,99 4,Beehives 2
-Division,City 3,Scouts 3,Rob Roy 3,New Museums 3,College Servants 1,Old Cantabs 1,Old YM 2,Old Cantabs 2,Rob Roy 4,City 4,Old Cantabs 3,Scouts 4,Old Cantabs 4,Instrument Co 1,Old Cantabs 5
+Division,N,R,Ci,N2,Scouts,New Museums,Beehives,P,R2,Scouts 2,P2,N3,Ci2,Old YM,New Museums 2,N4,Beehives 2
+Division,Ci3,Scouts 3,R3,New Museums 3,College Servants,OC,Old YM 2,OC2,R4,Ci4,OC3,Scouts 4,OC4,Instrument Co,OC5
 
 Results
 rruruuurur urrrurruuuur

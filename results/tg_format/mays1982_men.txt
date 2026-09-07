@@ -1,0 +1,18 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1982
+
+Division,L,D,E,TH,J,Ca,Pb,S,Cl,T,F,CC,Cr,D2,L2,Q
+Division,Cu,SC,SS,Ph,J2,M,Pb2,L3,S2,E2,Cl2,T2,TH2,Ca2,SS2,K
+Division,Q2,Cr2,Cu2,L4,J3,F2,SC2,M2,R,Cl3,CC2,D3,TH3,T3,Ph2,G
+Division,Q3,J4,K2,Ca3,Cu3,E3,SC3,F3,SS3,Dw,L5,T4,Cl4,Pb3,Cr3,S3
+Division,A,Cr4,W,L6,L7,Pb4,M3,SC4,CC3,Cu4,T5,Q4,E4,SC5,Cr5,M4
+Division,CC4,L8,J5,Cl5,S4,F4,SS4,Ca4,D4,L9,Q5,M5,Cu5,L10,K3,Pb5
+Division,D5,SE,E5,Q6,TH4,J6,S5,K4,Cl6,Cu6,E6,Dw2,TC,M6,Cl7,G2,Cl8,TH5
+
+Results
+rururuururur uruuruuruu uururuurrru uruuururrrrr rruurrurrurrr urrururruurr uuurrurrrrrrr
+rrruruuurruu rrurrururrrur rururuurro3u rruuuururru ruuuro3uruu ruruuurrrrur ruurrururuu
+rruruuuuuur ruurruruuru uurrurrro3uu ruuuuurrurr rrurruuurrur ururrrrrrrruu rruuurrrrurrr
+ruuruuuuurr uuuuuruo3u ruuurrrrurru rruuurrrurur rrrruruuurru rruurrrruuur rrruuurrurrrr

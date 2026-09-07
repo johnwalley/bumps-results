@@ -3,9 +3,9 @@ Short,Town
 Gender,Men
 Year,1987
 
-Division,99 1,Rob Roy 1,City 1,99 2,Cantabs 1,City 2,Univ Sports 1,Rob Roy 2,Clare 1,99 3,Lady Somerset 1,City 3,Free Press 1,Cantabs 2,Pye 1,Free Press 2,Wolfson 1
-Division,99 4,99 5,Churchill 1,Cantabs 3,Free Press 3,Rob Roy 3,Metallurgy 1,99 6,Red Lion Toft 1,King's 1,Macdonalds 1,Univ Sports 2,Cantabs 4,Chemical Eng 1,Leckhampton 1,Free Press 4
-Division,St Ives 1,Pye 2,City 4,Free Press 5,Cantabs 5,Darwin 1,Barclays Bank 1,99 7,NatWest Bank 1,Pye 3,Red Lion Toft 2,British Welding 1,Unicorn Cherry Hinton 1,Rob Roy 4,Cantabs 6,City 5
+Division,N,R,Ci,N2,Ca,Ci2,Univ Sports,R2,Clare,N3,Lady Somerset,Ci3,F,Ca2,P,F2,Wolfson
+Division,N4,N5,Churchill,Ca3,F3,R3,Metallurgy,N6,Red Lion Toft,King's,Macdonalds,Univ Sports 2,Ca4,Chemical Eng,Leckhampton,F4
+Division,SI,P2,Ci4,F5,Ca5,Darwin,Barclays Bank,N7,NatWest Bank,P3,Red Lion Toft 2,British Welding,Unicorn Cherry Hinton,R4,Ca6,Ci5
 
 Results
 ruuo3ururrrr o3uruuururu uruurro3urrru

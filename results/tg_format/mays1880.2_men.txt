@@ -1,0 +1,17 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1880 May
+Days,6
+
+Division,J,L,Ca,1st Trinity,3rd Trinity,TH,Ca2,Cl,1st Trinity 2,L2,Pb,E,1st Trinity 3,SS
+Division,J2,3rd Trinity 2,TH2,CC,D,SC,Q,1st Trinity 4,K,M,L3,Ca3,Cr,1st Trinity 5,TH3
+Division,Ph,Pb2,SS2,3rd Trinity 3,Cavendish,1st Trinity 6,J3,L4,CC2,Cr2,SC2,Cl2,E2,Ca4
+
+Results
+t ruururuuru rrrruurrrrur
+t uuurururur rrurrrrruurr
+t ruurrrurrurr rrrurrururrr
+t rruruurrurrr rrrrrrrrrrrrrrr
+t t uurrrrrrrrrrr
+t t rurrrrrrrrrrrr

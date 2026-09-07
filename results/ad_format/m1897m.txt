@@ -1,0 +1,32 @@
+MAYS 1897
+ 4  2  28   = NDay, NDiv, NCrew
+ 14  Men's Div I
+Trinity Hall                0   0   0   0
+1st Trinity                 0   0  -1  -1
+LMBC                        0  -1  -1   0
+Emmanuel                    0   1   1   0
+3rd Trinity                 0   0   1   1
+1st Trinity II             -1  -1  -1  -1
+Caius                       1   0   0   0
+Trinity Hall II             0   1   0   0
+Pembroke                    0  -1   0   1
+Jesus                      -1   0   0   0
+King's                      1   1   1   0
+LMBC II                     0   0   0   0
+Trinity Hall III            0   0   0   0
+1st Trinity III             0   0   0   0
+ 14  Men's Div II
+Caius II                    0   0   0  -1
+Clare                       0   0  -1   0
+Corpus Christi              0  -1   0   0
+Selwyn                     -1  -1  -1  -1
+Emmanuel II                 1   1   1   1
+Peterhouse                 -1  -1  -1   0
+Jesus II                    1   1   0  -1
+Christ's                    0   1   1   1
+Sidney Sussex               0   0   1   1
+Pembroke II                 0   0   0   0
+Downing                    -1  -1  -1   0
+Magdalene                   1   0  -1  -1
+St Catharine's              0   1   1   0
+Queens'                     0   0   1   1

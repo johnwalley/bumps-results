@@ -1,0 +1,15 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Men
+Year,1945
+Days,3
+
+Division,J,Pb,L,T,TH,Cl,Cr,S,SC,J2,Ca,Ph,T2,L2,Q
+Division,M,E,Queen Mary,CC,TH2,SS,K,Cr2,D,J3,St. Batholemew's,Cl2,E2,Pb2,SC2
+Division,Ca2,T3,L3,London School of Economics,Q2,Cr3,Queen Mary 2,St. Batholemew's 2,T4,Ph2,D2,Ca3,M2,D3,TH3,E3
+
+Results
+rrruururrrrrr ruurrruurrrr rruururrrrur
+rrurrurrrrrrrr uurrrrruurrr rrrrrrurururr
+ruuuurrrrrrr ruurruruurr rurrrrururrrr
+

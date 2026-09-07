@@ -1,0 +1,17 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Men
+Year,1937
+
+Division,J,Pb,1st Trinity,Cl,L,S,Q,1st Trinity 2,J2,TH,SC,Ph,Ca,Cr,E
+Division,Pb2,K,J3,CC,SS,M,L2,TH2,Cr2,3rd Trinity,Cl2,Ca2,S2,SC2,F
+Division,D,J4,Q2,1st Trinity 3,L3,CC2,1st Trinity 4,E2,Pb3,TH3,M2,Ph2,SS2,SC3,D2
+Division,J5,Cl3,TH4,Ca3,Cr3,L4,E3,S3,F2,1st Trinity 5,E4,K2,SC4,Q3,Cr4
+Division,1st Trinity 6,SS3,CC3,D3,TH5,J6,Pb4,M3,SS4,Ca4,K3,Pb5,D4
+
+Results
+uuruurru ruruuruuur rrrrrrrruurur uuurrrruurr urrrrrururrrr
+ruurrruur uruuruuuu urrruuuuru rurrrrurruur rrurruurrrrrr
+uurrruuu uurruruuur rurrruurrurr rrruruurruu ruuuuururr
+uuuuuur rururruuuu rrruuuuuur rrururruuur uuuuuurrrr
+

@@ -1,0 +1,23 @@
+LENTS 1919
+ 4  2  19   = NDay, NDiv, NCrew
+ 11  Men's Div I
+Jesus II                   -1   0   0  -1
+1st Trinity II              1   0   0   0
+Pembroke II                 0   0   0   1
+LMBC II                    -1   0   0  -1
+Emmanuel II                 1   0   0   0
+Christ's II                -1  -1  -1  -1
+Queens' II                  1   0  -1  -1
+Trinity Hall II            -1  -1  -1  -1
+1st Trinity III             1   1   1   1
+Caius II                   -1  -1  -1   0
+Pembroke III                1   1   1   1
+ 8  Men's Div II
+St Catharine's              0   1   1   1
+Magdalene II               -1   0  -1   1
+Caius III                   1   0   1   1
+Emmanuel III                0  -1  -1   0
+Downing                    -1   0   1   0
+King's II                   1   1   1  -1
+Downing II                  0   0   0   0
+Emmanuel IV                 0   0   0   0

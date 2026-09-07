@@ -1,3 +1,4 @@
+
 Set,Lent Bumps
 Short,Lents
 Gender,Men
@@ -12,5 +13,5 @@ Division,E3,SS3,G2,Cu4,Cl4,S3,T4,E4,Ph3,Cl5,Ca4,Pb4,K3,Cr4,Cr5,E5,Q4,Cu5
 Results
 uuuruururur e2re-2uuruurrrr rro3urururuu urururuuurr ruuruuururr
 ruuro3uurruu uuuruuruu rurrruurruur rruurrurrurrr uurrrrrururrr
-urrrurruuuur ruuururure1r e1e-2uruurrurrrr ruurruuuuu rururruururr
+urrrurruuuur ruuurururrr e1pe-1uruurrurrrr ruurruuuuu rururruururr
 rruuuuuuuu uuuurruurr rruuuuuurrr uurruuuuur ururrurrurur

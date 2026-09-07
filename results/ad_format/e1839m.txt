@@ -1,0 +1,16 @@
+EIGHTS 1839
+ 7  1  13   = NDay, NDiv, NCrew
+ 13  Men's Div I
+Exeter                     -1  -1   0  -1   0  -1  -1
+Balliol                     1   0  -1   0  -1   0   1
+Merton                      0   1   1   0   0  -1  -1
+St John's                   0   0  -1   0  -1  -1   0
+Trinity                    -1  -1   0   0   0   1   1
+Brasenose                   1   0   1   1   1   1   0
+Jesus                      -1   0   0   0   0   0   0
+Christ Church               1   1   0   0   1   1   0
+Wadham                      0   0   2   0   0   1   1
+Oriel                       0   0   2   0   0   0   0
+University                  0   0   2   0   0   0   0
+New Inn Hall                0   0   2   0   0   0   0
+Magdalen Hall               0   0   2   0   0   0   0

@@ -1,0 +1,14 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1868 February
+Days,4
+
+Division,1st Trinity,3rd Trinity,L,TH,E,1st Trinity 2,Cr,Pb,SS,2nd Trinity,TH2,Ca,Cl,CC,L2,M,J,Ph,1st Trinity 3
+Division,3rd Trinity 2,CC2,Cr2,K,Q,TH3,1st Trinity 4,L3,E2,SS2,2nd Trinity 2,SC,Cl2,Ca2,Pb2,J2,D,E3,1st Trinity 5,1st Trinity 6,CC3
+
+Results
+rruruuuruuruu t
+rurrruruuuurur t
+uurrrruuuuuru t
+rue2re-2ruuuurrrur t

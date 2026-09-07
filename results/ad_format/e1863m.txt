@@ -1,0 +1,20 @@
+EIGHTS 1863
+ 8  1  17   = NDay, NDiv, NCrew
+ 17  Men's Div I
+Trinity                     0   0   0   0   0   0   0   0
+Balliol                    -1   0   0   0   0   0   0   0
+Brasenose                   1   0   0   0   0   0   0   0
+Magdalen                    0   0   0   0   0   0  -1   0
+Christ Church              -1  -1   0   0   0   0   0   0
+University                  1   0   0   0   0   0   1   0
+Exeter                      0   1   0   0   0   0   0   0
+Wadham                     -1  -1  -1   0   0   0   0   0
+Merton                      1   0   0   0   0   0   0  -1
+Corpus Christi              0   1   0   0   0  -1   0   0
+Pembroke                    0   0   1   0   0   1   0   1
+Oriel                      -1   0   0   0   0  -1  -1  -1
+Queen's                     1   0   0   0   0   0   0   0
+S.E.H.                      0   0   0   0   0   1   0   0
+Jesus                       0   0   0   0   0  -1   0   1
+Lincoln                     0   0   0   0   0   1   1   0
+Worcester                   0   0   0   0   0   0   0   0

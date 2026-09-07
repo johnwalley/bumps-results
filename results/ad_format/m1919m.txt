@@ -1,0 +1,35 @@
+MAYS 1919
+ 4  2  31   = NDay, NDiv, NCrew
+ 15  Men's Div I
+Jesus                       0  -1   0   0
+Pembroke                   -1   0  -1   0
+3rd Trinity                 1   1   0   0
+1st Trinity                 0  -1   0   0
+LMBC                        0   1   1   0
+Caius                       0   0   0   0
+Jesus II                    0   0   0   0
+Emmanuel                   -1   0  -1  -1
+Trinity Hall                1   0   0  -1
+Selwyn                      0  -1   0   1
+King's                     -1   0   0  -1
+Christ's                    1   1   1   1
+1st Trinity II              0   0  -1  -1
+Pembroke II                -1   1   1   1
+Queens'                     1  -1  -1  -1
+ 16  Men's Div II
+Sidney Sussex               0   0   1   1
+Clare                       0   0  -1  -1
+Magdalene                   0  -1  -1  -1
+Corpus Christi             -1  -1  -1   0
+LMBC II                     1   1   1   1
+Caius II                   -1  -1   0   0
+St Catharine's              1   1   1   1
+1st Trinity III             0   1   1   1
+Jesus III                  -1   0  -1  -1
+Trinity Hall II             1   0   0  -1
+Downing                     0  -1   0   1
+Clare II                   -1  -1  -1  -1
+Emmanuel II                 1   1   1   1
+Christ's II                 0   1   0  -1
+Peterhouse                 -1   0   0   1
+Fitzwilliam                 1   0   1   1

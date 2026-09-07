@@ -1,0 +1,32 @@
+MAYS 1895
+ 4  2  28   = NDay, NDiv, NCrew
+ 14  Men's Div I
+Trinity Hall                0   0   0   0
+1st Trinity                 0   0   0   0
+3rd Trinity                 0   0   0   0
+1st Trinity II             -1   0   0   0
+LMBC                        1   0   0   0
+Emmanuel                    0   0   0   0
+Pembroke                    0   0   0   0
+Jesus                       0   0   0   0
+Trinity Hall II             0   0   0  -1
+Trinity Hall III            0   0  -1  -1
+King's                      0  -1  -1   0
+Caius                       0   1   1   1
+1st Trinity III             0  -1   0   0
+Clare                      -1   0   0   0
+ 14  Men's Div II
+LMBC II                     1   1   1   1
+Corpus Christi              0   0   0   0
+Jesus II                    0   0   0   0
+Caius II                    0   0   0   0
+Christ's                    0  -1   0   0
+Selwyn                      0   1   0   0
+Pembroke II                -1   0  -1   0
+Emmanuel II                 1   0   0   0
+Sidney Sussex               0  -1   0   0
+St Catharine's             -1   0   0  -1
+Peterhouse                  1   1   1   0
+Queens'                    -1  -1   0   0
+Downing                     1   0  -1   0
+Magdalene                   0   1   1   1

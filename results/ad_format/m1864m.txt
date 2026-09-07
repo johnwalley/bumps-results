@@ -1,0 +1,61 @@
+MAYS 1864 May
+ 8  3  56   = NDay, NDiv, NCrew
+ 20  Men's Div I
+3rd Trinity                 0  -1   0   0   0   0   0   0
+Trinity Hall                0   1   0   0   0   0   0   0
+1st Trinity                 0   0   0   0   0   0   0   0
+LMBC                        0   0   0   0   0   0   0   0
+Emmanuel                    0   0   0   0   0   0   0   0
+Corpus Christi              0  -1   0   0   0   0   0   0
+Christ's                   -1  -1   0   0   0   0   0   0
+1st Trinity II              1   1   0   0   0   0   0   0
+LMBC II                    -1   0   0   0   0  -1  -1  -1
+Trinity Hall II             1   1   0   0   0   0   0   0
+2nd Trinity                 0   0  -1  -1  -1  -1  -1  -1
+3rd Trinity II              0  -1  -1  -1  -1   0   1   1
+Peterhouse                 -1  -1  -1  -1  -1   0   0  -1
+Magdalene                   1   1   1   0  -1  -1  -1  -1
+Caius                       0   1   1   1   1   1   0   0
+1st Trinity III             0   0   1   1   1   1   1   0
+Jesus                       0   0  -1  -1   0   2   0   1
+Emmanuel II                 0  -1  -1   0   0   1   0   1
+Clare                      -1   0   1   1   1   1   1   1
+Pembroke                    1   1   1   1   1   1   1   1
+ 19  Men's Div II
+1st Trinity IV              0   0  -1   0   0   1   0   0
+Caius II                   -1   0   0   0   0   1   0   0
+King's                      1   0   1   0   0   1   0   0
+LMBC III                   -1  -1   0  -1   0   1   0   0
+Christ's II                 1   0   0   0   0   1   0   0
+Sidney Sussex               0   1   0   0   0   1   0   0
+Corpus Christi II           0   0  -1   0   0   1   0   0
+St Catharine's              0   0   1   1   0   1   0   0
+Trinity Hall III           -1   0   0   0  -1   1   0   0
+Queens'                     1   0   0   0   0   1   0   0
+Emmanuel III                0  -1  -1  -1   0   1   0   0
+Clare II                    0   1   0  -1  -1   1   0   0
+LMBC IV                    -1   0  -1   0   0   1   0   0
+Jesus II                    1   0   1   1   1   1   0   0
+2nd Trinity II              0  -1   0   0  -1   1   0   0
+3rd Trinity III            -1   0  -1   1   1   1   0   0
+1st Trinity V               1   1   1   1   1   1   0   0
+Caius III                  -1  -1  -1  -1   0   1   0   0
+Magdalene II                1   0   1  -1   0   1   0   0
+ 17  Men's Div III
+2nd Trinity III            -1  -1  -1  -1  -1   1   0   0
+1st Trinity VI              1   1   0   0  -1   1   0   0
+Peterhouse II               0   1   1   0  -1   1   0   0
+LMBC V                      0  -1  -1  -1  -1   1   0   0
+Pembroke II                 0   1   1   1   2   1   0   0
+Jesus III                   0  -1  -1   0   1   1   0   0
+Corpus Christi III         -3   0   0  -1  -1   1   0   0
+Trinity Hall IV            -1   0   0   0   0   1   0   0
+St Catharine's II           1   0   1   1   1   1   0   0
+Downing                     3   1   1   1   0   1   0   0
+Queens' II                  0  -1   1   1   0   1   0   0
+Christ's III               -1  -1  -1  -1   1   1   0   0
+Jesus IV                    1   1  -1   0   1   1   0   0
+Sidney Sussex II            0   1   0   0   0   1   0   0
+Emmanuel IV                -1   0  -1   0   0   1   0   0
+Caius IV                    1   0   1   0   0   1   0   0
+                            0   0   1   1  -1   1   0   0

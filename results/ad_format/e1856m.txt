@@ -1,0 +1,17 @@
+EIGHTS 1856
+ 8  1  14   = NDay, NDiv, NCrew
+ 14  Men's Div I
+Balliol                     0   0  -1   0  -1   0   0   0
+Brasenose                   0  -1   0  -1  -1  -1  -1  -1
+Christ Church              -1   0  -1   0   1   0   0   0
+Wadham                      1   1   1   0   0   0   0   0
+Exeter                      0   0   1   1   1   0   0   0
+Queen's                     0   0  -1  -1  -1   0   0  -1
+University                  0   0   1   0   0   1   0   0
+Trinity                     0   0   0   1   0   0   1   0
+Magdalen Hall              -1  -1   0   0   0  -1   0   1
+Pembroke                    1   0   0  -1   0   0  -1  -1
+St John's                  -1  -1   0   0   0   0   0   0
+Lincoln                     1   1  -1   0   0  -1   0   1
+Christ Church II           -1   0   2   0   0   1   1   1
+Oriel                       1   1   2   1   1   0   0   1

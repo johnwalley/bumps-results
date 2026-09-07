@@ -3,7 +3,7 @@ Short,Town
 Gender,Women
 Year,1995
 
-Division,Rob Roy 1,99 1,City 1,City 2,City 3,City 4,Free Press 1,Rob Roy 2,Cam Consultants,Cantabs 1,City 5,Pye 1,Free Press 2,Maximum Entropy 1,Cantabs 2,Free Press 3,Rob Roy 3,Cantabs 3,Rob Roy 4,Free Press 4,Cantabs 4,Free Press 5
+Division,R,N,Ci,Ci2,Ci3,Ci4,F,R2,Cam Consultants,Ca,Ci5,P,F2,Maximum Entropy,Ca2,F3,R3,Ca3,R4,F4,Ca4,F5
 
 Results
 uuro3rrurururrur

@@ -1,0 +1,16 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1837 April May
+Days,7
+
+Division,L,CC,1st Trinity (Black Prince),Ca,2nd Trinity (Queen Bess),Q,J,3rd Trinity (Dolphin),TH,1st Trinity 2,L2,Cl,Cr,E,CC2,Pb,Ca2,M,3rd Trinity 2,2nd Trinity 2,SC,,Q2,,SS,2nd St. John's
+
+Results
+v0v0rrrrrruue2e-1e-1w2urrrrrr
+v3v3xe2xe1e1e1e1e3re2e-1e1e2xe-1rrurrur
+v0v0rrrre2e-1e-1rrrrrrrrrrurr
+v0v0ruururrurrrrrrur
+v0v0rruruurrrururrrr
+v0rrrrruurrrurrrrrrrr
+o3urrrurre2e-1e-1uuurrr

@@ -1,0 +1,13 @@
+TOWN 1868
+ 5  1  10   = NDay, NDiv, NCrew
+ 10  Men's Div I
+Church of England Young Men's Society 1  -1  -1  -1   0   0
+United College Servants 1   1   0  -1  -1   0
+Albert Institute 1         -1   0   1   1   0
+Cambridge Town Rowing Club 1   1   1   1   0   0
+Young Men's Christian Association 1   0   0   0  -1  -1
+Pitt Press 1               -1  -1  -1   0   1
+Albert Institute 2          1   0  -1  -1  -1
+Cambridge Town Rowing Club 3  -1  -1   0   0   0
+Cambridge Town Rowing Club 2   1   1   1   1   0
+United College Servants 2   0   1   1   1   1

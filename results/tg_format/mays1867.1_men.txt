@@ -1,0 +1,14 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1867 March
+Days,3
+Flags,skip_headship
+
+Division,1st Trinity,3rd Trinity,TH,L,E,Pb,CC,Ca,Cr,1st Trinity 2,SS,2nd Trinity,TH2,M,1st Trinity 3,J,Ph,Cl,K
+Division,L2,Cr2,CC2,3rd Trinity 2,SC,Q,E2,1st Trinity 4,L3,2nd Trinity 2,Ca2,J2,TH3,SS2,E3,Pb2,1st Trinity 5,Cl2,1st Trinity 6,L4,D
+
+Results
+rrrruuruuo3uurr t
+rrruruurrurrurrr t
+rruruuuuuurur t

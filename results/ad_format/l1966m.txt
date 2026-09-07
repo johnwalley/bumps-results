@@ -40,9 +40,9 @@ Clare II                    1   1   1   1
 Christ's II                 0   1   1   0
 St Catharine's III         -1  -1   0  -1
 1st and 3rd III             1   0  -1   0
-Downing III                 0   1   1   0
+Downing II                  0   1   1   0
 Caius II                   -1  -1  -1   0
-Downing II                  1   0  -1  -1
+Downing III                 1   0  -1  -1
 Queens' III                -1  -1  -1  -1
 Jesus IV                    1   1   1   1
 Pembroke III                0   1   1   1

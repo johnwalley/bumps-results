@@ -1,0 +1,15 @@
+Set,Town Bumps
+Short,Town
+Gender,Men
+Year,1869
+Days,5
+
+Division,Town Rowing Club,Albert Institute,College Servants,Church of England,Town Rowing Club 2,College Servants 2,Pitt Press,Albert Institute 2,Town Rowing Club 3,Church of England 2,Hero (Junior Conservatives),Leander (Junior Liberals),Pitt Press 2
+
+Results
+ruururuu
+rrururrrrrr
+ruurrrrrrrr
+rrue1v-1rrrrrrr
+ruuurrrrrr
+

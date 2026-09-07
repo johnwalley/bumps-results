@@ -3,9 +3,9 @@ Short,Town
 Gender,Men
 Year,1997
 
-Division,99 1,Rob Roy 1,Rob Roy 2,City 1,Free Press 1,Rob Roy 3,99 2,City 2,Cantabs 1,99 3,City 3,Trinity Hall 1,Rob Roy 4,Maximum Entropy 1,Free Press 2,Rob Roy 5,99 4
-Division,99 5,Cantabs 2,99 6,Cantabs 3,Free Press 3,Free Press 4,City 4,Rob Roy 6,Cantabs 4,Maximum Entropy 2,Free Press 5,Cantabs 5,Free Press 6,Simoco 1,Cantabs 6,Free Press 7,Champs 1
-Division,St Neots 1,Ionica 1,Cantabs 7,Free Press 8,Rob Roy 7,Mott Macdonald 1,Simoco 2,Cantabs 8,Free Press 9,99 7,Strangeways Lab 1,Cam Consultants 1,Cantabs 9,Cantabs 10,Free Press 10,Cantabs 11,Cantabs 12,Cantabs 13
+Division,N,R,R2,Ci,F,R3,N2,Ci2,Ca,N3,Ci3,Trinity Hall,R4,Maximum Entropy,F2,R5,N4
+Division,N5,Ca2,N6,Ca3,F3,F4,Ci4,R6,Ca4,Maximum Entropy 2,F5,Ca5,F6,S,Ca6,F7,Ch
+Division,SN,Ionica,Ca7,F8,R7,Mott MacDonald,S2,Ca8,F9,N7,Strangeways Lab,Cam Consultants,Ca9,Ca10,F10,Ca11,Ca12,Ca13
 
 Results
 rrrruo3uuurrrr urrrurruururr ruuurruurrrrr

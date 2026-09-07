@@ -1,0 +1,10 @@
+EIGHTS 1832
+ 5  1  7   = NDay, NDiv, NCrew
+ 7  Men's Div I
+Christ Church               0   0   0   0   0
+Exeter                      0   0   0   0  -1
+Balliol                     0   0  -1   0   0
+Worcester                   0  -1   0   0   0
+St John's                   0   0   0   0   0
+Trinity                    -1   1   0   0   0
+Queen's                     1   2   1   0   1

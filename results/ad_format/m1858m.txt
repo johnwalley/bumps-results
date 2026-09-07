@@ -1,0 +1,45 @@
+MAYS 1858 May
+ 8  4  39   = NDay, NDiv, NCrew
+ 10  Men's Div I
+LMBC                       -1  -1  -1   0   0   0   0   0
+1st Trinity                 1   0   0   0   0   0   0   0
+2nd Trinity                -1  -1   0   0   0   0   0   0
+Trinity Hall                1   1   0   0  -1   0   0   0
+Emmanuel                   -1  -1   0  -1   0   0   0   0
+3rd Trinity                 1   1   1   0   1   0   0   0
+Sidney Sussex              -3   1   0  -1   0   0   0   0
+1st Trinity II             -1  -1  -1   0   0   0   0   0
+Magdalene                   1   0   0   1   0   0   0   0
+Caius                       3   1   0   0   0   0   0   0
+ 9  Men's Div II
+Christ's                    0   0   1   1   0   0   0   0
+Emmanuel II                 0  -1   0  -1  -1  -1   0   0
+Trinity Hall II            -1   0  -1  -1  -1  -1  -1   0
+2nd Trinity II              1   1   0   0  -1  -1   0  -1
+St Catharine's             -1  -1  -1  -1  -1   0   0   0
+Peterhouse                  1  -3   1   0   1   1   0   1
+Clare                      -3  -1  -1  -1   0   0   0   0
+1st Trinity III            -1   0  -1   0   1   0   1   1
+LMBC II                     1   3   1   1   1   0   0   0
+ 6  Men's Div III
+3rd Trinity II             -1   1  -3   1   0   0   0   0
+Jesus                       4   1   0   1   1   1   0   0
+Lady Somerset               0   0   1   0   0   0   0   0
+Christ's II                 0  -1  -1  -1   0   0   0   0
+LMBC III                   -1  -1   0   1   0   0   0   0
+Pembroke                    1   1   4   1   0   1   0  -1
+ 14  Men's Div IV
+Caius II                    0   1   1   0   0   0   0   0
+Emmanuel III                0   0   0   0   0   0   0   0
+Lady Somerset II            0   0   0  -1   0   0   0   0
+Jesus II                    0   0  -1  -1   0   0   0   0
+1st Trinity IV              0  -1   0   1   0   0   0   0
+Caius III                  -1  -1  -1  -1   0   0   0   0
+Corpus Christi              1   1   1   1   0   0   0   0
+2nd Trinity III             0   1   0   0   0   0   0   0
+1st Trinity V               0  -1  -1  -1   0   0   0   0
+Pembroke II                -1   0   1   1   0   0   0   0
+LMBC IV                     1   1   1   0   0   0   0   0
+Christ's III               -1   1   0   1   0   0   0   0
+Emmanuel IV                 1   1   1   1   0   0   0   0
+Trinity Hall III            0   1   0   0   0   0   0   0

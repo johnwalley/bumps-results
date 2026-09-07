@@ -1,0 +1,20 @@
+EIGHTS 1868
+ 8  1  17   = NDay, NDiv, NCrew
+ 17  Men's Div I
+Brasenose                   0  -1  -1  -1  -1  -1  -1   0
+Corpus Christi              0   1   0   0   0   0   0   0
+Exeter                      0   0   1   0   0   0   0   0
+University                  0   0   0   1   0   0   0   0
+Lincoln                     0   0   0   0   1   0   0   0
+Wadham                     -1  -1  -1   0   0  -1  -1  -1
+Merton                      1   0   0   0  -1  -1   0   0
+St John's                   0   1   0   0   1   1   0   0
+Christ Church              -1   0   0   0   0   1   0  -1
+Worcester                   1   0   1   0   0   1   1   0
+Trinity                    -1   0  -1  -1  -1  -1   0   0
+Queen's                     1   0   0   0  -1  -1   0   0
+Balliol                     0  -1   0   1   0   1   0   1
+Pembroke                    0   1   1   0   1   0   1   1
+Magdalen                    0   0   0  -1   0   1   1   0
+Oriel                       0   0  -1   0   0   0   0   0
+St Mary Hall                0   0   1   1   1   0  -1   0

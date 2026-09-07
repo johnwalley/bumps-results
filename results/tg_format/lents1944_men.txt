@@ -1,0 +1,15 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Men
+Year,1944
+Days,3
+
+Division,L,Pb,J,Cl,TH,T,S,Cr,SC,J2,T2,Ca,M,Ph,E
+Division,Queens' and Corpus Christi,L2,TH2,Queen Mary,K,D,SS,Cl2,Cr2,J3,Pb2,St. Batholemew's,SC2,Royal Air Force,Ca2
+Division,E2,London School of Economics,Queen Mary 2,T3,Ph2,L3,D2,Cr3,T4,Ca3,M2,K2,TH3,D3,T5
+
+Results
+o3urrruuurr uuuruuuru uurrrruruur
+ruuruuuur ruuruururrr rururrrrurru
+rurrrruuurr rrururrruurr rrrurrrrrruur
+

@@ -8,8 +8,8 @@ Division,Wh,U,T,Br,K,Q,SP,SAn,Mt,SJ,Wf,Mf
 Division,P2,Wt,O2,LM,Co,L,Ch2,S,SHu,E2,Lc2,Mg2
 Division,N2,K2,SE2,Q2,SC2,U2,Wt2,Br2,B2,OG,Mt2,J2
 Division,Wh2,SJ2,H2,T2,P3,O3,SB,Mg3,SAt,L2,K3,SP2
-Division,SAn2,P4,Wf2,J3,Br3,R,Wh3,Ch4,U3,SE3,Q3,SHu2
-Division,E3,P5,U4,Mt3,B3,SAn3,SP3,SJ3,N3,Lc3,Ch3,U5,LM2
+Division,SAn2,P4,Wf2,J3,Br3,R,Wh3,Ch3,U3,SE3,Q3,SHu2
+Division,E3,P5,U4,Mt3,B3,SAn3,SP3,SJ3,N3,Lc3,Ch4,U5,LM2
 
 Results
 uo3uurrur rruruuuu ruruuurrr urrrruurrr rurrrrrruu ruurrrurrr urrruuuu

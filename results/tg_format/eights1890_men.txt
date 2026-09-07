@@ -1,0 +1,16 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1890
+Days,6
+
+Division,Br,N,Mg,Ch,SJ,K,H,B,T,Q
+Division,Mt,Co,E,P,O,Wh,Lc,SC,Wt,SE,U,J
+
+Results
+rururrurr rrrrurrrrr
+uruurrru ururrrrrr
+rruurrrrrr rururrrrr
+rrruurrrrr rrrrrrrrrrr
+rrrruurrrr rrrrrrrrrrr
+rrrrrurrrrr rrrrrrrrrrr

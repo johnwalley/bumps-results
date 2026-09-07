@@ -1,0 +1,15 @@
+Set,Town Bumps
+Short,Town
+Gender,Men
+Year,2026
+
+Division,Ci,Ca,N,Ci2,N2,Ci3,Ca2,N3,Ca3,Ct,Ca4,X,SN,Ci4,N4,SR,Ci5
+Division,Ca5,Ci6,Ci7,Ch,Ci8,Ca6,N5,X2,Ca7,X3,Ca8,Ci9,Ct2,Ca9,Ci10,N6,N7
+Division,SN2,IE,X4,Ch2,Ci11,X5,Ci12,N8,N9,Ch3,Ch4,SR2,Ct3,Ca10,Ci13,Ca11,Ci14
+Division,Ch5,Ct4,Ch6,Ci15,Ch7,Ci16,Ca12,Ch8,IE2,X6,Ch9,Camb Vets,Ch10
+
+Results
+rruuuuur rruurrurrurur uruuuruuurr o3ururruruurr
+rruruuuu rrruuuuruuu uurrrrrurruru uuurruruurrr
+ruuruuur rrruruurrruur ruruuururrur rrrurruururrrr
+rrrrruuurr rrruuurrrrrrru rrrurrururrrru rruuurrrrrrrrrr

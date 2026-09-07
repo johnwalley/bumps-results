@@ -1,0 +1,69 @@
+TOWN 2025
+ 4  4  63   = NDay, NDiv, NCrew
+ 17  Men's Div I
+City 1                      0   0   0   0
+99 1                       -1   0   0   0
+Cantabs 1                   1   0   0   0
+City 2                      0   0   0   0
+City 3                     -1   0   0   0
+99 2                        1   0   0   0
+Cantabs 2                   0   0   0   0
+X-Press 1                  -1  -1  -1  -1
+Chesterton 1                1   0  -1  -1
+99 3                        0   1   1   0
+City 4                     -1  -1  -1   0
+Cantabs 3                   1   0   1   1
+Cantabs 4                   0   1   0   1
+99 4                       -1   0   0   0
+St Neots 1                  1   0   1   0
+City 5                      0   0  -1   0
+City 6                     -1  -1   0   0
+ 17  Men's Div II
+Cantabs 5                   1  -1   0   0
+St Radegund 1               0   2   1   0
+City 7                      0  -1   1   0
+X-Press 2                  -1  -1  -1  -1
+City 8                      1   1  -1  -1
+Champs 1                    0   1   0   1
+Cantabs 6                   0   0   1   0
+X-Press 3                  -1  -1   0   0
+Chesterton 2                1  -3  -1   0
+Cantabs 7                   0   1   0   0
+99 5                        0   3   0   1
+City 9                     -1   0  -1  -1
+Cantabs 8                   1   0   1   0
+99 6                        0  -1  -1   0
+St Neots 2                 -1  -1  -1   0
+City 10                     1   1   1   0
+Champs 2                   -1  -1   0  -1
+ 17  Men's Div III
+99 7                       -1   1   1   0
+Cantabs 9                   2   1   1   1
+X-Press 4                   0   0  -1  -1
+City 11                     0  -1  -1   0
+X-Press 5                   0   1   1   1
+99 8                        0  -1   0   0
+Champs 3                   -1  -1  -1   0
+City 12                     1   1   1   1
+Champs 4                    0   1   0  -1
+Chesterton 3               -1  -1  -1   0
+99 9                        1   0   1   1
+St Radegund 2              -1   0   1   1
+99 10                       1   1   0  -1
+City 13                    -1  -1   0  -1
+Cantabs 10                  1   0   0   0
+City 14                     0   1   0   0
+Chesterton 4                0  -1  -1  -1
+ 12  Men's Div IV
+99 11                       0   1  -1   0
+Champs 5                    0  -1   0   1
+Champs 6                   -1   0   0   0
+Cantabs 11                  1   1   2   1
+Champs 7                    0   0  -1   0
+City 15                    -1   1   1   0
+City 16                     1  -1   0   0
+Champs 8                    0   0   0  -1
+99 12                      -1  -1   0   0
+City 17                     1   0  -1   0
+Camb Vets 1                -1   0   0   0
+Cantabs 12                  1   1   1   1

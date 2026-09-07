@@ -11,5 +11,5 @@ Division,F2,Ph2,LC2,K2,Cl3,Cu3,J3,HH2,W2,E4,N4,G2
 Results
 rrrruruur rruurrurrruur urururuuuur rrruruururrur
 rrruurrru ruuuuururru uruuruuuuu uuururuuuu
-rruuurrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrr
-rrrrrrrrrrrr rrrrrrrrrrrrrrrrrr rruuruuuuur ruuururrruur
+rruuurrrr t t t
+t t rruuruuuuur ruuururrruur

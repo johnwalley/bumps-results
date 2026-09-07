@@ -1,0 +1,50 @@
+MAYS 1860 May
+ 6  2  46   = NDay, NDiv, NCrew
+ 19  Men's Div I
+3rd Trinity                -1   0   0  -1   0   0
+1st Trinity                 1   0   0   0   0   0
+LMBC                        0   0   0   1   0   0
+Trinity Hall                0   0  -1   0   0   0
+2nd Trinity                 0  -1  -1   0   0   0
+Magdalene                  -1  -1  -1   0  -1  -1
+Caius                       1   1   1   0   0   0
+Emmanuel                    0   1   1   0   0   0
+Christ's                    0   0   1   0   0   0
+1st Trinity II              0   0   0   0   1   0
+Jesus                      -3  -1   1  -1  -1  -1
+LMBC II                    -1   0  -3  -1  -1  -1
+Trinity Hall II             1   1   0   0   0   1
+Peterhouse                  3  -1   0   0   0  -1
+2nd Trinity II             -3  -1   0  -1  -1   0
+Emmanuel II                -1  -3  -1  -1  -1   0
+Sidney Sussex               1   0   3   0  -1  -1
+Corpus Christi              3   1  -1   1   1   1
+1st Trinity III             0   1   0   0   1   1
+ 27  Men's Div II
+Caius II                   -1  -1   0   1   1   0
+Lady Somerset               1   3   0   1   1   1
+1st Trinity IV             -1   0   0   0   1   0
+Clare                       1   1   1   1   0   1
+3rd Trinity II              0   0   0  -1   0   0
+Emmanuel III               -1  -1  -1  -1  -1   0
+Corpus Christi II           1   0  -1  -1  -1   0
+Pembroke                   -1   0   1   1   0   0
+Queens'                     1   1   1   1   0   0
+Christ's II                 0   0  -1   0   1   0
+LMBC III                    0  -1  -1  -1   0   0
+2nd Trinity III            -1  -1  -1   0  -1   0
+King's                      1   1   1   1   1   0
+Trinity Hall III           -1  -1  -1  -1   1   0
+St Catharine's              1   1   1   0   0   0
+Jesus II                   -1   0   1  -3  -1   0
+Lady Somerset II            1   1   1   1   0   0
+Caius III                  -1   1  -1   3   1   0
+Christ's III                1  -1   1   1  -1   0
+LMBC IV                    -1   0   0   0  -1   0
+1st Trinity V               1  -1   0   0  -1   0
+1st Trinity VI             -1   0   0   0   0   0
+Caius IV                    1   2   0  -1  -1   0
+Corpus Christi III          0   2   0   2   1   0
+Lady Somerset III           0   0   0   1   0   0
+                           -1   1   2   2   1   0
+                            1   2   1   0   0   0

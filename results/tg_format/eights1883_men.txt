@@ -1,0 +1,16 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1883
+Days,6
+
+Division,E,Mg,H,Br,N,Co,K,SJ,P,U
+Division,Lc,T,B,Ch,Wt,SC,Wh,O,Q,Mt,St Mary Hall,J
+
+Results
+ururuurr uuruurr
+uuuo3uu rrrururrr
+rrrrrruurr ururrrrrr
+rrrrrrruur rururrrrr
+rrrrrrrruu uruuurr
+rrrrrrruur rururrrrr

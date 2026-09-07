@@ -1,6 +1,6 @@
 TORPIDS 1880
  6  2  23   = NDay, NDiv, NCrew
- 12  Men's Div I
+ 11  Men's Div I
 Pembroke                   -1   0  -1   0  -1  -1
 Trinity                     1   0   0   0   0   0
 Keble                       0   0   1   0   0   0
@@ -12,8 +12,8 @@ Christ Church              -1  -1   0  -1  -1   0
 New College                 1   0   1   1   1   1
 Keble II                   -1  -1  -1  -1  -1  -1
 Magdalen                    1   1   0   1   1   0
+ 12  Men's Div II
 University                  0   1  -1   0  -1  -1
- 11  Men's Div II
 St John's                   0  -1  -1  -1  -1  -1
 Corpus Christi             -1  -1   0   1   1   1
 Worcester                   1   1   2   1   1   1

@@ -1,0 +1,16 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1830 April May
+Days,7
+
+Division,L,2nd Trinity,Trinity Monarch,J,L2,,,,St. John's Corsair
+
+Results
+uuuur
+ruurrrr
+xrurrur
+uurrrr
+e2xxuur
+urrrr
+rrrru

@@ -1,0 +1,19 @@
+EIGHTS 1859
+ 8  1  16   = NDay, NDiv, NCrew
+ 16  Men's Div I
+Exeter                      0  -1   0   0   0   0   0   0
+Balliol                     0   1   0   0   0   0   0   0
+Oriel                       0   0   0   0   0  -1   0  -1
+Pembroke                    0   0   0   0  -1   0  -1   0
+University                  0   0   0   0   1   1   0   0
+Trinity                     0   0   0   0   0  -1   0   0
+Christ Church               0   0  -1   0   0   0  -1   0
+Wadham                     -1  -1  -1  -1   0   0   1   1
+Brasenose                   1   0   1   0   0   1   1   1
+St John's                   0   1   0   0   0  -1   0  -1
+Christ Church II           -3  -1  -1   0   2   0   0   0
+Worcester                  -1  -1   0   0   1   0   0   1
+Corpus Christi              1   0  -1   0   1   0   1   1
+Jesus                       3   0   1   0  -1   0  -1  -1
+Queen's                    -1   0   1   0   0   0   0   0
+Magdalen                    1   2   1   1   1   1   1   0

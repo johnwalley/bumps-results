@@ -1,0 +1,17 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1886 June
+Days,6
+
+Division,J,TH,3rd Trinity,Pb,1st Trinity,Ca,L,1st Trinity 2,Cl,TH2,Cr,TH3,J2,S
+Division,L2,E,1st Trinity 3,CC,Ph,1st Trinity 4,M,Pb2,Ca2,D,3rd Trinity 2,TH4,Cavendish,Pb3,K
+Division,SC,TH5,Q,1st Trinity 5,L3,1st Trinity 6,J3,SS,J4,Cl2,Ca3,Pb4,Cr2,TH6,L4,Non-Collegiate
+
+Results
+t rrrruruurrru rrrrrrurrrrrrr
+t rrrurrrurrrur rrrrrurrrrrru
+t uururrururr rrrrurrrrrrur
+t ruruurrrurrr ururrurrurr
+t t rururrurrrrr
+t t uurrrrrurrrr

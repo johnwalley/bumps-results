@@ -1,0 +1,12 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1826
+
+Division,Ch,E,B,Br
+
+Results
+urr
+rur
+rrrr
+rrrr

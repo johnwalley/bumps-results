@@ -3,10 +3,10 @@ Short,Town
 Gender,Men
 Year,2015
 
-Division,Rob Roy 1,Cantabs 1,99 1,Rob Roy 2,City 1,City 2,Cantabs 2,X-Press 1,St Neots 1,Chesterton 1,Cantabs 3,Champs 1,City 3,99 2,Rob Roy 3,X-Press 2,99 3
-Division,City 4,Champs 2,City 5,Cantabs 4,St Radegund 1,X-Press 3,City 6,City 7,99 4,Cantabs 5,Cantabs 6,X-Press 4,Champs 3,City 8,Chesterton 2,Rob Roy 4,Cantabs 7
-Division,St Neots 2,Champs 4,Champs 5,Cantabs 8,Champs 6,City 9,Isle of Ely 1,Cantabs 9,St Radegund 2,City 10,City 11,Cantabs 10,99 5,X-Press 5,Cantabs 11,Camb Veterans 1,99 6
-Division,X-Press 6,Cantabs 12,X-Press 7,City 12,Cantabs 13,99 7,Cantabs 14
+Division,R,Ca,N,R2,Ci,Ci2,Ca2,X,SN,Ct,Ca3,Ch,Ci3,N2,R3,X2,N3
+Division,Ci4,Ch2,Ci5,Ca4,SR,X3,Ci6,Ci7,N4,Ca5,Ca6,X4,Ch3,Ci8,Ct2,R4,Ca7
+Division,SN2,Ch4,Ch5,Ca8,Ch6,Ci9,IE,Ca9,SR2,Ci10,Ci11,Ca10,N5,X5,Ca11,CV,N6
+Division,X6,Ca12,X7,Ci12,Ca13,N7,Ca14
 
 Results
 rruur o3uurrruruurr uuuuuuurur rrrrruuuuruu

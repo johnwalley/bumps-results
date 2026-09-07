@@ -1,0 +1,17 @@
+Set,Lent Bumps
+Short,Lents
+Gender,Men
+Year,1946
+
+Division,J,L,T,Pb,Cr,TH,Cl,J2,SC,S,Ph,Ca,L2,Q,T2
+Division,M,E,SS,Cr2,CC,TH2,D,K,J3,St. Batholemew's,SC2,E2,Ca2,Cl2,Pb2
+Division,T3,L3,Q2,Cr3,S2,St. Batholemew's 2,D2,Ph2,T4,D3,M2,TH3,Ca3,T5,J4
+Division,Q3,SS2,K2,E3,CC2,SC3,T6,F,Pb3,M3,CC3,K3,SC4,T7,St. Batholemew's 3,Bull College
+
+Results
+rrruuurrurrr o3ururrurrur ro3uurruuur rruururruur
+rrrrurrurro3u urruuuurrrr ururrruuuu rrrurrrrrrrurr
+urrrrruuurrr ruurrurruru w2rrrruuurrr rrrrrrrrrrurur
+rurrrurruuu rrurruurrurr rurrruuuurr rrrrrurrrrurrr
+
+

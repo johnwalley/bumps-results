@@ -3,9 +3,9 @@ Short,Town
 Gender,Men
 Year,2000
 
-Division,Rob Roy 1,99 1,Rob Roy 2,Cantabs 1,City 1,99 2,Free Press 1,Rob Roy 3,City 2,Cantabs 2,99 3,Max Entropy 1,Rob Roy 4,Free Press 2,Rob Roy 5,99 4,Free Press 3,Cantabs 3
-Division,City 3,99 5,Cantabs 4,Simoco 1,Max Entropy 2,Free Press 4,Cantabs 5,Free Press 5,99 6,St Neots 1,Cantabs 6,City 4,Rob Roy 6,Cantabs 7,St Ives 1,Free Press 6,Camb Veterans 1,Rob Roy 7,Cantabs 8
-Division,Free Press 7,Champs 1,Free Press 8,Free Press 9,Rob Roy 8,Cantabs 9,99 7,Simoco 2,Free Press 10,Rob Roy 9,Champs 2,Cantabs 10,Rob Roy 10,99 8,Free Press 11,Rob Roy 11,Champs 3,Rob Roy 12,99 9
+Division,R,N,R2,Ca,Ci,N2,F,R3,Ci2,Ca2,N3,ME,R4,F2,R5,N4,F3,Ca3
+Division,Ci3,N5,Ca4,S,ME2,F4,Ca5,F5,N6,SN,Ca6,Ci4,R6,Ca7,SI,F6,CV,R7,Ca8
+Division,F7,Ch,F8,F9,R8,Ca9,N7,S2,F10,R9,Ch2,Ca10,R10,N8,F11,R11,Ch3,R12,N9
 
 Results
 o3urrururuuru uuruururrurur ruurururrurrrr

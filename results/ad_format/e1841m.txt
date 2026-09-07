@@ -1,0 +1,15 @@
+EIGHTS 1841
+ 6  1  12   = NDay, NDiv, NCrew
+ 12  Men's Div I
+Brasenose                   0   0   0  -1  -1   0
+University                  0   0   0   1   0   0
+Wadham                     -2   0   0   0   0   0
+Exeter                      0   0   0   0   0   0
+Trinity                     2   0   0   0   1   0
+St John's                   0   0   0   0  -1  -1
+Oriel                       0   0   0   0   1   1
+Balliol                    -1   0   0   0   1   2
+Merton                      1   0   0   0   0   2
+Worcester                   0   0   0   0   0   1
+Lincoln                     0   0   0   0   2   2
+Queen's                     0   0   0   0   2   1

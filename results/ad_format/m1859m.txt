@@ -1,0 +1,44 @@
+MAYS 1859 May
+ 5  2  40   = NDay, NDiv, NCrew
+ 19  Men's Div I
+Trinity Hall               -1  -1   0  -1   0
+3rd Trinity                 1   0   0   0   0
+1st Trinity                 0   1   0   0   0
+Caius                       0   0  -1  -1  -1
+LMBC                        0   0   1   1   0
+2nd Trinity                 0   0   0   1   0
+Magdalene                   0   0   0   0   1
+Christ's                   -1   0   0   0   0
+Emmanuel                    1   0   0   0   0
+1st Trinity II              0   0   0   0   0
+LMBC II                     0   0   0  -1   0
+Sidney Sussex              -1  -1  -1  -1  -1
+Peterhouse                  1   0  -1  -1   0
+Jesus                       0   1   1   1   0
+2nd Trinity II             -1  -1   1   1   0
+Trinity Hall II             1   0   1   1   0
+Emmanuel II                 0   1  -1   0   1
+Lady Somerset              -1   0  -1  -1   0
+1st Trinity III             1   0   0   0  -1
+ 21  Men's Div II
+3rd Trinity II              0  -1  -1  -1  -1
+Pembroke                   -1  -1  -1  -1  -1
+Caius II                    1   1   1  -1   0
+Christ's II                -1  -1  -1  -1  -1
+Corpus Christi              1   1   1   2   1
+Clare                       0   1   1   1   0
+LMBC III                    0  -1  -1  -1  -1
+Lady Somerset II           -1  -1  -1  -1  -1
+Emmanuel III                1   1   1   1   1
+Corpus Christi II          -1   0   1   1   1
+1st Trinity IV              1   1   1   1   1
+Caius III                  -1   1  -3   0   0
+2nd Trinity III             1  -1  -1  -1   0
+Emmanuel IV                -1   0   0   0   0
+Christ's III                1  -1   0   0   0
+King's                      0   2   1   0   1
+Jesus II                    0   0   1   2   0
+Trinity Hall III           -1   1   1   1   0
+Queens'                     1   2   4   1   1
+1st Trinity V               0   0   0   0   0
+1st Trinity VI              0   0   0   0   0

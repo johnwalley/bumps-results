@@ -3,9 +3,9 @@ Short,Town
 Gender,Men
 Year,1994
 
-Division,Rob Roy 1,City 1,99 1,City 2,Free Press 1,99 2,Rob Roy 2,Cantabs 1,99 3,Rob Roy 3,Cantabs 2,Free Press 2,Cantabs 3,99 4,City 3,Maximum Entropy 1,Red Lion Toft 1
-Division,Trinity Hall 1,99 5,Free Press 3,Rob Roy 4,Cantabs 4,City 4,Free Press 4,Rob Roy 5,99 6,Free Press 5,Old Spring 1,Cantabs 5,Maximum Entropy 2,Free Press 6,Cantabs 6,99 7,Free Press 7
-Division,Rob Roy 6,Cam Consultants 1,Wolfson 1,Free Press 8,Marshalls 1,99 8,Red Lion Toft 2,Cantabs 7,Free Press 9,Cantabs 8,Applied Psychology 1,Cantabs 9,Cantabs 10,Cantabs 11,City 5,Rob Roy 7,Cantabs 12,City 6,Cantabs 13
+Division,R,Ci,N,Ci2,F,N2,R2,Ca,N3,R3,Ca2,F2,Ca3,N4,Ci3,Maximum Entropy,Red Lion Toft
+Division,Trinity Hall,N5,F3,R4,Ca4,Ci4,F4,R5,N6,F5,Old Spring,Ca5,Maximum Entropy 2,F6,Ca6,N7,F7
+Division,R6,Cam Consultants,Wolfson,F8,Marshalls,N8,Red Lion Toft 2,Ca7,F9,Ca8,Applied Psychology,Ca9,Ca10,Ca11,Ci5,R7,Ca12,Ci6,Ca13
 
 Results
 rrro3uuuruuur ruruuuuuurr urururrro3uur

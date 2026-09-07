@@ -1,0 +1,18 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1832 February March
+Days,7
+Flags,skip_headship
+
+Division,Trinity Monarch,L,St. John's Corsair,Trinty Nautilus,J,Ca,E,Cl,Cr,SC,Q,,,
+
+Results
+v0v0v0uuururr
+v0v0v0rrurruur
+v0v0e2e-1e-1urrrrrrr
+v0v0urrruuur
+#XXX ambigous results near bottom with Q/St Johns Tally-Ho
+v1v1e1e1xuururr
+v0uuururrr
+urruuo3ur

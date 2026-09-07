@@ -7,7 +7,7 @@ Division,N,E,Pb,Ca,D,L,J,TH,Cl,Cu,NH,SC,G,Cr,S,M,Q
 Division,Ph,Dw,T,CT,E2,R,K,SS,F,J2,Ca2,W,L2,Pb2,H,N2,G2
 Division,D2,TH2,Cl2,NH2,Cu2,L3,Q2,CC,SC2,VS,J3,CH,Dw2,A,T2,CT2,H2
 Division,HH,SS2,R2,M2,Ca3,S2,Pb3,N3,T3,SE,K2,NH3,Cl3,Cr2,TH3,E3,W2
-Division,Q3,NH5,H3,NH4,M3,Ph2,F2,S3,Cl4
+Division,Q3,NH5*,H3,NH4*,M3,Ph2,F2,S3,Cl4
 
 Results
 uuurrr uuuururuuu ruuuuuururr rruuuruuuru uururruuruu

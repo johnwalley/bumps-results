@@ -1,0 +1,29 @@
+MAYS 1837 April May
+ 7  1  26   = NDay, NDiv, NCrew
+ 26  Men's Div I
+LMBC                        0   0   0   0   0   0   0
+Corpus Christi              0  -1  -1   0   0   0  -1
+1st Trinity (Black Prince)   0   1   0  -1   0   0   0
+Caius                       0   0   1   1   0   0   0
+2nd Trinity (Queen Bess)    0   0   0   0  -1   0  -1
+Queens'                     0  -1   0   0   0   0   1
+Jesus                      -1   0   0   0  -1  -1  -1
+3rd Trinity (Dolphin)       1   1   0   0   1   0   1
+Trinity Hall               -2   0   0   1   0   1   1
+1st Trinity II              1   0   0   0   1   0  -1
+LMBC II                     1  -1   0   1   0   1   1
+Clare                      -1   1   0   0   0   0   2
+Christ's                   -1  -1  -1   0   1   1   0
+Emmanuel                    2   2   0  -1   0   0  -1
+Corpus Christi II          -1   0  -1  -1  -1   0   0
+Pembroke                    1   2   0   0  -1  -1  -1
+Caius II                   -1   1   2   1   1   0   0
+Magdalene                   1   3   0  -1  -1  -1   0
+3rd Trinity II              0   1   0   1   0   1   1
+2nd Trinity II              0   1   0  -1   0   0  -3
+St Catharine's              0   1   0   1   1   0   0
+                            0   0   0   0   0   0   1
+Queens' II                  0   2   0   0   0   0  -1
+                            0   0   0   0   0   0   0
+Sidney Sussex               0   3   0   0   0   0   1
+2nd St. John's              0   3   0   0   0   0   3

@@ -17,7 +17,7 @@ City 3                      1   1   1   1
 Bridge 1                   -1   0   1   1
  14  Men's Div II
 Cantabs 2                  -1  -1   0   0
-Leys Sch 1                  2   1   1   1
+Leys School 1               2   1   1   1
 Cambs High School 1         0   1   0   1
 ACUA 2                     -1  -1   0  -1
 Rob Roy 3                   1   0   0   0
@@ -27,7 +27,7 @@ Beehives 1                  1   0   0   1
 Grammar School OB 1         0   0  -1  -1
 99 4                        0  -1  -1  -1
 99 5                       -1  -1  -1  -1
-Leys Sch 2                  1   1   1   1
+Leys School 2               1   1   1   1
 City 4                      0   1   1   1
 Pye 2                      -1   0  -1   0
  8  Men's Div III
@@ -35,7 +35,7 @@ Scouts 4                    1   0   1   1
 Rob Roy 4                   0   0   1   1
 Pye 3                      -1   0  -1   1
 Cantabs 3                   1   0   0   0
-Leys Sch 3                 -1   0   0   0
+Leys School 3              -1   0   0   0
 ACUA 3                      1   0   1  -1
 City 5                      0   0  -1   1
 Rob Roy 5                   0   0   1  -1

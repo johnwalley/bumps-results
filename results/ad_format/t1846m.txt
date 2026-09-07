@@ -1,0 +1,9 @@
+TORPIDS 1846
+ 6  1  6   = NDay, NDiv, NCrew
+ 6  Men's Div I
+Brasenose                  -1   1   0  -1   0  -1
+Worcester                   1  -1  -1   0   0  -1
+Christ Church               0  -1   0   0  -1   0
+Exeter                      0   1   1   1   0   0
+St John's                   0  -1   0   1   1   2
+University                  0   1   0   2   0  -1

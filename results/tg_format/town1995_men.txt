@@ -3,9 +3,9 @@ Short,Town
 Gender,Men
 Year,1995
 
-Division,Rob Roy 1,99 1,City 1,Rob Roy 2,Free Press 1,99 2,City 2,Cantabs 1,Rob Roy 3,Free Press 2,City 3,99 3,Maximum Entropy 1,Cantabs 2,Trinity Hall 1,Cantabs 3,Rob Roy 4
-Division,99 4,99 5,Red Lion Toft 1,City 4,Rob Roy 5,Free Press 3,Cantabs 4,Free Press 4,Free Press 5,Cantabs 5,99 6,Free Press 6,Cantabs 6,Free Press 7,Rob Roy 6,Maximum Entropy 2,Mott Macdonald 1
-Division,Champs 1,Marshalls 1,99 7,Cam Consultants 1,City 5,Pye 1,Cantabs 7,Leckhampton 1,Free Press 8,Cantabs 8,99 8,Rob Roy 7,Cantabs 9,Cantabs 10,Rob Roy 8,Rob Roy 9,Cantabs 11,Cantabs 12
+Division,R,N,Ci,R2,F,N2,Ci2,Ca,R3,F2,Ci3,N3,Maximum Entropy,Ca2,Trinity Hall,Ca3,R4
+Division,N4,N5,Red Lion Toft,Ci4,R5,F3,Ca4,F4,F5,Ca5,N6,F6,Ca6,F7,R6,Maximum Entropy 2,Mott MacDonald
+Division,Ch,Marshalls,N7,Cam Consultants,Ci5,P,Ca7,Leckhampton,F8,Ca8,N8,R7,Ca9,Ca10,R8,R9,Ca11,Ca12
 
 Results
 rrruruuruuru ururrrrurro3ur rurrrururuurr

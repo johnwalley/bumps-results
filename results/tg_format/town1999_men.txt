@@ -3,9 +3,9 @@ Short,Town
 Gender,Men
 Year,1999
 
-Division,Rob Roy 1,99 1,Rob Roy 2,99 2,Cantabs 1,Free Press 1,Rob Roy 3,99 3,City 1,Free Press 2,City 2,Rob Roy 4,Cantabs 2,Max Entropy 1,Cantabs 3,City 3,Rob Roy 5
-Division,Free Press 3,99 4,Max Entropy 2,99 5,Free Press 4,99 6,Cantabs 4,Simoco 1,City 4,Cantabs 5,Free Press 5,St Neots 1,Free Press 6,Cantabs 6,Rob Roy 6,Cantabs 7,Cantabs 8,Free Press 7,Champs 1
-Division,St Ives 1,Rob Roy 7,Camb Veterans 1,Free Press 8,City 5,Free Press 9,Free Press 10,Cantabs 9,99 7,Rob Roy 8,Simoco 2,99 8,Cantabs 10,Rob Roy 9,Cantabs 11,Free Press 11,City 6,99 9,Rob Roy 10,Champs 2
+Division,R,N,R2,N2,Ca,F,R3,N3,Ci,F2,Ci2,R4,Ca2,ME,Ca3,Ci3,R5
+Division,F3,N4,ME2,N5,F4,N6,Ca4,S,Ci4,Ca5,F5,SN,F6,Ca6,R6,Ca7,Ca8,F7,Ch
+Division,SI,R7,CV,F8,Ci5,F9,F10,Ca9,N7,R8,S2,N8,Ca10,R9,Ca11,F11,Ci6,N9,R10,Ch2
 
 Results
 ururruruuruur uuuurrururuu rurruuurrrrrrr

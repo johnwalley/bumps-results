@@ -1,0 +1,19 @@
+Set,May Bumps
+Short,Mays
+Gender,Men
+Year,1856 April
+Days,8
+
+Division,L,TH,E,1st Trinity,Cr,Ca,Q,SS,CC,2nd Trinity,3rd Trinity,SC,1st Trinity 2,K,E2
+Division,3rd Trinity 2,TH2,E3,L2,M,Cl,Ph,Cr2,1st Trinity 3,J,2nd Trinity 2,L3,L4,Ca2,Pb,,
+
+Results
+v0rurrurrro3urr ruuruurrurr
+e2rxurrurrurur urrruuurrrrr
+ururruuruu rrrruuurrrrrr
+#XXX E2 and Ph occupy same position at the end of the next race
+urrurruurur ruuuuurrrrr
+e1e1e1e2re2re2re2re2rxrr uuuuuurrrr
+v0v0v0v0v0v0v0v0v0v0v0v0v0 rr ruuuuuurrr
+v0v0v0v0v0v0v0v0v0v0v0v0v0 rr uuurruuurr
+v0v0v0v0v0v0v0v0v0v0v0v0v0 rr ruurruurrrrr

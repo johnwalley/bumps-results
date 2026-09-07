@@ -1,0 +1,17 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,2018
+
+Division,P,O,Wh,SC,H,Ch,B,Wf,Mg,SJ,J,P2
+Division,T,SE,N,Mf,U,K,SAn,Lc,LM,Mt,E,S
+Division,Co,Wt,Br,L,Q,SAt,SHu,Wh2,Wf2,SP,J2,GT
+Division,Ch2,K2,B2,O2,N2,Wh3,SC2,T2,SE2,U2,H2,SHi
+Division,Br2,SJ2,Lc2,R,T3,Wf3,Mg2,Mt2,LM2,K3,E2,Co2
+Division,SAt2,J3,SHu2,SHu3,SHi2,SB,SP2,Wt2,U3,SE3,Mt3,P3,O3
+
+Results
+e2re2re2e2e-1e1e2re-10rr w3rurrw2r e1e2re-3w3ruu rw2w3urrr ue2re1e1e-4w2ru uuruurrrr
+t t t t t t
+t t t t t t
+t t t v0v0v0v0v0v0ruuu w2re3re-2e-1rrru w2uruuru

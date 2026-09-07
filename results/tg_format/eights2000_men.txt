@@ -13,7 +13,7 @@ Division,Ch3,SAt,SAn3,Mf2,Q3,Wt3,Co2,SJ3,SE4,T3,Br3,K4
 Division,K5,N4,J4,P4,Co3,H3,Br4,Lc4,SAt2,SAn4,Br5,K6,E3
 
 Results
-rrrrrrrrrrrrr rrrrrrrrrrrrr rrrrrrrrrrrrr rro3urruru uure2e-1e-1rrrrr rurre2e-1e-1uur urrruurur urururrrrr
-rrrrrrrrrrrrr rrre2e-1e-1urrru rruuuo3ur uururruu ruuuurur uururrurr rrrruurrru urrrurrrrrr
+t t t rro3urruru uure2e-1e-1rrrrr rurre2e-1e-1uur urrruurur urururrrrr
+t rrre2e-1e-1urrru rruuuo3ur uururruu ruuuurur uururrurr rrrruurrru urrrurrrrrr
 rurruuo3u ro3uuurru ruuuurru ruruurrur urruuruu rururrrurr rrrrruruur rurururrrr
-urruuurrr o3uurrurrr uuuue1e1e1e-3r uururruu uruuruur ururruurr rrrruruurr rrrurrrrrrrr
+urruuurrr o3uurrurrr uuuuw3r uururruu uruuruur ururruurr rrrruruurr rrrurrrrrrrr

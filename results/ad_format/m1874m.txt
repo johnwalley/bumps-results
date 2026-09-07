@@ -1,0 +1,45 @@
+MAYS 1874 May
+ 6  3  40   = NDay, NDiv, NCrew
+ 14  Men's Div I
+1st Trinity                 0   0   0   0   0   0
+LMBC                       -1  -1   0   0   0   0
+Jesus                       1   0   0   0   0   0
+1st Trinity II              0   1   0   0   0   0
+3rd Trinity                 0   0   0   0   0   0
+Corpus Christi              0  -1  -1   0  -1  -1
+2nd Trinity                -1   0   1   0   0  -1
+Trinity Hall                1   1   0   0   0   0
+King's                     -1   0  -1   0   0   0
+Emmanuel                    1   0   0  -1   0   1
+Caius                       0  -1  -1  -1  -1   0
+Sidney Sussex              -1   0   1   0   0   0
+1st Trinity III             1   1   1   1   1   1
+St Catharine's              0   0   0   1   0   0
+ 15  Men's Div II
+Christ's                    0   0   0   0   1   0
+LMBC II                    -1  -1  -1   0   0   0
+Clare                       1   0   0   0   0   0
+1st Trinity IV              0   1   0   0   0   0
+Queens'                     0   0   1   0   0   0
+Jesus II                    0  -1  -1  -1   0   0
+Caius II                    0   1   0   0   0   0
+Pembroke                    0   0   1   0   0   0
+Trinity Hall II             0   0  -1   0   0   0
+3rd Trinity II              0  -1   0  -1   0   0
+Corpus Christi II          -1   0  -1   0   0   0
+1st Trinity V               1   1   1   1   0   0
+Peterhouse                 -1   0   0   0   0   0
+LMBC III                    1   0   1   1   0   0
+Trinity Hall III            0   0   0   0   0   0
+ 11  Men's Div III
+Downing                     0   0   0   0   0   0
+St. John's                  0   0   0   0   0   0
+1st Trinity VI              0   0   0   0   0   0
+Magdalene                   0   0   0   0   0   0
+Pembroke II                 0   0   0   0   0   0
+Sidney Sussex II            0   0   0   0   0   0
+2nd Trinity II              0   0   0   0   0   0
+Emmanuel II                 0   0   0   0   0   0
+Christ's II                 0   0   0   0   0   0
+LMBC IV                     0   0   0   0   0   0
+Clare II                    0   0   0   0   0   0

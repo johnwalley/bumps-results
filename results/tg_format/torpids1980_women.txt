@@ -1,0 +1,14 @@
+Set,Torpids
+Short,Torpids
+Gender,Women
+Year,1980
+
+Division,Wh,J,H,LM,Wf,SHu,S,L,Br,SC,SAn,SC2
+Division,LM2,L2,SHi,H2,LM3,S2,E,Wt,OH,J2,Co,P
+Division,Q,K,Lc,SP,SHu2,B,S3,SHi2,SE,Br2
+
+Results
+rurrruu uue2re1e1e-4rw2 rrrre2re1e-3rrru
+w2uurrr w4w2e2e2e-1e1e-4 uw2rrurur
+uw2e2re1e1e-4 rrruw3w2r rururre2re-2rr
+re3ue1e-4e2re-2r rw4w3w2 uruw2rrur

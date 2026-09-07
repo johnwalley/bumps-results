@@ -3,8 +3,8 @@ Short,Town
 Gender,Women
 Year,2008
 
-Division,Rob Roy 1,99 1,City 1,Camb Veterans 1,99 2,Rob Roy 2,Champs 1,City 2,Cantabs 1,City 3,Cantabs 2,X-Press 1,Champs 2,99 3,City 4,Champs 3,Champs 4
-Division,Chesterton 1,City 5,X-Press 2,Cantabs 3,Champs 5,St Radegund 1,City 6,Champs 6,99 4,City 7,Chesterton 2,City 8,Cantabs 4,X-Press 3,Champs 7,City 9,Champs 8
+Division,R,N,Ci,CV,N2,R2,Ch,Ci2,Ca,Ci3,Ca2,X,Ch2,N3,Ci4,Ch3,Ch4
+Division,Ct,Ci5,X2,Ca3,Ch5,SR,Ci6,Ch6,N4,Ci7,Ct2,Ci8,Ca4,X3,Ch7,Ci9,Ch8
 
 Results
 rurrrrrrrurrrrr urrururrrrrrru

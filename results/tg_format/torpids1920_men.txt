@@ -1,0 +1,17 @@
+Set,Torpids
+Short,Torpids
+Gender,Men
+Year,1920
+Days,6
+
+Division,Ch,Mg,B,Mg2,SJ,N,U,Ch2,Wt,T,Br
+Division,N2,O,Co,K,P,SJ2,E,Mt,Wh,Q,J,B2
+Division,H,K2,SC,Lc,Br2,T2,SE,Ch3,U2,Wh2,Q2,Lc2,SJ3
+
+Results
+rurrrurrrrr ruuurrrrrr rurrrurrrr
+rrruurrrrrr uuuurrrrr rrrrruurrr
+rrrruururr rrrurrurrrr urruurrrr
+rrruuurur rrrrrururu rrruurrrrr
+rruurruru rrrruurrur rruurrrrrr
+ruururrrrr rrruurrurr ruurrrrrrr

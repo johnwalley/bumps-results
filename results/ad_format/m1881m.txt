@@ -1,0 +1,48 @@
+MAYS 1881 May
+ 6  3  43   = NDay, NDiv, NCrew
+ 14  Men's Div I
+Jesus                       0   0   0   0   0   0
+Caius                      -1  -1  -1   0   0   0
+1st Trinity                 1   0   0   0   0   0
+Trinity Hall                0   1   0   0   0   0
+LMBC                        0   0   1   0   0   0
+3rd Trinity                 0   0   0   0   0   0
+1st Trinity II              0   0   0  -1   0   0
+Caius II                    0   0   0   1   0   0
+Clare                      -1   0   0  -1   0   0
+Pembroke                    1   0   0   0   0   0
+1st Trinity III            -1  -1  -1  -1   0   0
+Emmanuel                    1   0  -1  -1  -1   0
+3rd Trinity II             -1   0   1   1   0  -1
+LMBC II                     1   1   1   1   0   0
+ 16  Men's Div II
+Trinity Hall II             0   0   0   1   1   1
+Downing                     0   0   0   0   0   0
+Jesus II                    0   0   0   0   0   0
+Sidney Sussex              -1  -1  -1  -1   0   0
+Queens'                     1   0  -1  -1   0   0
+Corpus Christi             -1  -1   0   1   0   0
+King's                      1   1   1   0   0   0
+1st Trinity IV             -1   0   0   0   0   0
+Trinity Hall III            1   1   1   1   0   0
+Magdalene                  -1   0  -1   0   0   0
+LMBC III                    1   0   0  -1   0   0
+St Catharine's              0  -1   0  -1   0   0
+Caius III                  -1   0  -1  -1   0   0
+Christ's                    1   1   1   1   0   0
+Peterhouse                  0  -1   0   1   0   0
+1st Trinity V              -1   0   0   0   0   0
+ 13  Men's Div III
+Cavendish                   1   1   1   1   0   0
+Pembroke II                 0   0   0   0   0   0
+3rd Trinity III             0   0   0   0   0   0
+Jesus III                   0   0   0   0   0   0
+LMBC IV                     0   0   0   0   0   0
+Sidney Sussex II            0   0   0   0   0   0
+Christ's II                 0   0   0   0   0   0
+1st Trinity VI              0   0   0   0   0   0
+Clare II                    0   0   0   0   0   0
+Pembroke III                0   0   0   0   0   0
+Emmanuel II                 0   0   0   0   0   0
+Corpus Christi II           0   0   0   0   0   0
+Caius IV                    0   0   0   0   0   0

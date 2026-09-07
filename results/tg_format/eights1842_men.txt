@@ -1,0 +1,16 @@
+Set,Summer Eights
+Short,Eights
+Gender,Men
+Year,1842
+Days,7
+
+Division,U,T,Br,E,O,B,SJ,Wt,MH,Ch,Merton & Corpus,P,Ch2,Wh
+
+Results
+v0ruurrruru
+v0rruurrrurr
+v0rrrrruruur
+v1e1xrurrurrrr
+v0rrrurrrrru
+e2v-1v-1e1v-1uurrrr
+rure1v-1urrrrr
