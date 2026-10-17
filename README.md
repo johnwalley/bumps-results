@@ -9,7 +9,9 @@ Results are stored in two formats:
 1. [ad_format](#ad_format)
 1. [tg_format](#tg_format)
 
-The ad_format results are considered canonical and tg_format results are derived from them. Additionally, Torpids results are only present in ad_format due to limitations of the tg_format.
+The tg_format results are canonical. They are maintained in [bumps-results-tools](https://github.com/johnwalley/bumps-results-tools), which generates the ad_format results from them. Both sets are copied here by an automated pull request whenever they change, so make corrections in bumps-results-tools rather than here.
+
+Some years have more than one event in a set, e.g. the men's May Bumps were raced twice a year from 1827 to 1886. Each event gets its own tg_format file (`mays1848.1_men.txt`, `mays1848.2_men.txt`), but ad_format currently only has the last one ([bumps-results-tools#277](https://github.com/johnwalley/bumps-results-tools/issues/277)).
 
 ## ad_format
 
@@ -152,15 +154,16 @@ The file has three sections:
 
 ### Metadata
 
-A set of `<keyword>,<value>` pairs, one per line. Only `Days` is optional and defaults to 4 if omitted.
+A set of `<keyword>,<value>` pairs, one per line. `Days` and `Flags` are optional.
 
-| Keyword | Value                                          |
-| ------- | ---------------------------------------------- |
-| Set     | Name of the series of bumps racing             |
-| Short   | Short version of the name above                |
-| Gender  | `Men` or `Women`                               |
-| Year    | Year of racing                                 |
-| Days    | Number of days of racing (optional, default 4) |
+| Keyword | Value                                                                                                                                       |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Set     | Name of the series of bumps racing                                                                                                          |
+| Short   | Short version of the name above                                                                                                             |
+| Gender  | `Men` or `Women`                                                                                                                            |
+| Year    | Year of racing, optionally followed by a label (e.g. `1848 March`) when a year has more than one event                                      |
+| Days    | Number of days of racing (optional, default 4)                                                                                              |
+| Flags   | Comma separated list of flags (optional). `skip_headship` marks an event that isn't the last of its year, so it doesn't decide the headship |
 
 ### Divisions
 
@@ -172,7 +175,7 @@ Crews from the same club must appear in the correct numerical order. A crew whic
 
 ### Results
 
-This section starts with the keyword `Results`, followed by a set of result codes separated by commas or line breaks. Anything starting with a `#` character is treated as a comment and discarded, as is any unrecognised code.
+This section starts with the keyword `Results`, followed by a set of result codes separated by commas or line breaks. Anything starting with a `#` character is treated as a comment and discarded. Any other unrecognised code is an error.
 
 Results are given for each day in order. Within a day, divisions are given in reverse order, the lowest division first. Within a division, results start with the bottom crew and proceed towards the top. For every division apart from the bottom division, the first result code is for the sandwich crew.
 
