@@ -72,7 +72,7 @@ Balliol III                -8   0   1  -1
 Oriel IV                   -1  -1  -1  -1
 Mansfield II                1   0   1   1
 University IV              -1  -1  -1   0
-Somerville II               1   1   0   1
+St Hilda's II               1   1   0   1
 New College IV             -1  -1  -1   1
 St John's II                1   1   1   0
 S.E.H. III                  7   1   2   1

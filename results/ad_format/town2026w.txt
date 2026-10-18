@@ -17,7 +17,7 @@ City 5                      1   0   0   1
 Isle of Ely 1               0   0   0   0
 Cantabs 5                   0   0  -1  -1
 X-Press 1                   0  -1  -1   0
-Cantabs 6                  -1  -1   0   0
+Cantabs 6                  -1  -1   0  -1
  17  Women's Div II
 City 6                      1   1   1   0
 Cantabs 7                  -1  -1  -1  -1
@@ -26,7 +26,7 @@ Champs 1                    1   1   1   1
 Champs 2                   -1  -1  -1   0
 Cantabs 8                   1   0   1  -3
 X-Press 2                  -1  -1   0  -1
-Peregrines 1                1   1   3   0
+Peregrines 1                1   1   3   1
 99 4                       -1   0   0   1
 City 7                      1   1   1   3
 Chesterton 2                0   0   0   0

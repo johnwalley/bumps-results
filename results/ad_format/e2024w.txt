@@ -21,8 +21,8 @@ Hertford                   -1  -1  -1   0
 Lincoln                     1   0   1   1
 Trinity                    -3  -1  -1  -1
 St Catherine's             -1   0  -1  -1
-Exeter                      1   0   1   0
-Linacre                     3   1   0   0
+Exeter                      1   0   1   1
+Linacre                     3   1   0  -1
 Mansfield                   0   1   1   0
 L.M.H.                      0   0   1   1
 Somerville                  0   0  -1   0

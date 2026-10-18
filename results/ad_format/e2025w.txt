@@ -18,8 +18,8 @@ New College                -1   1   1   0
 Lincoln                     2   1   1   0
 St Anne's                  -1  -1  -1  -1
 Green Templeton             1   0  -1   0
-Linacre                    -1   0   1   0
-Exeter                      1   1   1   1
+Exeter                     -1   0   1   0
+Linacre                     1   1   1   1
 Hertford                    0   0   0   1
 Mansfield                  -1  -1  -1   0
 L.M.H.                      1   0  -1  -1
