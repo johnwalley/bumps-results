@@ -11,7 +11,7 @@ Results are stored in two formats:
 
 The tg_format results are canonical. They are maintained in [bumps-results-tools](https://github.com/johnwalley/bumps-results-tools), which generates the ad_format results from them. Both sets are copied here by an automated pull request whenever they change, so make corrections in bumps-results-tools rather than here.
 
-Some years have more than one event in a set, e.g. the men's May Bumps were raced twice a year from 1827 to 1886. Each event gets its own tg_format file (`mays1848.1_men.txt`, `mays1848.2_men.txt`), but ad_format currently only has the last one ([bumps-results-tools#277](https://github.com/johnwalley/bumps-results-tools/issues/277)).
+Some years have more than one event in a set, e.g. the men's May Bumps were raced twice a year from 1827 to 1886. Each event gets its own file in both formats, numbered in race order: `mays1848.1_men.txt` and `mays1848.2_men.txt` in tg_format, `m1848.1m.txt` and `m1848.2m.txt` in ad_format.
 
 ## ad_format
 
