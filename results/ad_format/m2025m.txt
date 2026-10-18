@@ -70,7 +70,7 @@ Emmanuel IV                 1  -1   0   1
 Churchill III               0   0   0  -1
 Lucy Cavendish II          -1  -1  -1  -1
 Clare III                   1   0  -1  -1
-LMBC V                     -1  -1  -1  -1
+LMBC IV                    -1  -1  -1  -1
 Darwin II                   1   1   1   1
  12  Men's Div V
 Fitzwilliam III             0   1   1   1
@@ -81,7 +81,7 @@ Sidney Sussex III          -1  -1  -1  -1
 1st and 3rd IV              1   0  -1  -1
 Peterhouse IV              -1  -1  -1  -1
 St Edmund's II              1   1   1   1
-Clare II                    0   1   1   1
+Clare Hall II               0   1   1   1
 Trinity Hall III            0   0   1   1
 King's III                  0  -1   1   1
 Queens' III                 0   1  -1   0
