@@ -1,0 +1,30 @@
+MAYS 1838 March
+ 3  1  27   = NDay, NDiv, NCrew
+ 27  Men's Div I
+LMBC                        0   0   0
+Caius                       0   0   0
+1st Trinity (Black Prince)   0   0   0
+3rd Trinity (Dolphin)       0   0   0
+Corpus Christi              0   0  -1
+Queens'                    -3  -1  -1
+2nd Trinity (Queen Bess)   -1   0   1
+LMBC II                     1   1   1
+1st Trinity II              3  -1  -1
+Clare                      -1   0   1
+Jesus                       1   1   0
+Emmanuel                   -3  -1  -1
+Caius II                   -1   0  -1
+Christ's                    1   0   1
+3rd Trinity II              3   0  -1
+Pembroke                   -1   0   1
+Magdalene                   1   1   1
+St Catharine's              0   0   0
+Corpus Christi II          -1   0  -1
+2nd St. John's              1   2   1
+Queens' II                 -1   0   0
+2nd Trinity II              1   2   0
+1st Trinity III            -1   2   0
+King's                      1   2   1
+                            0   2   0
+                            0   2   0
+                            0   2   0

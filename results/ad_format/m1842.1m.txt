@@ -1,0 +1,32 @@
+MAYS 1842 February March
+ 4  1  29   = NDay, NDiv, NCrew
+ 29  Men's Div I
+Caius                       0  -1   0   0
+Jesus                      -1   0   0  -1
+Peterhouse                  1   1   0   0
+1st Trinity                -1  -1   0   0
+LMBC                        1   0  -1   0
+2nd Trinity                -1   0   0   0
+Magdalene                   1   1   1   1
+3rd Trinity                -1   1   0   0
+LMBC II                     1  -1  -1  -1
+Corpus Christi             -1   0   0   1
+1st Trinity II              1   0   1   0
+Emmanuel                    0   0  -1   0
+King's                     -1   0  -1   1
+Clare                       1  -1  -1   1
+2nd Trinity II             -1   1   1  -1
+Christ's                    1   2   1   0
+1st Trinity III             0   1  -1   1
+3rd Trinity II             -1   0  -1  -1
+Caius II                    1   1  -1  -1
+Pembroke                   -1   0  -1  -1
+Sidney Sussex               1   2   2  -1
+Magdalene II                0   2   1   1
+LMBC III                   -1   2   1   1
+Trinity Hall                1   0  -1   0
+Queens'                    -1  -1   0   0
+St. John's Argo             1   1   1   1
+St Catharine's              0   2   0  -1
+Peterhouse II               0   0   0   0
+Christ's II                 0   3   0   1

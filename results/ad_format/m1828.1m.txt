@@ -1,0 +1,8 @@
+MAYS 1828 February March
+ 9  1  5   = NDay, NDiv, NCrew
+ 5  Men's Div I
+Trinity Monarch            -1   0   1   0   0  -1   1   0   0
+LMBC                        1   0  -1   0   0   1  -1   0   0
+Caius                       0   0   0  -1   0   0   0   0   0
+Jesus                       0   0   0   1   0   0   0   0   0
+Corpus Christi              0   0   0   0   0   0   0   0   0

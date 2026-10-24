@@ -1,0 +1,45 @@
+MAYS 1877 March
+ 4  3  40   = NDay, NDiv, NCrew
+ 14  Men's Div I
+Jesus                       0   0   0   0
+1st Trinity                 0   0   0   0
+3rd Trinity                 0   0   0   0
+LMBC                        0   0   0   0
+1st Trinity II              0   0   0   0
+1st Trinity III             0   0   0   0
+Sidney Sussex               0   0   0   0
+Caius                       0   0   0   0
+Trinity Hall                0   0   0   0
+LMBC II                     0   0   0   0
+Clare                       0   0   0   0
+King's                      0   0   0   0
+Emmanuel                    0   0   0   0
+St Catharine's              0   0   0   0
+ 15  Men's Div II
+1st Trinity IV              0   0  -1  -1
+Queens'                    -1  -1   0  -1
+Corpus Christi              1   0   1   0
+Caius II                    0   1   0   1
+Trinity Hall II             0   0  -1  -1
+Christ's                   -1  -1  -1  -1
+3rd Trinity II              1   0   1   1
+LMBC III                    0   1   0   1
+Jesus II                    0  -1   0   1
+Pembroke                    0   1   1   0
+Non-Collegiate              0   0   0   0
+Magdalene                   0  -1  -1  -1
+Peterhouse                  0   1   0  -1
+Downing                     0  -1  -1   0
+1st Trinity V               0   1   1   1
+ 11  Men's Div III
+Trinity Hall III            0  -1   0   0
+Pembroke II                -1  -1   0  -1
+1st Trinity VI              1   1   1   1
+Corpus Christi II          -1   0  -1   0
+LMBC IV                     1   1   0   0
+Sidney Sussex II            0  -1   0   0
+Caius III                   0   1   1   1
+Emmanuel II                -1   0  -1  -1
+3rd Trinity III             1   0   0   0
+Caius IV                    0   0   1   0
+Jesus III                   0   0   0   1

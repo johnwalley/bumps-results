@@ -1,0 +1,20 @@
+MAYS 1836 February March
+ 4  1  17   = NDay, NDiv, NCrew
+ 17  Men's Div I
+2nd Trinity (Queen Bess)   -1   0   0   0
+1st Trinity (Black Prince)   1   0   0   0
+Magdalene                   0  -1  -1  -1
+3rd Trinity (Dolphin)      -1  -1  -1  -1
+Trinity Hall                1   1   0  -1
+Caius                       0   1   1   1
+Queens'                    -1  -1  -1  -1
+Jesus                       1   0   1   1
+Clare                       0   1   0  -1
+Corpus Christi              0  -1   0   1
+2nd Trinity II             -1   0  -1   0
+LMBC                        1   1   1   2
+Pembroke                    0   0   1   0
+LMBC II                     0   0  -1   0
+1st Trinity II             -1  -1   0   0
+Christ's                    1   0   1   0
+3rd Trinity II              0   1   0   0

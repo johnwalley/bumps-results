@@ -1,0 +1,50 @@
+MAYS 1886 February March
+ 4  3  45   = NDay, NDiv, NCrew
+ 14  Men's Div I
+Jesus                       0   0   0   0
+Trinity Hall                0   0   0   0
+3rd Trinity                 0   0   0   0
+Pembroke                    0   0   0   0
+1st Trinity                 0   0   0   0
+Caius                       0   0   0   0
+LMBC                        0   0   0   0
+1st Trinity II              0   0   0   0
+Clare                       0   0   0   0
+Trinity Hall II             0   0   0   0
+Christ's                    0   0   0   0
+Trinity Hall III            0   0   0   0
+Jesus II                    0   0   0   0
+Selwyn                      0   0   0   0
+ 15  Men's Div II
+1st Trinity III             0  -1   0  -1
+LMBC II                     0   1   0   0
+Peterhouse                  0   0  -1  -1
+Magdalene                   0  -1  -1  -1
+Caius II                   -1  -1  -1  -1
+Emmanuel                    1   1   1   1
+Downing                    -1  -1  -1   0
+Corpus Christi              1   1   1   1
+1st Trinity IV              0   1   1   1
+Cavendish                   0  -1  -1  -1
+3rd Trinity II             -1   0   1   0
+Pembroke II                 1   1   1   1
+King's                      0   0  -1  -1
+Queens'                     0  -1  -1  -1
+St Catharine's             -1  -1  -1  -1
+ 16  Men's Div III
+Trinity Hall IV             1   1   1   1
+LMBC III                   -1  -1  -1   0
+Pembroke III                1   1   1   1
+Sidney Sussex              -1  -1  -1  -1
+Trinity Hall V              1   1   1   1
+1st Trinity V               0   1   1   1
+Jesus III                  -1   0   0   1
+1st Trinity VI              1   0   1   0
+Jesus IV                    0   0   0   0
+Caius III                   0   0   0  -1
+Christ's II                 0   0  -1  -1
+LMBC IV                     0  -1  -1  -1
+Trinity Hall VI            -1  -1   0   1
+Clare II                    1   1   1   1
+Pembroke IV                 0   1   1   1
+Non-Collegiate              0   0   0   0

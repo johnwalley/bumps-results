@@ -1,0 +1,11 @@
+MAYS 1827 February March
+ 15  1  8   = NDay, NDiv, NCrew
+ 8  Men's Div I
+Trinity Monarch            -1   1  -1   0   0   1  -1   0   0   0   0  -1  -1   0   0
+Trinity King Edward         1  -1   1   0   0  -1   1   0   0   0   0   0   0   0   0
+LMBC                        0   0   0   0   0   0  -1   1   0   0   0   1   0  -1   1
+Jesus                       0   0   0  -1   0   0   0  -1   1   1   0   0   1   1  -1
+Caius                       0   0   0   1   0   0   1  -1  -3   0   1   0   0   1   0
+                            0   0   0   0   0   0  -1   0   0   0   1   0   0   1   0
+                            0   0   0   0   0   0   1   1  -1   0  -1   0   0   1   0
+Trinity Westminster         0   0   0   0   0   0   0   0   4  -1   0   0   0   1   0

@@ -1,0 +1,45 @@
+MAYS 1874 March
+ 4  3  40   = NDay, NDiv, NCrew
+ 14  Men's Div I
+1st Trinity                 0   0   0   0
+LMBC                        0   0   0   0
+Jesus                       0   0   0   0
+1st Trinity II              0   0   0   0
+3rd Trinity                 0   0   0   0
+Corpus Christi              0   0   0   0
+2nd Trinity                 0   0   0   0
+Trinity Hall                0   0   0   0
+King's                      0   0   0   0
+Emmanuel                    0   0   0   0
+Caius                       0   0   0   0
+Sidney Sussex               0   0   0   0
+1st Trinity III             0   0   0   0
+St Catharine's              0   0   0   0
+ 15  Men's Div II
+Christ's                    0   0   0   0
+Queens'                     0  -1  -1  -1
+Clare                       0   1   0  -1
+Caius II                   -1  -1   0  -1
+LMBC II                     1   0   1   1
+Trinity Hall II            -1   0  -1  -1
+1st Trinity IV              1   1   0   1
+Pembroke                    0  -1   0   1
+Corpus Christi II          -1  -1   0   0
+Jesus II                    1   1   1   1
+3rd Trinity II              0   1   0   0
+Peterhouse                  0   0   0  -1
+Downing                    -1  -1  -1   0
+Trinity Hall III            1   0  -1  -1
+LMBC III                   -1   0   1   1
+ 11  Men's Div III
+Magdalene                  -3   1   0  -1
+Sidney Sussex II           -1  -1  -1  -1
+St. John's                  1   0   0   0
+1st Trinity V               4   1   1   1
+2nd Trinity II             -1   0  -1   0
+1st Trinity VI              1   0   1   1
+Clare II                   -1  -1  -1  -1
+Pembroke II                 1   0   1   1
+Christ's II                 0   1   0  -1
+Emmanuel II                 0   0   1   1
+LMBC IV                     0   0   0   1

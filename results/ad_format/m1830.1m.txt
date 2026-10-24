@@ -1,0 +1,12 @@
+MAYS 1830 February March
+ 7  1  9   = NDay, NDiv, NCrew
+ 9  Men's Div I
+LMBC                       -1  -1   1   1   0   0   0
+2nd Trinity                 1   0   0  -1  -1   1   0
+Trinity Monarch             0   1  -1   0   1  -1   0
+Corpus Christi              0   0   0  -1   1  -1   0
+Magdalene                   0   0  -1   0   1   1   0
+Jesus                       0   1  -1   0   1   1   0
+                            0   1   1   1   0  -1   0
+LMBC II                     0   1   0   0   1   0   1
+                            0   1   0   0   1   0   1
