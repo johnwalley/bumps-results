@@ -1,0 +1,13 @@
+MAYS 1829 February March April
+ 11  1  10   = NDay, NDiv, NCrew
+ 10  Men's Div I
+LMBC                       -1   0   0   1   0   0   0   0   0   0   0
+Peterhouse                  1   0   0   0   0   0   0   0   0   0   0
+Corpus Christi             -1   0  -1   1   0  -1   0  -1   0   1   0
+2nd Trinity                 1   0   0   0   0   1   0   0   0   0  -1
+Trinity Monarch             0   0   1   2   0  -1  -1   1   0  -1   0
+Jesus                       0   0   0   1   0   1   1  -1  -1  -1  -1
+                            0   0   0   1   0   0  -1  -1   1   0   1
+                            0   0   0   1   0   0   1   1   1   1   1
+                            0   0   0   1   0   0   0   1  -1   0  -1
+LMBC II                     0   0   0   1   0   0   0   0   0   0   1

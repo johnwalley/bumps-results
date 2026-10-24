@@ -1,0 +1,35 @@
+MAYS 1856 February
+ 3  2  31   = NDay, NDiv, NCrew
+ 15  Men's Div I
+LMBC                        0   0   0
+Trinity Hall                0   0   0
+Emmanuel                    0   0   0
+1st Trinity                 0   0   0
+Christ's                    0   0   0
+Caius                       0   0   0
+Queens'                     0   0   0
+Sidney Sussex               0   0   0
+Corpus Christi              0   0   0
+2nd Trinity                 0   0   0
+3rd Trinity                 0   0   0
+St Catharine's              0   0   0
+1st Trinity II              0   0   0
+King's                      0   0   0
+Emmanuel II                 0   0   0
+ 16  Men's Div II
+Trinity Hall II             0   0  -1
+3rd Trinity II             -1   1   1
+LMBC II                     1  -1  -1
+Emmanuel III                0   0   1
+Peterhouse                 -1  -1   0
+Magdalene                   1   0   0
+Clare                       0   1   0
+Jesus                       0  -1  -1
+LMBC III                   -1  -1  -1
+Christ's II                 1   1   0
+1st Trinity III             0   1   1
+2nd Trinity II              0   0   1
+Caius II                   -1   0   0
+LMBC IV                     1   0   0
+Trinity Hall III           -1   0   0
+Pembroke                    1   0   0

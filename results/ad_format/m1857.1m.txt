@@ -1,0 +1,40 @@
+MAYS 1857 March
+ 3  2  36   = NDay, NDiv, NCrew
+ 16  Men's Div I
+LMBC                        0   0   0
+Trinity Hall               -1  -1   0
+2nd Trinity                 1   0  -1
+1st Trinity                 0   1   1
+3rd Trinity                 0   0   0
+1st Trinity II             -1   0   0
+Emmanuel                    1   0   0
+Sidney Sussex               0   0   0
+Christ's                    0  -1  -1
+St Catharine's              0   1   0
+3rd Trinity II              0  -1  -1
+Clare                      -1  -1  -1
+Caius                       1   1   1
+Emmanuel II                 0   1   1
+Corpus Christi             -2  -1  -1
+Magdalene                   1   0   1
+ 20  Men's Div II
+Peterhouse                  1   0   0
+Trinity Hall II            -1   0   1
+2nd Trinity II              1   1   0
+Emmanuel III               -1   0  -1
+Christ's II                 1   0   0
+LMBC II                     0  -1  -1
+Pembroke                   -3   1   0
+1st Trinity III            -1  -1  -1
+LMBC III                    1   0   1
+Jesus                       3   1   1
+Trinity Hall III           -1  -1   1
+Lady Somerset               1   0   1
+2nd Trinity III            -1  -1   0
+Ancient Mariner             1   1  -1
+Caius II                    0   1   0
+1st Trinity IV              0   0   0
+Peterhouse II               0  -1   1
+Emmanuel IV                 0   1  -1
+2nd Trinity IV              0  -1   0
+Lady Somerset II            0   1   0

@@ -1,0 +1,37 @@
+MAYS 1847 February March
+ 4  2  33   = NDay, NDiv, NCrew
+ 23  Men's Div I
+1st Trinity                 0   0   0   0
+LMBC                        0   0   0   0
+3rd Trinity                -1   1   0   0
+Magdalene                   1  -1   0   0
+LMBC II                     0   0   0   0
+2nd Trinity                 0   0   0   0
+Corpus Christi              0   0   0   0
+1st Trinity II              0   0   0  -1
+Trinity Hall               -1  -1  -1  -1
+Emmanuel                    1   0  -1   0
+Caius                       0   1   1   1
+2nd Trinity II             -1   0  -1   0
+Sidney Sussex               1   0   1   0
+Christ's                    0  -1   0   0
+Queens'                    -1   0   0  -1
+Peterhouse                  1   1   1   1
+LMBC III                   -1  -1  -1   0
+Jesus                       1   0  -1  -1
+1st Trinity III             0   1   1   1
+Clare                      -1   0   0   0
+2nd Trinity III             1   0   1   1
+Clare II                   -1  -1  -1  -1
+Christ's II                 1   0   0   0
+ 10  Men's Div II
+Caius II                   -1  -1   0   1
+LMBC IV                     1   1   0  -1
+Peterhouse II              -1   0  -3   0
+Corpus Christi II           1   1   1   1
+Emmanuel II                 0   0  -1   0
+Queens' II                 -1  -1   0   0
+1st Trinity IV              1  -3  -1   0
+3rd Trinity II              0   1   3   0
+2nd Trinity IV              0   3   1   0
+Caius III                   0   0   1   0

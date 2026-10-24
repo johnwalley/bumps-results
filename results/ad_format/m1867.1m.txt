@@ -1,0 +1,44 @@
+MAYS 1867 March
+ 3  2  40   = NDay, NDiv, NCrew
+ 19  Men's Div I
+1st Trinity                 0   0   0
+3rd Trinity                 0   0   0
+Trinity Hall                0   0   0
+LMBC                        0   0   0
+Emmanuel                    0   0   0
+Pembroke                    0   0   0
+Corpus Christi              0   0   0
+Caius                       0   0   0
+Christ's                    0   0   0
+1st Trinity II              0   0   0
+Sidney Sussex               0   0   0
+2nd Trinity                 0   0   0
+Trinity Hall II             0   0   0
+Magdalene                   0   0   0
+1st Trinity III             0   0   0
+Jesus                       0   0   0
+Peterhouse                  0   0   0
+Clare                       0   0   0
+King's                      0   0   0
+ 21  Men's Div II
+LMBC II                     0   0   0
+Christ's II                 0   0  -1
+Corpus Christi II          -1  -1  -1
+3rd Trinity II              1   0   1
+St Catharine's             -3  -1  -1
+Queens'                    -1   0  -1
+Emmanuel II                 1   0   1
+1st Trinity IV              3   1   0
+LMBC III                   -1   0   1
+2nd Trinity II              1   1   1
+Caius II                   -1  -1  -1
+Jesus II                    1   0  -1
+Trinity Hall III            0   1   1
+Sidney Sussex II           -1   1   1
+Emmanuel III                1  -1  -1
+Pembroke II                -1  -1  -1
+1st Trinity V               1   0   1
+Clare II                    0   1   0
+1st Trinity VI              0   0   1
+LMBC IV                     0   0   0
+Downing                     0   0   0

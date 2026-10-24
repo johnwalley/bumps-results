@@ -1,0 +1,46 @@
+MAYS 1845 February
+ 4  2  42   = NDay, NDiv, NCrew
+ 27  Men's Div I
+Caius                       0  -1  -1  -1
+1st Trinity                 0   1   0   0
+2nd Trinity                 0   0   1   0
+3rd Trinity                 0   0  -1   0
+Magdalene                   0  -1   0   0
+1st Trinity II             -1  -1   1   0
+LMBC                        1   1   1   1
+Peterhouse                  0   1  -1  -1
+Jesus                       0  -1   0   0
+Pembroke                   -1  -1  -1  -1
+Corpus Christi              1   1   0   1
+2nd Trinity II              0   1   0   0
+1st Trinity III            -1  -1   0  -1
+Trinity Hall                1   0   1   0
+3rd Trinity II              0   1   0   1
+Caius II                   -1  -1   0  -1
+2nd Trinity III             1   0  -1   0
+LMBC II                     0   1   1   1
+Caius III                  -1  -1  -1  -1
+Emmanuel                    1   0  -1   0
+Christ's                    0   1   1   1
+St Catharine's             -1   1   1   0
+Magdalene II                1  -1  -1  -1
+Lady Somerset               0   0   1   1
+St Catharine's II           0   0  -1  -1
+Peterhouse II              -1  -1   0   0
+LMBC III                    1   0   1   1
+ 15  Men's Div II
+1st Trinity IV              0   1   0   1
+2nd Trinity IV              0  -1  -1   0
+Queens'                     0   1   0  -1
+Christ's II                 0   0   1   1
+1st Trinity V              -1  -1  -1  -1
+Corpus Christi II           1   0   0   0
+3rd Trinity III             0   1   0  -1
+Trinity Hall II            -3  -1   0   0
+2nd St. John's II          -1   0  -1  -1
+Sidney Sussex               1   1   1   1
+Pembroke II                 3  -1   0   1
+LMBC IV                     0   1   1   0
+Emmanuel II                 0  -1   0   1
+Clare                       0   1   0   2
+2nd Trinity V               0   0   0   0

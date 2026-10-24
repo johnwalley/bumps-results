@@ -1,0 +1,44 @@
+MAYS 1865 March
+ 3  2  40   = NDay, NDiv, NCrew
+ 20  Men's Div I
+Trinity Hall                0   0   0
+3rd Trinity                 0   0   0
+1st Trinity                 0   0   0
+LMBC                        0   0   0
+Emmanuel                    0   0   0
+1st Trinity II              0   0   0
+Corpus Christi              0   0   0
+Trinity Hall II             0   0   0
+Christ's                    0   0   0
+Caius                       0   0   0
+1st Trinity III             0   0   0
+Pembroke                    0   0   0
+LMBC II                     0   0   0
+Clare                       0   0   0
+Magdalene                   0   0   0
+Jesus                       0   0   0
+2nd Trinity                 0   0   0
+Emmanuel II                 0   0   0
+Peterhouse                  0   0   0
+King's                      0   0   0
+ 20  Men's Div II
+1st Trinity IV              0   0   0
+Caius II                    0  -1  -1
+Christ's II                -1  -1  -1
+Sidney Sussex               1   1   0
+St Catharine's              0   1   1
+LMBC III                   -1   1   1
+Corpus Christi II           1  -1   0
+Queens'                     0   0  -1
+Jesus II                   -1  -1  -1
+Trinity Hall III            1   0   1
+1st Trinity V              -1  -1  -1
+Clare II                    1   1   0
+Emmanuel III                0   1   1
+LMBC IV                    -1   0   0
+3rd Trinity II              1   0   1
+2nd Trinity II             -3   1   1
+Magdalene II               -1  -1   0
+Pembroke II                 1   0  -1
+1st Trinity VI              3   0   0
+Downing                     0   0   1

@@ -1,0 +1,25 @@
+MAYS 1837 February March
+ 4  1  22   = NDay, NDiv, NCrew
+ 22  Men's Div I
+Corpus Christi              0   0  -1   0
+Caius                       0  -1  -1   0
+1st Trinity (Black Prince)  -1   0   1   0
+LMBC                        1   1   1   0
+2nd Trinity (Queen Bess)    0   0   0   0
+Jesus                       0   0   0  -1
+Queens'                     0   0   0   1
+Trinity Hall                0   0  -1   0
+Emmanuel                    0  -5  -1   1
+Christ's                    0  -1  -1  -1
+Corpus Christi II          -1  -1  -1  -1
+1st Trinity II              1   1   0   0
+LMBC II                     0   1   1   0
+3rd Trinity (Dolphin)       0   5   1   0
+Caius II                   -1  -1   0   0
+Clare                       1   0   2   1
+Pembroke                    0   1   0   0
+Magdalene                   0   0   0   0
+3rd Trinity II             -1   0   0   0
+2nd Trinity II              1   0   0   0
+Christ's II                -1   0   0   0
+1st Trinity III             1   0   0   0

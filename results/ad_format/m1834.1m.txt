@@ -1,0 +1,20 @@
+MAYS 1834 February March
+ 5  2  16   = NDay, NDiv, NCrew
+ 8  Men's Div I
+Christ's                   -1   0   0  -1  -1
+Queens'                     1   0   0   0  -1
+1st Trinity (Black Prince)   0  -1   1   1   1
+Caius                      -1   0  -1  -1  -1
+2nd Trinity (Queen Bess)    1   1  -1   0   1
+Magdalene                  -1  -1   0   0  -1
+LMBC                        1   0   1   0  -1
+Jesus                      -1   0  -1   0  -1
+ 8  Men's Div II
+3rd Trinity (Dolphin)       1   1   0   1   1
+St Catharine's              0  -1   0  -1  -1
+LMBC II                    -1   0  -1   0   1
+Clare                       1   1   1   0   2
+Corpus Christi              0   0   1   1   1
+Trinity Hall                0   0   0  -1  -1
+                            0   0   0   1   0
+1st Trinity II              0   0   0   0   1
